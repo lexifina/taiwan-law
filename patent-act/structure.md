@@ -1,8 +1,7 @@
 專利法
-中華民國75年12月24日公布（修正）
+中華民國83年1月21日公布（全文修正）
 
-# 第一章 發明
-## 第一節 通則
+# 第一章 總則
 - 第 1 條: article/1.md
 - 第 2 條: article/2.md
 - 第 3 條: article/3.md
@@ -14,7 +13,6 @@
 - 第 9 條: article/9.md
 - 第 10 條: article/10.md
 - 第 11 條: article/11.md
-## 第二節 申請
 - 第 12 條: article/12.md
 - 第 13 條: article/13.md
 - 第 14 條: article/14.md
@@ -22,15 +20,17 @@
 - 第 16 條: article/16.md
 - 第 17 條: article/17.md
 - 第 18 條: article/18.md
+# 第二章 發明專利
+## 第一節 專利要件
 - 第 19 條: article/19.md
 - 第 20 條: article/20.md
 - 第 21 條: article/21.md
+## 第二節 申請
 - 第 22 條: article/22.md
 - 第 23 條: article/23.md
 - 第 24 條: article/24.md
 - 第 25 條: article/25.md
 - 第 26 條: article/26.md
-## 第三節 審查及再審查
 - 第 27 條: article/27.md
 - 第 28 條: article/28.md
 - 第 29 條: article/29.md
@@ -40,22 +40,22 @@
 - 第 33 條: article/33.md
 - 第 34 條: article/34.md
 - 第 35 條: article/35.md
+## 第三節 審查及再審查
 - 第 36 條: article/36.md
 - 第 37 條: article/37.md
 - 第 38 條: article/38.md
 - 第 39 條: article/39.md
 - 第 40 條: article/40.md
 - 第 41 條: article/41.md
-## 第四節 專利權
 - 第 42 條: article/42.md
 - 第 43 條: article/43.md
-- 第 43-1 條: article/43-1.md
 - 第 44 條: article/44.md
 - 第 45 條: article/45.md
 - 第 46 條: article/46.md
 - 第 47 條: article/47.md
 - 第 48 條: article/48.md
 - 第 49 條: article/49.md
+## 第四節 專利權
 - 第 50 條: article/50.md
 - 第 51 條: article/51.md
 - 第 52 條: article/52.md
@@ -73,7 +73,6 @@
 - 第 64 條: article/64.md
 - 第 65 條: article/65.md
 - 第 66 條: article/66.md
-## 第五節 實施
 - 第 67 條: article/67.md
 - 第 68 條: article/68.md
 - 第 69 條: article/69.md
@@ -82,35 +81,32 @@
 - 第 72 條: article/72.md
 - 第 73 條: article/73.md
 - 第 74 條: article/74.md
-## 第六節 納費
 - 第 75 條: article/75.md
 - 第 76 條: article/76.md
 - 第 77 條: article/77.md
+## 第五節 實施
 - 第 78 條: article/78.md
 - 第 79 條: article/79.md
 - 第 80 條: article/80.md
-## 第七節 損害賠償及訴訟
 - 第 81 條: article/81.md
 - 第 82 條: article/82.md
 - 第 83 條: article/83.md
+## 第六節 納費
 - 第 84 條: article/84.md
 - 第 85 條: article/85.md
-- 第 85-1 條: article/85-1.md
 - 第 86 條: article/86.md
 - 第 87 條: article/87.md
+## 第七節 損害賠償及訴訟
 - 第 88 條: article/88.md
-## 第八節 罰則
-- 第 88-1 條: article/88-1.md
-- 第 88-2 條: article/88-2.md
 - 第 89 條: article/89.md
 - 第 90 條: article/90.md
 - 第 91 條: article/91.md
 - 第 92 條: article/92.md
 - 第 93 條: article/93.md
 - 第 94 條: article/94.md
-# 第二章 新型
 - 第 95 條: article/95.md
 - 第 96 條: article/96.md
+# 第三章 新型專利
 - 第 97 條: article/97.md
 - 第 98 條: article/98.md
 - 第 99 條: article/99.md
@@ -120,12 +116,12 @@
 - 第 103 條: article/103.md
 - 第 104 條: article/104.md
 - 第 105 條: article/105.md
+# 第四章 新式樣專利
 - 第 106 條: article/106.md
 - 第 107 條: article/107.md
 - 第 108 條: article/108.md
 - 第 109 條: article/109.md
 - 第 110 條: article/110.md
-# 第三章 新式樣
 - 第 111 條: article/111.md
 - 第 112 條: article/112.md
 - 第 113 條: article/113.md
@@ -138,6 +134,7 @@
 - 第 120 條: article/120.md
 - 第 121 條: article/121.md
 - 第 122 條: article/122.md
+# 第五章 罰則
 - 第 123 條: article/123.md
 - 第 124 條: article/124.md
 - 第 125 條: article/125.md
@@ -145,8 +142,14 @@
 - 第 127 條: article/127.md
 - 第 128 條: article/128.md
 - 第 129 條: article/129.md
-# 第四章 附則
 - 第 130 條: article/130.md
 - 第 131 條: article/131.md
+# 第六章 附則
 - 第 132 條: article/132.md
 - 第 133 條: article/133.md
+- 第 134 條: article/134.md
+- 第 135 條: article/135.md
+- 第 136 條: article/136.md
+- 第 137 條: article/137.md
+- 第 138 條: article/138.md
+- 第 139 條: article/139.md
