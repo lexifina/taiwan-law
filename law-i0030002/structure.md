@@ -1,5 +1,5 @@
 保安處分執行法
-中華民國84年1月18日公布（修正）
+中華民國91年6月5日公布（修正）
 
 # 第一章 通則
 - 第 1 條: article/1.md
@@ -62,9 +62,12 @@
 - 第 52 條: article/52.md
 - 第 53 條: article/53.md
 - 第 54 條: article/54.md
+- 第 54-1 條: article/54-1.md
 - 第 55 條: article/55.md
 - 第 56 條: article/56.md
+- 第 56-1 條: article/56-1.md
 - 第 57 條: article/57.md
+- 第 57-1 條: article/57-1.md
 - 第 58 條: article/58.md
 - 第 59 條: article/59.md
 - 第 60 條: article/60.md
