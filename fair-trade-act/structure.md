@@ -1,5 +1,5 @@
 公平交易法
-中華民國80年2月4日公布（制定）
+中華民國88年2月3日公布（修正）
 
 # 第一章 總則
 - 第 1 條: article/1.md
@@ -27,6 +27,10 @@
 - 第 21 條: article/21.md
 - 第 22 條: article/22.md
 - 第 23 條: article/23.md
+- 第 23-1 條: article/23-1.md
+- 第 23-2 條: article/23-2.md
+- 第 23-3 條: article/23-3.md
+- 第 23-4 條: article/23-4.md
 - 第 24 條: article/24.md
 # 第四章 公平交易委員會
 - 第 25 條: article/25.md
