@@ -1,14 +1,14 @@
 破產法
-修正日期：民國 107 年 06 月 13 日
+中華民國24年7月17日公布（制定）
 
-## 第 一 章 總則
+# 第一章 總則
 - 第 1 條: article/1.md
 - 第 2 條: article/2.md
 - 第 3 條: article/3.md
 - 第 4 條: article/4.md
 - 第 5 條: article/5.md
-## 第 二 章 和解
-### 第 一 節 法院之和解
+# 第二章 和解
+## 第一節 法院之和解
 - 第 6 條: article/6.md
 - 第 7 條: article/7.md
 - 第 8 條: article/8.md
@@ -44,7 +44,7 @@
 - 第 38 條: article/38.md
 - 第 39 條: article/39.md
 - 第 40 條: article/40.md
-### 第 二 節 商會之和解
+## 第二節 商會之和解
 - 第 41 條: article/41.md
 - 第 42 條: article/42.md
 - 第 43 條: article/43.md
@@ -54,7 +54,7 @@
 - 第 47 條: article/47.md
 - 第 48 條: article/48.md
 - 第 49 條: article/49.md
-### 第 三 節 和解及和解讓步之撤銷
+## 第三節 和解及和解讓步之撤銷
 - 第 50 條: article/50.md
 - 第 51 條: article/51.md
 - 第 52 條: article/52.md
@@ -62,8 +62,8 @@
 - 第 54 條: article/54.md
 - 第 55 條: article/55.md
 - 第 56 條: article/56.md
-## 第 三 章 破產
-### 第 一 節 破產之宣告及效力
+# 第三章 破產
+## 第一節 破產之宣告及效力
 - 第 57 條: article/57.md
 - 第 58 條: article/58.md
 - 第 59 條: article/59.md
@@ -81,7 +81,6 @@
 - 第 71 條: article/71.md
 - 第 72 條: article/72.md
 - 第 73 條: article/73.md
-- 第 73-1 條: article/73-1.md
 - 第 74 條: article/74.md
 - 第 75 條: article/75.md
 - 第 76 條: article/76.md
@@ -90,7 +89,7 @@
 - 第 79 條: article/79.md
 - 第 80 條: article/80.md
 - 第 81 條: article/81.md
-### 第 二 節 破產財團之構成及管理
+## 第二節 破產財團之構成及管理
 - 第 82 條: article/82.md
 - 第 83 條: article/83.md
 - 第 84 條: article/84.md
@@ -107,7 +106,7 @@
 - 第 95 條: article/95.md
 - 第 96 條: article/96.md
 - 第 97 條: article/97.md
-### 第 三 節 破產債權
+## 第三節 破產債權
 - 第 98 條: article/98.md
 - 第 99 條: article/99.md
 - 第 100 條: article/100.md
@@ -126,7 +125,7 @@
 - 第 113 條: article/113.md
 - 第 114 條: article/114.md
 - 第 115 條: article/115.md
-### 第 四 節 債權人會議
+## 第四節 債權人會議
 - 第 116 條: article/116.md
 - 第 117 條: article/117.md
 - 第 118 條: article/118.md
@@ -140,7 +139,7 @@
 - 第 126 條: article/126.md
 - 第 127 條: article/127.md
 - 第 128 條: article/128.md
-### 第 五 節 調協
+## 第五節 調協
 - 第 129 條: article/129.md
 - 第 130 條: article/130.md
 - 第 131 條: article/131.md
@@ -150,7 +149,7 @@
 - 第 135 條: article/135.md
 - 第 136 條: article/136.md
 - 第 137 條: article/137.md
-### 第 六 節 破產財團之分配及破產之終結
+## 第六節 破產財團之分配及破產之終結
 - 第 138 條: article/138.md
 - 第 139 條: article/139.md
 - 第 140 條: article/140.md
@@ -163,10 +162,10 @@
 - 第 147 條: article/147.md
 - 第 148 條: article/148.md
 - 第 149 條: article/149.md
-### 第 七 節 復權
+## 第七節 復權
 - 第 150 條: article/150.md
 - 第 151 條: article/151.md
-## 第 四 章 罰則
+# 第四章 罰則
 - 第 152 條: article/152.md
 - 第 153 條: article/153.md
 - 第 154 條: article/154.md
