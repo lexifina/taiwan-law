@@ -1,5 +1,5 @@
 管理外匯條例
-修正日期：民國 98 年 04 月 29 日
+中華民國38年1月11日公布（制定）
 
 - 第 1 條: article/1.md
 - 第 2 條: article/2.md
@@ -7,7 +7,6 @@
 - 第 4 條: article/4.md
 - 第 5 條: article/5.md
 - 第 6 條: article/6.md
-- 第 6-1 條: article/6-1.md
 - 第 7 條: article/7.md
 - 第 8 條: article/8.md
 - 第 9 條: article/9.md
@@ -21,16 +20,6 @@
 - 第 17 條: article/17.md
 - 第 18 條: article/18.md
 - 第 19 條: article/19.md
-- 第 19-1 條: article/19-1.md
-- 第 19-2 條: article/19-2.md
-- 第 19-3 條: article/19-3.md
 - 第 20 條: article/20.md
 - 第 21 條: article/21.md
 - 第 22 條: article/22.md
-- 第 23 條: article/23.md
-- 第 24 條: article/24.md
-- 第 25 條: article/25.md
-- 第 26 條: article/26.md
-- 第 26-1 條: article/26-1.md
-- 第 27 條: article/27.md
-- 第 28 條: article/28.md
