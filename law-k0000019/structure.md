@@ -1,5 +1,5 @@
 交通部民用航空局組織條例
-中華民國36年5月10日公布（制定）
+中華民國61年1月6日公布（全文修正）
 
 - 第 1 條: article/1.md
 - 第 2 條: article/2.md
@@ -15,5 +15,3 @@
 - 第 12 條: article/12.md
 - 第 13 條: article/13.md
 - 第 14 條: article/14.md
-- 第 15 條: article/15.md
-- 第 16 條: article/16.md
