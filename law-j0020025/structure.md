@@ -1,32 +1,30 @@
 土石採取法
-修正日期：民國 115 年 08 月 05 日
+中華民國92年2月6日公布（制定）
 
-## 第 一 章 總則
+# 第一章 總則
 - 第 1 條: article/1.md
 - 第 2 條: article/2.md
 - 第 3 條: article/3.md
 - 第 4 條: article/4.md
-## 第 二 章 土石採取之許可
-### 第 一 節 申請許可之條件
+# 第二章 土石採取之許可
+## 第一節 申請許可之條件
 - 第 5 條: article/5.md
 - 第 6 條: article/6.md
 - 第 7 條: article/7.md
-- 第 7-1 條: article/7-1.md
-- 第 7-2 條: article/7-2.md
 - 第 8 條: article/8.md
 - 第 9 條: article/9.md
-### 第 二 節 申請書圖件
+## 第二節 申請書圖件
 - 第 10 條: article/10.md
 - 第 11 條: article/11.md
 - 第 12 條: article/12.md
-### 第 三 節 審核及登記
+## 第三節 審核及登記
 - 第 13 條: article/13.md
 - 第 14 條: article/14.md
 - 第 15 條: article/15.md
-### 第 四 節 展限
+## 第四節 展限
 - 第 16 條: article/16.md
 - 第 17 條: article/17.md
-### 第 五 節 開工、減區、更正及消滅
+## 第五節 開工、減區、更正及消滅
 - 第 18 條: article/18.md
 - 第 19 條: article/19.md
 - 第 20 條: article/20.md
@@ -38,16 +36,16 @@
 - 第 26 條: article/26.md
 - 第 27 條: article/27.md
 - 第 28 條: article/28.md
-## 第 三 章 土石採取場安全
+# 第三章 土石採取場安全
 - 第 29 條: article/29.md
 - 第 30 條: article/30.md
 - 第 31 條: article/31.md
-## 第 四 章 監督
+# 第四章 監督
 - 第 32 條: article/32.md
 - 第 33 條: article/33.md
 - 第 34 條: article/34.md
 - 第 35 條: article/35.md
-## 第 五 章 罰則
+# 第五章 罰則
 - 第 36 條: article/36.md
 - 第 37 條: article/37.md
 - 第 38 條: article/38.md
@@ -58,7 +56,7 @@
 - 第 43 條: article/43.md
 - 第 44 條: article/44.md
 - 第 45 條: article/45.md
-## 第 六 章 附則
+# 第六章 附則
 - 第 46 條: article/46.md
 - 第 47 條: article/47.md
 - 第 48 條: article/48.md
