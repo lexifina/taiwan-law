@@ -1,5 +1,5 @@
 公路法
-中華民國60年2月1日公布（全文修正）
+中華民國73年1月23日公布（全文修正）
 
 # 第一章 總則
 - 第 1 條: article/1.md
@@ -12,10 +12,10 @@
 - 第 8 條: article/8.md
 - 第 9 條: article/9.md
 - 第 10 條: article/10.md
+# 第二章 公路修建與養護
 - 第 11 條: article/11.md
 - 第 12 條: article/12.md
 - 第 13 條: article/13.md
-# 第二章 公路修建與養護
 - 第 14 條: article/14.md
 - 第 15 條: article/15.md
 - 第 16 條: article/16.md
@@ -36,10 +36,10 @@
 - 第 31 條: article/31.md
 - 第 32 條: article/32.md
 - 第 33 條: article/33.md
+# 第三章 公路運輸
 - 第 34 條: article/34.md
 - 第 35 條: article/35.md
 - 第 36 條: article/36.md
-# 第三章 公路運輸
 - 第 37 條: article/37.md
 - 第 38 條: article/38.md
 - 第 39 條: article/39.md
@@ -59,9 +59,9 @@
 - 第 53 條: article/53.md
 - 第 54 條: article/54.md
 - 第 55 條: article/55.md
-# 第四章 安全管理
 - 第 56 條: article/56.md
 - 第 57 條: article/57.md
+# 第四章 安全管理
 - 第 58 條: article/58.md
 - 第 59 條: article/59.md
 - 第 60 條: article/60.md
@@ -70,12 +70,21 @@
 - 第 63 條: article/63.md
 - 第 64 條: article/64.md
 - 第 65 條: article/65.md
-# 第五章 罰則
 - 第 66 條: article/66.md
 - 第 67 條: article/67.md
+# 第五章 獎勵與處罰
 - 第 68 條: article/68.md
 - 第 69 條: article/69.md
 - 第 70 條: article/70.md
 - 第 71 條: article/71.md
-# 第六章 附則
 - 第 72 條: article/72.md
+- 第 73 條: article/73.md
+- 第 74 條: article/74.md
+- 第 75 條: article/75.md
+- 第 76 條: article/76.md
+- 第 77 條: article/77.md
+- 第 78 條: article/78.md
+# 第六章 附則
+- 第 79 條: article/79.md
+- 第 80 條: article/80.md
+- 第 81 條: article/81.md
