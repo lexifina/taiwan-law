@@ -1,5 +1,5 @@
 專利法
-中華民國86年5月7日公布（修正）
+中華民國90年10月24日公布（修正）
 
 # 第一章 總則
 - 第 1 條: article/1.md
@@ -20,16 +20,19 @@
 - 第 16 條: article/16.md
 - 第 17 條: article/17.md
 - 第 18 條: article/18.md
+- 第 18-1 條: article/18-1.md
 # 第二章 發明專利
 ## 第一節 專利要件
 - 第 19 條: article/19.md
 - 第 20 條: article/20.md
+- 第 20-1 條: article/20-1.md
 - 第 21 條: article/21.md
 ## 第二節 申請
 - 第 22 條: article/22.md
 - 第 23 條: article/23.md
 - 第 24 條: article/24.md
 - 第 25 條: article/25.md
+- 第 25-1 條: article/25-1.md
 - 第 26 條: article/26.md
 - 第 27 條: article/27.md
 - 第 28 條: article/28.md
@@ -42,6 +45,12 @@
 - 第 35 條: article/35.md
 ## 第三節 審查及再審查
 - 第 36 條: article/36.md
+- 第 36-1 條: article/36-1.md
+- 第 36-2 條: article/36-2.md
+- 第 36-3 條: article/36-3.md
+- 第 36-4 條: article/36-4.md
+- 第 36-5 條: article/36-5.md
+- 第 36-6 條: article/36-6.md
 - 第 37 條: article/37.md
 - 第 38 條: article/38.md
 - 第 39 條: article/39.md
@@ -50,6 +59,7 @@
 - 第 42 條: article/42.md
 - 第 43 條: article/43.md
 - 第 44 條: article/44.md
+- 第 44-1 條: article/44-1.md
 - 第 45 條: article/45.md
 - 第 46 條: article/46.md
 - 第 47 條: article/47.md
@@ -109,16 +119,20 @@
 # 第三章 新型專利
 - 第 97 條: article/97.md
 - 第 98 條: article/98.md
+- 第 98-1 條: article/98-1.md
 - 第 99 條: article/99.md
 - 第 100 條: article/100.md
 - 第 101 條: article/101.md
 - 第 102 條: article/102.md
+- 第 102-1 條: article/102-1.md
 - 第 103 條: article/103.md
 - 第 104 條: article/104.md
 - 第 105 條: article/105.md
+- 第 105-1 條: article/105-1.md
 # 第四章 新式樣專利
 - 第 106 條: article/106.md
 - 第 107 條: article/107.md
+- 第 107-1 條: article/107-1.md
 - 第 108 條: article/108.md
 - 第 109 條: article/109.md
 - 第 110 條: article/110.md
@@ -129,11 +143,14 @@
 - 第 115 條: article/115.md
 - 第 116 條: article/116.md
 - 第 117 條: article/117.md
+- 第 117-1 條: article/117-1.md
 - 第 118 條: article/118.md
+- 第 118-1 條: article/118-1.md
 - 第 119 條: article/119.md
 - 第 120 條: article/120.md
 - 第 121 條: article/121.md
 - 第 122 條: article/122.md
+- 第 122-1 條: article/122-1.md
 # 第五章 罰則
 - 第 123 條: article/123.md
 - 第 124 條: article/124.md
@@ -144,12 +161,14 @@
 - 第 129 條: article/129.md
 - 第 130 條: article/130.md
 - 第 131 條: article/131.md
+- 第 131-1 條: article/131-1.md
 # 第六章 附則
 - 第 132 條: article/132.md
 - 第 133 條: article/133.md
 - 第 134 條: article/134.md
 - 第 135 條: article/135.md
 - 第 136 條: article/136.md
+- 第 136-1 條: article/136-1.md
 - 第 137 條: article/137.md
 - 第 138 條: article/138.md
 - 第 139 條: article/139.md
