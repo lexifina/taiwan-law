@@ -1,5 +1,5 @@
 廣播電視法
-中華民國88年4月21日公布（修正）
+中華民國92年1月22日公布（修正）
 
 # 第一章 總則
 - 第 1 條: article/1.md
@@ -13,8 +13,12 @@
 - 第 8 條: article/8.md
 - 第 9 條: article/9.md
 - 第 10 條: article/10.md
+- 第 10-1 條: article/10-1.md
+- 第 10-2 條: article/10-2.md
 - 第 11 條: article/11.md
 - 第 12 條: article/12.md
+- 第 12-1 條: article/12-1.md
+- 第 12-2 條: article/12-2.md
 - 第 13 條: article/13.md
 - 第 14 條: article/14.md
 - 第 14-1 條: article/14-1.md
@@ -31,6 +35,7 @@
 - 第 24 條: article/24.md
 - 第 25 條: article/25.md
 - 第 26 條: article/26.md
+- 第 26-1 條: article/26-1.md
 - 第 27 條: article/27.md
 - 第 28 條: article/28.md
 - 第 29 條: article/29.md
@@ -53,6 +58,7 @@
 - 第 42 條: article/42.md
 - 第 43 條: article/43.md
 - 第 44 條: article/44.md
+- 第 44-1 條: article/44-1.md
 - 第 45 條: article/45.md
 - 第 45-1 條: article/45-1.md
 - 第 45-2 條: article/45-2.md
@@ -62,4 +68,5 @@
 - 第 49 條: article/49.md
 # 第七章 附則
 - 第 50 條: article/50.md
+- 第 50-1 條: article/50-1.md
 - 第 51 條: article/51.md
