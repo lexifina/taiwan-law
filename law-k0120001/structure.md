@@ -1,5 +1,5 @@
 大眾捷運法
-中華民國77年7月1日公布（制定）
+中華民國86年5月28日公布（修正）
 
 # 第一章 總則
 - 第 1 條: article/1.md
@@ -28,6 +28,8 @@
 - 第 22 條: article/22.md
 - 第 23 條: article/23.md
 - 第 24 條: article/24.md
+- 第 24-1 條: article/24-1.md
+- 第 24-2 條: article/24-2.md
 # 第四章 營運
 - 第 25 條: article/25.md
 - 第 26 條: article/26.md
@@ -37,6 +39,7 @@
 - 第 30 條: article/30.md
 - 第 31 條: article/31.md
 - 第 32 條: article/32.md
+- 第 32-1 條: article/32-1.md
 - 第 33 條: article/33.md
 # 第五章 監督
 - 第 34 條: article/34.md
@@ -44,6 +47,7 @@
 - 第 36 條: article/36.md
 - 第 37 條: article/37.md
 - 第 38 條: article/38.md
+- 第 38-1 條: article/38-1.md
 - 第 39 條: article/39.md
 # 第六章 安全
 - 第 40 條: article/40.md
@@ -58,7 +62,9 @@
 - 第 48 條: article/48.md
 - 第 49 條: article/49.md
 - 第 50 條: article/50.md
+- 第 50-1 條: article/50-1.md
 - 第 51 條: article/51.md
+- 第 51-1 條: article/51-1.md
 - 第 52 條: article/52.md
 # 第八章 附則
 - 第 53 條: article/53.md
