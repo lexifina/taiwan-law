@@ -1,5 +1,5 @@
 勞動基準法
-中華民國73年7月30日公布（制定）
+中華民國85年12月27日公布（修正）
 
 # 第一章 總則
 - 第 1 條: article/1.md
@@ -35,6 +35,7 @@
 - 第 29 條: article/29.md
 # 第四章 工作時間、休息、休假
 - 第 30 條: article/30.md
+- 第 30-1 條: article/30-1.md
 - 第 31 條: article/31.md
 - 第 32 條: article/32.md
 - 第 33 條: article/33.md
@@ -97,5 +98,7 @@
 # 第十二章 附則
 - 第 83 條: article/83.md
 - 第 84 條: article/84.md
+- 第 84-1 條: article/84-1.md
+- 第 84-2 條: article/84-2.md
 - 第 85 條: article/85.md
 - 第 86 條: article/86.md
