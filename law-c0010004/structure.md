@@ -1,5 +1,5 @@
-捕獲法院條例
-中華民國21年12月15日公布（制定）
+海上捕獲法庭審判條例
+中華民國44年6月3日公布（全文修正）
 
 # 第一章 通則
 - 第 1 條: article/1.md
@@ -12,10 +12,11 @@
 - 第 8 條: article/8.md
 - 第 9 條: article/9.md
 - 第 10 條: article/10.md
+# 第二章 捕獲之送審程序
 - 第 11 條: article/11.md
-# 第二章 檢審程序
 - 第 12 條: article/12.md
 - 第 13 條: article/13.md
+# 第三章 檢審程序
 - 第 14 條: article/14.md
 - 第 15 條: article/15.md
 - 第 16 條: article/16.md
@@ -39,5 +40,9 @@
 - 第 34 條: article/34.md
 - 第 35 條: article/35.md
 - 第 36 條: article/36.md
-# 第三章 附則
 - 第 37 條: article/37.md
+- 第 38 條: article/38.md
+- 第 39 條: article/39.md
+- 第 40 條: article/40.md
+# 第四章 附則
+- 第 41 條: article/41.md
