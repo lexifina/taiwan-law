@@ -1,5 +1,5 @@
 專門職業及技術人員轉任公務人員條例
-修正日期：民國 111 年 12 月 28 日
+中華民國82年8月4日公布（制定）
 
 - 第 1 條: article/1.md
 - 第 2 條: article/2.md
@@ -12,7 +12,3 @@
 - 第 9 條: article/9.md
 - 第 10 條: article/10.md
 - 第 11 條: article/11.md
-- 第 12 條: article/12.md
-- 第 13 條: article/13.md
-- 第 14 條: article/14.md
-- 第 15 條: article/15.md
