@@ -1,5 +1,5 @@
-審計處室組織條例
-中華民國38年5月27日公布（制定）
+審計處室組織通則
+中華民國64年5月30日公布（全文修正）
 
 - 第 1 條: article/1.md
 - 第 2 條: article/2.md
@@ -12,3 +12,8 @@
 - 第 9 條: article/9.md
 - 第 10 條: article/10.md
 - 第 11 條: article/11.md
+- 第 12 條: article/12.md
+- 第 13 條: article/13.md
+- 第 14 條: article/14.md
+- 第 15 條: article/15.md
+- 第 16 條: article/16.md
