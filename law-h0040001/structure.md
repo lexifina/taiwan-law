@@ -1,13 +1,11 @@
 專科學校法
-中華民國92年1月15日公布（修正）
+中華民國93年1月14日公布（全文修正）
 
 - 第 1 條: article/1.md
 - 第 2 條: article/2.md
 - 第 3 條: article/3.md
-- 第 3-1 條: article/3-1.md
 - 第 4 條: article/4.md
 - 第 5 條: article/5.md
-- 第 5-1 條: article/5-1.md
 - 第 6 條: article/6.md
 - 第 7 條: article/7.md
 - 第 8 條: article/8.md
@@ -26,21 +24,20 @@
 - 第 21 條: article/21.md
 - 第 22 條: article/22.md
 - 第 23 條: article/23.md
-- 第 23-1 條: article/23-1.md
 - 第 24 條: article/24.md
 - 第 25 條: article/25.md
 - 第 26 條: article/26.md
-- 第 26-1 條: article/26-1.md
-- 第 26-2 條: article/26-2.md
 - 第 27 條: article/27.md
-- 第 27-1 條: article/27-1.md
-- 第 27-2 條: article/27-2.md
 - 第 28 條: article/28.md
 - 第 29 條: article/29.md
 - 第 30 條: article/30.md
-- 第 30-1 條: article/30-1.md
-- 第 30-2 條: article/30-2.md
 - 第 31 條: article/31.md
 - 第 32 條: article/32.md
 - 第 33 條: article/33.md
 - 第 34 條: article/34.md
+- 第 35 條: article/35.md
+- 第 36 條: article/36.md
+- 第 37 條: article/37.md
+- 第 38 條: article/38.md
+- 第 39 條: article/39.md
+- 第 40 條: article/40.md
