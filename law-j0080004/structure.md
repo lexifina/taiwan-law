@@ -1,5 +1,5 @@
 商業登記法
-修正日期：民國 114 年 12 月 26 日
+中華民國26年6月28日公布（制定）
 
 - 第 1 條: article/1.md
 - 第 2 條: article/2.md
@@ -10,7 +10,6 @@
 - 第 7 條: article/7.md
 - 第 8 條: article/8.md
 - 第 9 條: article/9.md
-- 第 9-1 條: article/9-1.md
 - 第 10 條: article/10.md
 - 第 11 條: article/11.md
 - 第 12 條: article/12.md
@@ -31,11 +30,3 @@
 - 第 27 條: article/27.md
 - 第 28 條: article/28.md
 - 第 29 條: article/29.md
-- 第 30 條: article/30.md
-- 第 31 條: article/31.md
-- 第 32 條: article/32.md
-- 第 33 條: article/33.md
-- 第 34 條: article/34.md
-- 第 35 條: article/35.md
-- 第 36 條: article/36.md
-- 第 37 條: article/37.md
