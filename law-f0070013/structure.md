@@ -1,13 +1,13 @@
 全民防衛動員準備法
-修正日期：民國 108 年 06 月 19 日
+中華民國90年11月14日公布（制定）
 
-## 第 一 章 總則
+# 第一章 總則
 - 第 1 條: article/1.md
 - 第 2 條: article/2.md
 - 第 3 條: article/3.md
 - 第 4 條: article/4.md
 - 第 5 條: article/5.md
-## 第 二 章 組織及權責
+# 第二章 組織及權責
 - 第 6 條: article/6.md
 - 第 7 條: article/7.md
 - 第 8 條: article/8.md
@@ -15,7 +15,7 @@
 - 第 10 條: article/10.md
 - 第 11 條: article/11.md
 - 第 12 條: article/12.md
-## 第 三 章 動員準備
+# 第三章 動員準備
 - 第 13 條: article/13.md
 - 第 14 條: article/14.md
 - 第 15 條: article/15.md
@@ -29,7 +29,7 @@
 - 第 23 條: article/23.md
 - 第 24 條: article/24.md
 - 第 25 條: article/25.md
-## 第 四 章 動員演習及徵購、徵用與補償
+# 第四章 動員演習及徵購、徵用與補償
 - 第 26 條: article/26.md
 - 第 27 條: article/27.md
 - 第 28 條: article/28.md
@@ -44,13 +44,13 @@
 - 第 37 條: article/37.md
 - 第 38 條: article/38.md
 - 第 39 條: article/39.md
-## 第 五 章 獎勵與罰則
+# 第五章 獎勵與罰則
 - 第 40 條: article/40.md
 - 第 41 條: article/41.md
 - 第 42 條: article/42.md
 - 第 43 條: article/43.md
 - 第 44 條: article/44.md
-## 第 六 章 附則
+# 第六章 附則
 - 第 45 條: article/45.md
 - 第 46 條: article/46.md
 - 第 47 條: article/47.md
