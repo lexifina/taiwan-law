@@ -1,5 +1,5 @@
 國軍老舊眷村改建條例
-修正日期：民國 109 年 05 月 13 日
+中華民國85年2月5日公布（制定）
 
 - 第 1 條: article/1.md
 - 第 2 條: article/2.md
@@ -22,9 +22,7 @@
 - 第 19 條: article/19.md
 - 第 20 條: article/20.md
 - 第 21 條: article/21.md
-- 第 21-1 條: article/21-1.md
 - 第 22 條: article/22.md
-- 第 22-1 條: article/22-1.md
 - 第 23 條: article/23.md
 - 第 24 條: article/24.md
 - 第 25 條: article/25.md
