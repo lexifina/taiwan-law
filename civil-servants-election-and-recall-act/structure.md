@@ -1,5 +1,5 @@
 動員戡亂時期公職人員選舉罷免法
-中華民國72年7月8日公布（修正）
+中華民國78年2月3日公布（修正）
 
 # 第一章 總則
 - 第 1 條: article/1.md
@@ -42,6 +42,7 @@
 - 第 33 條: article/33.md
 - 第 34 條: article/34.md
 - 第 35 條: article/35.md
+- 第 35-1 條: article/35-1.md
 - 第 36 條: article/36.md
 - 第 37 條: article/37.md
 - 第 38 條: article/38.md
@@ -58,16 +59,20 @@
 - 第 45-1 條: article/45-1.md
 - 第 45-2 條: article/45-2.md
 - 第 45-3 條: article/45-3.md
+- 第 45-4 條: article/45-4.md
+- 第 45-5 條: article/45-5.md
 - 第 46 條: article/46.md
 - 第 47 條: article/47.md
 - 第 48 條: article/48.md
 - 第 49 條: article/49.md
 - 第 50 條: article/50.md
 - 第 51 條: article/51.md
+- 第 51-1 條: article/51-1.md
 - 第 52 條: article/52.md
 - 第 53 條: article/53.md
 - 第 54 條: article/54.md
 - 第 55 條: article/55.md
+- 第 55-1 條: article/55-1.md
 - 第 56 條: article/56.md
 ## 第七節 投票及開票
 - 第 57 條: article/57.md
@@ -119,6 +124,7 @@
 - 第 95 條: article/95.md
 - 第 95-1 條: article/95-1.md
 - 第 96 條: article/96.md
+- 第 96-1 條: article/96-1.md
 - 第 97 條: article/97.md
 - 第 97-1 條: article/97-1.md
 - 第 97-2 條: article/97-2.md
