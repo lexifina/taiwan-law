@@ -1,5 +1,5 @@
 國家情報工作法
-修正日期：民國 109 年 01 月 15 日
+中華民國94年2月5日公布（制定）
 
 - 第 1 條: article/1.md
 - 第 2 條: article/2.md
@@ -23,20 +23,14 @@
 - 第 20 條: article/20.md
 - 第 21 條: article/21.md
 - 第 22 條: article/22.md
-- 第 22-1 條: article/22-1.md
 - 第 23 條: article/23.md
 - 第 24 條: article/24.md
 - 第 25 條: article/25.md
-- 第 25-1 條: article/25-1.md
-- 第 25-2 條: article/25-2.md
 - 第 26 條: article/26.md
 - 第 27 條: article/27.md
 - 第 28 條: article/28.md
 - 第 29 條: article/29.md
 - 第 30 條: article/30.md
-- 第 30-1 條: article/30-1.md
-- 第 30-2 條: article/30-2.md
 - 第 31 條: article/31.md
 - 第 32 條: article/32.md
-- 第 32-1 條: article/32-1.md
 - 第 33 條: article/33.md
