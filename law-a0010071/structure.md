@@ -1,5 +1,5 @@
 監察院組織法
-中華民國81年11月4日公布（修正）
+中華民國87年1月7日公布（修正）
 
 - 第 1 條: article/1.md
 - 第 2 條: article/2.md
@@ -15,5 +15,6 @@
 - 第 11 條: article/11.md
 - 第 12 條: article/12.md
 - 第 13 條: article/13.md
+- 第 13-1 條: article/13-1.md
 - 第 14 條: article/14.md
 - 第 15 條: article/15.md
