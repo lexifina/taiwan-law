@@ -1,5 +1,5 @@
 身心障礙者保護法
-中華民國92年6月25日公布（修正）
+中華民國93年6月23日公布（修正）
 
 # 第一章 總則
 - 第 1 條: article/1.md
@@ -57,6 +57,7 @@
 - 第 49 條: article/49.md
 - 第 50 條: article/50.md
 - 第 51 條: article/51.md
+- 第 51-1 條: article/51-1.md
 - 第 52 條: article/52.md
 - 第 53 條: article/53.md
 - 第 54 條: article/54.md
@@ -74,6 +75,7 @@
 - 第 64 條: article/64.md
 - 第 64-1 條: article/64-1.md
 - 第 65 條: article/65.md
+- 第 65-1 條: article/65-1.md
 - 第 66 條: article/66.md
 - 第 67 條: article/67.md
 - 第 68 條: article/68.md
