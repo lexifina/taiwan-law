@@ -1,5 +1,5 @@
 行刑累進處遇條例
-中華民國46年1月7日公布（修正）
+中華民國64年5月12日公布（修正）
 
 # 第一章 總則
 - 第 1 條: article/1.md
@@ -33,6 +33,7 @@
 - 第 26 條: article/26.md
 - 第 27 條: article/27.md
 - 第 28 條: article/28.md
+- 第 28-1 條: article/28-1.md
 - 第 29 條: article/29.md
 - 第 30 條: article/30.md
 - 第 31 條: article/31.md
@@ -60,7 +61,7 @@
 - 第 51 條: article/51.md
 - 第 52 條: article/52.md
 - 第 53 條: article/53.md
-# 第七章 接見及發受書信
+# 第七章 接見及寄發書信
 - 第 54 條: article/54.md
 - 第 55 條: article/55.md
 - 第 56 條: article/56.md
@@ -88,5 +89,6 @@
 # 第十一章 假釋
 - 第 75 條: article/75.md
 - 第 76 條: article/76.md
+- 第 76-1 條: article/76-1.md
 # 第十二章 附則
 - 第 77 條: article/77.md
