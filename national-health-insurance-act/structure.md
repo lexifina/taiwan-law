@@ -1,5 +1,5 @@
 全民健康保險法
-中華民國83年8月9日公布（制定）
+中華民國83年10月3日公布（修正）
 
 # 第一章 總則
 - 第 1 條: article/1.md
@@ -14,6 +14,7 @@
 - 第 9 條: article/9.md
 - 第 10 條: article/10.md
 - 第 11 條: article/11.md
+- 第 11-1 條: article/11-1.md
 - 第 12 條: article/12.md
 - 第 13 條: article/13.md
 - 第 14 條: article/14.md
@@ -78,6 +79,7 @@
 - 第 68 條: article/68.md
 # 第八章 罰則
 - 第 69 條: article/69.md
+- 第 69-1 條: article/69-1.md
 - 第 70 條: article/70.md
 - 第 71 條: article/71.md
 - 第 72 條: article/72.md
