@@ -1,5 +1,5 @@
 公證法
-中華民國32年3月31日公布（制定）
+中華民國63年1月29日公布（全文修正）
 
 # 第一章 總則
 - 第 1 條: article/1.md
@@ -53,7 +53,23 @@
 - 第 47 條: article/47.md
 - 第 48 條: article/48.md
 - 第 49 條: article/49.md
-# 第四章 附則
+# 第四章 公證費用
 - 第 50 條: article/50.md
 - 第 51 條: article/51.md
 - 第 52 條: article/52.md
+- 第 53 條: article/53.md
+- 第 54 條: article/54.md
+- 第 55 條: article/55.md
+- 第 56 條: article/56.md
+- 第 57 條: article/57.md
+- 第 58 條: article/58.md
+- 第 59 條: article/59.md
+- 第 60 條: article/60.md
+- 第 61 條: article/61.md
+- 第 62 條: article/62.md
+- 第 63 條: article/63.md
+- 第 64 條: article/64.md
+- 第 65 條: article/65.md
+# 第五章 附則
+- 第 66 條: article/66.md
+- 第 67 條: article/67.md
