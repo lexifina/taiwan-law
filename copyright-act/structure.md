@@ -1,5 +1,5 @@
 著作權法
-中華民國90年11月12日公布（修正）
+中華民國92年7月9日公布（修正）
 
 # 第一章 總則
 - 第 1 條: article/1.md
@@ -37,8 +37,10 @@
 - 第 24 條: article/24.md
 - 第 25 條: article/25.md
 - 第 26 條: article/26.md
+- 第 26-1 條: article/26-1.md
 - 第 27 條: article/27.md
 - 第 28 條: article/28.md
+- 第 28-1 條: article/28-1.md
 - 第 29 條: article/29.md
 - 第 29-1 條: article/29-1.md
 ### 第二款 著作財產權之存續期間
@@ -77,6 +79,7 @@
 - 第 57 條: article/57.md
 - 第 58 條: article/58.md
 - 第 59 條: article/59.md
+- 第 59-1 條: article/59-1.md
 - 第 60 條: article/60.md
 - 第 61 條: article/61.md
 - 第 62 條: article/62.md
@@ -100,9 +103,15 @@
 # 第四章 製版權
 - 第 79 條: article/79.md
 - 第 80 條: article/80.md
+# 第四章之一 權利管理電子資訊
+- 第 80-1 條: article/80-1.md
 # 第五章 著作權仲介團體與著作權審議及調解委員會
 - 第 81 條: article/81.md
 - 第 82 條: article/82.md
+- 第 82-1 條: article/82-1.md
+- 第 82-2 條: article/82-2.md
+- 第 82-3 條: article/82-3.md
+- 第 82-4 條: article/82-4.md
 - 第 83 條: article/83.md
 # 第六章 權利侵害之救濟
 - 第 84 條: article/84.md
@@ -117,15 +126,20 @@
 - 第 90 條: article/90.md
 - 第 90-1 條: article/90-1.md
 - 第 90-2 條: article/90-2.md
+- 第 90-3 條: article/90-3.md
 # 第七章 罰則
 - 第 91 條: article/91.md
+- 第 91-1 條: article/91-1.md
 - 第 92 條: article/92.md
 - 第 93 條: article/93.md
 - 第 94 條: article/94.md
 - 第 95 條: article/95.md
 - 第 96 條: article/96.md
+- 第 96-1 條: article/96-1.md
+- 第 96-2 條: article/96-2.md
 - 第 97 條: article/97.md
 - 第 98 條: article/98.md
+- 第 98-1 條: article/98-1.md
 - 第 99 條: article/99.md
 - 第 100 條: article/100.md
 - 第 101 條: article/101.md
