@@ -1,5 +1,5 @@
 內政部組織法
-中華民國62年7月13日公布（全文修正）
+中華民國70年1月21日公布（全文修正）
 
 - 第 1 條: article/1.md
 - 第 2 條: article/2.md
@@ -23,3 +23,5 @@
 - 第 20 條: article/20.md
 - 第 21 條: article/21.md
 - 第 22 條: article/22.md
+- 第 23 條: article/23.md
+- 第 24 條: article/24.md
