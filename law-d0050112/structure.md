@@ -1,25 +1,19 @@
 合作社法
-修正日期：民國 104 年 06 月 03 日
+中華民國23年3月1日公布（制定）
 
-## 第 一 章 通則
+# 第一章 通則
 - 第 1 條: article/1.md
 - 第 2 條: article/2.md
-- 第 2-1 條: article/2-1.md
 - 第 3 條: article/3.md
-- 第 3-1 條: article/3-1.md
 - 第 4 條: article/4.md
 - 第 5 條: article/5.md
 - 第 6 條: article/6.md
+# 第二章 設立
 - 第 7 條: article/7.md
-- 第 7-1 條: article/7-1.md
-## 第 二 章 設立
 - 第 8 條: article/8.md
 - 第 9 條: article/9.md
-- 第 9-1 條: article/9-1.md
+# 第三章 社員社股及盈餘
 - 第 10 條: article/10.md
-- 第 10-1 條: article/10-1.md
-- 第 10-2 條: article/10-2.md
-## 第 三 章 社員社股及餘絀
 - 第 11 條: article/11.md
 - 第 12 條: article/12.md
 - 第 13 條: article/13.md
@@ -38,10 +32,10 @@
 - 第 26 條: article/26.md
 - 第 27 條: article/27.md
 - 第 28 條: article/28.md
+# 第四章 理事監事及事務員
 - 第 29 條: article/29.md
 - 第 30 條: article/30.md
 - 第 31 條: article/31.md
-## 第 四 章 理事、監事及其他職員
 - 第 32 條: article/32.md
 - 第 33 條: article/33.md
 - 第 34 條: article/34.md
@@ -51,29 +45,23 @@
 - 第 38 條: article/38.md
 - 第 39 條: article/39.md
 - 第 40 條: article/40.md
-- 第 40-1 條: article/40-1.md
 - 第 41 條: article/41.md
 - 第 42 條: article/42.md
+# 第五章 會議
 - 第 43 條: article/43.md
 - 第 44 條: article/44.md
-## 第 五 章 會議
 - 第 45 條: article/45.md
 - 第 46 條: article/46.md
 - 第 47 條: article/47.md
 - 第 48 條: article/48.md
 - 第 49 條: article/49.md
-- 第 49-1 條: article/49-1.md
 - 第 50 條: article/50.md
 - 第 51 條: article/51.md
 - 第 52 條: article/52.md
+# 第六章 解散及清算
 - 第 53 條: article/53.md
 - 第 54 條: article/54.md
-## 第 六 章 監督、解散及清算
-- 第 54-1 條: article/54-1.md
-- 第 54-2 條: article/54-2.md
-- 第 54-3 條: article/54-3.md
 - 第 55 條: article/55.md
-- 第 55-1 條: article/55-1.md
 - 第 56 條: article/56.md
 - 第 57 條: article/57.md
 - 第 58 條: article/58.md
@@ -82,25 +70,19 @@
 - 第 61 條: article/61.md
 - 第 62 條: article/62.md
 - 第 63 條: article/63.md
-- 第 63-1 條: article/63-1.md
 - 第 64 條: article/64.md
+# 第七章 合作社聯合社
 - 第 65 條: article/65.md
-## 第 七 章 合作社聯合社
 - 第 66 條: article/66.md
 - 第 67 條: article/67.md
 - 第 68 條: article/68.md
-- 第 68-1 條: article/68-1.md
 - 第 69 條: article/69.md
 - 第 70 條: article/70.md
 - 第 71 條: article/71.md
+# 第八章 罰則
 - 第 72 條: article/72.md
-## 第 八 章 罰則
 - 第 73 條: article/73.md
-- 第 73-1 條: article/73-1.md
+# 第九章 附則
 - 第 74 條: article/74.md
-- 第 74-1 條: article/74-1.md
-## 第 九 章 附則
 - 第 75 條: article/75.md
-- 第 75-1 條: article/75-1.md
 - 第 76 條: article/76.md
-- 第 77 條: article/77.md
