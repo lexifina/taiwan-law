@@ -1,5 +1,5 @@
 國民大會組織法
-中華民國86年5月2日公布（全文修正）
+中華民國91年5月17日公布（全文修正）
 
 - 第 1 條: article/1.md
 - 第 2 條: article/2.md
@@ -16,5 +16,3 @@
 - 第 13 條: article/13.md
 - 第 14 條: article/14.md
 - 第 15 條: article/15.md
-- 第 16 條: article/16.md
-- 第 17 條: article/17.md
