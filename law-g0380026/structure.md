@@ -1,5 +1,5 @@
 管理外匯條例
-中華民國75年5月14日公布（修正）
+中華民國76年6月26日公布（修正）
 
 - 第 1 條: article/1.md
 - 第 2 條: article/2.md
@@ -28,5 +28,6 @@
 - 第 24 條: article/24.md
 - 第 25 條: article/25.md
 - 第 26 條: article/26.md
+- 第 26-1 條: article/26-1.md
 - 第 27 條: article/27.md
 - 第 28 條: article/28.md
