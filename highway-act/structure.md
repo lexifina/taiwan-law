@@ -1,5 +1,5 @@
 公路法
-中華民國86年5月7日公布（修正）
+中華民國87年1月14日公布（修正）
 
 # 第一章 總則
 - 第 1 條: article/1.md
@@ -43,6 +43,7 @@
 - 第 37 條: article/37.md
 - 第 38 條: article/38.md
 - 第 39 條: article/39.md
+- 第 39-1 條: article/39-1.md
 - 第 40 條: article/40.md
 - 第 41 條: article/41.md
 - 第 42 條: article/42.md
