@@ -1,5 +1,5 @@
 華僑回國投資條例
-中華民國57年1月8日公布（修正）
+中華民國68年7月18日公布（全文修正）
 
 - 第 1 條: article/1.md
 - 第 2 條: article/2.md
@@ -24,3 +24,5 @@
 - 第 21 條: article/21.md
 - 第 22 條: article/22.md
 - 第 23 條: article/23.md
+- 第 24 條: article/24.md
+- 第 25 條: article/25.md
