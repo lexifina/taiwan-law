@@ -1,5 +1,5 @@
 公務員懲戒法
-中華民國22年12月1日公布（修正）
+中華民國37年4月15日公布（全文修正）
 
 # 第一章 通則
 - 第 1 條: article/1.md
@@ -31,7 +31,6 @@
 - 第 23 條: article/23.md
 - 第 24 條: article/24.md
 - 第 25 條: article/25.md
-- 第 26 條: article/26.md
 # 第六章 附則
+- 第 26 條: article/26.md
 - 第 27 條: article/27.md
-- 第 28 條: article/28.md
