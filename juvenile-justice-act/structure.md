@@ -1,5 +1,5 @@
 少年事件處理法
-中華民國60年5月14日公布（全文修正）
+中華民國65年2月12日公布（修正）
 
 # 第一章 總則
 - 第 1 條: article/1.md
@@ -28,6 +28,7 @@
 - 第 21 條: article/21.md
 - 第 22 條: article/22.md
 - 第 23 條: article/23.md
+- 第 23-1 條: article/23-1.md
 - 第 24 條: article/24.md
 - 第 25 條: article/25.md
 - 第 26 條: article/26.md
@@ -66,11 +67,12 @@
 - 第 58 條: article/58.md
 - 第 59 條: article/59.md
 - 第 60 條: article/60.md
-## 第三節 抗告
+## 第三節 抗告及審理
 - 第 61 條: article/61.md
 - 第 62 條: article/62.md
 - 第 63 條: article/63.md
 - 第 64 條: article/64.md
+- 第 64-1 條: article/64-1.md
 # 第四章 少年刑事案件
 - 第 65 條: article/65.md
 - 第 66 條: article/66.md
@@ -92,7 +94,9 @@
 - 第 82 條: article/82.md
 # 第五章 附則
 - 第 83 條: article/83.md
+- 第 83-1 條: article/83-1.md
 - 第 84 條: article/84.md
 - 第 85 條: article/85.md
+- 第 85-1 條: article/85-1.md
 - 第 86 條: article/86.md
 - 第 87 條: article/87.md
