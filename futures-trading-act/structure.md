@@ -1,5 +1,5 @@
 期貨交易法
-中華民國112年6月28日公布（修正）
+中華民國86年3月26日公布（制定）
 
 # 第一章 總則
 - 第 1 條: article/1.md
@@ -7,7 +7,6 @@
 - 第 3 條: article/3.md
 - 第 4 條: article/4.md
 - 第 5 條: article/5.md
-- 第 5-1 條: article/5-1.md
 - 第 6 條: article/6.md
 # 第二章 期貨交易所
 ## 第一節 通則
@@ -112,7 +111,6 @@
 - 第 95 條: article/95.md
 - 第 96 條: article/96.md
 - 第 97 條: article/97.md
-- 第 97-1 條: article/97-1.md
 - 第 98 條: article/98.md
 - 第 99 條: article/99.md
 - 第 100 條: article/100.md
@@ -131,8 +129,6 @@
 - 第 111 條: article/111.md
 # 第八章 罰則
 - 第 112 條: article/112.md
-- 第 112-1 條: article/112-1.md
-- 第 112-2 條: article/112-2.md
 - 第 113 條: article/113.md
 - 第 114 條: article/114.md
 - 第 115 條: article/115.md
