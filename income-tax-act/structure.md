@@ -1,5 +1,5 @@
 所得稅法
-中華民國59年12月31日公布（修正）
+中華民國60年12月30日公布（修正）
 
 # 第一章 總則
 ## 第一節 一般規定
@@ -31,8 +31,8 @@
 - 第 21 條: article/21.md
 - 第 22 條: article/22.md
 - 第 23 條: article/23.md
-## 第三節 營利事業所得額
 - 第 24 條: article/24.md
+## 第三節 營利事業所得額
 - 第 25 條: article/25.md
 - 第 26 條: article/26.md
 - 第 27 條: article/27.md
@@ -40,6 +40,9 @@
 - 第 29 條: article/29.md
 - 第 30 條: article/30.md
 - 第 31 條: article/31.md
+## 第二節 設帳
+- 第 31-1 條: article/31-1.md
+## 第三節 營利事業所得額
 - 第 32 條: article/32.md
 - 第 33 條: article/33.md
 - 第 34 條: article/34.md
@@ -54,6 +57,7 @@
 - 第 41 條: article/41.md
 - 第 42 條: article/42.md
 - 第 43 條: article/43.md
+- 第 43-1 條: article/43-1.md
 ## 第四節 資產估價
 - 第 44 條: article/44.md
 - 第 45 條: article/45.md
