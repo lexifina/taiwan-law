@@ -1,13 +1,10 @@
 民法總則施行法
-修正日期：民國 110 年 01 月 13 日
+中華民國18年9月24日公布（制定）
 
 - 第 1 條: article/1.md
 - 第 2 條: article/2.md
 - 第 3 條: article/3.md
-- 第 3-1 條: article/3-1.md
 - 第 4 條: article/4.md
-- 第 4-1 條: article/4-1.md
-- 第 4-2 條: article/4-2.md
 - 第 5 條: article/5.md
 - 第 6 條: article/6.md
 - 第 7 條: article/7.md
