@@ -1,11 +1,9 @@
-二二八事件處理及賠償條例
-修正日期：民國 107 年 01 月 17 日
+二二八事件處理及補償條例
+中華民國84年4月7日公布（制定）
 
 - 第 1 條: article/1.md
 - 第 2 條: article/2.md
 - 第 3 條: article/3.md
-- 第 3-1 條: article/3-1.md
-- 第 3-2 條: article/3-2.md
 - 第 4 條: article/4.md
 - 第 5 條: article/5.md
 - 第 6 條: article/6.md
@@ -19,4 +17,3 @@
 - 第 14 條: article/14.md
 - 第 15 條: article/15.md
 - 第 16 條: article/16.md
-- 第 17 條: article/17.md
