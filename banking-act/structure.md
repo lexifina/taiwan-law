@@ -1,5 +1,5 @@
 銀行法
-中華民國70年7月17日公布（修正）
+中華民國74年5月20日公布（修正）
 
 # 第一章 通則
 - 第 1 條: article/1.md
@@ -35,6 +35,7 @@
 - 第 31 條: article/31.md
 - 第 32 條: article/32.md
 - 第 33 條: article/33.md
+- 第 33-1 條: article/33-1.md
 - 第 34 條: article/34.md
 - 第 35 條: article/35.md
 - 第 35-1 條: article/35-1.md
@@ -137,6 +138,7 @@
 - 第 125 條: article/125.md
 - 第 126 條: article/126.md
 - 第 127 條: article/127.md
+- 第 127-1 條: article/127-1.md
 - 第 128 條: article/128.md
 - 第 129 條: article/129.md
 - 第 130 條: article/130.md
