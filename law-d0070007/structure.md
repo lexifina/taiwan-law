@@ -1,5 +1,5 @@
 市區道路條例
-中華民國91年4月24日公布（修正）
+中華民國93年1月7日公布（修正）
 
 - 第 1 條: article/1.md
 - 第 2 條: article/2.md
@@ -34,4 +34,5 @@
 - 第 31 條: article/31.md
 - 第 32 條: article/32.md
 - 第 33 條: article/33.md
+- 第 33-1 條: article/33-1.md
 - 第 34 條: article/34.md
