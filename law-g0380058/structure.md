@@ -1,5 +1,5 @@
 信用合作社法
-中華民國91年5月29日公布（修正）
+中華民國93年2月4日公布（修正）
 
 # 第一章 總則
 - 第 1 條: article/1.md
@@ -50,8 +50,13 @@
 - 第 37 條: article/37.md
 # 第十章 罰則
 - 第 38 條: article/38.md
+- 第 38-1 條: article/38-1.md
+- 第 38-2 條: article/38-2.md
+- 第 38-3 條: article/38-3.md
+- 第 38-4 條: article/38-4.md
 - 第 39 條: article/39.md
 - 第 40 條: article/40.md
+- 第 40-1 條: article/40-1.md
 - 第 41 條: article/41.md
 - 第 42 條: article/42.md
 - 第 43 條: article/43.md
@@ -60,6 +65,8 @@
 - 第 46 條: article/46.md
 - 第 47 條: article/47.md
 - 第 48 條: article/48.md
+- 第 48-1 條: article/48-1.md
+- 第 48-2 條: article/48-2.md
 # 第十一章 附則
 - 第 49 條: article/49.md
 - 第 49-1 條: article/49-1.md
