@@ -1,5 +1,5 @@
 財政部組織法
-中華民國25年7月14日公布（全文修正）
+中華民國29年3月26日公布（全文修正）
 
 - 第 1 條: article/1.md
 - 第 2 條: article/2.md
@@ -29,3 +29,5 @@
 - 第 26 條: article/26.md
 - 第 27 條: article/27.md
 - 第 28 條: article/28.md
+- 第 29 條: article/29.md
+- 第 30 條: article/30.md
