@@ -1,5 +1,5 @@
 兵役法施行法
-中華民國65年6月21日公布（修正）
+中華民國87年6月17日公布（修正）
 
 # 第一章 總則
 - 第 1 條: article/1.md
@@ -89,6 +89,7 @@
 - 第 76 條: article/76.md
 - 第 77 條: article/77.md
 - 第 78 條: article/78.md
+- 第 78-1 條: article/78-1.md
 - 第 79 條: article/79.md
 - 第 80 條: article/80.md
 - 第 81 條: article/81.md
