@@ -1,16 +1,24 @@
 立法院各委員會組織法
-中華民國88年6月30日公布（修正）
+中華民國91年1月25日公布（修正）
 
 - 第 1 條: article/1.md
 - 第 2 條: article/2.md
 - 第 3 條: article/3.md
+- 第 3-1 條: article/3-1.md
+- 第 3-2 條: article/3-2.md
+- 第 3-3 條: article/3-3.md
+- 第 3-4 條: article/3-4.md
 - 第 4 條: article/4.md
+- 第 4-1 條: article/4-1.md
 - 第 5 條: article/5.md
 - 第 6 條: article/6.md
+- 第 6-1 條: article/6-1.md
 - 第 7 條: article/7.md
 - 第 8 條: article/8.md
 - 第 9 條: article/9.md
 - 第 10 條: article/10.md
+- 第 10-1 條: article/10-1.md
+- 第 10-2 條: article/10-2.md
 - 第 11 條: article/11.md
 - 第 12 條: article/12.md
 - 第 13 條: article/13.md
