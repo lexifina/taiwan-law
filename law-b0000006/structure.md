@@ -1,10 +1,7 @@
 民法繼承編施行法
-修正日期：民國 115 年 08 月 17 日
+中華民國20年1月24日公布（制定）
 
 - 第 1 條: article/1.md
-- 第 1-1 條: article/1-1.md
-- 第 1-2 條: article/1-2.md
-- 第 1-3 條: article/1-3.md
 - 第 2 條: article/2.md
 - 第 3 條: article/3.md
 - 第 4 條: article/4.md
@@ -15,4 +12,3 @@
 - 第 9 條: article/9.md
 - 第 10 條: article/10.md
 - 第 11 條: article/11.md
-- 第 12 條: article/12.md
