@@ -1,5 +1,5 @@
 外國人投資條例
-修正日期：民國 86 年 11 月 19 日
+中華民國43年7月14日公布（制定）
 
 - 第 1 條: article/1.md
 - 第 2 條: article/2.md
@@ -21,3 +21,6 @@
 - 第 18 條: article/18.md
 - 第 19 條: article/19.md
 - 第 20 條: article/20.md
+- 第 21 條: article/21.md
+- 第 22 條: article/22.md
+- 第 23 條: article/23.md
