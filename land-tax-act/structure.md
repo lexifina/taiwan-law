@@ -1,5 +1,5 @@
 土地稅法
-中華民國68年7月25日公布（修正）
+中華民國78年10月30日公布（全文修正）
 
 # 第一章 總則
 ## 第一節 一般規定
@@ -8,6 +8,7 @@
 - 第 3 條: article/3.md
 - 第 4 條: article/4.md
 - 第 5 條: article/5.md
+- 第 5-1 條: article/5-1.md
 - 第 6 條: article/6.md
 ## 第二節 名詞定義
 - 第 7 條: article/7.md
@@ -28,24 +29,31 @@
 - 第 21 條: article/21.md
 # 第三章 田賦
 - 第 22 條: article/22.md
+- 第 22-1 條: article/22-1.md
 - 第 23 條: article/23.md
 - 第 24 條: article/24.md
 - 第 25 條: article/25.md
 - 第 26 條: article/26.md
 - 第 27 條: article/27.md
+- 第 27-1 條: article/27-1.md
 # 第四章 土地增值稅
 - 第 28 條: article/28.md
+- 第 28-1 條: article/28-1.md
 - 第 29 條: article/29.md
 - 第 30 條: article/30.md
+- 第 30-1 條: article/30-1.md
 - 第 31 條: article/31.md
 - 第 32 條: article/32.md
 - 第 33 條: article/33.md
 - 第 34 條: article/34.md
+- 第 34-1 條: article/34-1.md
 - 第 35 條: article/35.md
 - 第 36 條: article/36.md
 - 第 37 條: article/37.md
 - 第 38 條: article/38.md
 - 第 39 條: article/39.md
+- 第 39-1 條: article/39-1.md
+- 第 39-2 條: article/39-2.md
 # 第五章 稽徵程序
 - 第 40 條: article/40.md
 - 第 41 條: article/41.md
@@ -64,6 +72,8 @@
 - 第 53 條: article/53.md
 - 第 54 條: article/54.md
 - 第 55 條: article/55.md
+- 第 55-1 條: article/55-1.md
+- 第 55-2 條: article/55-2.md
 - 第 56 條: article/56.md
 # 第七章 附則
 - 第 57 條: article/57.md
