@@ -1,5 +1,5 @@
 水利法
-中華民國63年2月2日公布（修正）
+中華民國72年12月28日公布（修正）
 
 # 第一章 總則
 - 第 1 條: article/1.md
@@ -23,9 +23,11 @@
 - 第 16 條: article/16.md
 - 第 17 條: article/17.md
 - 第 18 條: article/18.md
+- 第 18-1 條: article/18-1.md
 - 第 19 條: article/19.md
 - 第 19-1 條: article/19-1.md
 - 第 20 條: article/20.md
+- 第 20-1 條: article/20-1.md
 - 第 21 條: article/21.md
 - 第 22 條: article/22.md
 - 第 23 條: article/23.md
@@ -63,6 +65,7 @@
 - 第 52 條: article/52.md
 - 第 53 條: article/53.md
 - 第 54 條: article/54.md
+- 第 54-1 條: article/54-1.md
 - 第 55 條: article/55.md
 - 第 56 條: article/56.md
 - 第 57 條: article/57.md
@@ -84,9 +87,11 @@
 - 第 68 條: article/68.md
 - 第 69 條: article/69.md
 - 第 69-1 條: article/69-1.md
+- 第 69-2 條: article/69-2.md
 - 第 70 條: article/70.md
 - 第 71 條: article/71.md
 - 第 72 條: article/72.md
+- 第 72-1 條: article/72-1.md
 # 第七章 水道防護
 - 第 73 條: article/73.md
 - 第 74 條: article/74.md
@@ -110,6 +115,7 @@
 # 第九章 罰則
 - 第 91 條: article/91.md
 - 第 92 條: article/92.md
+- 第 92-1 條: article/92-1.md
 - 第 93 條: article/93.md
 - 第 94 條: article/94.md
 - 第 95 條: article/95.md
