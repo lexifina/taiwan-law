@@ -1,11 +1,12 @@
 保安處分執行法
-中華民國56年8月1日公布（修正）
+中華民國64年1月28日公布（修正）
 
 # 第一章 通則
 - 第 1 條: article/1.md
 - 第 2 條: article/2.md
 - 第 3 條: article/3.md
 - 第 4 條: article/4.md
+- 第 4-1 條: article/4-1.md
 - 第 5 條: article/5.md
 - 第 6 條: article/6.md
 - 第 7 條: article/7.md
@@ -47,6 +48,7 @@
 - 第 42 條: article/42.md
 - 第 43 條: article/43.md
 - 第 44 條: article/44.md
+- 第 44-1 條: article/44-1.md
 - 第 45 條: article/45.md
 # 第三章 監護
 - 第 46 條: article/46.md
@@ -72,18 +74,24 @@
 # 第六章 保護管束
 - 第 64 條: article/64.md
 - 第 65 條: article/65.md
+- 第 65-1 條: article/65-1.md
 - 第 66 條: article/66.md
 - 第 67 條: article/67.md
 - 第 68 條: article/68.md
 - 第 69 條: article/69.md
+- 第 69-1 條: article/69-1.md
 - 第 70 條: article/70.md
 - 第 71 條: article/71.md
 - 第 72 條: article/72.md
 - 第 73 條: article/73.md
 - 第 74 條: article/74.md
+- 第 74-1 條: article/74-1.md
+- 第 74-2 條: article/74-2.md
+- 第 74-3 條: article/74-3.md
 - 第 75 條: article/75.md
 - 第 76 條: article/76.md
 - 第 77 條: article/77.md
+- 第 77-1 條: article/77-1.md
 # 第七章 強制治療
 - 第 78 條: article/78.md
 - 第 79 條: article/79.md
