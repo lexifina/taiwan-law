@@ -1,5 +1,5 @@
 所得稅法
-中華民國66年1月30日公布（修正）
+中華民國68年1月19日公布（修正）
 
 # 第一章 總則
 ## 第一節 一般規定
@@ -34,7 +34,9 @@
 - 第 23 條: article/23.md
 ## 第三節 營利事業所得額
 - 第 24 條: article/24.md
+## 第二節 帳簿憑證與會計記錄
 - 第 25 條: article/25.md
+## 第三節 營利事業所得額
 - 第 26 條: article/26.md
 - 第 27 條: article/27.md
 - 第 28 條: article/28.md
@@ -48,7 +50,9 @@
 - 第 33 條: article/33.md
 - 第 34 條: article/34.md
 - 第 35 條: article/35.md
+## 第二節 帳簿憑證與會計記錄
 - 第 36 條: article/36.md
+## 第三節 營利事業所得額
 - 第 37 條: article/37.md
 - 第 38 條: article/38.md
 - 第 39 條: article/39.md
@@ -82,7 +86,7 @@
 - 第 65 條: article/65.md
 - 第 66 條: article/66.md
 # 第四章 稽徵程序
-## 第一節 預估
+## 第一節 暫繳
 - 第 67 條: article/67.md
 - 第 68 條: article/68.md
 - 第 69 條: article/69.md
@@ -122,9 +126,11 @@
 - 第 97 條: article/97.md
 ## 第五節 自繳
 - 第 98 條: article/98.md
+- 第 98-1 條: article/98-1.md
 - 第 99 條: article/99.md
 - 第 100 條: article/100.md
 - 第 100-1 條: article/100-1.md
+- 第 100-2 條: article/100-2.md
 - 第 101 條: article/101.md
 - 第 102 條: article/102.md
 # 第五章 獎懲
