@@ -1,5 +1,5 @@
 所得稅法
-中華民國86年12月30日公布（修正）
+中華民國87年6月20日公布（修正）
 
 # 第一章 總則
 ## 第一節 一般規定
@@ -9,6 +9,7 @@
 - 第 3-1 條: article/3-1.md
 - 第 4 條: article/4.md
 - 第 4-1 條: article/4-1.md
+- 第 4-2 條: article/4-2.md
 - 第 5 條: article/5.md
 - 第 5-1 條: article/5-1.md
 - 第 6 條: article/6.md
@@ -184,4 +185,5 @@
 - 第 123 條: article/123.md
 - 第 124 條: article/124.md
 - 第 125 條: article/125.md
+- 第 125-1 條: article/125-1.md
 - 第 126 條: article/126.md
