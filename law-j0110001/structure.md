@@ -1,5 +1,5 @@
 水利法
-中華民國52年12月10日公布（全文修正）
+中華民國63年2月2日公布（修正）
 
 # 第一章 總則
 - 第 1 條: article/1.md
@@ -11,6 +11,7 @@
 - 第 6 條: article/6.md
 - 第 7 條: article/7.md
 - 第 8 條: article/8.md
+- 第 8-1 條: article/8-1.md
 - 第 9 條: article/9.md
 - 第 10 條: article/10.md
 - 第 11 條: article/11.md
@@ -23,6 +24,7 @@
 - 第 17 條: article/17.md
 - 第 18 條: article/18.md
 - 第 19 條: article/19.md
+- 第 19-1 條: article/19-1.md
 - 第 20 條: article/20.md
 - 第 21 條: article/21.md
 - 第 22 條: article/22.md
@@ -53,6 +55,7 @@
 # 第五章 水利事業之興辦
 - 第 46 條: article/46.md
 - 第 47 條: article/47.md
+- 第 47-1 條: article/47-1.md
 - 第 48 條: article/48.md
 - 第 49 條: article/49.md
 - 第 50 條: article/50.md
@@ -66,16 +69,21 @@
 - 第 58 條: article/58.md
 - 第 59 條: article/59.md
 - 第 60 條: article/60.md
+- 第 60-1 條: article/60-1.md
+- 第 60-2 條: article/60-2.md
+- 第 60-3 條: article/60-3.md
 - 第 61 條: article/61.md
 - 第 62 條: article/62.md
 - 第 63 條: article/63.md
 # 第六章 水之蓄洩
 - 第 64 條: article/64.md
 - 第 65 條: article/65.md
+- 第 65-1 條: article/65-1.md
 - 第 66 條: article/66.md
 - 第 67 條: article/67.md
 - 第 68 條: article/68.md
 - 第 69 條: article/69.md
+- 第 69-1 條: article/69-1.md
 - 第 70 條: article/70.md
 - 第 71 條: article/71.md
 - 第 72 條: article/72.md
