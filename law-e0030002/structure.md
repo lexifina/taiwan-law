@@ -1,5 +1,5 @@
 外國護照簽證條例
-中華民國88年6月2日公布（制定）
+中華民國92年1月22日公布（全文修正）
 
 - 第 1 條: article/1.md
 - 第 2 條: article/2.md
@@ -15,3 +15,5 @@
 - 第 12 條: article/12.md
 - 第 13 條: article/13.md
 - 第 14 條: article/14.md
+- 第 15 條: article/15.md
+- 第 16 條: article/16.md
