@@ -1,5 +1,5 @@
 醫事人員人事條例
-修正日期：民國 95 年 05 月 17 日
+中華民國88年7月15日公布（制定）
 
 - 第 1 條: article/1.md
 - 第 2 條: article/2.md
@@ -19,5 +19,3 @@
 - 第 16 條: article/16.md
 - 第 17 條: article/17.md
 - 第 18 條: article/18.md
-- 第 19 條: article/19.md
-- 第 20 條: article/20.md
