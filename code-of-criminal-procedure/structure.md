@@ -1,5 +1,5 @@
 刑事訴訟法
-中華民國89年7月19日公布（修正）
+中華民國90年1月12日公布（修正）
 
 # 第一編 總則
 ## 第一章 法例
@@ -153,10 +153,14 @@
 - 第 126 條: article/126.md
 - 第 127 條: article/127.md
 - 第 128 條: article/128.md
+- 第 128-1 條: article/128-1.md
+- 第 128-2 條: article/128-2.md
 - 第 129 條: article/129.md
 - 第 130 條: article/130.md
 - 第 131 條: article/131.md
+- 第 131-1 條: article/131-1.md
 - 第 132 條: article/132.md
+- 第 132-1 條: article/132-1.md
 - 第 133 條: article/133.md
 - 第 134 條: article/134.md
 - 第 135 條: article/135.md
