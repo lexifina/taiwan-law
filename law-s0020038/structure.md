@@ -1,5 +1,5 @@
 公務員服務法
-修正日期：民國 111 年 06 月 22 日
+中華民國28年10月23日公布（制定）
 
 - 第 1 條: article/1.md
 - 第 2 條: article/2.md
@@ -26,5 +26,3 @@
 - 第 23 條: article/23.md
 - 第 24 條: article/24.md
 - 第 25 條: article/25.md
-- 第 26 條: article/26.md
-- 第 27 條: article/27.md
