@@ -1,10 +1,9 @@
 加工出口區設置管理條例
-中華民國77年12月5日公布（修正）
+中華民國86年5月7日公布（全文修正）
 
 - 第 1 條: article/1.md
 - 第 2 條: article/2.md
 - 第 3 條: article/3.md
-- 第 3-1 條: article/3-1.md
 - 第 4 條: article/4.md
 - 第 5 條: article/5.md
 - 第 6 條: article/6.md
@@ -16,7 +15,6 @@
 - 第 12 條: article/12.md
 - 第 13 條: article/13.md
 - 第 14 條: article/14.md
-- 第 14-1 條: article/14-1.md
 - 第 15 條: article/15.md
 - 第 16 條: article/16.md
 - 第 17 條: article/17.md
@@ -32,6 +30,6 @@
 - 第 27 條: article/27.md
 - 第 28 條: article/28.md
 - 第 29 條: article/29.md
-- 第 29-1 條: article/29-1.md
 - 第 30 條: article/30.md
 - 第 31 條: article/31.md
+- 第 32 條: article/32.md
