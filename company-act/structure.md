@@ -1,5 +1,5 @@
 公司法
-中華民國79年11月10日公布（修正）
+中華民國86年6月25日公布（修正）
 
 # 第一章 總則
 - 第 1 條: article/1.md
@@ -402,6 +402,19 @@
 - 第 367 條: article/367.md
 - 第 368 條: article/368.md
 - 第 369 條: article/369.md
+# 第六章之一 關係企業
+- 第 369-1 條: article/369-1.md
+- 第 369-2 條: article/369-2.md
+- 第 369-3 條: article/369-3.md
+- 第 369-4 條: article/369-4.md
+- 第 369-5 條: article/369-5.md
+- 第 369-6 條: article/369-6.md
+- 第 369-7 條: article/369-7.md
+- 第 369-8 條: article/369-8.md
+- 第 369-9 條: article/369-9.md
+- 第 369-10 條: article/369-10.md
+- 第 369-11 條: article/369-11.md
+- 第 369-12 條: article/369-12.md
 # 第七章 外國公司
 - 第 370 條: article/370.md
 - 第 371 條: article/371.md
