@@ -1,5 +1,5 @@
 保險法
-中華民國81年4月20日公布（修正）
+中華民國86年5月28日公布（修正）
 
 # 第一章 總則
 ## 第一節 定義及分類
@@ -65,6 +65,7 @@
 - 第 52 條: article/52.md
 - 第 53 條: article/53.md
 - 第 54 條: article/54.md
+- 第 54-1 條: article/54-1.md
 ## 第二節 基本條款
 - 第 55 條: article/55.md
 - 第 56 條: article/56.md
@@ -97,6 +98,7 @@
 - 第 80 條: article/80.md
 - 第 81 條: article/81.md
 - 第 82 條: article/82.md
+- 第 82-1 條: article/82-1.md
 ## 第二節 海上保險
 - 第 83 條: article/83.md
 - 第 84 條: article/84.md
