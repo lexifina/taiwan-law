@@ -1,5 +1,5 @@
 財政部組織法
-中華民國30年11月24日公布（全文修正）
+中華民國32年3月31日公布（全文修正）
 
 - 第 1 條: article/1.md
 - 第 2 條: article/2.md
@@ -30,3 +30,8 @@
 - 第 27 條: article/27.md
 - 第 28 條: article/28.md
 - 第 29 條: article/29.md
+- 第 30 條: article/30.md
+- 第 31 條: article/31.md
+- 第 32 條: article/32.md
+- 第 33 條: article/33.md
+- 第 34 條: article/34.md
