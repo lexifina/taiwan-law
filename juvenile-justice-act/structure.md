@@ -1,5 +1,5 @@
 少年事件處理法
-中華民國56年8月1日公布（修正）
+中華民國60年5月14日公布（全文修正）
 
 # 第一章 總則
 - 第 1 條: article/1.md
@@ -83,9 +83,16 @@
 - 第 73 條: article/73.md
 - 第 74 條: article/74.md
 - 第 75 條: article/75.md
-# 第五章 附則
 - 第 76 條: article/76.md
 - 第 77 條: article/77.md
 - 第 78 條: article/78.md
 - 第 79 條: article/79.md
 - 第 80 條: article/80.md
+- 第 81 條: article/81.md
+- 第 82 條: article/82.md
+# 第五章 附則
+- 第 83 條: article/83.md
+- 第 84 條: article/84.md
+- 第 85 條: article/85.md
+- 第 86 條: article/86.md
+- 第 87 條: article/87.md
