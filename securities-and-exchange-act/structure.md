@@ -1,5 +1,5 @@
 證券交易法
-中華民國70年11月13日公布（修正）
+中華民國72年5月11日公布（修正）
 
 # 第一章 總則
 - 第 1 條: article/1.md
@@ -20,6 +20,8 @@
 - 第 16 條: article/16.md
 - 第 17 條: article/17.md
 - 第 18 條: article/18.md
+- 第 18-1 條: article/18-1.md
+- 第 18-2 條: article/18-2.md
 - 第 19 條: article/19.md
 - 第 20 條: article/20.md
 - 第 21 條: article/21.md
@@ -28,6 +30,7 @@
 - 第 23 條: article/23.md
 - 第 24 條: article/24.md
 - 第 25 條: article/25.md
+- 第 25-1 條: article/25-1.md
 - 第 26 條: article/26.md
 - 第 27 條: article/27.md
 - 第 28 條: article/28.md
