@@ -1,5 +1,5 @@
 助產士法
-中華民國89年7月19日公布（修正）
+中華民國91年6月12日公布（修正）
 
 # 第一章 總則
 - 第 1 條: article/1.md
@@ -17,6 +17,7 @@
 - 第 11 條: article/11.md
 - 第 12 條: article/12.md
 - 第 13 條: article/13.md
+- 第 13-1 條: article/13-1.md
 - 第 14 條: article/14.md
 - 第 15 條: article/15.md
 - 第 16 條: article/16.md
@@ -46,11 +47,13 @@
 - 第 37 條: article/37.md
 - 第 38 條: article/38.md
 - 第 39 條: article/39.md
+- 第 39-1 條: article/39-1.md
 - 第 40 條: article/40.md
 - 第 41 條: article/41.md
 - 第 42 條: article/42.md
 - 第 43 條: article/43.md
 - 第 44 條: article/44.md
+- 第 44-1 條: article/44-1.md
 # 第七章 附則
 - 第 45 條: article/45.md
 - 第 46 條: article/46.md
