@@ -1,5 +1,5 @@
 刑事訴訟法施行法
-中華民國90年1月12日公布（修正）
+中華民國92年2月6日公布（修正）
 
 - 第 1 條: article/1.md
 - 第 2 條: article/2.md
@@ -9,3 +9,5 @@
 - 第 6 條: article/6.md
 - 第 7 條: article/7.md
 - 第 7-1 條: article/7-1.md
+- 第 7-2 條: article/7-2.md
+- 第 7-3 條: article/7-3.md
