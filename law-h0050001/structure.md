@@ -1,5 +1,5 @@
 師資培育法
-中華民國86年4月23日公布（修正）
+中華民國90年5月16日公布（修正）
 
 - 第 1 條: article/1.md
 - 第 2 條: article/2.md
@@ -19,5 +19,6 @@
 - 第 16 條: article/16.md
 - 第 17 條: article/17.md
 - 第 18 條: article/18.md
+- 第 18-1 條: article/18-1.md
 - 第 19 條: article/19.md
 - 第 20 條: article/20.md
