@@ -1,5 +1,5 @@
-科技產業園區設置管理條例
-修正日期：民國 112 年 01 月 19 日
+加工出口區設置管理條例
+中華民國54年1月30日公布（制定）
 
 - 第 1 條: article/1.md
 - 第 2 條: article/2.md
@@ -28,18 +28,3 @@
 - 第 25 條: article/25.md
 - 第 26 條: article/26.md
 - 第 27 條: article/27.md
-- 第 28 條: article/28.md
-- 第 29 條: article/29.md
-- 第 30 條: article/30.md
-- 第 31 條: article/31.md
-- 第 32 條: article/32.md
-- 第 33 條: article/33.md
-- 第 34 條: article/34.md
-- 第 35 條: article/35.md
-- 第 36 條: article/36.md
-- 第 37 條: article/37.md
-- 第 38 條: article/38.md
-- 第 39 條: article/39.md
-- 第 40 條: article/40.md
-- 第 41 條: article/41.md
-- 第 42 條: article/42.md
