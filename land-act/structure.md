@@ -1,5 +1,5 @@
 土地法
-中華民國64年7月24日公布（修正）
+中華民國78年12月29日公布（修正）
 
 # 第一編 總則
 ## 第一章 法例
@@ -57,12 +57,15 @@
 - 第 43 條: article/43.md
 ## 第二章 地籍測量
 - 第 44 條: article/44.md
+- 第 44-1 條: article/44-1.md
 - 第 45 條: article/45.md
 - 第 46 條: article/46.md
 - 第 46-1 條: article/46-1.md
 - 第 46-2 條: article/46-2.md
 - 第 46-3 條: article/46-3.md
 - 第 47 條: article/47.md
+- 第 47-1 條: article/47-1.md
+- 第 47-2 條: article/47-2.md
 ## 第三章 土地總登記
 - 第 48 條: article/48.md
 - 第 49 條: article/49.md
@@ -100,6 +103,7 @@
 - 第 78 條: article/78.md
 - 第 79 條: article/79.md
 - 第 79-1 條: article/79-1.md
+- 第 79-2 條: article/79-2.md
 # 第三編 土地使用
 ## 第一章 通則
 - 第 80 條: article/80.md
