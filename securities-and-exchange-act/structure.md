@@ -1,5 +1,5 @@
 證券交易法
-中華民國86年5月7日公布（修正）
+中華民國89年7月19日公布（修正）
 
 # 第一章 總則
 - 第 1 條: article/1.md
@@ -22,6 +22,7 @@
 - 第 18 條: article/18.md
 - 第 18-1 條: article/18-1.md
 - 第 18-2 條: article/18-2.md
+- 第 18-3 條: article/18-3.md
 - 第 19 條: article/19.md
 - 第 20 條: article/20.md
 - 第 21 條: article/21.md
@@ -39,6 +40,9 @@
 - 第 27 條: article/27.md
 - 第 28 條: article/28.md
 - 第 28-1 條: article/28-1.md
+- 第 28-2 條: article/28-2.md
+- 第 28-3 條: article/28-3.md
+- 第 28-4 條: article/28-4.md
 - 第 29 條: article/29.md
 - 第 30 條: article/30.md
 - 第 31 條: article/31.md
@@ -49,6 +53,7 @@
 - 第 36 條: article/36.md
 - 第 37 條: article/37.md
 - 第 38 條: article/38.md
+- 第 38-1 條: article/38-1.md
 - 第 39 條: article/39.md
 - 第 40 條: article/40.md
 - 第 41 條: article/41.md
