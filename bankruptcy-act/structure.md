@@ -1,5 +1,5 @@
 破產法
-中華民國69年12月5日公布（修正）
+中華民國82年7月30日公布（修正）
 
 # 第一章 總則
 - 第 1 條: article/1.md
@@ -81,6 +81,7 @@
 - 第 71 條: article/71.md
 - 第 72 條: article/72.md
 - 第 73 條: article/73.md
+- 第 73-1 條: article/73-1.md
 - 第 74 條: article/74.md
 - 第 75 條: article/75.md
 - 第 76 條: article/76.md
