@@ -1,5 +1,5 @@
 教師法
-中華民國89年7月19日公布（修正）
+中華民國92年1月15日公布（修正）
 
 # 第一章 總則
 - 第 1 條: article/1.md
@@ -18,11 +18,16 @@
 - 第 12 條: article/12.md
 - 第 13 條: article/13.md
 - 第 14 條: article/14.md
+- 第 14-1 條: article/14-1.md
+- 第 14-2 條: article/14-2.md
+- 第 14-3 條: article/14-3.md
 - 第 15 條: article/15.md
+- 第 15-1 條: article/15-1.md
 # 第四章 權利義務
 - 第 16 條: article/16.md
 - 第 17 條: article/17.md
 - 第 18 條: article/18.md
+- 第 18-1 條: article/18-1.md
 # 第五章 待遇
 - 第 19 條: article/19.md
 - 第 20 條: article/20.md
@@ -47,6 +52,7 @@
 - 第 34 條: article/34.md
 - 第 35 條: article/35.md
 - 第 36 條: article/36.md
+- 第 36-1 條: article/36-1.md
 - 第 37 條: article/37.md
 - 第 38 條: article/38.md
 - 第 39 條: article/39.md
