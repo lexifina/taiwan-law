@@ -1,5 +1,5 @@
 動員戡亂時期公職人員選舉罷免法
-中華民國69年5月14日公布（制定）
+中華民國72年7月8日公布（修正）
 
 # 第一章 總則
 - 第 1 條: article/1.md
@@ -55,6 +55,9 @@
 - 第 44 條: article/44.md
 ## 第六節 選舉活動
 - 第 45 條: article/45.md
+- 第 45-1 條: article/45-1.md
+- 第 45-2 條: article/45-2.md
+- 第 45-3 條: article/45-3.md
 - 第 46 條: article/46.md
 - 第 47 條: article/47.md
 - 第 48 條: article/48.md
@@ -104,6 +107,8 @@
 # 第五章 妨害選舉罷免處罰
 - 第 86 條: article/86.md
 - 第 87 條: article/87.md
+- 第 87-1 條: article/87-1.md
+- 第 87-2 條: article/87-2.md
 - 第 88 條: article/88.md
 - 第 89 條: article/89.md
 - 第 90 條: article/90.md
@@ -112,8 +117,11 @@
 - 第 93 條: article/93.md
 - 第 94 條: article/94.md
 - 第 95 條: article/95.md
+- 第 95-1 條: article/95-1.md
 - 第 96 條: article/96.md
 - 第 97 條: article/97.md
+- 第 97-1 條: article/97-1.md
+- 第 97-2 條: article/97-2.md
 - 第 98 條: article/98.md
 - 第 99 條: article/99.md
 - 第 100 條: article/100.md
@@ -121,6 +129,7 @@
 - 第 101 條: article/101.md
 - 第 102 條: article/102.md
 - 第 103 條: article/103.md
+- 第 103-1 條: article/103-1.md
 - 第 104 條: article/104.md
 - 第 105 條: article/105.md
 - 第 106 條: article/106.md
