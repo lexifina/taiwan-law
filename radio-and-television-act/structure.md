@@ -1,5 +1,5 @@
 廣播電視法
-中華民國92年1月22日公布（修正）
+中華民國92年12月24日公布（修正）
 
 # 第一章 總則
 - 第 1 條: article/1.md
@@ -7,6 +7,8 @@
 - 第 3 條: article/3.md
 - 第 4 條: article/4.md
 - 第 5 條: article/5.md
+- 第 5-1 條: article/5-1.md
+- 第 5-2 條: article/5-2.md
 - 第 6 條: article/6.md
 - 第 7 條: article/7.md
 # 第二章 電臺設立
