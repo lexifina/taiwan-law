@@ -1,5 +1,5 @@
 土地法
-中華民國44年3月19日公布（修正）
+中華民國64年7月24日公布（修正）
 
 # 第一編 總則
 ## 第一章 法例
@@ -37,15 +37,18 @@
 - 第 28 條: article/28.md
 - 第 29 條: article/29.md
 - 第 30 條: article/30.md
+- 第 30-1 條: article/30-1.md
 - 第 31 條: article/31.md
 - 第 32 條: article/32.md
 - 第 33 條: article/33.md
 - 第 34 條: article/34.md
+- 第 34-1 條: article/34-1.md
 - 第 35 條: article/35.md
 # 第二編 地籍
 ## 第一章 通則
 - 第 36 條: article/36.md
 - 第 37 條: article/37.md
+- 第 37-1 條: article/37-1.md
 - 第 38 條: article/38.md
 - 第 39 條: article/39.md
 - 第 40 條: article/40.md
@@ -56,6 +59,9 @@
 - 第 44 條: article/44.md
 - 第 45 條: article/45.md
 - 第 46 條: article/46.md
+- 第 46-1 條: article/46-1.md
+- 第 46-2 條: article/46-2.md
+- 第 46-3 條: article/46-3.md
 - 第 47 條: article/47.md
 ## 第三章 土地總登記
 - 第 48 條: article/48.md
@@ -85,12 +91,15 @@
 ## 第四章 土地權利變更登記
 - 第 72 條: article/72.md
 - 第 73 條: article/73.md
+- 第 73-1 條: article/73-1.md
 - 第 74 條: article/74.md
 - 第 75 條: article/75.md
+- 第 75-1 條: article/75-1.md
 - 第 76 條: article/76.md
 - 第 77 條: article/77.md
 - 第 78 條: article/78.md
 - 第 79 條: article/79.md
+- 第 79-1 條: article/79-1.md
 # 第三編 土地使用
 ## 第一章 通則
 - 第 80 條: article/80.md
