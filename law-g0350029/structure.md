@@ -1,5 +1,5 @@
 海關緝私條例
-中華民國62年8月27日公布（全文修正）
+中華民國67年5月29日公布（修正）
 
 # 第一章 總則
 - 第 1 條: article/1.md
@@ -19,6 +19,7 @@
 - 第 14 條: article/14.md
 - 第 15 條: article/15.md
 - 第 16 條: article/16.md
+- 第 16-1 條: article/16-1.md
 # 第三章 扣押
 - 第 17 條: article/17.md
 - 第 18 條: article/18.md
@@ -54,8 +55,9 @@
 - 第 46 條: article/46.md
 - 第 47 條: article/47.md
 - 第 48 條: article/48.md
-# 第六章 執行
 - 第 49 條: article/49.md
+- 第 49-1 條: article/49-1.md
+# 第六章 執行
 - 第 50 條: article/50.md
 - 第 51 條: article/51.md
 - 第 52 條: article/52.md
