@@ -1,5 +1,5 @@
 律師法
-中華民國86年4月23日公布（修正）
+中華民國87年6月24日公布（修正）
 
 - 第 1 條: article/1.md
 - 第 2 條: article/2.md
@@ -21,6 +21,7 @@
 - 第 18 條: article/18.md
 - 第 19 條: article/19.md
 - 第 20 條: article/20.md
+- 第 20-1 條: article/20-1.md
 - 第 21 條: article/21.md
 - 第 22 條: article/22.md
 - 第 23 條: article/23.md
@@ -38,6 +39,7 @@
 - 第 35 條: article/35.md
 - 第 36 條: article/36.md
 - 第 37 條: article/37.md
+- 第 37-1 條: article/37-1.md
 - 第 38 條: article/38.md
 - 第 39 條: article/39.md
 - 第 40 條: article/40.md
@@ -48,9 +50,24 @@
 - 第 45 條: article/45.md
 - 第 46 條: article/46.md
 - 第 47 條: article/47.md
+- 第 47-1 條: article/47-1.md
+- 第 47-2 條: article/47-2.md
+- 第 47-3 條: article/47-3.md
+- 第 47-4 條: article/47-4.md
+- 第 47-5 條: article/47-5.md
+- 第 47-6 條: article/47-6.md
+- 第 47-7 條: article/47-7.md
+- 第 47-8 條: article/47-8.md
+- 第 47-9 條: article/47-9.md
+- 第 47-10 條: article/47-10.md
+- 第 47-11 條: article/47-11.md
+- 第 47-12 條: article/47-12.md
+- 第 47-13 條: article/47-13.md
+- 第 47-14 條: article/47-14.md
 - 第 48 條: article/48.md
 - 第 49 條: article/49.md
 - 第 50 條: article/50.md
+- 第 50-1 條: article/50-1.md
 - 第 51 條: article/51.md
 - 第 52 條: article/52.md
 - 第 53 條: article/53.md
