@@ -1,6 +1,7 @@
 商標法
-中華民國47年10月24日公布（全文修正）
+中華民國61年7月4日公布（全文修正）
 
+# 第一章 總則
 - 第 1 條: article/1.md
 - 第 2 條: article/2.md
 - 第 3 條: article/3.md
@@ -21,6 +22,7 @@
 - 第 18 條: article/18.md
 - 第 19 條: article/19.md
 - 第 20 條: article/20.md
+# 第二章 商標專用權
 - 第 21 條: article/21.md
 - 第 22 條: article/22.md
 - 第 23 條: article/23.md
@@ -35,7 +37,42 @@
 - 第 32 條: article/32.md
 - 第 33 條: article/33.md
 - 第 34 條: article/34.md
+# 第三章 註冊
 - 第 35 條: article/35.md
 - 第 36 條: article/36.md
 - 第 37 條: article/37.md
 - 第 38 條: article/38.md
+- 第 39 條: article/39.md
+- 第 40 條: article/40.md
+- 第 41 條: article/41.md
+- 第 42 條: article/42.md
+- 第 43 條: article/43.md
+- 第 44 條: article/44.md
+- 第 45 條: article/45.md
+- 第 46 條: article/46.md
+- 第 47 條: article/47.md
+- 第 48 條: article/48.md
+- 第 49 條: article/49.md
+- 第 50 條: article/50.md
+- 第 51 條: article/51.md
+# 第四章 評定
+- 第 52 條: article/52.md
+- 第 53 條: article/53.md
+- 第 54 條: article/54.md
+- 第 55 條: article/55.md
+- 第 56 條: article/56.md
+- 第 57 條: article/57.md
+- 第 58 條: article/58.md
+- 第 59 條: article/59.md
+- 第 60 條: article/60.md
+# 第五章 保護
+- 第 61 條: article/61.md
+- 第 62 條: article/62.md
+- 第 63 條: article/63.md
+- 第 64 條: article/64.md
+- 第 65 條: article/65.md
+- 第 66 條: article/66.md
+# 第六章 附則
+- 第 67 條: article/67.md
+- 第 68 條: article/68.md
+- 第 69 條: article/69.md
