@@ -1,5 +1,5 @@
 社會秩序維護法
-中華民國114年6月11日公布（修正）
+中華民國80年6月29日公布（制定）
 
 # 第一編 總則
 ## 第一章 法例
@@ -22,7 +22,6 @@
 - 第 16 條: article/16.md
 - 第 17 條: article/17.md
 - 第 18 條: article/18.md
-- 第 18-1 條: article/18-1.md
 ## 第三章 處罰
 - 第 19 條: article/19.md
 - 第 20 條: article/20.md
@@ -110,7 +109,6 @@
 - 第 90 條: article/90.md
 - 第 91 條: article/91.md
 # 第四編 附則
-- 第 91-1 條: article/91-1.md
 - 第 92 條: article/92.md
 - 第 93 條: article/93.md
 - 第 94 條: article/94.md
