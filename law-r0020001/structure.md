@@ -1,5 +1,5 @@
 典試法
-修正日期：民國 112 年 11 月 29 日
+中華民國77年11月11日公布（制定）
 
 - 第 1 條: article/1.md
 - 第 2 條: article/2.md
@@ -26,13 +26,3 @@
 - 第 23 條: article/23.md
 - 第 24 條: article/24.md
 - 第 25 條: article/25.md
-- 第 26 條: article/26.md
-- 第 27 條: article/27.md
-- 第 28 條: article/28.md
-- 第 29 條: article/29.md
-- 第 30 條: article/30.md
-- 第 31 條: article/31.md
-- 第 32 條: article/32.md
-- 第 33 條: article/33.md
-- 第 34 條: article/34.md
-- 第 35 條: article/35.md
