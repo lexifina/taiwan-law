@@ -1,5 +1,5 @@
 自來水法
-中華民國86年5月21日公布（修正）
+中華民國91年12月18日公布（修正）
 
 # 第一章 總則
 - 第 1 條: article/1.md
@@ -101,6 +101,12 @@
 - 第 91 條: article/91.md
 - 第 92 條: article/92.md
 - 第 93 條: article/93.md
+- 第 93-1 條: article/93-1.md
+- 第 93-2 條: article/93-2.md
+- 第 93-3 條: article/93-3.md
+- 第 93-4 條: article/93-4.md
+- 第 93-5 條: article/93-5.md
+- 第 93-6 條: article/93-6.md
 - 第 94 條: article/94.md
 - 第 95 條: article/95.md
 # 第七章 罰則
