@@ -1,5 +1,5 @@
 非訟事件法
-中華民國72年11月9日公布（修正）
+中華民國75年4月30日公布（修正）
 
 # 第一章 總則
 ## 第一節 事件管轄
@@ -82,14 +82,17 @@
 - 第 69 條: article/69.md
 - 第 70 條: article/70.md
 - 第 71 條: article/71.md
-## 第五節 監護事件
+## 第五節 監護及收養事件
 - 第 72 條: article/72.md
 - 第 73 條: article/73.md
 - 第 74 條: article/74.md
 - 第 75 條: article/75.md
+- 第 75-1 條: article/75-1.md
+- 第 75-2 條: article/75-2.md
 ## 第六節 繼承事件
 - 第 76 條: article/76.md
 - 第 77 條: article/77.md
+- 第 77-1 條: article/77-1.md
 - 第 78 條: article/78.md
 - 第 79 條: article/79.md
 - 第 80 條: article/80.md
