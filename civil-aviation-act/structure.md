@@ -1,5 +1,5 @@
 民用航空法
-中華民國63年1月4日公布（全文修正）
+中華民國73年11月19日公布（修正）
 
 # 第一章 總則
 - 第 1 條: article/1.md
@@ -37,6 +37,7 @@
 - 第 30 條: article/30.md
 - 第 31 條: article/31.md
 - 第 32 條: article/32.md
+- 第 32-1 條: article/32-1.md
 - 第 33 條: article/33.md
 - 第 34 條: article/34.md
 # 第五章 飛航安全
@@ -86,6 +87,7 @@
 - 第 74 條: article/74.md
 - 第 75 條: article/75.md
 - 第 76 條: article/76.md
+- 第 76-1 條: article/76-1.md
 # 第十章 罰則
 - 第 77 條: article/77.md
 - 第 78 條: article/78.md
@@ -104,4 +106,5 @@
 - 第 91 條: article/91.md
 # 第十一章 附則
 - 第 92 條: article/92.md
+- 第 92-1 條: article/92-1.md
 - 第 93 條: article/93.md
