@@ -1,5 +1,5 @@
 文化資產保存法
-中華民國71年5月26日公布（制定）
+中華民國86年1月22日公布（修正）
 
 # 第一章 總則
 - 第 1 條: article/1.md
@@ -35,11 +35,13 @@
 - 第 29 條: article/29.md
 - 第 30 條: article/30.md
 - 第 31 條: article/31.md
+- 第 31-1 條: article/31-1.md
 - 第 32 條: article/32.md
 - 第 33 條: article/33.md
 - 第 34 條: article/34.md
 - 第 35 條: article/35.md
 - 第 36 條: article/36.md
+- 第 36-1 條: article/36-1.md
 - 第 37 條: article/37.md
 - 第 38 條: article/38.md
 - 第 39 條: article/39.md
