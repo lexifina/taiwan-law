@@ -1,5 +1,5 @@
 化粧品衛生管理條例
-中華民國88年12月22日公布（修正）
+中華民國91年6月12日公布（修正）
 
 # 第一章 總則
 - 第 1 條: article/1.md
@@ -32,6 +32,7 @@
 - 第 24 條: article/24.md
 - 第 25 條: article/25.md
 - 第 26 條: article/26.md
+- 第 26-1 條: article/26-1.md
 # 第五章 罰則
 - 第 27 條: article/27.md
 - 第 28 條: article/28.md
@@ -40,6 +41,7 @@
 - 第 31 條: article/31.md
 - 第 32 條: article/32.md
 - 第 33 條: article/33.md
+- 第 33-1 條: article/33-1.md
 # 第六章 附則
 - 第 34 條: article/34.md
 - 第 35 條: article/35.md
