@@ -1,5 +1,5 @@
 私立學校法
-中華民國85年10月2日公布（修正）
+中華民國86年6月18日公布（全文修正）
 
 # 第一章 總則
 - 第 1 條: article/1.md
@@ -11,7 +11,7 @@
 - 第 7 條: article/7.md
 - 第 8 條: article/8.md
 - 第 9 條: article/9.md
-# 第二章 設立程序
+# 第二章 設立
 ## 第一節 籌設
 - 第 10 條: article/10.md
 - 第 11 條: article/11.md
@@ -37,31 +37,31 @@
 - 第 30 條: article/30.md
 - 第 31 條: article/31.md
 - 第 32 條: article/32.md
-## 第三節 財團法人登記
 - 第 33 條: article/33.md
 - 第 34 條: article/34.md
+## 第三節 財團法人登記
 - 第 35 條: article/35.md
 - 第 36 條: article/36.md
 - 第 37 條: article/37.md
 - 第 38 條: article/38.md
-## 第四節 立案與招生
 - 第 39 條: article/39.md
 - 第 40 條: article/40.md
+## 第四節 立案與招生
 - 第 41 條: article/41.md
 - 第 42 條: article/42.md
 - 第 43 條: article/43.md
-# 第三章 獎勵
 - 第 44 條: article/44.md
 - 第 45 條: article/45.md
+# 第三章 獎勵與補助
 - 第 46 條: article/46.md
 - 第 47 條: article/47.md
 - 第 48 條: article/48.md
 - 第 49 條: article/49.md
 - 第 50 條: article/50.md
-# 第四章 監督
 - 第 51 條: article/51.md
 - 第 52 條: article/52.md
 - 第 53 條: article/53.md
+# 第四章 監督
 - 第 54 條: article/54.md
 - 第 55 條: article/55.md
 - 第 56 條: article/56.md
@@ -77,15 +77,18 @@
 - 第 66 條: article/66.md
 - 第 67 條: article/67.md
 - 第 68 條: article/68.md
+# 第五章 停辦與解散
 - 第 69 條: article/69.md
 - 第 70 條: article/70.md
 - 第 71 條: article/71.md
 - 第 72 條: article/72.md
 - 第 73 條: article/73.md
-# 第五章 附則
 - 第 74 條: article/74.md
 - 第 75 條: article/75.md
 - 第 76 條: article/76.md
 - 第 77 條: article/77.md
+# 第六章 附則
 - 第 78 條: article/78.md
 - 第 79 條: article/79.md
+- 第 80 條: article/80.md
+- 第 81 條: article/81.md
