@@ -1,5 +1,5 @@
 陸海空軍刑法
-中華民國88年4月21日公布（修正）
+中華民國90年9月28日公布（全文修正）
 
 # 第一編 總則
 - 第 1 條: article/1.md
@@ -15,10 +15,10 @@
 - 第 11 條: article/11.md
 - 第 12 條: article/12.md
 - 第 13 條: article/13.md
+# 第二編 分則
+## 第一章 違反效忠國家職責罪
 - 第 14 條: article/14.md
 - 第 15 條: article/15.md
-# 第二編 分則
-## 第一章 叛亂罪
 - 第 16 條: article/16.md
 - 第 17 條: article/17.md
 - 第 18 條: article/18.md
@@ -28,8 +28,8 @@
 - 第 22 條: article/22.md
 - 第 23 條: article/23.md
 - 第 24 條: article/24.md
-## 第二章 擅權罪
 - 第 25 條: article/25.md
+## 第二章 違反職役職責罪
 - 第 26 條: article/26.md
 - 第 27 條: article/27.md
 - 第 28 條: article/28.md
@@ -37,7 +37,6 @@
 - 第 30 條: article/30.md
 - 第 31 條: article/31.md
 - 第 32 條: article/32.md
-## 第三章 辱職罪
 - 第 33 條: article/33.md
 - 第 34 條: article/34.md
 - 第 35 條: article/35.md
@@ -47,17 +46,20 @@
 - 第 39 條: article/39.md
 - 第 40 條: article/40.md
 - 第 41 條: article/41.md
+## 第三章 違反長官職責罪
 - 第 42 條: article/42.md
 - 第 43 條: article/43.md
 - 第 44 條: article/44.md
 - 第 45 條: article/45.md
 - 第 46 條: article/46.md
+## 第四章 違反部屬職責罪
 - 第 47 條: article/47.md
 - 第 48 條: article/48.md
 - 第 49 條: article/49.md
 - 第 50 條: article/50.md
 - 第 51 條: article/51.md
 - 第 52 條: article/52.md
+## 第五章 其他軍事犯罪
 - 第 53 條: article/53.md
 - 第 54 條: article/54.md
 - 第 55 條: article/55.md
@@ -68,11 +70,9 @@
 - 第 60 條: article/60.md
 - 第 61 條: article/61.md
 - 第 62 條: article/62.md
-## 第四章 抗命罪
 - 第 63 條: article/63.md
 - 第 64 條: article/64.md
 - 第 65 條: article/65.md
-## 第五章 暴行脅迫罪
 - 第 66 條: article/66.md
 - 第 67 條: article/67.md
 - 第 68 條: article/68.md
@@ -82,63 +82,9 @@
 - 第 72 條: article/72.md
 - 第 73 條: article/73.md
 - 第 74 條: article/74.md
-## 第六章 侮辱罪
 - 第 75 條: article/75.md
+# 第三編 附則
 - 第 76 條: article/76.md
-## 第七章 盜賣軍用品罪
 - 第 77 條: article/77.md
 - 第 78 條: article/78.md
-## 第八章 私造軍火罪
 - 第 79 條: article/79.md
-## 第九章 縱火罪
-- 第 80 條: article/80.md
-- 第 81 條: article/81.md
-## 第十章 掠奪罪
-- 第 82 條: article/82.md
-- 第 83 條: article/83.md
-- 第 84 條: article/84.md
-- 第 85 條: article/85.md
-- 第 86 條: article/86.md
-## 第十一章 強制性交罪
-- 第 87 條: article/87.md
-## 第十二章 詐偽罪
-- 第 88 條: article/88.md
-- 第 89 條: article/89.md
-- 第 90 條: article/90.md
-- 第 91 條: article/91.md
-- 第 92 條: article/92.md
-## 第十三章 逃亡罪
-- 第 93 條: article/93.md
-- 第 94 條: article/94.md
-- 第 95 條: article/95.md
-- 第 96 條: article/96.md
-- 第 97 條: article/97.md
-- 第 98 條: article/98.md
-## 第十四章 收容逃亡罪
-- 第 99 條: article/99.md
-- 第 100 條: article/100.md
-- 第 101 條: article/101.md
-## 第十五章 損壞軍用物品罪
-- 第 102 條: article/102.md
-- 第 103 條: article/103.md
-- 第 104 條: article/104.md
-- 第 105 條: article/105.md
-- 第 106 條: article/106.md
-## 第十六章 違背職守罪
-- 第 107 條: article/107.md
-- 第 108 條: article/108.md
-- 第 109 條: article/109.md
-- 第 110 條: article/110.md
-- 第 111 條: article/111.md
-- 第 112 條: article/112.md
-- 第 113 條: article/113.md
-- 第 114 條: article/114.md
-- 第 115 條: article/115.md
-- 第 116 條: article/116.md
-- 第 117 條: article/117.md
-- 第 118 條: article/118.md
-- 第 119 條: article/119.md
-- 第 120 條: article/120.md
-- 第 121 條: article/121.md
-## 第十七章 附則
-- 第 122 條: article/122.md
