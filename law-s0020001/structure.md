@@ -1,5 +1,5 @@
 公務人員任用法
-中華民國84年1月28日公布（修正）
+中華民國85年11月14日公布（修正）
 
 - 第 1 條: article/1.md
 - 第 2 條: article/2.md
@@ -28,8 +28,10 @@
 - 第 24 條: article/24.md
 - 第 25 條: article/25.md
 - 第 26 條: article/26.md
+- 第 26-1 條: article/26-1.md
 - 第 27 條: article/27.md
 - 第 28 條: article/28.md
+- 第 28-1 條: article/28-1.md
 - 第 29 條: article/29.md
 - 第 30 條: article/30.md
 - 第 31 條: article/31.md
