@@ -1,5 +1,5 @@
 著作權法
-中華民國81年7月6日公布（修正）
+中華民國82年4月24日公布（修正）
 
 # 第一章 總則
 - 第 1 條: article/1.md
@@ -105,6 +105,7 @@
 - 第 85 條: article/85.md
 - 第 86 條: article/86.md
 - 第 87 條: article/87.md
+- 第 87-1 條: article/87-1.md
 - 第 88 條: article/88.md
 - 第 89 條: article/89.md
 - 第 90 條: article/90.md
