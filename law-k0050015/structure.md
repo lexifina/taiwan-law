@@ -1,7 +1,7 @@
 郵政儲金匯兌法
-修正日期：民國 103 年 01 月 29 日
+中華民國91年7月10日公布（制定）
 
-## 第 一 章 總則
+# 第一章 總則
 - 第 1 條: article/1.md
 - 第 2 條: article/2.md
 - 第 3 條: article/3.md
@@ -15,7 +15,7 @@
 - 第 11 條: article/11.md
 - 第 12 條: article/12.md
 - 第 13 條: article/13.md
-## 第 二 章 郵政儲金
+# 第二章 郵政儲金
 - 第 14 條: article/14.md
 - 第 15 條: article/15.md
 - 第 16 條: article/16.md
@@ -23,17 +23,17 @@
 - 第 18 條: article/18.md
 - 第 19 條: article/19.md
 - 第 20 條: article/20.md
-## 第 三 章 郵政匯兌
+# 第三章 郵政匯兌
 - 第 21 條: article/21.md
 - 第 22 條: article/22.md
 - 第 23 條: article/23.md
 - 第 24 條: article/24.md
 - 第 25 條: article/25.md
-## 第 四 章 罰則
+# 第四章 罰則
 - 第 26 條: article/26.md
 - 第 27 條: article/27.md
 - 第 28 條: article/28.md
 - 第 29 條: article/29.md
-## 第 五 章 附則
+# 第五章 附則
 - 第 30 條: article/30.md
 - 第 31 條: article/31.md
