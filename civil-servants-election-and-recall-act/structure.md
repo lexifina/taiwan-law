@@ -1,5 +1,5 @@
 公職人員選舉罷免法
-中華民國83年6月10日公布（修正）
+中華民國83年7月23日公布（修正）
 
 # 第一章 總則
 - 第 1 條: article/1.md
@@ -44,6 +44,7 @@
 - 第 35 條: article/35.md
 - 第 35-1 條: article/35-1.md
 - 第 36 條: article/36.md
+- 第 36-1 條: article/36-1.md
 - 第 37 條: article/37.md
 - 第 38 條: article/38.md
 ## 第四節 選舉區
@@ -66,6 +67,7 @@
 - 第 48 條: article/48.md
 - 第 49 條: article/49.md
 - 第 50 條: article/50.md
+- 第 50-1 條: article/50-1.md
 - 第 51 條: article/51.md
 - 第 51-1 條: article/51-1.md
 - 第 52 條: article/52.md
@@ -121,10 +123,13 @@
 - 第 88 條: article/88.md
 - 第 89 條: article/89.md
 - 第 90 條: article/90.md
+- 第 90-1 條: article/90-1.md
 - 第 91 條: article/91.md
+- 第 91-1 條: article/91-1.md
 - 第 92 條: article/92.md
 - 第 93 條: article/93.md
 - 第 94 條: article/94.md
+- 第 94-1 條: article/94-1.md
 - 第 95 條: article/95.md
 - 第 95-1 條: article/95-1.md
 - 第 96 條: article/96.md
@@ -135,6 +140,7 @@
 - 第 98 條: article/98.md
 - 第 99 條: article/99.md
 - 第 100 條: article/100.md
+- 第 100-1 條: article/100-1.md
 # 第六章 選舉罷免訴訟
 - 第 101 條: article/101.md
 - 第 102 條: article/102.md
