@@ -1,5 +1,5 @@
 簡易人壽保險法
-中華民國87年10月21日公布（修正）
+中華民國91年7月10日公布（全文修正）
 
 - 第 1 條: article/1.md
 - 第 2 條: article/2.md
@@ -39,3 +39,8 @@
 - 第 36 條: article/36.md
 - 第 37 條: article/37.md
 - 第 38 條: article/38.md
+- 第 39 條: article/39.md
+- 第 40 條: article/40.md
+- 第 41 條: article/41.md
+- 第 42 條: article/42.md
+- 第 43 條: article/43.md
