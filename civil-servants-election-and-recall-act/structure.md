@@ -1,5 +1,5 @@
-動員戡亂時期公職人員選舉罷免法
-中華民國78年2月3日公布（修正）
+公職人員選舉罷免法
+中華民國80年8月2日公布（修正）
 
 # 第一章 總則
 - 第 1 條: article/1.md
@@ -74,6 +74,8 @@
 - 第 55 條: article/55.md
 - 第 55-1 條: article/55-1.md
 - 第 56 條: article/56.md
+- 第 56-1 條: article/56-1.md
+- 第 56-2 條: article/56-2.md
 ## 第七節 投票及開票
 - 第 57 條: article/57.md
 - 第 58 條: article/58.md
@@ -87,7 +89,9 @@
 - 第 65 條: article/65.md
 - 第 66 條: article/66.md
 - 第 67 條: article/67.md
+- 第 67-1 條: article/67-1.md
 - 第 68 條: article/68.md
+- 第 68-1 條: article/68-1.md
 # 第四章 罷免
 ## 第一節 罷免案之提出
 - 第 69 條: article/69.md
