@@ -1,8 +1,9 @@
-營業稅法
-中華民國90年6月13日公布（修正）
+加值型及非加值型營業稅法
+中華民國90年7月9日公布（修正）
 
 # 第一章 總則
 - 第 1 條: article/1.md
+- 第 1-1 條: article/1-1.md
 - 第 2 條: article/2.md
 - 第 3 條: article/3.md
 - 第 3-1 條: article/3-1.md
@@ -13,6 +14,7 @@
 - 第 7 條: article/7.md
 - 第 8 條: article/8.md
 - 第 8-1 條: article/8-1.md
+- 第 8-2 條: article/8-2.md
 - 第 9 條: article/9.md
 # 第三章 稅率
 - 第 10 條: article/10.md
