@@ -1,5 +1,5 @@
-中華民國刑事訴訟法
-中華民國34年12月26日公布（修正）
+刑事訴訟法
+中華民國56年1月28日公布（全文修正）
 
 # 第一編 總則
 ## 第一章 法例
@@ -31,7 +31,7 @@
 - 第 24 條: article/24.md
 - 第 25 條: article/25.md
 - 第 26 條: article/26.md
-## 第四章 辯護人輔佐人及代理人
+## 第四章 辯護人、輔佐人及代理人
 - 第 27 條: article/27.md
 - 第 28 條: article/28.md
 - 第 29 條: article/29.md
@@ -166,7 +166,8 @@
 - 第 151 條: article/151.md
 - 第 152 條: article/152.md
 - 第 153 條: article/153.md
-## 第十二章 勘驗
+## 第十二章 證據
+### 第一節 通則
 - 第 154 條: article/154.md
 - 第 155 條: article/155.md
 - 第 156 條: article/156.md
@@ -175,7 +176,6 @@
 - 第 159 條: article/159.md
 - 第 160 條: article/160.md
 - 第 161 條: article/161.md
-## 第十三章 人證
 - 第 162 條: article/162.md
 - 第 163 條: article/163.md
 - 第 164 條: article/164.md
@@ -189,6 +189,7 @@
 - 第 172 條: article/172.md
 - 第 173 條: article/173.md
 - 第 174 條: article/174.md
+### 第二節 人證
 - 第 175 條: article/175.md
 - 第 176 條: article/176.md
 - 第 177 條: article/177.md
@@ -198,7 +199,6 @@
 - 第 181 條: article/181.md
 - 第 182 條: article/182.md
 - 第 183 條: article/183.md
-## 第十四章 鑑定及通譯
 - 第 184 條: article/184.md
 - 第 185 條: article/185.md
 - 第 186 條: article/186.md
@@ -212,9 +212,9 @@
 - 第 194 條: article/194.md
 - 第 195 條: article/195.md
 - 第 196 條: article/196.md
+### 第三節 鑑定及通譯
 - 第 197 條: article/197.md
 - 第 198 條: article/198.md
-## 第十五章 裁判
 - 第 199 條: article/199.md
 - 第 200 條: article/200.md
 - 第 201 條: article/201.md
@@ -223,14 +223,12 @@
 - 第 204 條: article/204.md
 - 第 205 條: article/205.md
 - 第 206 條: article/206.md
-# 第二編 第一審
-## 第一章 公訴
-### 第一節 偵查
 - 第 207 條: article/207.md
 - 第 208 條: article/208.md
 - 第 209 條: article/209.md
 - 第 210 條: article/210.md
 - 第 211 條: article/211.md
+### 第四節 勘驗
 - 第 212 條: article/212.md
 - 第 213 條: article/213.md
 - 第 214 條: article/214.md
@@ -239,6 +237,7 @@
 - 第 217 條: article/217.md
 - 第 218 條: article/218.md
 - 第 219 條: article/219.md
+## 第十三章 裁判
 - 第 220 條: article/220.md
 - 第 221 條: article/221.md
 - 第 222 條: article/222.md
@@ -247,6 +246,9 @@
 - 第 225 條: article/225.md
 - 第 226 條: article/226.md
 - 第 227 條: article/227.md
+# 第二編 第一審
+## 第一章 公訴
+### 第一節 偵查
 - 第 228 條: article/228.md
 - 第 229 條: article/229.md
 - 第 230 條: article/230.md
@@ -262,7 +264,6 @@
 - 第 240 條: article/240.md
 - 第 241 條: article/241.md
 - 第 242 條: article/242.md
-### 第二節 起訴
 - 第 243 條: article/243.md
 - 第 244 條: article/244.md
 - 第 245 條: article/245.md
@@ -270,7 +271,6 @@
 - 第 247 條: article/247.md
 - 第 248 條: article/248.md
 - 第 249 條: article/249.md
-### 第三節 審判
 - 第 250 條: article/250.md
 - 第 251 條: article/251.md
 - 第 252 條: article/252.md
@@ -285,6 +285,7 @@
 - 第 261 條: article/261.md
 - 第 262 條: article/262.md
 - 第 263 條: article/263.md
+### 第二節 起訴
 - 第 264 條: article/264.md
 - 第 265 條: article/265.md
 - 第 266 條: article/266.md
@@ -292,6 +293,7 @@
 - 第 268 條: article/268.md
 - 第 269 條: article/269.md
 - 第 270 條: article/270.md
+### 第三節 審判
 - 第 271 條: article/271.md
 - 第 272 條: article/272.md
 - 第 273 條: article/273.md
@@ -332,7 +334,6 @@
 - 第 308 條: article/308.md
 - 第 309 條: article/309.md
 - 第 310 條: article/310.md
-## 第二章 自訴
 - 第 311 條: article/311.md
 - 第 312 條: article/312.md
 - 第 313 條: article/313.md
@@ -341,6 +342,7 @@
 - 第 316 條: article/316.md
 - 第 317 條: article/317.md
 - 第 318 條: article/318.md
+## 第二章 自訴
 - 第 319 條: article/319.md
 - 第 320 條: article/320.md
 - 第 321 條: article/321.md
@@ -355,10 +357,9 @@
 - 第 330 條: article/330.md
 - 第 331 條: article/331.md
 - 第 332 條: article/332.md
+- 第 333 條: article/333.md
 - 第 334 條: article/334.md
 - 第 335 條: article/335.md
-# 第三編 上訴
-## 第一章 通則
 - 第 336 條: article/336.md
 - 第 337 條: article/337.md
 - 第 338 條: article/338.md
@@ -367,6 +368,8 @@
 - 第 341 條: article/341.md
 - 第 342 條: article/342.md
 - 第 343 條: article/343.md
+# 第三編 上訴
+## 第一章 通則
 - 第 344 條: article/344.md
 - 第 345 條: article/345.md
 - 第 346 條: article/346.md
@@ -376,7 +379,6 @@
 - 第 350 條: article/350.md
 - 第 351 條: article/351.md
 - 第 352 條: article/352.md
-## 第二章 第二審
 - 第 353 條: article/353.md
 - 第 354 條: article/354.md
 - 第 355 條: article/355.md
@@ -385,13 +387,13 @@
 - 第 358 條: article/358.md
 - 第 359 條: article/359.md
 - 第 360 條: article/360.md
+## 第二章 第二審
 - 第 361 條: article/361.md
 - 第 362 條: article/362.md
 - 第 363 條: article/363.md
 - 第 364 條: article/364.md
 - 第 365 條: article/365.md
 - 第 366 條: article/366.md
-## 第三章 第三審
 - 第 367 條: article/367.md
 - 第 368 條: article/368.md
 - 第 369 條: article/369.md
@@ -400,6 +402,7 @@
 - 第 372 條: article/372.md
 - 第 373 條: article/373.md
 - 第 374 條: article/374.md
+## 第三章 第三審
 - 第 375 條: article/375.md
 - 第 376 條: article/376.md
 - 第 377 條: article/377.md
@@ -420,7 +423,6 @@
 - 第 392 條: article/392.md
 - 第 393 條: article/393.md
 - 第 394 條: article/394.md
-# 第四編 抗告
 - 第 395 條: article/395.md
 - 第 396 條: article/396.md
 - 第 397 條: article/397.md
@@ -429,6 +431,7 @@
 - 第 400 條: article/400.md
 - 第 401 條: article/401.md
 - 第 402 條: article/402.md
+# 第四編 抗告
 - 第 403 條: article/403.md
 - 第 404 條: article/404.md
 - 第 405 條: article/405.md
@@ -439,7 +442,6 @@
 - 第 410 條: article/410.md
 - 第 411 條: article/411.md
 - 第 412 條: article/412.md
-# 第五編 再審
 - 第 413 條: article/413.md
 - 第 414 條: article/414.md
 - 第 415 條: article/415.md
@@ -447,6 +449,7 @@
 - 第 417 條: article/417.md
 - 第 418 條: article/418.md
 - 第 419 條: article/419.md
+# 第五編 再審
 - 第 420 條: article/420.md
 - 第 421 條: article/421.md
 - 第 422 條: article/422.md
@@ -461,7 +464,6 @@
 - 第 431 條: article/431.md
 - 第 432 條: article/432.md
 - 第 433 條: article/433.md
-# 第六編 非常上訴
 - 第 434 條: article/434.md
 - 第 435 條: article/435.md
 - 第 436 條: article/436.md
@@ -469,8 +471,8 @@
 - 第 438 條: article/438.md
 - 第 439 條: article/439.md
 - 第 440 條: article/440.md
+# 第六編 非常上訴
 - 第 441 條: article/441.md
-# 第七編 簡易程序
 - 第 442 條: article/442.md
 - 第 443 條: article/443.md
 - 第 444 條: article/444.md
@@ -478,6 +480,7 @@
 - 第 446 條: article/446.md
 - 第 447 條: article/447.md
 - 第 448 條: article/448.md
+# 第七編 簡易程序
 - 第 449 條: article/449.md
 - 第 450 條: article/450.md
 - 第 451 條: article/451.md
@@ -485,11 +488,11 @@
 - 第 453 條: article/453.md
 - 第 454 條: article/454.md
 - 第 455 條: article/455.md
+# 第八編 執行
 - 第 456 條: article/456.md
 - 第 457 條: article/457.md
 - 第 458 條: article/458.md
 - 第 459 條: article/459.md
-# 第八編 執行
 - 第 460 條: article/460.md
 - 第 461 條: article/461.md
 - 第 462 條: article/462.md
@@ -517,11 +520,11 @@
 - 第 484 條: article/484.md
 - 第 485 條: article/485.md
 - 第 486 條: article/486.md
+# 第九編 附帶民事訴訟
 - 第 487 條: article/487.md
 - 第 488 條: article/488.md
 - 第 489 條: article/489.md
 - 第 490 條: article/490.md
-# 第九編 附帶民事訴訟
 - 第 491 條: article/491.md
 - 第 492 條: article/492.md
 - 第 493 條: article/493.md
@@ -544,7 +547,3 @@
 - 第 510 條: article/510.md
 - 第 511 條: article/511.md
 - 第 512 條: article/512.md
-- 第 513 條: article/513.md
-- 第 514 條: article/514.md
-- 第 515 條: article/515.md
-- 第 516 條: article/516.md
