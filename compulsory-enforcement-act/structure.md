@@ -1,17 +1,12 @@
 強制執行法
-修正日期：民國 108 年 05 月 29 日
+中華民國29年1月19日公布（制定）
 
-## 第 一 章 總則
+# 第一章 總則
 - 第 1 條: article/1.md
 - 第 2 條: article/2.md
 - 第 3 條: article/3.md
-- 第 3-1 條: article/3-1.md
 - 第 4 條: article/4.md
-- 第 4-1 條: article/4-1.md
-- 第 4-2 條: article/4-2.md
 - 第 5 條: article/5.md
-- 第 5-1 條: article/5-1.md
-- 第 5-2 條: article/5-2.md
 - 第 6 條: article/6.md
 - 第 7 條: article/7.md
 - 第 8 條: article/8.md
@@ -21,7 +16,6 @@
 - 第 12 條: article/12.md
 - 第 13 條: article/13.md
 - 第 14 條: article/14.md
-- 第 14-1 條: article/14-1.md
 - 第 15 條: article/15.md
 - 第 16 條: article/16.md
 - 第 17 條: article/17.md
@@ -29,54 +23,36 @@
 - 第 19 條: article/19.md
 - 第 20 條: article/20.md
 - 第 21 條: article/21.md
-- 第 21-1 條: article/21-1.md
-- 第 21-2 條: article/21-2.md
 - 第 22 條: article/22.md
-- 第 22-1 條: article/22-1.md
-- 第 22-2 條: article/22-2.md
-- 第 22-3 條: article/22-3.md
-- 第 22-4 條: article/22-4.md
-- 第 22-5 條: article/22-5.md
 - 第 23 條: article/23.md
 - 第 24 條: article/24.md
 - 第 25 條: article/25.md
 - 第 26 條: article/26.md
 - 第 27 條: article/27.md
 - 第 28 條: article/28.md
-- 第 28-1 條: article/28-1.md
-- 第 28-2 條: article/28-2.md
-- 第 28-3 條: article/28-3.md
 - 第 29 條: article/29.md
 - 第 30 條: article/30.md
-- 第 30-1 條: article/30-1.md
-## 第 二 章 關於金錢請求權之執行
-### 第 一 節 參與分配
 - 第 31 條: article/31.md
 - 第 32 條: article/32.md
 - 第 33 條: article/33.md
-- 第 33-1 條: article/33-1.md
-- 第 33-2 條: article/33-2.md
 - 第 34 條: article/34.md
-- 第 34-1 條: article/34-1.md
 - 第 35 條: article/35.md
 - 第 36 條: article/36.md
 - 第 37 條: article/37.md
 - 第 38 條: article/38.md
 - 第 39 條: article/39.md
 - 第 40 條: article/40.md
-- 第 40-1 條: article/40-1.md
 - 第 41 條: article/41.md
 - 第 42 條: article/42.md
 - 第 43 條: article/43.md
 - 第 44 條: article/44.md
-### 第 二 節 對於動產之執行
+# 第二章 對於動產之執行
 - 第 45 條: article/45.md
 - 第 46 條: article/46.md
 - 第 47 條: article/47.md
 - 第 48 條: article/48.md
 - 第 49 條: article/49.md
 - 第 50 條: article/50.md
-- 第 50-1 條: article/50-1.md
 - 第 51 條: article/51.md
 - 第 52 條: article/52.md
 - 第 53 條: article/53.md
@@ -86,10 +62,7 @@
 - 第 57 條: article/57.md
 - 第 58 條: article/58.md
 - 第 59 條: article/59.md
-- 第 59-1 條: article/59-1.md
-- 第 59-2 條: article/59-2.md
 - 第 60 條: article/60.md
-- 第 60-1 條: article/60-1.md
 - 第 61 條: article/61.md
 - 第 62 條: article/62.md
 - 第 63 條: article/63.md
@@ -98,23 +71,19 @@
 - 第 66 條: article/66.md
 - 第 67 條: article/67.md
 - 第 68 條: article/68.md
-- 第 68-1 條: article/68-1.md
-- 第 68-2 條: article/68-2.md
 - 第 69 條: article/69.md
 - 第 70 條: article/70.md
 - 第 71 條: article/71.md
 - 第 72 條: article/72.md
 - 第 73 條: article/73.md
 - 第 74 條: article/74.md
-### 第 三 節 對於不動產之執行
+# 第三章 對於不動產之執行
 - 第 75 條: article/75.md
 - 第 76 條: article/76.md
 - 第 77 條: article/77.md
-- 第 77-1 條: article/77-1.md
 - 第 78 條: article/78.md
 - 第 79 條: article/79.md
 - 第 80 條: article/80.md
-- 第 80-1 條: article/80-1.md
 - 第 81 條: article/81.md
 - 第 82 條: article/82.md
 - 第 83 條: article/83.md
@@ -148,45 +117,29 @@
 - 第 111 條: article/111.md
 - 第 112 條: article/112.md
 - 第 113 條: article/113.md
-### 第 四 節 對於船舶及航空器之執行
 - 第 114 條: article/114.md
-- 第 114-1 條: article/114-1.md
-- 第 114-2 條: article/114-2.md
-- 第 114-3 條: article/114-3.md
-- 第 114-4 條: article/114-4.md
-### 第 五 節 對於其他財產權之執行
+# 第四章 對於其他財產權之執行
 - 第 115 條: article/115.md
-- 第 115-1 條: article/115-1.md
-- 第 115-2 條: article/115-2.md
 - 第 116 條: article/116.md
-- 第 116-1 條: article/116-1.md
 - 第 117 條: article/117.md
 - 第 118 條: article/118.md
 - 第 119 條: article/119.md
 - 第 120 條: article/120.md
 - 第 121 條: article/121.md
 - 第 122 條: article/122.md
-### 第 六 節 對於公法人財產之執行
-- 第 122-1 條: article/122-1.md
-- 第 122-2 條: article/122-2.md
-- 第 122-3 條: article/122-3.md
-- 第 122-4 條: article/122-4.md
-## 第 三 章 關於物之交付請求權之執行
+# 第五章 關於物之交付請求權之執行
 - 第 123 條: article/123.md
 - 第 124 條: article/124.md
 - 第 125 條: article/125.md
 - 第 126 條: article/126.md
-## 第 四 章 關於行為及不行為請求權之執行
+# 第六章 關於行為及不行為請求權之執行
 - 第 127 條: article/127.md
 - 第 128 條: article/128.md
 - 第 129 條: article/129.md
-- 第 129-1 條: article/129-1.md
 - 第 130 條: article/130.md
 - 第 131 條: article/131.md
-## 第 五 章 假扣押假處分之執行
+# 第七章 假扣押假處分之執行
 - 第 132 條: article/132.md
-- 第 132-1 條: article/132-1.md
-- 第 132-2 條: article/132-2.md
 - 第 133 條: article/133.md
 - 第 134 條: article/134.md
 - 第 135 條: article/135.md
@@ -195,6 +148,6 @@
 - 第 138 條: article/138.md
 - 第 139 條: article/139.md
 - 第 140 條: article/140.md
-## 第 六 章 附則
+# 第八章 附則
 - 第 141 條: article/141.md
 - 第 142 條: article/142.md
