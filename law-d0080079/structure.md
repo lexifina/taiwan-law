@@ -1,5 +1,5 @@
 性侵害犯罪防治法
-中華民國91年6月12日公布（修正）
+中華民國94年2月5日公布（全文修正）
 
 - 第 1 條: article/1.md
 - 第 2 條: article/2.md
@@ -7,8 +7,6 @@
 - 第 4 條: article/4.md
 - 第 5 條: article/5.md
 - 第 6 條: article/6.md
-- 第 6-1 條: article/6-1.md
-- 第 6-2 條: article/6-2.md
 - 第 7 條: article/7.md
 - 第 8 條: article/8.md
 - 第 9 條: article/9.md
@@ -23,3 +21,8 @@
 - 第 18 條: article/18.md
 - 第 19 條: article/19.md
 - 第 20 條: article/20.md
+- 第 21 條: article/21.md
+- 第 22 條: article/22.md
+- 第 23 條: article/23.md
+- 第 24 條: article/24.md
+- 第 25 條: article/25.md
