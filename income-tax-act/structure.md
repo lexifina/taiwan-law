@@ -1,11 +1,12 @@
 所得稅法
-中華民國84年1月27日公布（修正）
+中華民國86年12月30日公布（修正）
 
 # 第一章 總則
 ## 第一節 一般規定
 - 第 1 條: article/1.md
 - 第 2 條: article/2.md
 - 第 3 條: article/3.md
+- 第 3-1 條: article/3-1.md
 - 第 4 條: article/4.md
 - 第 4-1 條: article/4-1.md
 - 第 5 條: article/5.md
@@ -26,6 +27,7 @@
 - 第 17 條: article/17.md
 - 第 17-1 條: article/17-1.md
 - 第 17-2 條: article/17-2.md
+- 第 17-3 條: article/17-3.md
 # 第三章 營利事業所得稅
 ## 第一節 登記
 - 第 18 條: article/18.md
@@ -83,6 +85,17 @@
 - 第 64 條: article/64.md
 - 第 65 條: article/65.md
 - 第 66 條: article/66.md
+## 第五節 股東可扣抵稅額帳戶
+- 第 66-1 條: article/66-1.md
+- 第 66-2 條: article/66-2.md
+- 第 66-3 條: article/66-3.md
+- 第 66-4 條: article/66-4.md
+- 第 66-5 條: article/66-5.md
+- 第 66-6 條: article/66-6.md
+- 第 66-7 條: article/66-7.md
+- 第 66-8 條: article/66-8.md
+## 第六節 未分配盈餘之課稅
+- 第 66-9 條: article/66-9.md
 # 第四章 稽徵程序
 ## 第一節 暫繳
 - 第 67 條: article/67.md
@@ -95,6 +108,7 @@
 - 第 72 條: article/72.md
 - 第 73 條: article/73.md
 - 第 73-1 條: article/73-1.md
+- 第 73-2 條: article/73-2.md
 - 第 74 條: article/74.md
 - 第 75 條: article/75.md
 - 第 76 條: article/76.md
@@ -133,6 +147,11 @@
 - 第 100-2 條: article/100-2.md
 - 第 101 條: article/101.md
 - 第 102 條: article/102.md
+## 第六節 盈餘申報
+- 第 102-1 條: article/102-1.md
+- 第 102-2 條: article/102-2.md
+- 第 102-3 條: article/102-3.md
+- 第 102-4 條: article/102-4.md
 # 第五章 獎懲
 - 第 103 條: article/103.md
 - 第 104 條: article/104.md
@@ -141,13 +160,18 @@
 - 第 107 條: article/107.md
 - 第 107-1 條: article/107-1.md
 - 第 108 條: article/108.md
+- 第 108-1 條: article/108-1.md
 - 第 109 條: article/109.md
 - 第 110 條: article/110.md
 - 第 110-1 條: article/110-1.md
+- 第 110-2 條: article/110-2.md
 - 第 111 條: article/111.md
 - 第 112 條: article/112.md
 - 第 113 條: article/113.md
 - 第 114 條: article/114.md
+- 第 114-1 條: article/114-1.md
+- 第 114-2 條: article/114-2.md
+- 第 114-3 條: article/114-3.md
 - 第 115 條: article/115.md
 - 第 116 條: article/116.md
 - 第 117 條: article/117.md
