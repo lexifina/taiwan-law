@@ -1,5 +1,5 @@
 監察法
-中華民國37年7月17日公布（制定）
+中華民國38年6月11日公布（修正）
 
 # 第一章 總則
 - 第 1 條: article/1.md
@@ -26,14 +26,15 @@
 - 第 20 條: article/20.md
 - 第 21 條: article/21.md
 - 第 22 條: article/22.md
-# 第四章 糾正
 - 第 23 條: article/23.md
+# 第四章 糾正
 - 第 24 條: article/24.md
-# 第五章 調查
 - 第 25 條: article/25.md
+# 第五章 調查
 - 第 26 條: article/26.md
 - 第 27 條: article/27.md
 - 第 28 條: article/28.md
 - 第 29 條: article/29.md
-# 第六章 附則
 - 第 30 條: article/30.md
+# 第六章 附則
+- 第 31 條: article/31.md
