@@ -1,5 +1,5 @@
 公司法
-中華民國59年9月4日公布（修正）
+中華民國69年5月9日公布（修正）
 
 # 第一章 總則
 - 第 1 條: article/1.md
@@ -30,6 +30,7 @@
 - 第 26 條: article/26.md
 - 第 27 條: article/27.md
 - 第 28 條: article/28.md
+- 第 28-1 條: article/28-1.md
 - 第 29 條: article/29.md
 - 第 30 條: article/30.md
 - 第 31 條: article/31.md
@@ -175,6 +176,7 @@
 - 第 159 條: article/159.md
 - 第 160 條: article/160.md
 - 第 161 條: article/161.md
+- 第 161-1 條: article/161-1.md
 - 第 162 條: article/162.md
 - 第 163 條: article/163.md
 - 第 164 條: article/164.md
@@ -235,6 +237,8 @@
 - 第 216 條: article/216.md
 - 第 217 條: article/217.md
 - 第 218 條: article/218.md
+- 第 218-1 條: article/218-1.md
+- 第 218-2 條: article/218-2.md
 - 第 219 條: article/219.md
 - 第 220 條: article/220.md
 - 第 221 條: article/221.md
@@ -336,10 +340,11 @@
 - 第 312 條: article/312.md
 - 第 313 條: article/313.md
 - 第 314 條: article/314.md
-## 第十一節 解散、合併及變更組織
+## 第十一節 解散及合併
 - 第 315 條: article/315.md
 - 第 316 條: article/316.md
 - 第 317 條: article/317.md
+- 第 317-1 條: article/317-1.md
 - 第 318 條: article/318.md
 - 第 319 條: article/319.md
 - 第 320 條: article/320.md
@@ -382,7 +387,7 @@
 - 第 354 條: article/354.md
 - 第 355 條: article/355.md
 - 第 356 條: article/356.md
-# 第六章 股份兩合公司
+# 第六章 （刪除）
 - 第 357 條: article/357.md
 - 第 358 條: article/358.md
 - 第 359 條: article/359.md
@@ -432,6 +437,7 @@
 - 第 400 條: article/400.md
 - 第 401 條: article/401.md
 - 第 402 條: article/402.md
+- 第 402-1 條: article/402-1.md
 - 第 403 條: article/403.md
 - 第 404 條: article/404.md
 - 第 405 條: article/405.md
