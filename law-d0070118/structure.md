@@ -1,5 +1,5 @@
 公寓大廈管理條例
-中華民國89年4月26日公布（修正）
+中華民國92年12月31日公布（全文修正）
 
 # 第一章 總則
 - 第 1 條: article/1.md
@@ -41,20 +41,32 @@
 - 第 35 條: article/35.md
 - 第 36 條: article/36.md
 - 第 37 條: article/37.md
-# 第四章 罰則
 - 第 38 條: article/38.md
 - 第 39 條: article/39.md
 - 第 40 條: article/40.md
-# 第五章 附則
+# 第四章 管理服務人
 - 第 41 條: article/41.md
 - 第 42 條: article/42.md
 - 第 43 條: article/43.md
 - 第 44 條: article/44.md
 - 第 45 條: article/45.md
 - 第 46 條: article/46.md
+# 第五章 罰則
 - 第 47 條: article/47.md
 - 第 48 條: article/48.md
 - 第 49 條: article/49.md
 - 第 50 條: article/50.md
 - 第 51 條: article/51.md
 - 第 52 條: article/52.md
+# 第六章 附則
+- 第 53 條: article/53.md
+- 第 54 條: article/54.md
+- 第 55 條: article/55.md
+- 第 56 條: article/56.md
+- 第 57 條: article/57.md
+- 第 58 條: article/58.md
+- 第 59 條: article/59.md
+- 第 60 條: article/60.md
+- 第 61 條: article/61.md
+- 第 62 條: article/62.md
+- 第 63 條: article/63.md
