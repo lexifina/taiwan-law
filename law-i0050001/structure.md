@@ -1,5 +1,5 @@
 更生保護法
-中華民國69年7月4日公布（修正）
+中華民國91年7月10日公布（修正）
 
 - 第 1 條: article/1.md
 - 第 2 條: article/2.md
@@ -10,6 +10,7 @@
 - 第 7 條: article/7.md
 - 第 8 條: article/8.md
 - 第 9 條: article/9.md
+- 第 9-1 條: article/9-1.md
 - 第 10 條: article/10.md
 - 第 11 條: article/11.md
 - 第 12 條: article/12.md
@@ -17,6 +18,7 @@
 - 第 14 條: article/14.md
 - 第 15 條: article/15.md
 - 第 16 條: article/16.md
+- 第 16-1 條: article/16-1.md
 - 第 17 條: article/17.md
 - 第 18 條: article/18.md
 - 第 19 條: article/19.md
