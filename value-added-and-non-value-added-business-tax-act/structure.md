@@ -1,5 +1,5 @@
 營業稅法
-中華民國35年4月16日公布（全文修正）
+中華民國36年5月2日公布（全文修正）
 
 - 第 1 條: article/1.md
 - 第 2 條: article/2.md
@@ -22,3 +22,10 @@
 - 第 19 條: article/19.md
 - 第 20 條: article/20.md
 - 第 21 條: article/21.md
+- 第 22 條: article/22.md
+- 第 23 條: article/23.md
+- 第 24 條: article/24.md
+- 第 25 條: article/25.md
+- 第 26 條: article/26.md
+- 第 27 條: article/27.md
+- 第 28 條: article/28.md
