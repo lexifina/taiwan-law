@@ -1,5 +1,5 @@
 民法第四編親屬
-中華民國19年12月26日公布（制定）
+中華民國74年6月3日公布（修正）
 
 ##### 民法 第四編 親屬
 # 第一章 通則
@@ -18,6 +18,8 @@
 - 第 977 條: article/977.md
 - 第 978 條: article/978.md
 - 第 979 條: article/979.md
+- 第 979-1 條: article/979-1.md
+- 第 979-2 條: article/979-2.md
 ## 第二節 結婚
 - 第 980 條: article/980.md
 - 第 981 條: article/981.md
@@ -39,6 +41,7 @@
 - 第 997 條: article/997.md
 - 第 998 條: article/998.md
 - 第 999 條: article/999.md
+- 第 999-1 條: article/999-1.md
 ## 第三節 婚姻之普通效力
 - 第 1000 條: article/1000.md
 - 第 1001 條: article/1001.md
@@ -51,6 +54,7 @@
 - 第 1006 條: article/1006.md
 - 第 1007 條: article/1007.md
 - 第 1008 條: article/1008.md
+- 第 1008-1 條: article/1008-1.md
 - 第 1009 條: article/1009.md
 - 第 1010 條: article/1010.md
 - 第 1011 條: article/1011.md
@@ -74,6 +78,7 @@
 - 第 1028 條: article/1028.md
 - 第 1029 條: article/1029.md
 - 第 1030 條: article/1030.md
+- 第 1030-1 條: article/1030-1.md
 ### 第三款 約定財產制
 #### 第一目 共同財產制
 - 第 1031 條: article/1031.md
@@ -87,7 +92,7 @@
 - 第 1039 條: article/1039.md
 - 第 1040 條: article/1040.md
 - 第 1041 條: article/1041.md
-#### 第二目 統一財產制
+#### 第二目 刪除
 - 第 1042 條: article/1042.md
 - 第 1043 條: article/1043.md
 #### 第三目 分別財產制
@@ -123,12 +128,15 @@
 - 第 1071 條: article/1071.md
 - 第 1072 條: article/1072.md
 - 第 1073 條: article/1073.md
+- 第 1073-1 條: article/1073-1.md
 - 第 1074 條: article/1074.md
 - 第 1075 條: article/1075.md
 - 第 1076 條: article/1076.md
 - 第 1077 條: article/1077.md
 - 第 1078 條: article/1078.md
 - 第 1079 條: article/1079.md
+- 第 1079-1 條: article/1079-1.md
+- 第 1079-2 條: article/1079-2.md
 - 第 1080 條: article/1080.md
 - 第 1081 條: article/1081.md
 - 第 1082 條: article/1082.md
@@ -155,6 +163,7 @@
 - 第 1101 條: article/1101.md
 - 第 1102 條: article/1102.md
 - 第 1103 條: article/1103.md
+- 第 1103-1 條: article/1103-1.md
 - 第 1104 條: article/1104.md
 - 第 1105 條: article/1105.md
 - 第 1106 條: article/1106.md
@@ -170,6 +179,7 @@
 - 第 1114 條: article/1114.md
 - 第 1115 條: article/1115.md
 - 第 1116 條: article/1116.md
+- 第 1116-1 條: article/1116-1.md
 - 第 1117 條: article/1117.md
 - 第 1118 條: article/1118.md
 - 第 1119 條: article/1119.md
