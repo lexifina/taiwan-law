@@ -1,5 +1,5 @@
 特殊教育法
-中華民國90年12月26日公布（修正）
+中華民國93年6月23日公布（修正）
 
 - 第 1 條: article/1.md
 - 第 2 條: article/2.md
@@ -32,5 +32,6 @@
 - 第 29 條: article/29.md
 - 第 30 條: article/30.md
 - 第 31 條: article/31.md
+- 第 31-1 條: article/31-1.md
 - 第 32 條: article/32.md
 - 第 33 條: article/33.md
