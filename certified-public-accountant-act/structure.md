@@ -1,12 +1,14 @@
 會計師法
-中華民國47年10月20日公布（修正）
+中華民國52年8月22日公布（全文修正）
 
+# 第一章 總則
 - 第 1 條: article/1.md
 - 第 2 條: article/2.md
 - 第 3 條: article/3.md
 - 第 4 條: article/4.md
 - 第 5 條: article/5.md
 - 第 6 條: article/6.md
+# 第二章 登錄
 - 第 7 條: article/7.md
 - 第 8 條: article/8.md
 - 第 9 條: article/9.md
@@ -14,6 +16,7 @@
 - 第 11 條: article/11.md
 - 第 12 條: article/12.md
 - 第 13 條: article/13.md
+# 第三章 業務及責任
 - 第 14 條: article/14.md
 - 第 15 條: article/15.md
 - 第 16 條: article/16.md
@@ -26,6 +29,7 @@
 - 第 23 條: article/23.md
 - 第 24 條: article/24.md
 - 第 25 條: article/25.md
+# 第四章 公會
 - 第 26 條: article/26.md
 - 第 27 條: article/27.md
 - 第 28 條: article/28.md
@@ -37,9 +41,17 @@
 - 第 34 條: article/34.md
 - 第 35 條: article/35.md
 - 第 36 條: article/36.md
+# 第五章 懲戒
 - 第 37 條: article/37.md
 - 第 38 條: article/38.md
 - 第 39 條: article/39.md
 - 第 40 條: article/40.md
 - 第 41 條: article/41.md
 - 第 42 條: article/42.md
+- 第 43 條: article/43.md
+- 第 44 條: article/44.md
+# 第六章 附則
+- 第 45 條: article/45.md
+- 第 46 條: article/46.md
+- 第 47 條: article/47.md
+- 第 48 條: article/48.md
