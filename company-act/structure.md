@@ -1,7 +1,7 @@
 公司法
-中華民國18年12月26日公布（制定）
+中華民國35年4月12日公布（全文修正）
 
-# 第一章 通則
+# 第一章 定義
 - 第 1 條: article/1.md
 - 第 2 條: article/2.md
 - 第 3 條: article/3.md
@@ -13,12 +13,10 @@
 - 第 9 條: article/9.md
 - 第 10 條: article/10.md
 - 第 11 條: article/11.md
-# 第二章 無限公司
-## 第一節 設立
+# 第二章 通則
 - 第 12 條: article/12.md
 - 第 13 條: article/13.md
 - 第 14 條: article/14.md
-## 第二節 公司之內部關係
 - 第 15 條: article/15.md
 - 第 16 條: article/16.md
 - 第 17 條: article/17.md
@@ -34,32 +32,32 @@
 - 第 27 條: article/27.md
 - 第 28 條: article/28.md
 - 第 29 條: article/29.md
-## 第三節 公司之對外關係
 - 第 30 條: article/30.md
 - 第 31 條: article/31.md
+# 第三章 無限公司
+## 第一節 設立
 - 第 32 條: article/32.md
 - 第 33 條: article/33.md
 - 第 34 條: article/34.md
+## 第二節 公司之內部關係
 - 第 35 條: article/35.md
 - 第 36 條: article/36.md
 - 第 37 條: article/37.md
 - 第 38 條: article/38.md
 - 第 39 條: article/39.md
-## 第四節 退股
 - 第 40 條: article/40.md
 - 第 41 條: article/41.md
 - 第 42 條: article/42.md
 - 第 43 條: article/43.md
 - 第 44 條: article/44.md
 - 第 45 條: article/45.md
-## 第五節 公司之解散
 - 第 46 條: article/46.md
 - 第 47 條: article/47.md
 - 第 48 條: article/48.md
 - 第 49 條: article/49.md
+## 第三節 公司之對外關係
 - 第 50 條: article/50.md
 - 第 51 條: article/51.md
-## 第六節 清算
 - 第 52 條: article/52.md
 - 第 53 條: article/53.md
 - 第 54 條: article/54.md
@@ -67,20 +65,22 @@
 - 第 56 條: article/56.md
 - 第 57 條: article/57.md
 - 第 58 條: article/58.md
+## 第四節 退股
 - 第 59 條: article/59.md
 - 第 60 條: article/60.md
 - 第 61 條: article/61.md
 - 第 62 條: article/62.md
 - 第 63 條: article/63.md
 - 第 64 條: article/64.md
+## 第五節 公司之解散
 - 第 65 條: article/65.md
 - 第 66 條: article/66.md
 - 第 67 條: article/67.md
 - 第 68 條: article/68.md
 - 第 69 條: article/69.md
-# 第三章 兩合公司
 - 第 70 條: article/70.md
 - 第 71 條: article/71.md
+## 第六節 清算
 - 第 72 條: article/72.md
 - 第 73 條: article/73.md
 - 第 74 條: article/74.md
@@ -96,10 +96,9 @@
 - 第 84 條: article/84.md
 - 第 85 條: article/85.md
 - 第 86 條: article/86.md
-# 第四章 股份有限公司
-## 第一節 設立
 - 第 87 條: article/87.md
 - 第 88 條: article/88.md
+# 第四章 兩合公司
 - 第 89 條: article/89.md
 - 第 90 條: article/90.md
 - 第 91 條: article/91.md
@@ -116,13 +115,13 @@
 - 第 102 條: article/102.md
 - 第 103 條: article/103.md
 - 第 104 條: article/104.md
+# 第五章 有限公司
 - 第 105 條: article/105.md
 - 第 106 條: article/106.md
 - 第 107 條: article/107.md
 - 第 108 條: article/108.md
 - 第 109 條: article/109.md
 - 第 110 條: article/110.md
-## 第二節 股份
 - 第 111 條: article/111.md
 - 第 112 條: article/112.md
 - 第 113 條: article/113.md
@@ -138,8 +137,9 @@
 - 第 123 條: article/123.md
 - 第 124 條: article/124.md
 - 第 125 條: article/125.md
+# 第六章 股份有限公司
+## 第一節 設立
 - 第 126 條: article/126.md
-## 第三節 股東會
 - 第 127 條: article/127.md
 - 第 128 條: article/128.md
 - 第 129 條: article/129.md
@@ -151,7 +151,6 @@
 - 第 135 條: article/135.md
 - 第 136 條: article/136.md
 - 第 137 條: article/137.md
-## 第四節 董事
 - 第 138 條: article/138.md
 - 第 139 條: article/139.md
 - 第 140 條: article/140.md
@@ -166,10 +165,10 @@
 - 第 149 條: article/149.md
 - 第 150 條: article/150.md
 - 第 151 條: article/151.md
-## 第五節 監察人
 - 第 152 條: article/152.md
 - 第 153 條: article/153.md
 - 第 154 條: article/154.md
+## 第二節 股份
 - 第 155 條: article/155.md
 - 第 156 條: article/156.md
 - 第 157 條: article/157.md
@@ -181,18 +180,17 @@
 - 第 163 條: article/163.md
 - 第 164 條: article/164.md
 - 第 165 條: article/165.md
-## 第六節 會計
 - 第 166 條: article/166.md
 - 第 167 條: article/167.md
 - 第 168 條: article/168.md
 - 第 169 條: article/169.md
 - 第 170 條: article/170.md
+## 第三節 股東
 - 第 171 條: article/171.md
 - 第 172 條: article/172.md
 - 第 173 條: article/173.md
 - 第 174 條: article/174.md
 - 第 175 條: article/175.md
-## 第七節 公司債
 - 第 176 條: article/176.md
 - 第 177 條: article/177.md
 - 第 178 條: article/178.md
@@ -201,9 +199,9 @@
 - 第 181 條: article/181.md
 - 第 182 條: article/182.md
 - 第 183 條: article/183.md
+## 第四節 董事
 - 第 184 條: article/184.md
 - 第 185 條: article/185.md
-## 第八節 變更章程
 - 第 186 條: article/186.md
 - 第 187 條: article/187.md
 - 第 188 條: article/188.md
@@ -218,8 +216,8 @@
 - 第 197 條: article/197.md
 - 第 198 條: article/198.md
 - 第 199 條: article/199.md
+## 第五節 監察人
 - 第 200 條: article/200.md
-## 第九節 解散
 - 第 201 條: article/201.md
 - 第 202 條: article/202.md
 - 第 203 條: article/203.md
@@ -233,8 +231,8 @@
 - 第 211 條: article/211.md
 - 第 212 條: article/212.md
 - 第 213 條: article/213.md
+## 第六節 經理人
 - 第 214 條: article/214.md
-# 第五章 股份兩合公司
 - 第 215 條: article/215.md
 - 第 216 條: article/216.md
 - 第 217 條: article/217.md
@@ -246,12 +244,151 @@
 - 第 223 條: article/223.md
 - 第 224 條: article/224.md
 - 第 225 條: article/225.md
+## 第七節 會計
 - 第 226 條: article/226.md
 - 第 227 條: article/227.md
 - 第 228 條: article/228.md
 - 第 229 條: article/229.md
 - 第 230 條: article/230.md
-# 第六章 罰則
 - 第 231 條: article/231.md
 - 第 232 條: article/232.md
 - 第 233 條: article/233.md
+- 第 234 條: article/234.md
+- 第 235 條: article/235.md
+## 第八節 公司債
+- 第 236 條: article/236.md
+- 第 237 條: article/237.md
+- 第 238 條: article/238.md
+- 第 239 條: article/239.md
+- 第 240 條: article/240.md
+- 第 241 條: article/241.md
+- 第 242 條: article/242.md
+- 第 243 條: article/243.md
+- 第 244 條: article/244.md
+- 第 245 條: article/245.md
+## 第九節 變更章程
+- 第 246 條: article/246.md
+- 第 247 條: article/247.md
+- 第 248 條: article/248.md
+- 第 249 條: article/249.md
+- 第 250 條: article/250.md
+- 第 251 條: article/251.md
+- 第 252 條: article/252.md
+- 第 253 條: article/253.md
+- 第 254 條: article/254.md
+- 第 255 條: article/255.md
+- 第 256 條: article/256.md
+- 第 257 條: article/257.md
+- 第 258 條: article/258.md
+- 第 259 條: article/259.md
+- 第 260 條: article/260.md
+- 第 261 條: article/261.md
+- 第 262 條: article/262.md
+## 第十節 解散
+- 第 263 條: article/263.md
+- 第 264 條: article/264.md
+- 第 265 條: article/265.md
+- 第 266 條: article/266.md
+## 第十一節 清算
+- 第 267 條: article/267.md
+- 第 268 條: article/268.md
+- 第 269 條: article/269.md
+- 第 270 條: article/270.md
+- 第 271 條: article/271.md
+- 第 272 條: article/272.md
+- 第 273 條: article/273.md
+- 第 274 條: article/274.md
+- 第 275 條: article/275.md
+- 第 276 條: article/276.md
+# 第七章 股份兩合公司
+- 第 277 條: article/277.md
+- 第 278 條: article/278.md
+- 第 279 條: article/279.md
+- 第 280 條: article/280.md
+- 第 281 條: article/281.md
+- 第 282 條: article/282.md
+- 第 283 條: article/283.md
+- 第 284 條: article/284.md
+- 第 285 條: article/285.md
+- 第 286 條: article/286.md
+- 第 287 條: article/287.md
+- 第 288 條: article/288.md
+- 第 289 條: article/289.md
+- 第 290 條: article/290.md
+# 第八章 外國公司
+- 第 291 條: article/291.md
+- 第 292 條: article/292.md
+- 第 293 條: article/293.md
+- 第 294 條: article/294.md
+- 第 295 條: article/295.md
+- 第 296 條: article/296.md
+- 第 297 條: article/297.md
+- 第 298 條: article/298.md
+- 第 299 條: article/299.md
+- 第 300 條: article/300.md
+- 第 301 條: article/301.md
+- 第 302 條: article/302.md
+- 第 303 條: article/303.md
+- 第 304 條: article/304.md
+- 第 305 條: article/305.md
+# 第九章 公司之登記及認許
+## 第一節 通則
+- 第 306 條: article/306.md
+- 第 307 條: article/307.md
+- 第 308 條: article/308.md
+- 第 309 條: article/309.md
+- 第 310 條: article/310.md
+- 第 311 條: article/311.md
+- 第 312 條: article/312.md
+- 第 313 條: article/313.md
+- 第 314 條: article/314.md
+## 第二節 規費
+- 第 315 條: article/315.md
+- 第 316 條: article/316.md
+- 第 317 條: article/317.md
+- 第 318 條: article/318.md
+- 第 319 條: article/319.md
+- 第 320 條: article/320.md
+- 第 321 條: article/321.md
+- 第 322 條: article/322.md
+- 第 323 條: article/323.md
+## 第三節 呈請程序
+- 第 324 條: article/324.md
+- 第 325 條: article/325.md
+- 第 326 條: article/326.md
+- 第 327 條: article/327.md
+- 第 328 條: article/328.md
+- 第 329 條: article/329.md
+- 第 330 條: article/330.md
+- 第 331 條: article/331.md
+- 第 332 條: article/332.md
+- 第 333 條: article/333.md
+- 第 334 條: article/334.md
+- 第 335 條: article/335.md
+- 第 336 條: article/336.md
+- 第 337 條: article/337.md
+- 第 338 條: article/338.md
+- 第 339 條: article/339.md
+- 第 340 條: article/340.md
+- 第 341 條: article/341.md
+- 第 342 條: article/342.md
+- 第 343 條: article/343.md
+- 第 344 條: article/344.md
+- 第 345 條: article/345.md
+- 第 346 條: article/346.md
+- 第 347 條: article/347.md
+- 第 348 條: article/348.md
+- 第 349 條: article/349.md
+- 第 350 條: article/350.md
+- 第 351 條: article/351.md
+- 第 352 條: article/352.md
+- 第 353 條: article/353.md
+- 第 354 條: article/354.md
+- 第 355 條: article/355.md
+- 第 356 條: article/356.md
+- 第 357 條: article/357.md
+- 第 358 條: article/358.md
+# 第十章 附則
+- 第 359 條: article/359.md
+- 第 360 條: article/360.md
+- 第 361 條: article/361.md
