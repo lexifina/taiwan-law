@@ -1,7 +1,7 @@
 信託法
-修正日期：民國 98 年 12 月 30 日
+中華民國85年1月26日公布（制定）
 
-## 第 一 章 總則
+# 第一章 總則
 - 第 1 條: article/1.md
 - 第 2 條: article/2.md
 - 第 3 條: article/3.md
@@ -10,7 +10,7 @@
 - 第 6 條: article/6.md
 - 第 7 條: article/7.md
 - 第 8 條: article/8.md
-## 第 二 章 信託財產
+# 第二章 信託財產
 - 第 9 條: article/9.md
 - 第 10 條: article/10.md
 - 第 11 條: article/11.md
@@ -19,12 +19,12 @@
 - 第 14 條: article/14.md
 - 第 15 條: article/15.md
 - 第 16 條: article/16.md
-## 第 三 章 受益人
+# 第三章 受益人
 - 第 17 條: article/17.md
 - 第 18 條: article/18.md
 - 第 19 條: article/19.md
 - 第 20 條: article/20.md
-## 第 四 章 受託人
+# 第四章 受託人
 - 第 21 條: article/21.md
 - 第 22 條: article/22.md
 - 第 23 條: article/23.md
@@ -56,7 +56,7 @@
 - 第 49 條: article/49.md
 - 第 50 條: article/50.md
 - 第 51 條: article/51.md
-## 第 五 章 信託監察人
+# 第五章 信託監察人
 - 第 52 條: article/52.md
 - 第 53 條: article/53.md
 - 第 54 條: article/54.md
@@ -65,10 +65,10 @@
 - 第 57 條: article/57.md
 - 第 58 條: article/58.md
 - 第 59 條: article/59.md
-## 第 六 章 信託之監督
+# 第六章 信託之監督
 - 第 60 條: article/60.md
 - 第 61 條: article/61.md
-## 第 七 章 信託關係之消滅
+# 第七章 信託關係之消滅
 - 第 62 條: article/62.md
 - 第 63 條: article/63.md
 - 第 64 條: article/64.md
@@ -76,7 +76,7 @@
 - 第 66 條: article/66.md
 - 第 67 條: article/67.md
 - 第 68 條: article/68.md
-## 第 八 章 公益信託
+# 第八章 公益信託
 - 第 69 條: article/69.md
 - 第 70 條: article/70.md
 - 第 71 條: article/71.md
@@ -94,5 +94,5 @@
 - 第 83 條: article/83.md
 - 第 84 條: article/84.md
 - 第 85 條: article/85.md
-## 第 九 章 附則
+# 第九章 附則
 - 第 86 條: article/86.md
