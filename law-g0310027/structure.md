@@ -1,5 +1,5 @@
 信託業法
-中華民國89年12月20日公布（修正）
+中華民國93年2月4日公布（修正）
 
 # 第一章 總則
 - 第 1 條: article/1.md
@@ -55,6 +55,9 @@
 - 第 47 條: article/47.md
 # 第六章 罰則
 - 第 48 條: article/48.md
+- 第 48-1 條: article/48-1.md
+- 第 48-2 條: article/48-2.md
+- 第 48-3 條: article/48-3.md
 - 第 49 條: article/49.md
 - 第 50 條: article/50.md
 - 第 51 條: article/51.md
@@ -65,6 +68,8 @@
 - 第 56 條: article/56.md
 - 第 57 條: article/57.md
 - 第 58 條: article/58.md
+- 第 58-1 條: article/58-1.md
+- 第 58-2 條: article/58-2.md
 # 第七章 附則
 - 第 59 條: article/59.md
 - 第 60 條: article/60.md
