@@ -1,5 +1,5 @@
 所得稅法
-中華民國90年1月3日公布（修正）
+中華民國90年6月13日公布（修正）
 
 # 第一章 總則
 ## 第一節 一般規定
@@ -7,12 +7,18 @@
 - 第 2 條: article/2.md
 - 第 3 條: article/3.md
 - 第 3-1 條: article/3-1.md
+- 第 3-2 條: article/3-2.md
+- 第 3-3 條: article/3-3.md
+- 第 3-4 條: article/3-4.md
 - 第 4 條: article/4.md
 - 第 4-1 條: article/4-1.md
 - 第 4-2 條: article/4-2.md
+- 第 4-3 條: article/4-3.md
 - 第 5 條: article/5.md
 - 第 5-1 條: article/5-1.md
 - 第 6 條: article/6.md
+- 第 6-1 條: article/6-1.md
+- 第 6-2 條: article/6-2.md
 ## 第二節 名詞定義
 - 第 7 條: article/7.md
 - 第 8 條: article/8.md
@@ -131,9 +137,11 @@
 ## 第四節 扣繳
 - 第 88 條: article/88.md
 - 第 89 條: article/89.md
+- 第 89-1 條: article/89-1.md
 - 第 90 條: article/90.md
 - 第 91 條: article/91.md
 - 第 92 條: article/92.md
+- 第 92-1 條: article/92-1.md
 - 第 93 條: article/93.md
 - 第 94 條: article/94.md
 - 第 95 條: article/95.md
@@ -167,6 +175,7 @@
 - 第 110-1 條: article/110-1.md
 - 第 110-2 條: article/110-2.md
 - 第 111 條: article/111.md
+- 第 111-1 條: article/111-1.md
 - 第 112 條: article/112.md
 - 第 113 條: article/113.md
 - 第 114 條: article/114.md
