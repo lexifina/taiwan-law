@@ -1,5 +1,5 @@
 律師法
-中華民國73年12月10日公布（修正）
+中華民國81年11月16日公布（全文修正）
 
 - 第 1 條: article/1.md
 - 第 2 條: article/2.md
@@ -52,3 +52,5 @@
 - 第 49 條: article/49.md
 - 第 50 條: article/50.md
 - 第 51 條: article/51.md
+- 第 52 條: article/52.md
+- 第 53 條: article/53.md
