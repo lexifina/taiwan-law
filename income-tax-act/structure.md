@@ -1,5 +1,5 @@
 所得稅法
-中華民國60年12月30日公布（修正）
+中華民國61年12月31日公布（修正）
 
 # 第一章 總則
 ## 第一節 一般規定
@@ -22,25 +22,26 @@
 - 第 15 條: article/15.md
 - 第 16 條: article/16.md
 - 第 17 條: article/17.md
+- 第 17-1 條: article/17-1.md
 # 第三章 營利事業所得稅
 ## 第一節 登記
 - 第 18 條: article/18.md
 - 第 19 條: article/19.md
 - 第 20 條: article/20.md
-## 第二節 設帳
+## 第二節 帳簿憑證與會計記錄
 - 第 21 條: article/21.md
 - 第 22 條: article/22.md
 - 第 23 條: article/23.md
 - 第 24 條: article/24.md
-## 第三節 營利事業所得額
 - 第 25 條: article/25.md
+## 第三節 營利事業所得額
 - 第 26 條: article/26.md
 - 第 27 條: article/27.md
 - 第 28 條: article/28.md
 - 第 29 條: article/29.md
 - 第 30 條: article/30.md
 - 第 31 條: article/31.md
-## 第二節 設帳
+## 第二節 帳簿憑證與會計記錄
 - 第 31-1 條: article/31-1.md
 ## 第三節 營利事業所得額
 - 第 32 條: article/32.md
@@ -48,7 +49,7 @@
 - 第 34 條: article/34.md
 - 第 35 條: article/35.md
 - 第 36 條: article/36.md
-## 第二節 設帳
+## 第二節 帳簿憑證與會計記錄
 - 第 37 條: article/37.md
 ## 第三節 營利事業所得額
 - 第 38 條: article/38.md
@@ -90,11 +91,13 @@
 - 第 70 條: article/70.md
 ## 第二節 結算申報
 - 第 71 條: article/71.md
+- 第 71-1 條: article/71-1.md
 - 第 72 條: article/72.md
 - 第 73 條: article/73.md
 - 第 74 條: article/74.md
 - 第 75 條: article/75.md
 - 第 76 條: article/76.md
+- 第 76-1 條: article/76-1.md
 - 第 77 條: article/77.md
 - 第 78 條: article/78.md
 - 第 79 條: article/79.md
@@ -102,6 +105,7 @@
 - 第 80 條: article/80.md
 - 第 81 條: article/81.md
 - 第 82 條: article/82.md
+- 第 82-1 條: article/82-1.md
 - 第 83 條: article/83.md
 - 第 84 條: article/84.md
 - 第 85 條: article/85.md
@@ -122,6 +126,7 @@
 - 第 98 條: article/98.md
 - 第 99 條: article/99.md
 - 第 100 條: article/100.md
+- 第 100-1 條: article/100-1.md
 - 第 101 條: article/101.md
 - 第 102 條: article/102.md
 # 第五章 獎懲
@@ -130,9 +135,11 @@
 - 第 105 條: article/105.md
 - 第 106 條: article/106.md
 - 第 107 條: article/107.md
+- 第 107-1 條: article/107-1.md
 - 第 108 條: article/108.md
 - 第 109 條: article/109.md
 - 第 110 條: article/110.md
+- 第 110-1 條: article/110-1.md
 - 第 111 條: article/111.md
 - 第 112 條: article/112.md
 - 第 113 條: article/113.md
