@@ -1,5 +1,5 @@
 刑事訴訟法
-中華民國93年4月7日公布（修正）
+中華民國93年6月23日公布（修正）
 
 # 第一編 總則
 ## 第一章 法例
@@ -428,10 +428,12 @@
 - 第 309 條: article/309.md
 - 第 310 條: article/310.md
 - 第 310-1 條: article/310-1.md
+- 第 310-2 條: article/310-2.md
 - 第 311 條: article/311.md
 - 第 312 條: article/312.md
 - 第 313 條: article/313.md
 - 第 314 條: article/314.md
+- 第 314-1 條: article/314-1.md
 - 第 315 條: article/315.md
 - 第 316 條: article/316.md
 - 第 317 條: article/317.md
