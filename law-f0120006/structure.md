@@ -1,5 +1,5 @@
 海上捕獲條例
-中華民國21年12月15日公布（制定）
+中華民國44年6月3日公布（全文修正）
 
 # 第一章 通則
 - 第 1 條: article/1.md
@@ -22,12 +22,13 @@
 - 第 17 條: article/17.md
 - 第 18 條: article/18.md
 - 第 19 條: article/19.md
+# 第三章 搜索
 - 第 20 條: article/20.md
 - 第 21 條: article/21.md
 - 第 22 條: article/22.md
 - 第 23 條: article/23.md
 - 第 24 條: article/24.md
-# 第三章 搜索
+# 第四章 拿捕
 - 第 25 條: article/25.md
 - 第 26 條: article/26.md
 - 第 27 條: article/27.md
@@ -41,10 +42,11 @@
 - 第 35 條: article/35.md
 - 第 36 條: article/36.md
 - 第 37 條: article/37.md
-# 第五章 制裁
+# 第五章 被拿捕船舶或其貨物應徵用之程序
 - 第 38 條: article/38.md
 - 第 39 條: article/39.md
 - 第 40 條: article/40.md
+# 第六章 制裁
 - 第 41 條: article/41.md
 - 第 42 條: article/42.md
 - 第 43 條: article/43.md
@@ -53,6 +55,9 @@
 - 第 46 條: article/46.md
 - 第 47 條: article/47.md
 - 第 48 條: article/48.md
-# 第六章 附則
 - 第 49 條: article/49.md
 - 第 50 條: article/50.md
+- 第 51 條: article/51.md
+- 第 52 條: article/52.md
+# 第七章 附則
+- 第 53 條: article/53.md
