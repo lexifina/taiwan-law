@@ -1,5 +1,5 @@
 妨害兵役治罪條例
-中華民國81年4月6日公布（修正）
+中華民國91年6月26日公布（全文修正）
 
 - 第 1 條: article/1.md
 - 第 2 條: article/2.md
@@ -26,6 +26,3 @@
 - 第 23 條: article/23.md
 - 第 24 條: article/24.md
 - 第 25 條: article/25.md
-- 第 26 條: article/26.md
-- 第 27 條: article/27.md
-- 第 28 條: article/28.md
