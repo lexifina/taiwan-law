@@ -1,7 +1,7 @@
 銀行法
-中華民國57年11月11日公布（修正）
+中華民國64年7月4日公布（全文修正）
 
-# 第一章 定義
+# 第一章 通則
 - 第 1 條: article/1.md
 - 第 2 條: article/2.md
 - 第 3 條: article/3.md
@@ -14,7 +14,6 @@
 - 第 10 條: article/10.md
 - 第 11 條: article/11.md
 - 第 12 條: article/12.md
-# 第二章 通則
 - 第 13 條: article/13.md
 - 第 14 條: article/14.md
 - 第 15 條: article/15.md
@@ -49,17 +48,16 @@
 - 第 44 條: article/44.md
 - 第 45 條: article/45.md
 - 第 46 條: article/46.md
-# 第三章 商業銀行
 - 第 47 條: article/47.md
 - 第 48 條: article/48.md
 - 第 49 條: article/49.md
 - 第 50 條: article/50.md
 - 第 51 條: article/51.md
+# 第二章 銀行之設立、變更、停業、解散
 - 第 52 條: article/52.md
 - 第 53 條: article/53.md
 - 第 54 條: article/54.md
 - 第 55 條: article/55.md
-# 第四章 實業銀行
 - 第 56 條: article/56.md
 - 第 57 條: article/57.md
 - 第 58 條: article/58.md
@@ -69,12 +67,12 @@
 - 第 62 條: article/62.md
 - 第 63 條: article/63.md
 - 第 64 條: article/64.md
-# 第五章 儲蓄銀行
 - 第 65 條: article/65.md
 - 第 66 條: article/66.md
 - 第 67 條: article/67.md
 - 第 68 條: article/68.md
 - 第 69 條: article/69.md
+# 第三章 商業銀行
 - 第 70 條: article/70.md
 - 第 71 條: article/71.md
 - 第 72 條: article/72.md
@@ -82,32 +80,32 @@
 - 第 74 條: article/74.md
 - 第 75 條: article/75.md
 - 第 76 條: article/76.md
+# 第四章 儲蓄銀行
 - 第 77 條: article/77.md
 - 第 78 條: article/78.md
 - 第 79 條: article/79.md
 - 第 80 條: article/80.md
 - 第 81 條: article/81.md
 - 第 82 條: article/82.md
-# 第六章 信託公司
 - 第 83 條: article/83.md
 - 第 84 條: article/84.md
 - 第 85 條: article/85.md
 - 第 86 條: article/86.md
+# 第五章 專業銀行
 - 第 87 條: article/87.md
 - 第 88 條: article/88.md
 - 第 89 條: article/89.md
 - 第 90 條: article/90.md
 - 第 91 條: article/91.md
 - 第 92 條: article/92.md
-# 第七章 錢莊
 - 第 93 條: article/93.md
 - 第 94 條: article/94.md
 - 第 95 條: article/95.md
 - 第 96 條: article/96.md
 - 第 97 條: article/97.md
 - 第 98 條: article/98.md
-# 第八章 外國銀行
 - 第 99 條: article/99.md
+# 第六章 信託投資公司
 - 第 100 條: article/100.md
 - 第 101 條: article/101.md
 - 第 102 條: article/102.md
@@ -118,15 +116,37 @@
 - 第 107 條: article/107.md
 - 第 108 條: article/108.md
 - 第 109 條: article/109.md
-# 第九章 銀行之登記及特許
 - 第 110 條: article/110.md
 - 第 111 條: article/111.md
 - 第 112 條: article/112.md
 - 第 113 條: article/113.md
 - 第 114 條: article/114.md
 - 第 115 條: article/115.md
-# 第十章 附則
+# 第七章 外國銀行
 - 第 116 條: article/116.md
 - 第 117 條: article/117.md
 - 第 118 條: article/118.md
 - 第 119 條: article/119.md
+- 第 120 條: article/120.md
+- 第 121 條: article/121.md
+- 第 122 條: article/122.md
+- 第 123 條: article/123.md
+- 第 124 條: article/124.md
+# 第八章 罰則
+- 第 125 條: article/125.md
+- 第 126 條: article/126.md
+- 第 127 條: article/127.md
+- 第 128 條: article/128.md
+- 第 129 條: article/129.md
+- 第 130 條: article/130.md
+- 第 131 條: article/131.md
+- 第 132 條: article/132.md
+- 第 133 條: article/133.md
+- 第 134 條: article/134.md
+- 第 135 條: article/135.md
+- 第 136 條: article/136.md
+# 第九章 附則
+- 第 137 條: article/137.md
+- 第 138 條: article/138.md
+- 第 139 條: article/139.md
+- 第 140 條: article/140.md
