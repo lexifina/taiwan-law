@@ -1,5 +1,5 @@
 全民健康保險法
-中華民國83年10月3日公布（修正）
+中華民國88年7月15日公布（修正）
 
 # 第一章 總則
 - 第 1 條: article/1.md
@@ -99,5 +99,8 @@
 - 第 85 條: article/85.md
 - 第 86 條: article/86.md
 - 第 87 條: article/87.md
+- 第 87-1 條: article/87-1.md
+- 第 87-2 條: article/87-2.md
+- 第 87-3 條: article/87-3.md
 - 第 88 條: article/88.md
 - 第 89 條: article/89.md
