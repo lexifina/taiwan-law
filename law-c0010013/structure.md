@@ -1,5 +1,5 @@
 公設辯護人條例
-中華民國69年7月4日公布（修正）
+中華民國75年11月24日公布（全文修正）
 
 - 第 1 條: article/1.md
 - 第 2 條: article/2.md
@@ -24,7 +24,3 @@
 - 第 21 條: article/21.md
 - 第 22 條: article/22.md
 - 第 23 條: article/23.md
-- 第 24 條: article/24.md
-- 第 25 條: article/25.md
-- 第 26 條: article/26.md
-- 第 27 條: article/27.md
