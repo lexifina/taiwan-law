@@ -1,5 +1,5 @@
 後天免疫缺乏症候群防治條例
-中華民國89年1月19日公布（修正）
+中華民國89年7月19日公布（修正）
 
 - 第 1 條: article/1.md
 - 第 2 條: article/2.md
@@ -17,6 +17,7 @@
 - 第 12 條: article/12.md
 - 第 13 條: article/13.md
 - 第 14 條: article/14.md
+- 第 14-1 條: article/14-1.md
 - 第 15 條: article/15.md
 - 第 16 條: article/16.md
 - 第 17 條: article/17.md
