@@ -1,5 +1,5 @@
 國庫法
-中華民國37年11月15日公布（制定）
+中華民國59年7月15日公布（全文修正）
 
 - 第 1 條: article/1.md
 - 第 2 條: article/2.md
@@ -33,3 +33,12 @@
 - 第 30 條: article/30.md
 - 第 31 條: article/31.md
 - 第 32 條: article/32.md
+- 第 33 條: article/33.md
+- 第 34 條: article/34.md
+- 第 35 條: article/35.md
+- 第 36 條: article/36.md
+- 第 37 條: article/37.md
+- 第 38 條: article/38.md
+- 第 39 條: article/39.md
+- 第 40 條: article/40.md
+- 第 41 條: article/41.md
