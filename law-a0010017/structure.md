@@ -1,5 +1,5 @@
 國史館組織條例
-中華民國45年5月10日公布（修正）
+中華民國90年10月24日公布（全文修正）
 
 - 第 1 條: article/1.md
 - 第 2 條: article/2.md
@@ -13,3 +13,6 @@
 - 第 10 條: article/10.md
 - 第 11 條: article/11.md
 - 第 12 條: article/12.md
+- 第 13 條: article/13.md
+- 第 14 條: article/14.md
+- 第 15 條: article/15.md
