@@ -1,5 +1,5 @@
 銀行法
-中華民國78年7月17日公布（修正）
+中華民國81年10月30日公布（修正）
 
 # 第一章 通則
 - 第 1 條: article/1.md
@@ -8,6 +8,7 @@
 - 第 4 條: article/4.md
 - 第 5 條: article/5.md
 - 第 5-1 條: article/5-1.md
+- 第 5-2 條: article/5-2.md
 - 第 6 條: article/6.md
 - 第 7 條: article/7.md
 - 第 8 條: article/8.md
@@ -38,6 +39,8 @@
 - 第 32 條: article/32.md
 - 第 33 條: article/33.md
 - 第 33-1 條: article/33-1.md
+- 第 33-2 條: article/33-2.md
+- 第 33-3 條: article/33-3.md
 - 第 34 條: article/34.md
 - 第 35 條: article/35.md
 - 第 35-1 條: article/35-1.md
@@ -54,6 +57,7 @@
 - 第 45 條: article/45.md
 - 第 46 條: article/46.md
 - 第 47 條: article/47.md
+- 第 47-1 條: article/47-1.md
 - 第 48 條: article/48.md
 - 第 49 條: article/49.md
 - 第 50 條: article/50.md
@@ -157,4 +161,5 @@
 - 第 137 條: article/137.md
 - 第 138 條: article/138.md
 - 第 139 條: article/139.md
+- 第 139-1 條: article/139-1.md
 - 第 140 條: article/140.md
