@@ -1,5 +1,5 @@
 廣播電視法
-中華民國65年1月8日公布（制定）
+中華民國71年6月7日公布（修正）
 
 # 第一章 總則
 - 第 1 條: article/1.md
@@ -17,6 +17,7 @@
 - 第 12 條: article/12.md
 - 第 13 條: article/13.md
 - 第 14 條: article/14.md
+- 第 14-1 條: article/14-1.md
 - 第 15 條: article/15.md
 # 第三章 節目管理
 - 第 16 條: article/16.md
@@ -33,6 +34,7 @@
 - 第 27 條: article/27.md
 - 第 28 條: article/28.md
 - 第 29 條: article/29.md
+- 第 29-1 條: article/29-1.md
 # 第四章 廣告管理
 - 第 30 條: article/30.md
 - 第 31 條: article/31.md
@@ -52,6 +54,8 @@
 - 第 43 條: article/43.md
 - 第 44 條: article/44.md
 - 第 45 條: article/45.md
+- 第 45-1 條: article/45-1.md
+- 第 45-2 條: article/45-2.md
 - 第 46 條: article/46.md
 - 第 47 條: article/47.md
 - 第 48 條: article/48.md
