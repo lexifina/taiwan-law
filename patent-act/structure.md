@@ -1,5 +1,5 @@
 專利法
-中華民國68年4月16日公布（修正）
+中華民國75年12月24日公布（修正）
 
 # 第一章 發明
 ## 第一節 通則
@@ -49,6 +49,7 @@
 ## 第四節 專利權
 - 第 42 條: article/42.md
 - 第 43 條: article/43.md
+- 第 43-1 條: article/43-1.md
 - 第 44 條: article/44.md
 - 第 45 條: article/45.md
 - 第 46 條: article/46.md
@@ -94,10 +95,13 @@
 - 第 83 條: article/83.md
 - 第 84 條: article/84.md
 - 第 85 條: article/85.md
+- 第 85-1 條: article/85-1.md
 - 第 86 條: article/86.md
 - 第 87 條: article/87.md
 - 第 88 條: article/88.md
 ## 第八節 罰則
+- 第 88-1 條: article/88-1.md
+- 第 88-2 條: article/88-2.md
 - 第 89 條: article/89.md
 - 第 90 條: article/90.md
 - 第 91 條: article/91.md
