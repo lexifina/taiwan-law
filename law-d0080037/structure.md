@@ -1,5 +1,5 @@
 自衛槍枝管理條例
-中華民國38年1月15日公布（修正）
+中華民國48年1月27日公布（全文修正）
 
 - 第 1 條: article/1.md
 - 第 2 條: article/2.md
@@ -17,3 +17,6 @@
 - 第 14 條: article/14.md
 - 第 15 條: article/15.md
 - 第 16 條: article/16.md
+- 第 17 條: article/17.md
+- 第 18 條: article/18.md
+- 第 19 條: article/19.md
