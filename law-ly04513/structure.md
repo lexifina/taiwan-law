@@ -1,5 +1,5 @@
 民法第四編親屬
-中華民國74年6月3日公布（修正）
+中華民國85年9月25日公布（修正）
 
 ##### 民法 第四編 親屬
 # 第一章 通則
@@ -109,6 +109,8 @@
 - 第 1053 條: article/1053.md
 - 第 1054 條: article/1054.md
 - 第 1055 條: article/1055.md
+- 第 1055-1 條: article/1055-1.md
+- 第 1055-2 條: article/1055-2.md
 - 第 1056 條: article/1056.md
 - 第 1057 條: article/1057.md
 - 第 1058 條: article/1058.md
@@ -124,6 +126,7 @@
 - 第 1067 條: article/1067.md
 - 第 1068 條: article/1068.md
 - 第 1069 條: article/1069.md
+- 第 1069-1 條: article/1069-1.md
 - 第 1070 條: article/1070.md
 - 第 1071 條: article/1071.md
 - 第 1072 條: article/1072.md
@@ -180,6 +183,7 @@
 - 第 1115 條: article/1115.md
 - 第 1116 條: article/1116.md
 - 第 1116-1 條: article/1116-1.md
+- 第 1116-2 條: article/1116-2.md
 - 第 1117 條: article/1117.md
 - 第 1118 條: article/1118.md
 - 第 1119 條: article/1119.md
