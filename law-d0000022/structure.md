@@ -1,5 +1,5 @@
 中央警官學校組織條例
-中華民國27年11月16日公布（制定）
+中華民國35年3月14日公布（全文修正）
 
 - 第 1 條: article/1.md
 - 第 2 條: article/2.md
@@ -20,3 +20,5 @@
 - 第 17 條: article/17.md
 - 第 18 條: article/18.md
 - 第 19 條: article/19.md
+- 第 20 條: article/20.md
+- 第 21 條: article/21.md
