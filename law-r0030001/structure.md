@@ -1,5 +1,5 @@
 公務人員考試法
-修正日期：民國 112 年 11 月 29 日
+中華民國75年1月24日公布（制定）
 
 - 第 1 條: article/1.md
 - 第 2 條: article/2.md
@@ -26,6 +26,3 @@
 - 第 23 條: article/23.md
 - 第 24 條: article/24.md
 - 第 25 條: article/25.md
-- 第 26 條: article/26.md
-- 第 27 條: article/27.md
-- 第 28 條: article/28.md
