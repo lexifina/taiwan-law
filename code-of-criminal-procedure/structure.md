@@ -1,5 +1,5 @@
 刑事訴訟法
-中華民國57年12月5日公布（修正）
+中華民國71年8月4日公布（修正）
 
 # 第一編 總則
 ## 第一章 法例
@@ -81,6 +81,7 @@
 - 第 70 條: article/70.md
 ## 第八章 被告之傳喚及拘提
 - 第 71 條: article/71.md
+- 第 71-1 條: article/71-1.md
 - 第 72 條: article/72.md
 - 第 73 條: article/73.md
 - 第 74 條: article/74.md
@@ -98,6 +99,7 @@
 - 第 86 條: article/86.md
 - 第 87 條: article/87.md
 - 第 88 條: article/88.md
+- 第 88-1 條: article/88-1.md
 - 第 89 條: article/89.md
 - 第 90 條: article/90.md
 - 第 91 條: article/91.md
