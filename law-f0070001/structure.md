@@ -1,5 +1,5 @@
 要塞堡壘地帶法
-中華民國43年5月12日公布（全文修正）
+中華民國91年4月17日公布（修正）
 
 # 第一章 總則
 - 第 1 條: article/1.md
@@ -10,6 +10,8 @@
 - 第 5 條: article/5.md
 - 第 6 條: article/6.md
 - 第 7 條: article/7.md
+- 第 7-1 條: article/7-1.md
+- 第 7-2 條: article/7-2.md
 # 第三章 懲罰
 - 第 8 條: article/8.md
 - 第 9 條: article/9.md
@@ -18,6 +20,7 @@
 - 第 12 條: article/12.md
 - 第 13 條: article/13.md
 - 第 14 條: article/14.md
+- 第 14-1 條: article/14-1.md
 # 第四章 附則
 - 第 15 條: article/15.md
 - 第 16 條: article/16.md
