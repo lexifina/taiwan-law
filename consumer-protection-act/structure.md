@@ -1,5 +1,5 @@
 消費者保護法
-中華民國83年1月11日公布（制定）
+中華民國92年1月22日公布（修正）
 
 # 第一章 總則
 - 第 1 條: article/1.md
@@ -11,11 +11,14 @@
 # 第二章 消費者權益
 ## 第一節 健康與安全保障
 - 第 7 條: article/7.md
+- 第 7-1 條: article/7-1.md
 - 第 8 條: article/8.md
 - 第 9 條: article/9.md
 - 第 10 條: article/10.md
+- 第 10-1 條: article/10-1.md
 ## 第二節 定型化契約
 - 第 11 條: article/11.md
+- 第 11-1 條: article/11-1.md
 - 第 12 條: article/12.md
 - 第 13 條: article/13.md
 - 第 14 條: article/14.md
@@ -25,6 +28,7 @@
 ## 第三節 特種買賣
 - 第 18 條: article/18.md
 - 第 19 條: article/19.md
+- 第 19-1 條: article/19-1.md
 - 第 20 條: article/20.md
 - 第 21 條: article/21.md
 ## 第四節 消費資訊之規範
@@ -55,7 +59,13 @@
 ## 第一節 申訴與調解
 - 第 43 條: article/43.md
 - 第 44 條: article/44.md
+- 第 44-1 條: article/44-1.md
 - 第 45 條: article/45.md
+- 第 45-1 條: article/45-1.md
+- 第 45-2 條: article/45-2.md
+- 第 45-3 條: article/45-3.md
+- 第 45-4 條: article/45-4.md
+- 第 45-5 條: article/45-5.md
 - 第 46 條: article/46.md
 ## 第二節 消費訴訟
 - 第 47 條: article/47.md
