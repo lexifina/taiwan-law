@@ -1,5 +1,5 @@
 商標法
-中華民國72年1月26日公布（修正）
+中華民國74年11月29日公布（修正）
 
 # 第一章 總則
 - 第 1 條: article/1.md
@@ -74,8 +74,11 @@
 - 第 62-3 條: article/62-3.md
 - 第 63 條: article/63.md
 - 第 64 條: article/64.md
+- 第 64-1 條: article/64-1.md
 - 第 65 條: article/65.md
 - 第 66 條: article/66.md
+- 第 66-1 條: article/66-1.md
+- 第 66-2 條: article/66-2.md
 # 第六章 附則
 - 第 67 條: article/67.md
 - 第 67-1 條: article/67-1.md
