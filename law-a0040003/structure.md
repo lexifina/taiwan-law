@@ -1,7 +1,7 @@
 地方制度法
-修正日期：民國 114 年 12 月 03 日
+中華民國88年1月25日公布（制定）
 
-## 第 一 章 總則
+# 第一章 總則
 - 第 1 條: article/1.md
 - 第 2 條: article/2.md
 - 第 3 條: article/3.md
@@ -9,23 +9,20 @@
 - 第 5 條: article/5.md
 - 第 6 條: article/6.md
 - 第 7 條: article/7.md
-- 第 7-1 條: article/7-1.md
-- 第 7-2 條: article/7-2.md
-- 第 7-3 條: article/7-3.md
-## 第 二 章 省政府與省諮議會
+# 第二章 省政府與省諮議會
 - 第 8 條: article/8.md
 - 第 9 條: article/9.md
 - 第 10 條: article/10.md
 - 第 11 條: article/11.md
 - 第 12 條: article/12.md
 - 第 13 條: article/13.md
-## 第 三 章 地方自治
-### 第 一 節 地方自治團體及其居民之權利與義務
+# 第三章 地方自治
+## 第一節 地方自治團體及其居民之權利與義務
 - 第 14 條: article/14.md
 - 第 15 條: article/15.md
 - 第 16 條: article/16.md
 - 第 17 條: article/17.md
-### 第 二 節 自治事項
+## 第二節 自治事項
 - 第 18 條: article/18.md
 - 第 19 條: article/19.md
 - 第 20 條: article/20.md
@@ -33,10 +30,7 @@
 - 第 22 條: article/22.md
 - 第 23 條: article/23.md
 - 第 24 條: article/24.md
-- 第 24-1 條: article/24-1.md
-- 第 24-2 條: article/24-2.md
-- 第 24-3 條: article/24-3.md
-### 第 三 節 自治法規
+## 第三節 自治法規
 - 第 25 條: article/25.md
 - 第 26 條: article/26.md
 - 第 27 條: article/27.md
@@ -45,8 +39,8 @@
 - 第 30 條: article/30.md
 - 第 31 條: article/31.md
 - 第 32 條: article/32.md
-### 第 四 節 自治組織
-#### 第 一 款 地方立法機關
+## 第四節 自治組織
+### 第一款 地方立法機關
 - 第 33 條: article/33.md
 - 第 34 條: article/34.md
 - 第 35 條: article/35.md
@@ -55,7 +49,6 @@
 - 第 38 條: article/38.md
 - 第 39 條: article/39.md
 - 第 40 條: article/40.md
-- 第 40-1 條: article/40-1.md
 - 第 41 條: article/41.md
 - 第 42 條: article/42.md
 - 第 43 條: article/43.md
@@ -70,17 +63,16 @@
 - 第 52 條: article/52.md
 - 第 53 條: article/53.md
 - 第 54 條: article/54.md
-#### 第 二 款 地方行政機關
+### 第二款 地方行政機關
 - 第 55 條: article/55.md
 - 第 56 條: article/56.md
 - 第 57 條: article/57.md
 - 第 58 條: article/58.md
-- 第 58-1 條: article/58-1.md
 - 第 59 條: article/59.md
 - 第 60 條: article/60.md
 - 第 61 條: article/61.md
 - 第 62 條: article/62.md
-### 第 五 節 自治財政
+## 第五節 自治財政
 - 第 63 條: article/63.md
 - 第 64 條: article/64.md
 - 第 65 條: article/65.md
@@ -93,7 +85,7 @@
 - 第 72 條: article/72.md
 - 第 73 條: article/73.md
 - 第 74 條: article/74.md
-## 第 四 章 中央與地方及地方間之關係
+# 第四章 中央與地方及地方間之關係
 - 第 75 條: article/75.md
 - 第 76 條: article/76.md
 - 第 77 條: article/77.md
@@ -103,21 +95,9 @@
 - 第 81 條: article/81.md
 - 第 82 條: article/82.md
 - 第 83 條: article/83.md
-- 第 83-1 條: article/83-1.md
-## 第 四 章之一 直轄市山地原住民區
-- 第 83-2 條: article/83-2.md
-- 第 83-3 條: article/83-3.md
-- 第 83-4 條: article/83-4.md
-- 第 83-5 條: article/83-5.md
-- 第 83-6 條: article/83-6.md
-- 第 83-7 條: article/83-7.md
-- 第 83-8 條: article/83-8.md
-## 第 五 章 附則
+# 第五章 附則
 - 第 84 條: article/84.md
 - 第 85 條: article/85.md
 - 第 86 條: article/86.md
 - 第 87 條: article/87.md
-- 第 87-1 條: article/87-1.md
-- 第 87-2 條: article/87-2.md
-- 第 87-3 條: article/87-3.md
 - 第 88 條: article/88.md
