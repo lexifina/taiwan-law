@@ -1,5 +1,5 @@
 請願法
-修正日期：民國 58 年 12 月 18 日
+中華民國43年12月18日公布（制定）
 
 - 第 1 條: article/1.md
 - 第 2 條: article/2.md
@@ -12,4 +12,3 @@
 - 第 9 條: article/9.md
 - 第 10 條: article/10.md
 - 第 11 條: article/11.md
-- 第 12 條: article/12.md
