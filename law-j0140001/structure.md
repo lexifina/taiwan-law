@@ -1,5 +1,5 @@
 中小企業發展條例
-中華民國87年1月21日公布（修正）
+中華民國89年12月27日公布（修正）
 
 # 第一章 總則
 - 第 1 條: article/1.md
@@ -14,8 +14,9 @@
 - 第 10 條: article/10.md
 - 第 11 條: article/11.md
 - 第 12 條: article/12.md
-- 第 13 條: article/13.md
+- 第 12-1 條: article/12-1.md
 # 第二章 融資與保證
+- 第 13 條: article/13.md
 - 第 14 條: article/14.md
 - 第 15 條: article/15.md
 - 第 16 條: article/16.md
