@@ -1,5 +1,5 @@
 自衛槍枝管理條例
-修正日期：民國 91 年 06 月 26 日
+中華民國35年6月28日公布（制定）
 
 - 第 1 條: article/1.md
 - 第 2 條: article/2.md
@@ -17,8 +17,3 @@
 - 第 14 條: article/14.md
 - 第 15 條: article/15.md
 - 第 16 條: article/16.md
-- 第 17 條: article/17.md
-- 第 18 條: article/18.md
-- 第 19 條: article/19.md
-- 第 20 條: article/20.md
-- 第 21 條: article/21.md
