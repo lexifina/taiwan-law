@@ -1,5 +1,5 @@
 金融控股公司法
-中華民國93年6月30日公布（修正）
+中華民國94年5月18日公布（修正）
 
 # 第一章 總則
 - 第 1 條: article/1.md
@@ -65,6 +65,8 @@
 - 第 57 條: article/57.md
 - 第 57-1 條: article/57-1.md
 - 第 57-2 條: article/57-2.md
+- 第 57-3 條: article/57-3.md
+- 第 57-4 條: article/57-4.md
 - 第 58 條: article/58.md
 - 第 59 條: article/59.md
 - 第 60 條: article/60.md
@@ -79,4 +81,5 @@
 - 第 67-2 條: article/67-2.md
 # 第六章 附則
 - 第 68 條: article/68.md
+- 第 68-1 條: article/68-1.md
 - 第 69 條: article/69.md
