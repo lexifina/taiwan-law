@@ -1,5 +1,5 @@
 信用合作社法
-中華民國93年2月4日公布（修正）
+中華民國94年5月18日公布（修正）
 
 # 第一章 總則
 - 第 1 條: article/1.md
@@ -15,6 +15,7 @@
 # 第二章 社員及社股
 - 第 11 條: article/11.md
 - 第 12 條: article/12.md
+- 第 12-1 條: article/12-1.md
 - 第 13 條: article/13.md
 - 第 14 條: article/14.md
 # 第三章 業務
@@ -28,6 +29,7 @@
 # 第五章 內部制度
 - 第 20 條: article/20.md
 - 第 21 條: article/21.md
+- 第 21-1 條: article/21-1.md
 - 第 22 條: article/22.md
 # 第六章 盈餘及公積
 - 第 23 條: article/23.md
@@ -54,6 +56,8 @@
 - 第 38-2 條: article/38-2.md
 - 第 38-3 條: article/38-3.md
 - 第 38-4 條: article/38-4.md
+- 第 38-5 條: article/38-5.md
+- 第 38-6 條: article/38-6.md
 - 第 39 條: article/39.md
 - 第 40 條: article/40.md
 - 第 40-1 條: article/40-1.md
@@ -70,5 +74,6 @@
 # 第十一章 附則
 - 第 49 條: article/49.md
 - 第 49-1 條: article/49-1.md
+- 第 49-2 條: article/49-2.md
 - 第 50 條: article/50.md
 - 第 51 條: article/51.md
