@@ -1,5 +1,5 @@
 證券交易法
-中華民國93年4月28日公布（修正）
+中華民國94年5月18日公布（修正）
 
 # 第一章 總則
 - 第 1 條: article/1.md
@@ -219,6 +219,8 @@
 - 第 172 條: article/172.md
 - 第 173 條: article/173.md
 - 第 174 條: article/174.md
+- 第 174-1 條: article/174-1.md
+- 第 174-2 條: article/174-2.md
 - 第 175 條: article/175.md
 - 第 176 條: article/176.md
 - 第 177 條: article/177.md
@@ -229,6 +231,7 @@
 - 第 180-1 條: article/180-1.md
 # 第八章 附則
 - 第 181 條: article/181.md
+- 第 181-1 條: article/181-1.md
 - 第 182 條: article/182.md
 - 第 182-1 條: article/182-1.md
 - 第 183 條: article/183.md
