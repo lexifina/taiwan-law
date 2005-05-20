@@ -1,5 +1,5 @@
 票券金融管理法
-中華民國93年2月4日公布（修正）
+中華民國94年5月18日公布（修正）
 
 # 第一章 總則
 - 第 1 條: article/1.md
@@ -68,6 +68,8 @@
 - 第 58 條: article/58.md
 - 第 58-1 條: article/58-1.md
 - 第 58-2 條: article/58-2.md
+- 第 58-3 條: article/58-3.md
+- 第 58-4 條: article/58-4.md
 - 第 59 條: article/59.md
 - 第 60 條: article/60.md
 - 第 61 條: article/61.md
@@ -85,5 +87,6 @@
 - 第 71-2 條: article/71-2.md
 # 第八章 附則
 - 第 72 條: article/72.md
+- 第 72-1 條: article/72-1.md
 - 第 73 條: article/73.md
 - 第 74 條: article/74.md
