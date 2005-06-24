@@ -1,5 +1,5 @@
 公司法
-中華民國90年11月12日公布（修正）
+中華民國94年6月22日公布（修正）
 
 # 第一章 總則
 - 第 1 條: article/1.md
@@ -197,11 +197,15 @@
 - 第 170 條: article/170.md
 - 第 171 條: article/171.md
 - 第 172 條: article/172.md
+- 第 172-1 條: article/172-1.md
 - 第 173 條: article/173.md
 - 第 174 條: article/174.md
 - 第 175 條: article/175.md
 - 第 176 條: article/176.md
 - 第 177 條: article/177.md
+- 第 177-1 條: article/177-1.md
+- 第 177-2 條: article/177-2.md
+- 第 177-3 條: article/177-3.md
 - 第 178 條: article/178.md
 - 第 179 條: article/179.md
 - 第 180 條: article/180.md
@@ -220,6 +224,7 @@
 - 第 191 條: article/191.md
 ## 第四節 董事及董事會
 - 第 192 條: article/192.md
+- 第 192-1 條: article/192-1.md
 - 第 193 條: article/193.md
 - 第 194 條: article/194.md
 - 第 195 條: article/195.md
@@ -248,6 +253,7 @@
 - 第 215 條: article/215.md
 ## 第五節 監察人
 - 第 216 條: article/216.md
+- 第 216-1 條: article/216-1.md
 - 第 217 條: article/217.md
 - 第 217-1 條: article/217-1.md
 - 第 218 條: article/218.md
