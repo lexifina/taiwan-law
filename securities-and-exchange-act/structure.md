@@ -1,5 +1,5 @@
 證券交易法
-中華民國94年5月18日公布（修正）
+中華民國95年1月11日公布（修正）
 
 # 第一章 總則
 - 第 1 條: article/1.md
@@ -17,6 +17,10 @@
 - 第 13 條: article/13.md
 - 第 14 條: article/14.md
 - 第 14-1 條: article/14-1.md
+- 第 14-2 條: article/14-2.md
+- 第 14-3 條: article/14-3.md
+- 第 14-4 條: article/14-4.md
+- 第 14-5 條: article/14-5.md
 - 第 15 條: article/15.md
 - 第 16 條: article/16.md
 - 第 17 條: article/17.md
@@ -26,7 +30,9 @@
 - 第 18-3 條: article/18-3.md
 - 第 19 條: article/19.md
 - 第 20 條: article/20.md
+- 第 20-1 條: article/20-1.md
 - 第 21 條: article/21.md
+- 第 21-1 條: article/21-1.md
 # 第二章 有價證券之募集、發行、私募及買賣
 ## 第一節 有價證券之募集、發行及買賣
 - 第 22 條: article/22.md
@@ -39,6 +45,7 @@
 - 第 26 條: article/26.md
 - 第 26-1 條: article/26-1.md
 - 第 26-2 條: article/26-2.md
+- 第 26-3 條: article/26-3.md
 - 第 27 條: article/27.md
 - 第 28 條: article/28.md
 - 第 28-1 條: article/28-1.md
@@ -232,6 +239,7 @@
 # 第八章 附則
 - 第 181 條: article/181.md
 - 第 181-1 條: article/181-1.md
+- 第 181-2 條: article/181-2.md
 - 第 182 條: article/182.md
 - 第 182-1 條: article/182-1.md
 - 第 183 條: article/183.md
