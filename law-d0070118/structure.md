@@ -1,5 +1,5 @@
 公寓大廈管理條例
-中華民國92年12月31日公布（全文修正）
+中華民國95年1月18日公布（修正）
 
 # 第一章 總則
 - 第 1 條: article/1.md
@@ -66,6 +66,7 @@
 - 第 57 條: article/57.md
 - 第 58 條: article/58.md
 - 第 59 條: article/59.md
+- 第 59-1 條: article/59-1.md
 - 第 60 條: article/60.md
 - 第 61 條: article/61.md
 - 第 62 條: article/62.md
