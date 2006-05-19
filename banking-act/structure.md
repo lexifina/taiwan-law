@@ -1,5 +1,5 @@
 銀行法
-中華民國94年5月18日公布（修正）
+中華民國95年5月17日公布（修正）
 
 # 第一章 通則
 - 第 1 條: article/1.md
@@ -97,6 +97,7 @@
 - 第 63 條: article/63.md
 - 第 63-1 條: article/63-1.md
 - 第 64 條: article/64.md
+- 第 64-1 條: article/64-1.md
 - 第 65 條: article/65.md
 - 第 66 條: article/66.md
 - 第 67 條: article/67.md
