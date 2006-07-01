@@ -1,5 +1,5 @@
 中華民國刑法
-中華民國92年6月25日公布（修正）
+中華民國94年2月2日公布（修正）
 
 # 第一編 總則
 ## 第一章 法例
@@ -32,7 +32,7 @@
 - 第 25 條: article/25.md
 - 第 26 條: article/26.md
 - 第 27 條: article/27.md
-## 第四章 共犯
+## 第四章 正犯與共犯
 - 第 28 條: article/28.md
 - 第 29 條: article/29.md
 - 第 30 條: article/30.md
@@ -47,6 +47,7 @@
 - 第 38 條: article/38.md
 - 第 39 條: article/39.md
 - 第 40 條: article/40.md
+- 第 40-1 條: article/40-1.md
 - 第 41 條: article/41.md
 - 第 42 條: article/42.md
 - 第 43 條: article/43.md
@@ -86,6 +87,7 @@
 ## 第九章 緩刑
 - 第 74 條: article/74.md
 - 第 75 條: article/75.md
+- 第 75-1 條: article/75-1.md
 - 第 76 條: article/76.md
 ## 第十章 假釋
 - 第 77 條: article/77.md
