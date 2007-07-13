@@ -1,5 +1,5 @@
-後天免疫缺乏症候群防治條例
-中華民國94年2月5日公布（修正）
+人類免疫缺乏病毒傳染防治及感染者權益保障條例
+中華民國96年7月11日公布（全文修正）
 
 - 第 1 條: article/1.md
 - 第 2 條: article/2.md
@@ -7,18 +7,14 @@
 - 第 4 條: article/4.md
 - 第 5 條: article/5.md
 - 第 6 條: article/6.md
-- 第 6-1 條: article/6-1.md
 - 第 7 條: article/7.md
 - 第 8 條: article/8.md
-- 第 8-1 條: article/8-1.md
 - 第 9 條: article/9.md
-- 第 9-1 條: article/9-1.md
 - 第 10 條: article/10.md
 - 第 11 條: article/11.md
 - 第 12 條: article/12.md
 - 第 13 條: article/13.md
 - 第 14 條: article/14.md
-- 第 14-1 條: article/14-1.md
 - 第 15 條: article/15.md
 - 第 16 條: article/16.md
 - 第 17 條: article/17.md
@@ -27,3 +23,8 @@
 - 第 20 條: article/20.md
 - 第 21 條: article/21.md
 - 第 22 條: article/22.md
+- 第 23 條: article/23.md
+- 第 24 條: article/24.md
+- 第 25 條: article/25.md
+- 第 26 條: article/26.md
+- 第 27 條: article/27.md
