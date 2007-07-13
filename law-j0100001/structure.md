@@ -1,7 +1,7 @@
 商品檢驗法
-中華民國96年7月11日公布（修正）
+修正日期：民國 96 年 07 月 11 日
 
-# 第一章 總則
+## 第 一 章 總則
 - 第 1 條: article/1.md
 - 第 2 條: article/2.md
 - 第 3 條: article/3.md
@@ -19,7 +19,7 @@
 - 第 15 條: article/15.md
 - 第 16 條: article/16.md
 - 第 17 條: article/17.md
-# 第二章 逐批檢驗
+## 第 二 章 逐批檢驗
 - 第 18 條: article/18.md
 - 第 19 條: article/19.md
 - 第 20 條: article/20.md
@@ -31,14 +31,14 @@
 - 第 26 條: article/26.md
 - 第 27 條: article/27.md
 - 第 28 條: article/28.md
-# 第三章 監視查驗
+## 第 三 章 監視查驗
 - 第 29 條: article/29.md
 - 第 30 條: article/30.md
 - 第 31 條: article/31.md
 - 第 32 條: article/32.md
 - 第 33 條: article/33.md
 - 第 34 條: article/34.md
-# 第四章 驗證登錄
+## 第 四 章 驗證登錄
 - 第 35 條: article/35.md
 - 第 36 條: article/36.md
 - 第 37 條: article/37.md
@@ -47,26 +47,26 @@
 - 第 40 條: article/40.md
 - 第 41 條: article/41.md
 - 第 42 條: article/42.md
-# 第五章 符合性聲明
+## 第 五 章 符合性聲明
 - 第 43 條: article/43.md
 - 第 44 條: article/44.md
 - 第 45 條: article/45.md
 - 第 46 條: article/46.md
 - 第 47 條: article/47.md
 - 第 48 條: article/48.md
-# 第六章 市場監督
+## 第 六 章 市場監督
 - 第 49 條: article/49.md
 - 第 50 條: article/50.md
 - 第 51 條: article/51.md
 - 第 52 條: article/52.md
-# 第七章 檢驗費用
+## 第 七 章 檢驗費用
 - 第 53 條: article/53.md
 - 第 54 條: article/54.md
 - 第 55 條: article/55.md
 - 第 56 條: article/56.md
 - 第 57 條: article/57.md
 - 第 58 條: article/58.md
-# 第八章 罰則
+## 第 八 章 罰則
 - 第 59 條: article/59.md
 - 第 60 條: article/60.md
 - 第 60-1 條: article/60-1.md
@@ -78,6 +78,6 @@
 - 第 63-2 條: article/63-2.md
 - 第 64 條: article/64.md
 - 第 64-1 條: article/64-1.md
-# 第九章 附則
+## 第 九 章 附則
 - 第 65 條: article/65.md
 - 第 66 條: article/66.md
