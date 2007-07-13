@@ -1,5 +1,5 @@
 商品檢驗法
-中華民國90年10月24日公布（全文修正）
+中華民國96年7月11日公布（修正）
 
 # 第一章 總則
 - 第 1 條: article/1.md
@@ -69,10 +69,15 @@
 # 第八章 罰則
 - 第 59 條: article/59.md
 - 第 60 條: article/60.md
+- 第 60-1 條: article/60-1.md
+- 第 60-2 條: article/60-2.md
 - 第 61 條: article/61.md
 - 第 62 條: article/62.md
 - 第 63 條: article/63.md
+- 第 63-1 條: article/63-1.md
+- 第 63-2 條: article/63-2.md
 - 第 64 條: article/64.md
+- 第 64-1 條: article/64-1.md
 # 第九章 附則
 - 第 65 條: article/65.md
 - 第 66 條: article/66.md
