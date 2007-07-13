@@ -1,5 +1,5 @@
 冤獄賠償法
-中華民國80年11月22日公布（修正）
+中華民國96年7月11日公布（全文修正）
 
 - 第 1 條: article/1.md
 - 第 2 條: article/2.md
@@ -27,3 +27,11 @@
 - 第 24 條: article/24.md
 - 第 25 條: article/25.md
 - 第 26 條: article/26.md
+- 第 27 條: article/27.md
+- 第 28 條: article/28.md
+- 第 29 條: article/29.md
+- 第 30 條: article/30.md
+- 第 31 條: article/31.md
+- 第 32 條: article/32.md
+- 第 33 條: article/33.md
+- 第 34 條: article/34.md
