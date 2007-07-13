@@ -1,5 +1,5 @@
 動產擔保交易法
-中華民國65年1月28日公布（修正）
+中華民國96年7月11日公布（修正）
 
 # 第一章 總則
 - 第 1 條: article/1.md
@@ -10,6 +10,7 @@
 - 第 5 條: article/5.md
 - 第 6 條: article/6.md
 - 第 7 條: article/7.md
+- 第 7-1 條: article/7-1.md
 - 第 8 條: article/8.md
 - 第 9 條: article/9.md
 - 第 10 條: article/10.md
@@ -43,7 +44,7 @@
 - 第 35 條: article/35.md
 - 第 36 條: article/36.md
 - 第 37 條: article/37.md
-# 第五章 罰則
+# 第五章 （刪除）
 - 第 38 條: article/38.md
 - 第 39 條: article/39.md
 - 第 40 條: article/40.md
