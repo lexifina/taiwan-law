@@ -1,5 +1,5 @@
-兩性工作平等法
-中華民國91年1月16日公布（制定）
+性別工作平等法
+中華民國97年1月16日公布（修正）
 
 # 第一章 總則
 - 第 1 條: article/1.md
@@ -8,6 +8,7 @@
 - 第 4 條: article/4.md
 - 第 5 條: article/5.md
 - 第 6 條: article/6.md
+- 第 6-1 條: article/6-1.md
 # 第二章 性別歧視之禁止
 - 第 7 條: article/7.md
 - 第 8 條: article/8.md
@@ -45,6 +46,7 @@
 - 第 37 條: article/37.md
 # 第六章 罰則
 - 第 38 條: article/38.md
+- 第 38-1 條: article/38-1.md
 # 第七章 附則
 - 第 39 條: article/39.md
 - 第 40 條: article/40.md
