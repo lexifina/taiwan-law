@@ -1,5 +1,5 @@
 公務人員任用法
-中華民國96年3月21日公布（修正）
+中華民國97年1月16日公布（修正）
 
 - 第 1 條: article/1.md
 - 第 2 條: article/2.md
@@ -15,6 +15,7 @@
 - 第 11-1 條: article/11-1.md
 - 第 12 條: article/12.md
 - 第 13 條: article/13.md
+- 第 13-1 條: article/13-1.md
 - 第 14 條: article/14.md
 - 第 15 條: article/15.md
 - 第 16 條: article/16.md
@@ -27,6 +28,7 @@
 - 第 22 條: article/22.md
 - 第 23 條: article/23.md
 - 第 24 條: article/24.md
+- 第 24-1 條: article/24-1.md
 - 第 25 條: article/25.md
 - 第 26 條: article/26.md
 - 第 26-1 條: article/26-1.md
