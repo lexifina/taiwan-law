@@ -1,5 +1,5 @@
 災害防救法
-中華民國91年5月29日公布（修正）
+中華民國97年5月14日公布（修正）
 
 # 第一章 總則
 - 第 1 條: article/1.md
@@ -44,6 +44,8 @@
 # 第六章 災後復原重建
 - 第 36 條: article/36.md
 - 第 37 條: article/37.md
+- 第 37-1 條: article/37-1.md
+- 第 37-2 條: article/37-2.md
 # 第七章 罰則
 - 第 38 條: article/38.md
 - 第 39 條: article/39.md
@@ -53,6 +55,7 @@
 - 第 42 條: article/42.md
 # 第八章 附則
 - 第 43 條: article/43.md
+- 第 43-1 條: article/43-1.md
 - 第 44 條: article/44.md
 - 第 45 條: article/45.md
 - 第 46 條: article/46.md
