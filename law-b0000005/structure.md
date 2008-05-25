@@ -1,5 +1,5 @@
 民法親屬編施行法
-中華民國96年5月23日公布（修正）
+中華民國97年5月23日公布（修正）
 
 - 第 1 條: article/1.md
 - 第 2 條: article/2.md
@@ -20,4 +20,6 @@
 - 第 13 條: article/13.md
 - 第 14 條: article/14.md
 - 第 14-1 條: article/14-1.md
+- 第 14-2 條: article/14-2.md
+- 第 14-3 條: article/14-3.md
 - 第 15 條: article/15.md
