@@ -1,5 +1,5 @@
 食品衛生管理法
-中華民國91年1月30日公布（修正）
+中華民國97年6月11日公布（修正）
 
 # 第一章 總則
 - 第 1 條: article/1.md
@@ -17,10 +17,12 @@
 - 第 12 條: article/12.md
 - 第 13 條: article/13.md
 - 第 14 條: article/14.md
+- 第 14-1 條: article/14-1.md
 - 第 15 條: article/15.md
 - 第 16 條: article/16.md
 # 第三章 食品標示及廣告管理
 - 第 17 條: article/17.md
+- 第 17-1 條: article/17-1.md
 - 第 18 條: article/18.md
 - 第 19 條: article/19.md
 # 第四章 食品業衛生管理
