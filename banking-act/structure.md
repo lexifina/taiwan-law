@@ -1,5 +1,5 @@
 銀行法
-中華民國96年3月21日公布（修正）
+中華民國97年12月30日公布（修正）
 
 # 第一章 通則
 - 第 1 條: article/1.md
@@ -31,6 +31,7 @@
 - 第 23 條: article/23.md
 - 第 24 條: article/24.md
 - 第 25 條: article/25.md
+- 第 25-1 條: article/25-1.md
 - 第 26 條: article/26.md
 - 第 27 條: article/27.md
 - 第 28 條: article/28.md
@@ -59,6 +60,8 @@
 - 第 42-1 條: article/42-1.md
 - 第 43 條: article/43.md
 - 第 44 條: article/44.md
+- 第 44-1 條: article/44-1.md
+- 第 44-2 條: article/44-2.md
 - 第 45 條: article/45.md
 - 第 45-1 條: article/45-1.md
 - 第 45-2 條: article/45-2.md
@@ -186,6 +189,7 @@
 - 第 128 條: article/128.md
 - 第 129 條: article/129.md
 - 第 129-1 條: article/129-1.md
+- 第 129-2 條: article/129-2.md
 - 第 130 條: article/130.md
 - 第 131 條: article/131.md
 - 第 132 條: article/132.md
