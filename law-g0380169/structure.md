@@ -1,5 +1,5 @@
 不動產證券化條例
-中華民國92年7月23日公布（制定）
+中華民國98年1月21日公布（修正）
 
 # 第一章 總則
 - 第 1 條: article/1.md
@@ -41,6 +41,7 @@
 - 第 32 條: article/32.md
 - 第 33 條: article/33.md
 - 第 34 條: article/34.md
+- 第 34-1 條: article/34-1.md
 - 第 35 條: article/35.md
 - 第 36 條: article/36.md
 # 第四章 受益證券之發行交付及轉讓、受益人會議、信託監察人
@@ -53,8 +54,10 @@
 - 第 42 條: article/42.md
 - 第 43 條: article/43.md
 - 第 44 條: article/44.md
+- 第 44-1 條: article/44-1.md
 - 第 45 條: article/45.md
 - 第 46 條: article/46.md
+- 第 46-1 條: article/46-1.md
 ## 第二節 受益人會議及信託監察人
 - 第 47 條: article/47.md
 - 第 48 條: article/48.md
