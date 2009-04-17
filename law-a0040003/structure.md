@@ -1,5 +1,5 @@
 地方制度法
-中華民國96年7月11日公布（修正）
+中華民國98年4月15日公布（修正）
 
 # 第一章 總則
 - 第 1 條: article/1.md
@@ -9,6 +9,8 @@
 - 第 5 條: article/5.md
 - 第 6 條: article/6.md
 - 第 7 條: article/7.md
+- 第 7-1 條: article/7-1.md
+- 第 7-2 條: article/7-2.md
 # 第二章 省政府與省諮議會
 - 第 8 條: article/8.md
 - 第 9 條: article/9.md
@@ -100,4 +102,7 @@
 - 第 85 條: article/85.md
 - 第 86 條: article/86.md
 - 第 87 條: article/87.md
+- 第 87-1 條: article/87-1.md
+- 第 87-2 條: article/87-2.md
+- 第 87-3 條: article/87-3.md
 - 第 88 條: article/88.md
