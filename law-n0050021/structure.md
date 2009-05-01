@@ -1,5 +1,5 @@
 就業保險法
-中華民國96年1月29日公布（修正）
+中華民國98年4月22日公布（修正）
 
 # 第一章 總則
 - 第 1 條: article/1.md
@@ -24,6 +24,8 @@
 - 第 17 條: article/17.md
 - 第 18 條: article/18.md
 - 第 19 條: article/19.md
+- 第 19-1 條: article/19-1.md
+- 第 19-2 條: article/19-2.md
 - 第 20 條: article/20.md
 - 第 21 條: article/21.md
 - 第 22 條: article/22.md
