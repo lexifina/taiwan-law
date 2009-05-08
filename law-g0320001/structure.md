@@ -1,5 +1,5 @@
 公庫法
-中華民國91年5月15日公布（修正）
+中華民國98年5月6日公布（全文修正）
 
 - 第 1 條: article/1.md
 - 第 2 條: article/2.md
@@ -27,9 +27,3 @@
 - 第 24 條: article/24.md
 - 第 25 條: article/25.md
 - 第 26 條: article/26.md
-- 第 27 條: article/27.md
-- 第 28 條: article/28.md
-- 第 29 條: article/29.md
-- 第 30 條: article/30.md
-- 第 31 條: article/31.md
-- 第 32 條: article/32.md
