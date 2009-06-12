@@ -1,5 +1,5 @@
 民法第五編繼承
-中華民國97年1月2日公布（修正）
+中華民國98年6月10日公布（修正）
 
 ### 民法 第五編 繼承
 # 第一章 遺產繼承人
@@ -16,21 +16,25 @@
 ## 第一節 效力
 - 第 1147 條: article/1147.md
 - 第 1148 條: article/1148.md
+- 第 1148-1 條: article/1148-1.md
 - 第 1149 條: article/1149.md
 - 第 1150 條: article/1150.md
 - 第 1151 條: article/1151.md
 - 第 1152 條: article/1152.md
 - 第 1153 條: article/1153.md
-## 第二節 限定之繼承
+## 第二節 （刪除）
 - 第 1154 條: article/1154.md
 - 第 1155 條: article/1155.md
 - 第 1156 條: article/1156.md
+- 第 1156-1 條: article/1156-1.md
 - 第 1157 條: article/1157.md
 - 第 1158 條: article/1158.md
 - 第 1159 條: article/1159.md
 - 第 1160 條: article/1160.md
 - 第 1161 條: article/1161.md
 - 第 1162 條: article/1162.md
+- 第 1162-1 條: article/1162-1.md
+- 第 1162-2 條: article/1162-2.md
 - 第 1163 條: article/1163.md
 ## 第三節 遺產之分割
 - 第 1164 條: article/1164.md
