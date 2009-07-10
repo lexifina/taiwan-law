@@ -1,5 +1,5 @@
 能源管理法
-中華民國91年1月30日公布（修正）
+中華民國98年7月8日公布（修正）
 
 # 第一章 總則
 - 第 1 條: article/1.md
@@ -20,10 +20,12 @@
 - 第 13 條: article/13.md
 - 第 14 條: article/14.md
 - 第 15 條: article/15.md
+- 第 15-1 條: article/15-1.md
 - 第 16 條: article/16.md
 - 第 17 條: article/17.md
 - 第 18 條: article/18.md
 - 第 19 條: article/19.md
+- 第 19-1 條: article/19-1.md
 # 第四章 罰則
 - 第 20 條: article/20.md
 - 第 20-1 條: article/20-1.md
