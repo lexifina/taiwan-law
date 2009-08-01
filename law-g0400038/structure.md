@@ -1,5 +1,5 @@
 證券投資人及期貨交易人保護法
-中華民國91年7月17日公布（制定）
+中華民國98年5月20日公布（修正）
 
 - 第 1 條: article/1.md
 - 第 2 條: article/2.md
@@ -11,6 +11,7 @@
 - 第 8 條: article/8.md
 - 第 9 條: article/9.md
 - 第 10 條: article/10.md
+- 第 10-1 條: article/10-1.md
 - 第 11 條: article/11.md
 - 第 12 條: article/12.md
 - 第 13 條: article/13.md
@@ -26,9 +27,12 @@
 - 第 23 條: article/23.md
 - 第 24 條: article/24.md
 - 第 25 條: article/25.md
+- 第 25-1 條: article/25-1.md
+- 第 25-2 條: article/25-2.md
 - 第 26 條: article/26.md
 - 第 27 條: article/27.md
 - 第 28 條: article/28.md
+- 第 28-1 條: article/28-1.md
 - 第 29 條: article/29.md
 - 第 30 條: article/30.md
 - 第 31 條: article/31.md
