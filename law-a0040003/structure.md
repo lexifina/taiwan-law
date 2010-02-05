@@ -1,5 +1,5 @@
 地方制度法
-中華民國98年5月27日公布（修正）
+中華民國99年2月3日公布（修正）
 
 # 第一章 總則
 - 第 1 條: article/1.md
@@ -11,6 +11,7 @@
 - 第 7 條: article/7.md
 - 第 7-1 條: article/7-1.md
 - 第 7-2 條: article/7-2.md
+- 第 7-3 條: article/7-3.md
 # 第二章 省政府與省諮議會
 - 第 8 條: article/8.md
 - 第 9 條: article/9.md
@@ -32,6 +33,9 @@
 - 第 22 條: article/22.md
 - 第 23 條: article/23.md
 - 第 24 條: article/24.md
+- 第 24-1 條: article/24-1.md
+- 第 24-2 條: article/24-2.md
+- 第 24-3 條: article/24-3.md
 ## 第三節 自治法規
 - 第 25 條: article/25.md
 - 第 26 條: article/26.md
@@ -51,6 +55,7 @@
 - 第 38 條: article/38.md
 - 第 39 條: article/39.md
 - 第 40 條: article/40.md
+- 第 40-1 條: article/40-1.md
 - 第 41 條: article/41.md
 - 第 42 條: article/42.md
 - 第 43 條: article/43.md
@@ -70,6 +75,7 @@
 - 第 56 條: article/56.md
 - 第 57 條: article/57.md
 - 第 58 條: article/58.md
+- 第 58-1 條: article/58-1.md
 - 第 59 條: article/59.md
 - 第 60 條: article/60.md
 - 第 61 條: article/61.md
@@ -97,6 +103,7 @@
 - 第 81 條: article/81.md
 - 第 82 條: article/82.md
 - 第 83 條: article/83.md
+- 第 83-1 條: article/83-1.md
 # 第五章 附則
 - 第 84 條: article/84.md
 - 第 85 條: article/85.md
