@@ -1,5 +1,5 @@
-著作權仲介團體條例
-中華民國86年11月5日公布（制定）
+著作權集體管理團體條例
+中華民國99年2月10日公布（全文修正）
 
 # 第一章 總則
 - 第 1 條: article/1.md
@@ -12,8 +12,8 @@
 - 第 7 條: article/7.md
 - 第 8 條: article/8.md
 - 第 9 條: article/9.md
-# 第三章 組織
 - 第 10 條: article/10.md
+# 第三章 組織
 - 第 11 條: article/11.md
 - 第 12 條: article/12.md
 - 第 13 條: article/13.md
@@ -25,8 +25,8 @@
 - 第 19 條: article/19.md
 - 第 20 條: article/20.md
 - 第 21 條: article/21.md
-# 第四章 仲介團體之權利義務
 - 第 22 條: article/22.md
+# 第四章 集管團體之權利義務
 - 第 23 條: article/23.md
 - 第 24 條: article/24.md
 - 第 25 條: article/25.md
@@ -41,16 +41,19 @@
 - 第 34 條: article/34.md
 - 第 35 條: article/35.md
 - 第 36 條: article/36.md
-# 第五章 仲介團體之獎勵、輔導與監督
 - 第 37 條: article/37.md
 - 第 38 條: article/38.md
 - 第 39 條: article/39.md
+# 第五章 集管團體之獎勵、輔導及監督
 - 第 40 條: article/40.md
-# 第六章 罰則
 - 第 41 條: article/41.md
 - 第 42 條: article/42.md
-# 第七章 附則
 - 第 43 條: article/43.md
+# 第六章 罰則
 - 第 44 條: article/44.md
 - 第 45 條: article/45.md
+# 第七章 附則
 - 第 46 條: article/46.md
+- 第 47 條: article/47.md
+- 第 48 條: article/48.md
+- 第 49 條: article/49.md
