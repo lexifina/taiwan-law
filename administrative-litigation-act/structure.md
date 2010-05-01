@@ -1,5 +1,5 @@
 行政訴訟法
-中華民國96年7月4日公布（修正）
+中華民國99年1月13日公布（修正）
 
 # 第一編 總則
 ## 第一章 行政訴訟事件
@@ -19,11 +19,14 @@
 - 第 12-2 條: article/12-2.md
 - 第 12-3 條: article/12-3.md
 - 第 12-4 條: article/12-4.md
+- 第 12-5 條: article/12-5.md
 ## 第二章 行政法院
 ### 第一節 管轄
 - 第 13 條: article/13.md
 - 第 14 條: article/14.md
 - 第 15 條: article/15.md
+- 第 15-1 條: article/15-1.md
+- 第 15-2 條: article/15-2.md
 - 第 16 條: article/16.md
 - 第 17 條: article/17.md
 - 第 18 條: article/18.md
@@ -315,6 +318,7 @@
 # 第五編 再審程序
 - 第 273 條: article/273.md
 - 第 274 條: article/274.md
+- 第 274-1 條: article/274-1.md
 - 第 275 條: article/275.md
 - 第 276 條: article/276.md
 - 第 277 條: article/277.md
@@ -352,4 +356,5 @@
 - 第 306 條: article/306.md
 - 第 307 條: article/307.md
 # 第九編 附則
+- 第 307-1 條: article/307-1.md
 - 第 308 條: article/308.md
