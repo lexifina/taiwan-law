@@ -1,5 +1,5 @@
 軍人保險條例
-中華民國94年1月12日公布（修正）
+中華民國99年5月12日公布（修正）
 
 # 第一章 總則
 - 第 1 條: article/1.md
@@ -21,6 +21,8 @@
 - 第 14 條: article/14.md
 - 第 15 條: article/15.md
 - 第 16 條: article/16.md
+- 第 16-1 條: article/16-1.md
+- 第 16-2 條: article/16-2.md
 - 第 17 條: article/17.md
 - 第 18 條: article/18.md
 - 第 19 條: article/19.md
