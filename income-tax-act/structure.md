@@ -1,5 +1,5 @@
 所得稅法
-中華民國100年1月19日公布（修正）
+中華民國100年1月26日公布（修正）
 
 # 第一章 總則
 ## 第一節 一般規定
@@ -50,6 +50,7 @@
 - 第 24-1 條: article/24-1.md
 - 第 24-2 條: article/24-2.md
 - 第 24-3 條: article/24-3.md
+- 第 24-4 條: article/24-4.md
 - 第 25 條: article/25.md
 - 第 26 條: article/26.md
 - 第 27 條: article/27.md
@@ -71,6 +72,7 @@
 - 第 42 條: article/42.md
 - 第 43 條: article/43.md
 - 第 43-1 條: article/43-1.md
+- 第 43-2 條: article/43-2.md
 ## 第四節 資產估價
 - 第 44 條: article/44.md
 - 第 45 條: article/45.md
