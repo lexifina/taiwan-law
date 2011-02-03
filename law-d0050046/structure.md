@@ -1,5 +1,5 @@
 身心障礙者權益保障法
-中華民國98年7月8日公布（修正）
+中華民國100年2月1日公布（修正）
 
 # 第一章 總則
 - 第 1 條: article/1.md
@@ -34,6 +34,7 @@
 - 第 28 條: article/28.md
 - 第 29 條: article/29.md
 - 第 30 條: article/30.md
+- 第 30-1 條: article/30-1.md
 - 第 31 條: article/31.md
 - 第 32 條: article/32.md
 # 第四章 就業權益
@@ -43,6 +44,7 @@
 - 第 36 條: article/36.md
 - 第 37 條: article/37.md
 - 第 38 條: article/38.md
+- 第 38-1 條: article/38-1.md
 - 第 39 條: article/39.md
 - 第 40 條: article/40.md
 - 第 41 條: article/41.md
@@ -51,6 +53,7 @@
 - 第 44 條: article/44.md
 - 第 45 條: article/45.md
 - 第 46 條: article/46.md
+- 第 46-1 條: article/46-1.md
 - 第 47 條: article/47.md
 # 第五章 支持服務
 - 第 48 條: article/48.md
@@ -58,6 +61,8 @@
 - 第 50 條: article/50.md
 - 第 51 條: article/51.md
 - 第 52 條: article/52.md
+- 第 52-1 條: article/52-1.md
+- 第 52-2 條: article/52-2.md
 - 第 53 條: article/53.md
 - 第 54 條: article/54.md
 - 第 55 條: article/55.md
@@ -66,6 +71,7 @@
 - 第 58 條: article/58.md
 - 第 59 條: article/59.md
 - 第 60 條: article/60.md
+- 第 60-1 條: article/60-1.md
 - 第 61 條: article/61.md
 - 第 62 條: article/62.md
 - 第 63 條: article/63.md
@@ -75,6 +81,7 @@
 - 第 67 條: article/67.md
 - 第 68 條: article/68.md
 - 第 69 條: article/69.md
+- 第 69-1 條: article/69-1.md
 # 第六章 經濟安全
 - 第 70 條: article/70.md
 - 第 71 條: article/71.md
