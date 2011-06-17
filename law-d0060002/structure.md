@@ -1,7 +1,7 @@
 土地法施行法
-中華民國100年6月15日公布（修正）
+修正日期：民國 100 年 06 月 15 日
 
-# 第一編 總則
+# 第 一 編 總則
 - 第 1 條: article/1.md
 - 第 2 條: article/2.md
 - 第 3 條: article/3.md
@@ -10,7 +10,7 @@
 - 第 6 條: article/6.md
 - 第 7 條: article/7.md
 - 第 8 條: article/8.md
-# 第二編 地籍
+# 第 二 編 地籍
 - 第 9 條: article/9.md
 - 第 10 條: article/10.md
 - 第 11 條: article/11.md
@@ -24,7 +24,7 @@
 - 第 18 條: article/18.md
 - 第 19 條: article/19.md
 - 第 19-1 條: article/19-1.md
-# 第三編 土地使用
+# 第 三 編 土地使用
 - 第 20 條: article/20.md
 - 第 21 條: article/21.md
 - 第 22 條: article/22.md
@@ -41,7 +41,7 @@
 - 第 33 條: article/33.md
 - 第 34 條: article/34.md
 - 第 35 條: article/35.md
-# 第四編 土地稅
+# 第 四 編 土地稅
 - 第 36 條: article/36.md
 - 第 37 條: article/37.md
 - 第 38 條: article/38.md
@@ -55,7 +55,7 @@
 - 第 46 條: article/46.md
 - 第 47 條: article/47.md
 - 第 48 條: article/48.md
-# 第五編 土地徵收
+# 第 五 編 土地徵收
 - 第 49 條: article/49.md
 - 第 50 條: article/50.md
 - 第 51 條: article/51.md
