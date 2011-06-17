@@ -1,5 +1,5 @@
 呼吸治療師法
-中華民國91年1月16日公布（制定）
+中華民國100年6月15日公布（修正）
 
 # 第一章 總則
 - 第 1 條: article/1.md
@@ -19,6 +19,21 @@
 - 第 14 條: article/14.md
 - 第 15 條: article/15.md
 - 第 16 條: article/16.md
+# 第二章之一 居家呼吸照護所
+- 第 16-1 條: article/16-1.md
+- 第 16-2 條: article/16-2.md
+- 第 16-3 條: article/16-3.md
+- 第 16-4 條: article/16-4.md
+- 第 16-5 條: article/16-5.md
+- 第 16-6 條: article/16-6.md
+- 第 16-7 條: article/16-7.md
+- 第 16-8 條: article/16-8.md
+- 第 16-9 條: article/16-9.md
+- 第 16-10 條: article/16-10.md
+- 第 16-11 條: article/16-11.md
+- 第 16-12 條: article/16-12.md
+- 第 16-13 條: article/16-13.md
+- 第 16-14 條: article/16-14.md
 # 第三章 獎懲
 - 第 17 條: article/17.md
 - 第 18 條: article/18.md
@@ -27,7 +42,11 @@
 - 第 21 條: article/21.md
 - 第 22 條: article/22.md
 - 第 23 條: article/23.md
+- 第 23-1 條: article/23-1.md
+- 第 23-2 條: article/23-2.md
 - 第 24 條: article/24.md
+- 第 24-1 條: article/24-1.md
+- 第 24-2 條: article/24-2.md
 - 第 25 條: article/25.md
 - 第 26 條: article/26.md
 # 第四章 公會
