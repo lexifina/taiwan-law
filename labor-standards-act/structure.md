@@ -1,5 +1,5 @@
 勞動基準法
-中華民國98年4月22日公布（修正）
+中華民國100年6月29日公布（修正）
 
 # 第一章 總則
 - 第 1 條: article/1.md
@@ -92,6 +92,7 @@
 - 第 77 條: article/77.md
 - 第 78 條: article/78.md
 - 第 79 條: article/79.md
+- 第 79-1 條: article/79-1.md
 - 第 80 條: article/80.md
 - 第 81 條: article/81.md
 - 第 82 條: article/82.md
