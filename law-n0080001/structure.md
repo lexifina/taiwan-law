@@ -1,11 +1,12 @@
 職業訓練法
-中華民國91年5月29日公布（修正）
+中華民國100年11月9日公布（修正）
 
 # 第一章 總則
 - 第 1 條: article/1.md
 - 第 2 條: article/2.md
 - 第 3 條: article/3.md
 - 第 4 條: article/4.md
+- 第 4-1 條: article/4-1.md
 # 第二章 職業訓練機構
 - 第 5 條: article/5.md
 - 第 6 條: article/6.md
@@ -28,7 +29,7 @@
 - 第 18 條: article/18.md
 - 第 19 條: article/19.md
 - 第 20 條: article/20.md
-## 第五節 殘障者職業訓練
+## 第五節（刪除）
 - 第 21 條: article/21.md
 - 第 22 條: article/22.md
 - 第 23 條: article/23.md
@@ -41,8 +42,10 @@
 - 第 28 條: article/28.md
 - 第 29 條: article/29.md
 - 第 30 條: article/30.md
-# 第六章 技能檢定及發證
+# 第六章 技能檢定、發證及認證
 - 第 31 條: article/31.md
+- 第 31-1 條: article/31-1.md
+- 第 31-2 條: article/31-2.md
 - 第 32 條: article/32.md
 - 第 33 條: article/33.md
 - 第 34 條: article/34.md
@@ -51,8 +54,11 @@
 - 第 36 條: article/36.md
 - 第 37 條: article/37.md
 - 第 38 條: article/38.md
+- 第 38-1 條: article/38-1.md
 # 第八章 罰則
 - 第 39 條: article/39.md
+- 第 39-1 條: article/39-1.md
+- 第 39-2 條: article/39-2.md
 - 第 40 條: article/40.md
 - 第 41 條: article/41.md
 # 第九章 附則
