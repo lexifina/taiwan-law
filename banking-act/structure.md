@@ -1,5 +1,5 @@
 銀行法
-中華民國97年12月30日公布（修正）
+中華民國100年11月9日公布（修正）
 
 # 第一章 通則
 - 第 1 條: article/1.md
@@ -18,6 +18,7 @@
 - 第 11 條: article/11.md
 - 第 12 條: article/12.md
 - 第 12-1 條: article/12-1.md
+- 第 12-2 條: article/12-2.md
 - 第 13 條: article/13.md
 - 第 14 條: article/14.md
 - 第 15 條: article/15.md
