@@ -1,5 +1,5 @@
 兵役法
-中華民國98年4月29日公布（修正）
+中華民國100年12月28日公布（修正）
 
 # 第一章 總則
 - 第 1 條: article/1.md
@@ -20,10 +20,12 @@
 # 第三章 士兵役
 - 第 15 條: article/15.md
 - 第 16 條: article/16.md
+- 第 16-1 條: article/16-1.md
 - 第 17 條: article/17.md
 - 第 18 條: article/18.md
 - 第 19 條: article/19.md
 - 第 20 條: article/20.md
+- 第 20-1 條: article/20-1.md
 - 第 21 條: article/21.md
 - 第 22 條: article/22.md
 - 第 23 條: article/23.md
