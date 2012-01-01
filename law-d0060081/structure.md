@@ -1,5 +1,5 @@
 地政士法
-中華民國100年6月15日公布（修正）
+中華民國100年12月30日公布（修正）
 
 # 第一章 總則
 - 第 1 條: article/1.md
@@ -30,6 +30,7 @@
 - 第 24 條: article/24.md
 - 第 25 條: article/25.md
 - 第 26 條: article/26.md
+- 第 26-1 條: article/26-1.md
 - 第 27 條: article/27.md
 - 第 28 條: article/28.md
 - 第 29 條: article/29.md
@@ -57,6 +58,7 @@
 - 第 49 條: article/49.md
 - 第 50 條: article/50.md
 - 第 51 條: article/51.md
+- 第 51-1 條: article/51-1.md
 - 第 52 條: article/52.md
 # 第六章 附則
 - 第 53 條: article/53.md
