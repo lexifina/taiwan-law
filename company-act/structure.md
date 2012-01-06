@@ -1,5 +1,5 @@
 公司法
-中華民國100年12月28日公布（修正）
+中華民國101年1月4日公布（修正）
 
 # 第一章 總則
 - 第 1 條: article/1.md
@@ -30,6 +30,7 @@
 - 第 25 條: article/25.md
 - 第 26 條: article/26.md
 - 第 26-1 條: article/26-1.md
+- 第 26-2 條: article/26-2.md
 - 第 27 條: article/27.md
 - 第 28 條: article/28.md
 - 第 28-1 條: article/28-1.md
