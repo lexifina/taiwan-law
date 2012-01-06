@@ -1,5 +1,5 @@
 消費者債務清理條例
-中華民國100年1月26日公布（修正）
+中華民國101年1月4日公布（修正）
 
 # 第一章 總則
 ## 第一節 通則
@@ -15,6 +15,7 @@
 - 第 9 條: article/9.md
 - 第 10 條: article/10.md
 - 第 11 條: article/11.md
+- 第 11-1 條: article/11-1.md
 - 第 12 條: article/12.md
 - 第 13 條: article/13.md
 - 第 14 條: article/14.md
@@ -39,6 +40,7 @@
 - 第 30 條: article/30.md
 - 第 31 條: article/31.md
 - 第 32 條: article/32.md
+- 第 32-1 條: article/32-1.md
 - 第 33 條: article/33.md
 - 第 34 條: article/34.md
 - 第 35 條: article/35.md
@@ -65,6 +67,7 @@
 ## 第二節 更生之可決及認可
 - 第 53 條: article/53.md
 - 第 54 條: article/54.md
+- 第 54-1 條: article/54-1.md
 - 第 55 條: article/55.md
 - 第 56 條: article/56.md
 - 第 57 條: article/57.md
@@ -160,6 +163,7 @@
 - 第 140 條: article/140.md
 - 第 141 條: article/141.md
 - 第 142 條: article/142.md
+- 第 142-1 條: article/142-1.md
 - 第 143 條: article/143.md
 - 第 144 條: article/144.md
 - 第 145 條: article/145.md
@@ -173,6 +177,7 @@
 - 第 151-1 條: article/151-1.md
 - 第 152 條: article/152.md
 - 第 153 條: article/153.md
+- 第 153-1 條: article/153-1.md
 - 第 154 條: article/154.md
 - 第 155 條: article/155.md
 - 第 156 條: article/156.md
