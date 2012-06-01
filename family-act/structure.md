@@ -1,7 +1,7 @@
 家事事件法
-修正日期：民國 112 年 06 月 21 日
+中華民國101年1月11日公布（制定）
 
-# 第 一 編 總則
+# 第一編 總則
 - 第 1 條: article/1.md
 - 第 2 條: article/2.md
 - 第 3 條: article/3.md
@@ -24,7 +24,7 @@
 - 第 20 條: article/20.md
 - 第 21 條: article/21.md
 - 第 22 條: article/22.md
-# 第 二 編 調解程序
+# 第二編 調解程序
 - 第 23 條: article/23.md
 - 第 24 條: article/24.md
 - 第 25 條: article/25.md
@@ -39,8 +39,8 @@
 - 第 34 條: article/34.md
 - 第 35 條: article/35.md
 - 第 36 條: article/36.md
-# 第 三 編 家事訴訟程序
-## 第 一 章 通則
+# 第三編 家事訴訟程序
+## 第一章 通則
 - 第 37 條: article/37.md
 - 第 38 條: article/38.md
 - 第 39 條: article/39.md
@@ -56,7 +56,7 @@
 - 第 49 條: article/49.md
 - 第 50 條: article/50.md
 - 第 51 條: article/51.md
-## 第 二 章 婚姻事件程序
+## 第二章 婚姻事件程序
 - 第 52 條: article/52.md
 - 第 53 條: article/53.md
 - 第 54 條: article/54.md
@@ -66,7 +66,7 @@
 - 第 58 條: article/58.md
 - 第 59 條: article/59.md
 - 第 60 條: article/60.md
-## 第 三 章 親子關係事件程序
+## 第三章 親子關係事件程序
 - 第 61 條: article/61.md
 - 第 62 條: article/62.md
 - 第 63 條: article/63.md
@@ -76,13 +76,13 @@
 - 第 67 條: article/67.md
 - 第 68 條: article/68.md
 - 第 69 條: article/69.md
-## 第 四 章 繼承訴訟事件
+## 第四章 繼承訴訟事件
 - 第 70 條: article/70.md
 - 第 71 條: article/71.md
 - 第 72 條: article/72.md
 - 第 73 條: article/73.md
-# 第 四 編 家事非訟程序
-## 第 一 章 通則
+# 第四編 家事非訟程序
+## 第一章 通則
 - 第 74 條: article/74.md
 - 第 75 條: article/75.md
 - 第 76 條: article/76.md
@@ -107,14 +107,14 @@
 - 第 95 條: article/95.md
 - 第 96 條: article/96.md
 - 第 97 條: article/97.md
-## 第 二 章 婚姻非訟事件
+## 第二章 婚姻非訟事件
 - 第 98 條: article/98.md
 - 第 99 條: article/99.md
 - 第 100 條: article/100.md
 - 第 101 條: article/101.md
 - 第 102 條: article/102.md
 - 第 103 條: article/103.md
-## 第 三 章 親子非訟事件
+## 第三章 親子非訟事件
 - 第 104 條: article/104.md
 - 第 105 條: article/105.md
 - 第 106 條: article/106.md
@@ -125,23 +125,23 @@
 - 第 111 條: article/111.md
 - 第 112 條: article/112.md
 - 第 113 條: article/113.md
-## 第 四 章 收養事件
+## 第四章 收養事件
 - 第 114 條: article/114.md
 - 第 115 條: article/115.md
 - 第 116 條: article/116.md
 - 第 117 條: article/117.md
 - 第 118 條: article/118.md
 - 第 119 條: article/119.md
-## 第 五 章 未成年人監護事件
+## 第五章 未成年人監護事件
 - 第 120 條: article/120.md
 - 第 121 條: article/121.md
 - 第 122 條: article/122.md
 - 第 123 條: article/123.md
 - 第 124 條: article/124.md
-## 第 六 章 親屬間扶養事件
+## 第六章 親屬間扶養事件
 - 第 125 條: article/125.md
 - 第 126 條: article/126.md
-## 第 七 章 繼承事件
+## 第七章 繼承事件
 - 第 127 條: article/127.md
 - 第 128 條: article/128.md
 - 第 129 條: article/129.md
@@ -157,7 +157,7 @@
 - 第 139 條: article/139.md
 - 第 140 條: article/140.md
 - 第 141 條: article/141.md
-## 第 八 章 失蹤人財產管理事件
+## 第八章 失蹤人財產管理事件
 - 第 142 條: article/142.md
 - 第 143 條: article/143.md
 - 第 144 條: article/144.md
@@ -170,7 +170,7 @@
 - 第 151 條: article/151.md
 - 第 152 條: article/152.md
 - 第 153 條: article/153.md
-## 第 九 章 宣告死亡事件
+## 第九章 宣告死亡事件
 - 第 154 條: article/154.md
 - 第 155 條: article/155.md
 - 第 156 條: article/156.md
@@ -181,7 +181,7 @@
 - 第 161 條: article/161.md
 - 第 162 條: article/162.md
 - 第 163 條: article/163.md
-## 第 十 章 監護宣告事件
+## 第十章 監護宣告事件
 - 第 164 條: article/164.md
 - 第 165 條: article/165.md
 - 第 166 條: article/166.md
@@ -195,33 +195,33 @@
 - 第 174 條: article/174.md
 - 第 175 條: article/175.md
 - 第 176 條: article/176.md
-## 第 十一 章 輔助宣告事件
+## 第十一章 輔助宣告事件
 - 第 177 條: article/177.md
 - 第 178 條: article/178.md
 - 第 179 條: article/179.md
 - 第 180 條: article/180.md
-## 第 十二 章 親屬會議事件
+## 第十二章 親屬會議事件
 - 第 181 條: article/181.md
 - 第 182 條: article/182.md
 - 第 183 條: article/183.md
-## 第 十三 章 保護安置事件
+## 第十三章 保護安置事件
 - 第 184 條: article/184.md
 - 第 185 條: article/185.md
-# 第 五 編 履行之確保及執行
-## 第 一 章 通則
+# 第五編 履行之確保及執行
+## 第一章 通則
 - 第 186 條: article/186.md
 - 第 187 條: article/187.md
 - 第 188 條: article/188.md
-## 第 二 章 扶養費及其他費用之執行
+## 第二章 扶養費及其他費用之執行
 - 第 189 條: article/189.md
 - 第 190 條: article/190.md
 - 第 191 條: article/191.md
 - 第 192 條: article/192.md
 - 第 193 條: article/193.md
-## 第 三 章 交付子女與子女會面交往之執行
+## 第三章 交付子女與子女會面交往之執行
 - 第 194 條: article/194.md
 - 第 195 條: article/195.md
-# 第 六 編 附則
+# 第六編 附則
 - 第 196 條: article/196.md
 - 第 197 條: article/197.md
 - 第 198 條: article/198.md
