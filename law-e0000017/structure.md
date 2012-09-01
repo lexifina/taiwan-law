@@ -1,5 +1,5 @@
 駐外機構組織通則
-修正日期：民國 107 年 06 月 13 日
+中華民國101年2月3日公布（制定）
 
 - 第 1 條: article/1.md
 - 第 2 條: article/2.md
@@ -12,6 +12,5 @@
 - 第 9 條: article/9.md
 - 第 10 條: article/10.md
 - 第 11 條: article/11.md
-- 第 11-1 條: article/11-1.md
 - 第 12 條: article/12.md
 - 第 13 條: article/13.md
