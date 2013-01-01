@@ -1,5 +1,5 @@
 專利法
-中華民國99年8月25日公布（修正）
+中華民國100年12月21日公布（全文修正）
 
 # 第一章 總則
 - 第 1 條: article/1.md
@@ -39,8 +39,8 @@
 - 第 32 條: article/32.md
 - 第 33 條: article/33.md
 - 第 34 條: article/34.md
-## 第三節 審查及再審查
 - 第 35 條: article/35.md
+## 第三節 審查及再審查
 - 第 36 條: article/36.md
 - 第 37 條: article/37.md
 - 第 38 條: article/38.md
@@ -56,8 +56,8 @@
 - 第 48 條: article/48.md
 - 第 49 條: article/49.md
 - 第 50 條: article/50.md
-## 第四節 專利權
 - 第 51 條: article/51.md
+## 第四節 專利權
 - 第 52 條: article/52.md
 - 第 53 條: article/53.md
 - 第 54 條: article/54.md
@@ -82,30 +82,29 @@
 - 第 73 條: article/73.md
 - 第 74 條: article/74.md
 - 第 75 條: article/75.md
-## 第五節 實施
 - 第 76 條: article/76.md
 - 第 77 條: article/77.md
 - 第 78 條: article/78.md
 - 第 79 條: article/79.md
-## 第六節 納費
 - 第 80 條: article/80.md
 - 第 81 條: article/81.md
 - 第 82 條: article/82.md
 - 第 83 條: article/83.md
-## 第七節 損害賠償及訴訟
 - 第 84 條: article/84.md
 - 第 85 條: article/85.md
 - 第 86 條: article/86.md
+## 第五節 強制授權
 - 第 87 條: article/87.md
 - 第 88 條: article/88.md
 - 第 89 條: article/89.md
 - 第 90 條: article/90.md
 - 第 91 條: article/91.md
+## 第六節 納費
 - 第 92 條: article/92.md
-# 第三章 新型專利
 - 第 93 條: article/93.md
 - 第 94 條: article/94.md
 - 第 95 條: article/95.md
+## 第七節 損害賠償及訴訟
 - 第 96 條: article/96.md
 - 第 97 條: article/97.md
 - 第 98 條: article/98.md
@@ -114,12 +113,12 @@
 - 第 101 條: article/101.md
 - 第 102 條: article/102.md
 - 第 103 條: article/103.md
+# 第三章 新型專利
 - 第 104 條: article/104.md
 - 第 105 條: article/105.md
 - 第 106 條: article/106.md
 - 第 107 條: article/107.md
 - 第 108 條: article/108.md
-# 第四章 新式樣專利
 - 第 109 條: article/109.md
 - 第 110 條: article/110.md
 - 第 111 條: article/111.md
@@ -132,6 +131,7 @@
 - 第 118 條: article/118.md
 - 第 119 條: article/119.md
 - 第 120 條: article/120.md
+# 第四章 設計專利
 - 第 121 條: article/121.md
 - 第 122 條: article/122.md
 - 第 123 條: article/123.md
@@ -141,7 +141,6 @@
 - 第 127 條: article/127.md
 - 第 128 條: article/128.md
 - 第 129 條: article/129.md
-# 第五章 附則
 - 第 130 條: article/130.md
 - 第 131 條: article/131.md
 - 第 132 條: article/132.md
@@ -151,3 +150,25 @@
 - 第 136 條: article/136.md
 - 第 137 條: article/137.md
 - 第 138 條: article/138.md
+- 第 139 條: article/139.md
+- 第 140 條: article/140.md
+- 第 141 條: article/141.md
+- 第 142 條: article/142.md
+# 第五章 附則
+- 第 143 條: article/143.md
+- 第 144 條: article/144.md
+- 第 145 條: article/145.md
+- 第 146 條: article/146.md
+- 第 147 條: article/147.md
+- 第 148 條: article/148.md
+- 第 149 條: article/149.md
+- 第 150 條: article/150.md
+- 第 151 條: article/151.md
+- 第 152 條: article/152.md
+- 第 153 條: article/153.md
+- 第 154 條: article/154.md
+- 第 155 條: article/155.md
+- 第 156 條: article/156.md
+- 第 157 條: article/157.md
+- 第 158 條: article/158.md
+- 第 159 條: article/159.md
