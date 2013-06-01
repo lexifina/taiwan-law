@@ -1,5 +1,5 @@
 犯罪被害人保護法
-中華民國100年11月30日公布（修正）
+中華民國102年5月22日公布（修正）
 
 - 第 1 條: article/1.md
 - 第 2 條: article/2.md
@@ -32,10 +32,18 @@
 - 第 27 條: article/27.md
 - 第 28 條: article/28.md
 - 第 29 條: article/29.md
+- 第 29-1 條: article/29-1.md
 - 第 30 條: article/30.md
+- 第 30-1 條: article/30-1.md
 - 第 31 條: article/31.md
 - 第 32 條: article/32.md
 - 第 33 條: article/33.md
 - 第 34 條: article/34.md
+- 第 34-1 條: article/34-1.md
+- 第 34-2 條: article/34-2.md
+- 第 34-3 條: article/34-3.md
+- 第 34-4 條: article/34-4.md
+- 第 34-5 條: article/34-5.md
+- 第 34-6 條: article/34-6.md
 - 第 35 條: article/35.md
 - 第 36 條: article/36.md
