@@ -1,8 +1,10 @@
 國際金融業務條例
-中華民國99年6月9日公布（修正）
+中華民國102年6月19日公布（修正）
 
+# 第一章 總則
 - 第 1 條: article/1.md
 - 第 2 條: article/2.md
+# 第二章 銀行
 - 第 3 條: article/3.md
 - 第 4 條: article/4.md
 - 第 4-1 條: article/4-1.md
@@ -29,5 +31,16 @@
 - 第 22 條: article/22.md
 - 第 22-1 條: article/22-1.md
 - 第 22-2 條: article/22-2.md
+# 第三章 證券商
+- 第 22-3 條: article/22-3.md
+- 第 22-4 條: article/22-4.md
+- 第 22-5 條: article/22-5.md
+- 第 22-6 條: article/22-6.md
+- 第 22-7 條: article/22-7.md
+- 第 22-8 條: article/22-8.md
+- 第 22-9 條: article/22-9.md
+- 第 22-10 條: article/22-10.md
+- 第 22-11 條: article/22-11.md
+# 第四章 附則
 - 第 23 條: article/23.md
 - 第 24 條: article/24.md
