@@ -1,5 +1,5 @@
 公路法
-中華民國99年1月27日公布（修正）
+中華民國102年7月3日公布（修正）
 
 # 第一章 總則
 - 第 1 條: article/1.md
@@ -72,6 +72,7 @@
 - 第 58 條: article/58.md
 - 第 59 條: article/59.md
 - 第 60 條: article/60.md
+- 第 60-1 條: article/60-1.md
 - 第 61 條: article/61.md
 - 第 61-1 條: article/61-1.md
 - 第 62 條: article/62.md
