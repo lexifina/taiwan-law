@@ -1,5 +1,5 @@
 勞工退休金條例
-中華民國96年7月4日公布（修正）
+中華民國103年1月15日公布（修正）
 
 # 第一章 總則
 - 第 1 條: article/1.md
@@ -11,6 +11,7 @@
 # 第二章 制度之適用與銜接
 - 第 7 條: article/7.md
 - 第 8 條: article/8.md
+- 第 8-1 條: article/8-1.md
 - 第 9 條: article/9.md
 - 第 10 條: article/10.md
 - 第 11 條: article/11.md
@@ -28,6 +29,8 @@
 - 第 22 條: article/22.md
 - 第 23 條: article/23.md
 - 第 24 條: article/24.md
+- 第 24-1 條: article/24-1.md
+- 第 24-2 條: article/24-2.md
 - 第 25 條: article/25.md
 - 第 26 條: article/26.md
 - 第 27 條: article/27.md
@@ -40,6 +43,8 @@
 - 第 34 條: article/34.md
 # 第四章 年金保險
 - 第 35 條: article/35.md
+- 第 35-1 條: article/35-1.md
+- 第 35-2 條: article/35-2.md
 - 第 36 條: article/36.md
 - 第 37 條: article/37.md
 - 第 38 條: article/38.md
