@@ -1,10 +1,10 @@
 教育人員任用條例
-中華民國103年1月22日公布（修正）
+修正日期：民國 103 年 01 月 22 日
 
-# 第一章 總則
+## 第 一 章 總則
 - 第 1 條: article/1.md
 - 第 2 條: article/2.md
-# 第二章 任用資格
+## 第 二 章 任用資格
 - 第 3 條: article/3.md
 - 第 4 條: article/4.md
 - 第 5 條: article/5.md
@@ -29,7 +29,7 @@
 - 第 21 條: article/21.md
 - 第 22 條: article/22.md
 - 第 22-1 條: article/22-1.md
-# 第三章 任用程序
+## 第 三 章 任用程序
 - 第 23 條: article/23.md
 - 第 24 條: article/24.md
 - 第 25 條: article/25.md
@@ -39,19 +39,19 @@
 - 第 29 條: article/29.md
 - 第 30 條: article/30.md
 - 第 30-1 條: article/30-1.md
+## 第 四 章 任用限制
 - 第 31 條: article/31.md
-# 第四章 任用限制
 - 第 32 條: article/32.md
 - 第 33 條: article/33.md
 - 第 34 條: article/34.md
 - 第 34-1 條: article/34-1.md
 - 第 35 條: article/35.md
-# 第五章 任期
+## 第 五 章 任期
 - 第 36 條: article/36.md
 - 第 37 條: article/37.md
 - 第 38 條: article/38.md
 - 第 39 條: article/39.md
-# 第六章 附則
+## 第 六 章 附則
 - 第 40 條: article/40.md
 - 第 41 條: article/41.md
 - 第 41-1 條: article/41-1.md
