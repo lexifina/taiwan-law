@@ -1,5 +1,5 @@
 公務人員考試法
-中華民國102年1月23日公布（修正）
+中華民國103年1月22日公布（全文修正）
 
 - 第 1 條: article/1.md
 - 第 2 條: article/2.md
@@ -13,7 +13,6 @@
 - 第 10 條: article/10.md
 - 第 11 條: article/11.md
 - 第 12 條: article/12.md
-- 第 12-1 條: article/12-1.md
 - 第 13 條: article/13.md
 - 第 14 條: article/14.md
 - 第 15 條: article/15.md
@@ -27,3 +26,6 @@
 - 第 23 條: article/23.md
 - 第 24 條: article/24.md
 - 第 25 條: article/25.md
+- 第 26 條: article/26.md
+- 第 27 條: article/27.md
+- 第 28 條: article/28.md
