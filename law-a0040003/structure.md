@@ -1,5 +1,5 @@
 地方制度法
-中華民國99年2月3日公布（修正）
+中華民國103年1月29日公布（修正）
 
 # 第一章 總則
 - 第 1 條: article/1.md
@@ -104,6 +104,14 @@
 - 第 82 條: article/82.md
 - 第 83 條: article/83.md
 - 第 83-1 條: article/83-1.md
+# 第四章之一 直轄市山地原住民區
+- 第 83-2 條: article/83-2.md
+- 第 83-3 條: article/83-3.md
+- 第 83-4 條: article/83-4.md
+- 第 83-5 條: article/83-5.md
+- 第 83-6 條: article/83-6.md
+- 第 83-7 條: article/83-7.md
+- 第 83-8 條: article/83-8.md
 # 第五章 附則
 - 第 84 條: article/84.md
 - 第 85 條: article/85.md
