@@ -1,5 +1,5 @@
-食品衛生管理法
-中華民國102年6月19日公布（全文修正）
+食品安全衛生管理法
+中華民國103年2月5日公布（修正）
 
 # 第一章 總則
 - 第 1 條: article/1.md
@@ -58,14 +58,18 @@
 - 第 46 條: article/46.md
 - 第 47 條: article/47.md
 - 第 48 條: article/48.md
+- 第 48-1 條: article/48-1.md
 - 第 49 條: article/49.md
+- 第 49-1 條: article/49-1.md
 - 第 50 條: article/50.md
 - 第 51 條: article/51.md
 - 第 52 條: article/52.md
 - 第 53 條: article/53.md
 - 第 54 條: article/54.md
 - 第 55 條: article/55.md
+- 第 55-1 條: article/55-1.md
 - 第 56 條: article/56.md
+- 第 56-1 條: article/56-1.md
 # 第十章 附則
 - 第 57 條: article/57.md
 - 第 58 條: article/58.md
