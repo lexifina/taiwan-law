@@ -1,5 +1,5 @@
 身心障礙者權益保障法
-中華民國102年6月11日公布（修正）
+中華民國103年6月4日公布（修正）
 
 # 第一章 總則
 - 第 1 條: article/1.md
@@ -35,6 +35,7 @@
 - 第 29 條: article/29.md
 - 第 30 條: article/30.md
 - 第 30-1 條: article/30-1.md
+- 第 30-2 條: article/30-2.md
 - 第 31 條: article/31.md
 - 第 32 條: article/32.md
 # 第四章 就業權益
@@ -76,6 +77,7 @@
 - 第 61 條: article/61.md
 - 第 62 條: article/62.md
 - 第 63 條: article/63.md
+- 第 63-1 條: article/63-1.md
 - 第 64 條: article/64.md
 - 第 65 條: article/65.md
 - 第 66 條: article/66.md
