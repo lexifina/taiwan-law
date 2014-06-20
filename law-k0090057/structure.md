@@ -1,5 +1,5 @@
 飛航事故調查法
-中華民國93年6月2日公布（制定）
+中華民國103年6月18日公布（修正）
 
 # 第一章 總則
 - 第 1 條: article/1.md
@@ -7,6 +7,7 @@
 - 第 3 條: article/3.md
 - 第 4 條: article/4.md
 - 第 5 條: article/5.md
+- 第 5-1 條: article/5-1.md
 - 第 6 條: article/6.md
 - 第 7 條: article/7.md
 - 第 8 條: article/8.md
@@ -33,6 +34,7 @@
 - 第 27 條: article/27.md
 # 第四章 罰則
 - 第 28 條: article/28.md
+- 第 28-1 條: article/28-1.md
 - 第 29 條: article/29.md
 - 第 30 條: article/30.md
 - 第 31 條: article/31.md
