@@ -1,9 +1,10 @@
 食品安全衛生管理法
-中華民國103年2月5日公布（修正）
+中華民國103年12月10日公布（修正）
 
 # 第一章 總則
 - 第 1 條: article/1.md
 - 第 2 條: article/2.md
+- 第 2-1 條: article/2-1.md
 - 第 3 條: article/3.md
 # 第二章 食品安全風險管理
 - 第 4 條: article/4.md
@@ -51,6 +52,7 @@
 # 第八章 食品查核及管制
 - 第 41 條: article/41.md
 - 第 42 條: article/42.md
+- 第 42-1 條: article/42-1.md
 - 第 43 條: article/43.md
 # 第九章 罰則
 - 第 44 條: article/44.md
@@ -61,6 +63,7 @@
 - 第 48-1 條: article/48-1.md
 - 第 49 條: article/49.md
 - 第 49-1 條: article/49-1.md
+- 第 49-2 條: article/49-2.md
 - 第 50 條: article/50.md
 - 第 51 條: article/51.md
 - 第 52 條: article/52.md
