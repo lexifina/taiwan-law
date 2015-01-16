@@ -1,5 +1,5 @@
 罕見疾病防治及藥物法
-中華民國99年12月8日公布（修正）
+中華民國104年1月14日公布（修正）
 
 - 第 1 條: article/1.md
 - 第 2 條: article/2.md
@@ -16,6 +16,7 @@
 - 第 13 條: article/13.md
 - 第 14 條: article/14.md
 - 第 15 條: article/15.md
+- 第 15-1 條: article/15-1.md
 - 第 16 條: article/16.md
 - 第 17 條: article/17.md
 - 第 18 條: article/18.md
@@ -28,6 +29,7 @@
 - 第 25 條: article/25.md
 - 第 26 條: article/26.md
 - 第 27 條: article/27.md
+- 第 27-1 條: article/27-1.md
 - 第 28 條: article/28.md
 - 第 29 條: article/29.md
 - 第 30 條: article/30.md
@@ -35,6 +37,7 @@
 - 第 32 條: article/32.md
 - 第 33 條: article/33.md
 - 第 34 條: article/34.md
+- 第 34-1 條: article/34-1.md
 - 第 35 條: article/35.md
 - 第 36 條: article/36.md
 - 第 37 條: article/37.md
