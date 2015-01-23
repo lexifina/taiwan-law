@@ -1,5 +1,5 @@
 戶籍法
-中華民國100年5月25日公布（修正）
+中華民國104年1月21日公布（修正）
 
 # 第一章 總則
 - 第 1 條: article/1.md
@@ -7,6 +7,7 @@
 - 第 3 條: article/3.md
 - 第 4 條: article/4.md
 - 第 5 條: article/5.md
+- 第 5-1 條: article/5-1.md
 # 第二章 登記之類別
 - 第 6 條: article/6.md
 - 第 7 條: article/7.md
@@ -17,6 +18,7 @@
 - 第 12 條: article/12.md
 - 第 13 條: article/13.md
 - 第 14 條: article/14.md
+- 第 14-1 條: article/14-1.md
 - 第 15 條: article/15.md
 - 第 16 條: article/16.md
 - 第 17 條: article/17.md
@@ -39,6 +41,7 @@
 - 第 32 條: article/32.md
 - 第 33 條: article/33.md
 - 第 34 條: article/34.md
+- 第 34-1 條: article/34-1.md
 - 第 35 條: article/35.md
 - 第 36 條: article/36.md
 - 第 37 條: article/37.md
@@ -53,6 +56,8 @@
 - 第 46 條: article/46.md
 - 第 47 條: article/47.md
 - 第 48 條: article/48.md
+- 第 48-1 條: article/48-1.md
+- 第 48-2 條: article/48-2.md
 - 第 49 條: article/49.md
 - 第 50 條: article/50.md
 # 第五章 國民身分證及戶口名簿
@@ -74,6 +79,7 @@
 - 第 65 條: article/65.md
 - 第 65-1 條: article/65-1.md
 - 第 66 條: article/66.md
+- 第 66-1 條: article/66-1.md
 - 第 67 條: article/67.md
 - 第 68 條: article/68.md
 - 第 69 條: article/69.md
