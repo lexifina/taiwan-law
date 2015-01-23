@@ -1,14 +1,14 @@
 戶籍法
-中華民國104年1月21日公布（修正）
+修正日期：民國 104 年 01 月 21 日
 
-# 第一章 總則
+## 第 一 章 總則
 - 第 1 條: article/1.md
 - 第 2 條: article/2.md
 - 第 3 條: article/3.md
 - 第 4 條: article/4.md
 - 第 5 條: article/5.md
 - 第 5-1 條: article/5-1.md
-# 第二章 登記之類別
+## 第 二 章 登記之類別
 - 第 6 條: article/6.md
 - 第 7 條: article/7.md
 - 第 8 條: article/8.md
@@ -25,13 +25,13 @@
 - 第 18 條: article/18.md
 - 第 19 條: article/19.md
 - 第 20 條: article/20.md
-# 第三章 登記之變更、更正、撤銷及廢止
+## 第 三 章 登記之變更、更正、撤銷及廢止
 - 第 21 條: article/21.md
 - 第 22 條: article/22.md
 - 第 23 條: article/23.md
 - 第 24 條: article/24.md
 - 第 25 條: article/25.md
-# 第四章 登記之申請
+## 第 四 章 登記之申請
 - 第 26 條: article/26.md
 - 第 27 條: article/27.md
 - 第 28 條: article/28.md
@@ -60,7 +60,7 @@
 - 第 48-2 條: article/48-2.md
 - 第 49 條: article/49.md
 - 第 50 條: article/50.md
-# 第五章 國民身分證及戶口名簿
+## 第 五 章 國民身分證及戶口名簿
 - 第 51 條: article/51.md
 - 第 52 條: article/52.md
 - 第 53 條: article/53.md
@@ -74,7 +74,7 @@
 - 第 61 條: article/61.md
 - 第 62 條: article/62.md
 - 第 63 條: article/63.md
-# 第六章 戶籍資料之申請及提供
+## 第 六 章 戶籍資料之申請及提供
 - 第 64 條: article/64.md
 - 第 65 條: article/65.md
 - 第 65-1 條: article/65-1.md
@@ -83,13 +83,13 @@
 - 第 67 條: article/67.md
 - 第 68 條: article/68.md
 - 第 69 條: article/69.md
-# 第七章 戶口調查及統計
+## 第 七 章 戶口調查及統計
 - 第 70 條: article/70.md
 - 第 71 條: article/71.md
 - 第 72 條: article/72.md
 - 第 73 條: article/73.md
 - 第 74 條: article/74.md
-# 第八章 罰則
+## 第 八 章 罰則
 - 第 75 條: article/75.md
 - 第 76 條: article/76.md
 - 第 77 條: article/77.md
@@ -97,6 +97,6 @@
 - 第 79 條: article/79.md
 - 第 80 條: article/80.md
 - 第 81 條: article/81.md
-# 第九章 附則
+## 第 九 章 附則
 - 第 82 條: article/82.md
 - 第 83 條: article/83.md
