@@ -1,5 +1,5 @@
 入出國及移民法
-中華民國100年11月23日公布（修正）
+中華民國104年2月4日公布（修正）
 
 # 第一章 總則
 - 第 1 條: article/1.md
@@ -45,6 +45,15 @@
 - 第 36 條: article/36.md
 - 第 37 條: article/37.md
 - 第 38 條: article/38.md
+- 第 38-1 條: article/38-1.md
+- 第 38-2 條: article/38-2.md
+- 第 38-3 條: article/38-3.md
+- 第 38-4 條: article/38-4.md
+- 第 38-5 條: article/38-5.md
+- 第 38-6 條: article/38-6.md
+- 第 38-7 條: article/38-7.md
+- 第 38-8 條: article/38-8.md
+- 第 38-9 條: article/38-9.md
 - 第 39 條: article/39.md
 # 第七章 跨國（境）人口販運防制及被害人保護
 - 第 40 條: article/40.md
