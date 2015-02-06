@@ -1,7 +1,7 @@
 存款保險條例
-中華民國104年2月4日公布（修正）
+修正日期：民國 104 年 02 月 04 日
 
-# 第一章 總則
+## 第 一 章 總則
 - 第 1 條: article/1.md
 - 第 2 條: article/2.md
 - 第 3 條: article/3.md
@@ -11,8 +11,8 @@
 - 第 7 條: article/7.md
 - 第 8 條: article/8.md
 - 第 9 條: article/9.md
-# 第二章 存款保險及承保風險控管
-## 第一節 存款保險
+## 第 二 章 存款保險及承保風險控管
+### 第 一 節 存款保險
 - 第 10 條: article/10.md
 - 第 11 條: article/11.md
 - 第 12 條: article/12.md
@@ -25,14 +25,14 @@
 - 第 19 條: article/19.md
 - 第 20 條: article/20.md
 - 第 21 條: article/21.md
-## 第二節 承保風險控管
+### 第 二 節 承保風險控管
 - 第 22 條: article/22.md
 - 第 23 條: article/23.md
 - 第 24 條: article/24.md
 - 第 25 條: article/25.md
 - 第 26 條: article/26.md
 - 第 27 條: article/27.md
-# 第三章 履行保險責任
+## 第 三 章 履行保險責任
 - 第 28 條: article/28.md
 - 第 29 條: article/29.md
 - 第 30 條: article/30.md
@@ -51,10 +51,10 @@
 - 第 43 條: article/43.md
 - 第 44 條: article/44.md
 - 第 45 條: article/45.md
-# 第四章 罰則
+## 第 四 章 罰則
 - 第 46 條: article/46.md
 - 第 47 條: article/47.md
-# 第五章 附則
+## 第 五 章 附則
 - 第 48 條: article/48.md
 - 第 49 條: article/49.md
 - 第 50 條: article/50.md
