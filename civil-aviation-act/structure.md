@@ -1,5 +1,5 @@
 民用航空法
-中華民國103年1月29日公布（修正）
+中華民國104年2月4日公布（修正）
 
 # 第一章 總則
 - 第 1 條: article/1.md
@@ -13,6 +13,7 @@
 - 第 7-1 條: article/7-1.md
 - 第 8 條: article/8.md
 - 第 9 條: article/9.md
+- 第 9-1 條: article/9-1.md
 - 第 10 條: article/10.md
 - 第 11 條: article/11.md
 - 第 12 條: article/12.md
@@ -35,6 +36,7 @@
 - 第 25 條: article/25.md
 - 第 26 條: article/26.md
 - 第 27 條: article/27.md
+- 第 27-1 條: article/27-1.md
 # 第四章 航空站、飛行場與助航設備
 - 第 28 條: article/28.md
 - 第 28-1 條: article/28-1.md
@@ -175,6 +177,7 @@
 - 第 112-5 條: article/112-5.md
 - 第 112-6 條: article/112-6.md
 - 第 112-7 條: article/112-7.md
+- 第 112-8 條: article/112-8.md
 - 第 113 條: article/113.md
 - 第 114 條: article/114.md
 - 第 115 條: article/115.md
