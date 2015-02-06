@@ -1,5 +1,5 @@
 兒童及少年福利與權益保障法
-中華民國103年1月22日公布（修正）
+中華民國104年2月4日公布（修正）
 
 # 第一章 總則
 - 第 1 條: article/1.md
@@ -30,6 +30,8 @@
 - 第 24 條: article/24.md
 - 第 25 條: article/25.md
 - 第 26 條: article/26.md
+- 第 26-1 條: article/26-1.md
+- 第 26-2 條: article/26-2.md
 - 第 27 條: article/27.md
 - 第 28 條: article/28.md
 - 第 29 條: article/29.md
@@ -51,6 +53,7 @@
 - 第 44 條: article/44.md
 - 第 45 條: article/45.md
 - 第 46 條: article/46.md
+- 第 46-1 條: article/46-1.md
 - 第 47 條: article/47.md
 - 第 48 條: article/48.md
 - 第 49 條: article/49.md
