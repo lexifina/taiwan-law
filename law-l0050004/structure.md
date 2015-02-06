@@ -1,5 +1,5 @@
 人類免疫缺乏病毒傳染防治及感染者權益保障條例
-中華民國96年7月11日公布（全文修正）
+中華民國104年2月4日公布（修正）
 
 - 第 1 條: article/1.md
 - 第 2 條: article/2.md
@@ -16,6 +16,7 @@
 - 第 13 條: article/13.md
 - 第 14 條: article/14.md
 - 第 15 條: article/15.md
+- 第 15-1 條: article/15-1.md
 - 第 16 條: article/16.md
 - 第 17 條: article/17.md
 - 第 18 條: article/18.md
