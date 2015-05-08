@@ -1,6 +1,7 @@
 陸海空軍懲罰法
-中華民國98年1月21日公布（修正）
+中華民國104年5月6日公布（全文修正）
 
+# 第一章 總則
 - 第 1 條: article/1.md
 - 第 2 條: article/2.md
 - 第 3 條: article/3.md
@@ -10,9 +11,9 @@
 - 第 7 條: article/7.md
 - 第 8 條: article/8.md
 - 第 9 條: article/9.md
-- 第 9-1 條: article/9-1.md
 - 第 10 條: article/10.md
 - 第 11 條: article/11.md
+# 第二章 懲罰種類及違失行為
 - 第 12 條: article/12.md
 - 第 13 條: article/13.md
 - 第 14 條: article/14.md
@@ -26,6 +27,19 @@
 - 第 22 條: article/22.md
 - 第 23 條: article/23.md
 - 第 24 條: article/24.md
-- 第 24-1 條: article/24-1.md
 - 第 25 條: article/25.md
 - 第 26 條: article/26.md
+- 第 27 條: article/27.md
+# 第三章 懲罰程序及救濟程序
+- 第 28 條: article/28.md
+- 第 29 條: article/29.md
+- 第 30 條: article/30.md
+- 第 31 條: article/31.md
+- 第 32 條: article/32.md
+# 第四章 懲罰之執行
+- 第 33 條: article/33.md
+- 第 34 條: article/34.md
+# 第五章 附則
+- 第 35 條: article/35.md
+- 第 36 條: article/36.md
+- 第 37 條: article/37.md
