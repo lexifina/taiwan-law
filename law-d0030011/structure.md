@@ -1,5 +1,5 @@
 姓名條例
-中華民國98年7月8日公布（修正）
+中華民國104年5月20日公布（全文修正）
 
 - 第 1 條: article/1.md
 - 第 2 條: article/2.md
@@ -15,3 +15,6 @@
 - 第 12 條: article/12.md
 - 第 13 條: article/13.md
 - 第 14 條: article/14.md
+- 第 15 條: article/15.md
+- 第 16 條: article/16.md
+- 第 17 條: article/17.md
