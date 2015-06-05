@@ -1,5 +1,5 @@
 合作社法
-中華民國100年6月15日公布（修正）
+中華民國104年6月3日公布（修正）
 
 # 第一章 通則
 - 第 1 條: article/1.md
@@ -11,6 +11,7 @@
 - 第 5 條: article/5.md
 - 第 6 條: article/6.md
 - 第 7 條: article/7.md
+- 第 7-1 條: article/7-1.md
 # 第二章 設立
 - 第 8 條: article/8.md
 - 第 9 條: article/9.md
@@ -18,7 +19,7 @@
 - 第 10 條: article/10.md
 - 第 10-1 條: article/10-1.md
 - 第 10-2 條: article/10-2.md
-# 第三章 社員社股及盈餘
+# 第三章 社員社股及餘絀
 - 第 11 條: article/11.md
 - 第 12 條: article/12.md
 - 第 13 條: article/13.md
@@ -67,7 +68,10 @@
 - 第 52 條: article/52.md
 - 第 53 條: article/53.md
 - 第 54 條: article/54.md
-# 第六章 解除及清算
+# 第六章 監督、解散及清算
+- 第 54-1 條: article/54-1.md
+- 第 54-2 條: article/54-2.md
+- 第 54-3 條: article/54-3.md
 - 第 55 條: article/55.md
 - 第 55-1 條: article/55-1.md
 - 第 56 條: article/56.md
