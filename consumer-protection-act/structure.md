@@ -1,5 +1,5 @@
 消費者保護法
-中華民國94年2月5日公布（修正）
+中華民國104年6月17日公布（修正）
 
 # 第一章 總則
 - 第 1 條: article/1.md
@@ -25,10 +25,12 @@
 - 第 15 條: article/15.md
 - 第 16 條: article/16.md
 - 第 17 條: article/17.md
-## 第三節 特種買賣
+- 第 17-1 條: article/17-1.md
+## 第三節 特種交易
 - 第 18 條: article/18.md
 - 第 19 條: article/19.md
 - 第 19-1 條: article/19-1.md
+- 第 19-2 條: article/19-2.md
 - 第 20 條: article/20.md
 - 第 21 條: article/21.md
 ## 第四節 消費資訊之規範
@@ -80,6 +82,7 @@
 - 第 55 條: article/55.md
 # 第六章 罰則
 - 第 56 條: article/56.md
+- 第 56-1 條: article/56-1.md
 - 第 57 條: article/57.md
 - 第 58 條: article/58.md
 - 第 59 條: article/59.md
