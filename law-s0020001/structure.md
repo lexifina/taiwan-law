@@ -1,5 +1,5 @@
 公務人員任用法
-中華民國102年1月23日公布（修正）
+中華民國104年6月17日公布（修正）
 
 - 第 1 條: article/1.md
 - 第 2 條: article/2.md
@@ -44,6 +44,7 @@
 - 第 34 條: article/34.md
 - 第 35 條: article/35.md
 - 第 36 條: article/36.md
+- 第 36-1 條: article/36-1.md
 - 第 37 條: article/37.md
 - 第 38 條: article/38.md
 - 第 39 條: article/39.md
