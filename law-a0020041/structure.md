@@ -1,5 +1,5 @@
 國家情報工作法
-中華民國100年6月29日公布（修正）
+中華民國104年6月24日公布（修正）
 
 - 第 1 條: article/1.md
 - 第 2 條: article/2.md
@@ -34,6 +34,8 @@
 - 第 28 條: article/28.md
 - 第 29 條: article/29.md
 - 第 30 條: article/30.md
+- 第 30-1 條: article/30-1.md
+- 第 30-2 條: article/30-2.md
 - 第 31 條: article/31.md
 - 第 32 條: article/32.md
 - 第 33 條: article/33.md
