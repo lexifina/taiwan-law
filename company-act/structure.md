@@ -1,5 +1,5 @@
 公司法
-中華民國104年5月20日公布（修正）
+中華民國104年7月1日公布（修正）
 
 # 第一章 總則
 - 第 1 條: article/1.md
@@ -421,6 +421,21 @@
 - 第 354 條: article/354.md
 - 第 355 條: article/355.md
 - 第 356 條: article/356.md
+## 第十三節 閉鎖性股份有限公司
+- 第 356-1 條: article/356-1.md
+- 第 356-2 條: article/356-2.md
+- 第 356-3 條: article/356-3.md
+- 第 356-4 條: article/356-4.md
+- 第 356-5 條: article/356-5.md
+- 第 356-6 條: article/356-6.md
+- 第 356-7 條: article/356-7.md
+- 第 356-8 條: article/356-8.md
+- 第 356-9 條: article/356-9.md
+- 第 356-10 條: article/356-10.md
+- 第 356-11 條: article/356-11.md
+- 第 356-12 條: article/356-12.md
+- 第 356-13 條: article/356-13.md
+- 第 356-14 條: article/356-14.md
 # 第六章 （刪除）
 - 第 357 條: article/357.md
 - 第 358 條: article/358.md
