@@ -1,5 +1,5 @@
 專利師法
-中華民國98年5月27日公布（修正）
+中華民國104年7月1日公布（修正）
 
 # 第一章 總則
 - 第 1 條: article/1.md
@@ -15,6 +15,7 @@
 - 第 10 條: article/10.md
 - 第 11 條: article/11.md
 - 第 12 條: article/12.md
+- 第 12-1 條: article/12-1.md
 - 第 13 條: article/13.md
 - 第 14 條: article/14.md
 - 第 15 條: article/15.md
@@ -37,12 +38,18 @@
 - 第 30 條: article/30.md
 - 第 31 條: article/31.md
 - 第 32 條: article/32.md
+- 第 32-1 條: article/32-1.md
 - 第 33 條: article/33.md
+- 第 33-1 條: article/33-1.md
 - 第 34 條: article/34.md
 # 第五章 附則
 - 第 35 條: article/35.md
 - 第 36 條: article/36.md
 - 第 37 條: article/37.md
+- 第 37-1 條: article/37-1.md
+- 第 37-2 條: article/37-2.md
+- 第 37-3 條: article/37-3.md
+- 第 37-4 條: article/37-4.md
 - 第 38 條: article/38.md
 - 第 39 條: article/39.md
 - 第 40 條: article/40.md
