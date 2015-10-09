@@ -1,5 +1,5 @@
 就業服務法
-中華民國104年6月17日公布（修正）
+中華民國104年10月7日公布（修正）
 
 # 第一章 總則
 - 第 1 條: article/1.md
@@ -55,6 +55,7 @@
 - 第 46 條: article/46.md
 - 第 47 條: article/47.md
 - 第 48 條: article/48.md
+- 第 48-1 條: article/48-1.md
 - 第 49 條: article/49.md
 - 第 50 條: article/50.md
 - 第 51 條: article/51.md
