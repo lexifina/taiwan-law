@@ -1,7 +1,7 @@
 審計法
-中華民國104年12月9日公布（修正）
+修正日期：民國 104 年 12 月 09 日
 
-# 第一章 通則
+## 第 一 章 通則
 - 第 1 條: article/1.md
 - 第 2 條: article/2.md
 - 第 3 條: article/3.md
@@ -36,7 +36,7 @@
 - 第 32 條: article/32.md
 - 第 33 條: article/33.md
 - 第 34 條: article/34.md
-# 第二章 公務審計
+## 第 二 章 公務審計
 - 第 35 條: article/35.md
 - 第 36 條: article/36.md
 - 第 37 條: article/37.md
@@ -49,7 +49,7 @@
 - 第 44 條: article/44.md
 - 第 45 條: article/45.md
 - 第 46 條: article/46.md
-# 第三章 公有營業及公有事業審計
+## 第 三 章 公有營業及公有事業審計
 - 第 47 條: article/47.md
 - 第 48 條: article/48.md
 - 第 49 條: article/49.md
@@ -58,7 +58,7 @@
 - 第 52 條: article/52.md
 - 第 53 條: article/53.md
 - 第 54 條: article/54.md
-# 第四章 財物審計
+## 第 四 章 財物審計
 - 第 55 條: article/55.md
 - 第 56 條: article/56.md
 - 第 57 條: article/57.md
@@ -66,7 +66,7 @@
 - 第 59 條: article/59.md
 - 第 60 條: article/60.md
 - 第 61 條: article/61.md
-# 第五章 考核財務效能
+## 第 五 章 考核財務效能
 - 第 62 條: article/62.md
 - 第 63 條: article/63.md
 - 第 64 條: article/64.md
@@ -76,7 +76,7 @@
 - 第 68 條: article/68.md
 - 第 69 條: article/69.md
 - 第 70 條: article/70.md
-# 第六章 核定財務責任
+## 第 六 章 核定財務責任
 - 第 71 條: article/71.md
 - 第 72 條: article/72.md
 - 第 73 條: article/73.md
@@ -85,7 +85,7 @@
 - 第 76 條: article/76.md
 - 第 77 條: article/77.md
 - 第 78 條: article/78.md
-# 第七章 附則
+## 第 七 章 附則
 - 第 79 條: article/79.md
 - 第 80 條: article/80.md
 - 第 81 條: article/81.md
