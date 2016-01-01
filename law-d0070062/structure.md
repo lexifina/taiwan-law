@@ -1,5 +1,5 @@
 促進民間參與公共建設法
-中華民國90年10月31日公布（修正）
+中華民國104年12月30日公布（修正）
 
 # 第一章 總則
 - 第 1 條: article/1.md
@@ -8,6 +8,7 @@
 - 第 4 條: article/4.md
 - 第 5 條: article/5.md
 - 第 6 條: article/6.md
+- 第 6-1 條: article/6-1.md
 - 第 7 條: article/7.md
 - 第 8 條: article/8.md
 - 第 9 條: article/9.md
@@ -53,10 +54,12 @@
 - 第 46 條: article/46.md
 - 第 47 條: article/47.md
 - 第 48 條: article/48.md
+- 第 48-1 條: article/48-1.md
 # 第五章 監督及管理
 - 第 49 條: article/49.md
 - 第 50 條: article/50.md
 - 第 51 條: article/51.md
+- 第 51-1 條: article/51-1.md
 - 第 52 條: article/52.md
 - 第 53 條: article/53.md
 - 第 54 條: article/54.md
