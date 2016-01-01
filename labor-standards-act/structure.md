@@ -1,5 +1,5 @@
 勞動基準法
-中華民國104年7月1日公布（修正）
+中華民國104年12月16日公布（修正）
 
 # 第一章 總則
 - 第 1 條: article/1.md
@@ -12,12 +12,15 @@
 - 第 8 條: article/8.md
 # 第二章 勞動契約
 - 第 9 條: article/9.md
+- 第 9-1 條: article/9-1.md
 - 第 10 條: article/10.md
+- 第 10-1 條: article/10-1.md
 - 第 11 條: article/11.md
 - 第 12 條: article/12.md
 - 第 13 條: article/13.md
 - 第 14 條: article/14.md
 - 第 15 條: article/15.md
+- 第 15-1 條: article/15-1.md
 - 第 16 條: article/16.md
 - 第 17 條: article/17.md
 - 第 18 條: article/18.md
