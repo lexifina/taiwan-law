@@ -1,5 +1,5 @@
 商業會計法
-中華民國98年6月3日公布（修正）
+中華民國103年6月18日公布（修正）
 
 # 第一章 總則
 - 第 1 條: article/1.md
@@ -30,9 +30,11 @@
 - 第 24 條: article/24.md
 - 第 25 條: article/25.md
 - 第 26 條: article/26.md
-# 第四章 會計科目及財務報表
+# 第四章 財務報表
 - 第 27 條: article/27.md
 - 第 28 條: article/28.md
+- 第 28-1 條: article/28-1.md
+- 第 28-2 條: article/28-2.md
 - 第 29 條: article/29.md
 - 第 30 條: article/30.md
 - 第 31 條: article/31.md
@@ -46,8 +48,10 @@
 - 第 38 條: article/38.md
 - 第 39 條: article/39.md
 - 第 40 條: article/40.md
-# 第六章 入帳基礎
+# 第六章 認列與衡量
 - 第 41 條: article/41.md
+- 第 41-1 條: article/41-1.md
+- 第 41-2 條: article/41-2.md
 - 第 42 條: article/42.md
 - 第 43 條: article/43.md
 - 第 44 條: article/44.md
