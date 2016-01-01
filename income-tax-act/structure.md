@@ -1,5 +1,5 @@
 所得稅法
-中華民國104年1月21日公布（修正）
+中華民國104年6月24日公布（修正）
 
 # 第一章 總則
 ## 第一節 一般規定
@@ -14,6 +14,8 @@
 - 第 4-1 條: article/4-1.md
 - 第 4-2 條: article/4-2.md
 - 第 4-3 條: article/4-3.md
+- 第 4-4 條: article/4-4.md
+- 第 4-5 條: article/4-5.md
 - 第 5 條: article/5.md
 - 第 5-1 條: article/5-1.md
 - 第 6 條: article/6.md
@@ -32,6 +34,11 @@
 - 第 14-1 條: article/14-1.md
 - 第 14-2 條: article/14-2.md
 - 第 14-3 條: article/14-3.md
+- 第 14-4 條: article/14-4.md
+- 第 14-5 條: article/14-5.md
+- 第 14-6 條: article/14-6.md
+- 第 14-7 條: article/14-7.md
+- 第 14-8 條: article/14-8.md
 - 第 15 條: article/15.md
 - 第 16 條: article/16.md
 - 第 17 條: article/17.md
@@ -53,6 +60,7 @@
 - 第 24-2 條: article/24-2.md
 - 第 24-3 條: article/24-3.md
 - 第 24-4 條: article/24-4.md
+- 第 24-5 條: article/24-5.md
 - 第 25 條: article/25.md
 - 第 26 條: article/26.md
 - 第 27 條: article/27.md
@@ -179,6 +187,7 @@
 - 第 107-1 條: article/107-1.md
 - 第 108 條: article/108.md
 - 第 108-1 條: article/108-1.md
+- 第 108-2 條: article/108-2.md
 - 第 109 條: article/109.md
 - 第 110 條: article/110.md
 - 第 110-1 條: article/110-1.md
@@ -204,4 +213,5 @@
 - 第 124 條: article/124.md
 - 第 125 條: article/125.md
 - 第 125-1 條: article/125-1.md
+- 第 125-2 條: article/125-2.md
 - 第 126 條: article/126.md
