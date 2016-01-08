@@ -1,5 +1,5 @@
 廣播電視法
-中華民國100年6月29日公布（修正）
+中華民國105年1月6日公布（修正）
 
 # 第一章 總則
 - 第 1 條: article/1.md
@@ -48,6 +48,9 @@
 - 第 32 條: article/32.md
 - 第 33 條: article/33.md
 - 第 34 條: article/34.md
+- 第 34-1 條: article/34-1.md
+- 第 34-2 條: article/34-2.md
+- 第 34-3 條: article/34-3.md
 - 第 35 條: article/35.md
 # 第五章 獎勵輔導
 - 第 36 條: article/36.md
@@ -61,6 +64,7 @@
 - 第 43 條: article/43.md
 - 第 44 條: article/44.md
 - 第 44-1 條: article/44-1.md
+- 第 44-2 條: article/44-2.md
 - 第 45 條: article/45.md
 - 第 45-1 條: article/45-1.md
 - 第 45-2 條: article/45-2.md
