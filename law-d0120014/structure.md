@@ -1,5 +1,5 @@
 災害防救法
-中華民國101年11月28日公布（修正）
+中華民國105年4月13日公布（修正）
 
 # 第一章 總則
 - 第 1 條: article/1.md
@@ -57,6 +57,16 @@
 - 第 43 條: article/43.md
 - 第 43-1 條: article/43-1.md
 - 第 44 條: article/44.md
+- 第 44-1 條: article/44-1.md
+- 第 44-2 條: article/44-2.md
+- 第 44-3 條: article/44-3.md
+- 第 44-4 條: article/44-4.md
+- 第 44-5 條: article/44-5.md
+- 第 44-6 條: article/44-6.md
+- 第 44-7 條: article/44-7.md
+- 第 44-8 條: article/44-8.md
+- 第 44-9 條: article/44-9.md
+- 第 44-10 條: article/44-10.md
 - 第 45 條: article/45.md
 - 第 46 條: article/46.md
 - 第 47 條: article/47.md
