@@ -1,5 +1,5 @@
 自來水法
-中華民國103年1月29日公布（修正）
+中華民國105年5月4日公布（修正）
 
 # 第一章 總則
 - 第 1 條: article/1.md
@@ -115,10 +115,14 @@
 - 第 93-6 條: article/93-6.md
 - 第 94 條: article/94.md
 - 第 95 條: article/95.md
+# 第六章之一 節約用水
+- 第 95-1 條: article/95-1.md
+- 第 95-2 條: article/95-2.md
 # 第七章 罰則
 - 第 96 條: article/96.md
 - 第 97 條: article/97.md
 - 第 98 條: article/98.md
+- 第 98-1 條: article/98-1.md
 - 第 99 條: article/99.md
 - 第 100 條: article/100.md
 - 第 101 條: article/101.md
