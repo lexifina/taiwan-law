@@ -1,5 +1,5 @@
 水利法
-中華民國103年1月29日公布（修正）
+中華民國105年5月25日公布（修正）
 
 # 第一章 總則
 - 第 1 條: article/1.md
@@ -67,6 +67,7 @@
 - 第 54 條: article/54.md
 - 第 54-1 條: article/54-1.md
 - 第 54-2 條: article/54-2.md
+- 第 54-3 條: article/54-3.md
 - 第 55 條: article/55.md
 - 第 56 條: article/56.md
 - 第 57 條: article/57.md
@@ -121,6 +122,7 @@
 - 第 83-1 條: article/83-1.md
 # 第八章 水利經費
 - 第 84 條: article/84.md
+- 第 84-1 條: article/84-1.md
 - 第 85 條: article/85.md
 - 第 86 條: article/86.md
 - 第 87 條: article/87.md
@@ -144,6 +146,8 @@
 - 第 93-4 條: article/93-4.md
 - 第 93-5 條: article/93-5.md
 - 第 93-6 條: article/93-6.md
+- 第 93-7 條: article/93-7.md
+- 第 93-8 條: article/93-8.md
 - 第 94 條: article/94.md
 - 第 94-1 條: article/94-1.md
 - 第 95 條: article/95.md
