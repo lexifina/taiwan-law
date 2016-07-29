@@ -1,5 +1,5 @@
 文化資產保存法
-中華民國100年11月9日公布（修正）
+中華民國105年7月27日公布（全文修正）
 
 # 第一章 總則
 - 第 1 條: article/1.md
@@ -13,9 +13,9 @@
 - 第 9 條: article/9.md
 - 第 10 條: article/10.md
 - 第 11 條: article/11.md
-# 第二章 古蹟、歷史建築及聚落
 - 第 12 條: article/12.md
 - 第 13 條: article/13.md
+# 第二章 古蹟、歷史建築、紀念建築及聚落建築群
 - 第 14 條: article/14.md
 - 第 15 條: article/15.md
 - 第 16 條: article/16.md
@@ -39,13 +39,13 @@
 - 第 34 條: article/34.md
 - 第 35 條: article/35.md
 - 第 36 條: article/36.md
-# 第三章 遺址
 - 第 37 條: article/37.md
 - 第 38 條: article/38.md
 - 第 39 條: article/39.md
 - 第 40 條: article/40.md
 - 第 41 條: article/41.md
 - 第 42 條: article/42.md
+# 第三章 考古遺址
 - 第 43 條: article/43.md
 - 第 44 條: article/44.md
 - 第 45 條: article/45.md
@@ -56,21 +56,20 @@
 - 第 50 條: article/50.md
 - 第 51 條: article/51.md
 - 第 52 條: article/52.md
-# 第四章 文化景觀
 - 第 53 條: article/53.md
 - 第 54 條: article/54.md
 - 第 55 條: article/55.md
 - 第 56 條: article/56.md
-# 第五章 傳統藝術、民俗及有關文物
 - 第 57 條: article/57.md
 - 第 58 條: article/58.md
 - 第 59 條: article/59.md
+# 第四章 史蹟、文化景觀
 - 第 60 條: article/60.md
 - 第 61 條: article/61.md
 - 第 62 條: article/62.md
-# 第六章 古物
 - 第 63 條: article/63.md
 - 第 64 條: article/64.md
+# 第五章 古物
 - 第 65 條: article/65.md
 - 第 66 條: article/66.md
 - 第 67 條: article/67.md
@@ -82,9 +81,9 @@
 - 第 73 條: article/73.md
 - 第 74 條: article/74.md
 - 第 75 條: article/75.md
-# 第七章 自然地景
 - 第 76 條: article/76.md
 - 第 77 條: article/77.md
+# 第六章 自然地景、自然紀念物
 - 第 78 條: article/78.md
 - 第 79 條: article/79.md
 - 第 80 條: article/80.md
@@ -94,25 +93,35 @@
 - 第 84 條: article/84.md
 - 第 85 條: article/85.md
 - 第 86 條: article/86.md
-# 第八章 文化資產保存技術及保存者
 - 第 87 條: article/87.md
 - 第 88 條: article/88.md
+# 第七章 無形文化資產
 - 第 89 條: article/89.md
-# 第九章 獎勵
 - 第 90 條: article/90.md
 - 第 91 條: article/91.md
 - 第 92 條: article/92.md
 - 第 93 條: article/93.md
-# 第十章 罰則
 - 第 94 條: article/94.md
+# 第八章 文化資產保存技術及保存者
 - 第 95 條: article/95.md
 - 第 96 條: article/96.md
 - 第 97 條: article/97.md
+# 第九章 獎勵
 - 第 98 條: article/98.md
 - 第 99 條: article/99.md
 - 第 100 條: article/100.md
-# 第十一章 附則
 - 第 101 條: article/101.md
 - 第 102 條: article/102.md
+# 第十章 罰則
 - 第 103 條: article/103.md
 - 第 104 條: article/104.md
+- 第 105 條: article/105.md
+- 第 106 條: article/106.md
+- 第 107 條: article/107.md
+- 第 108 條: article/108.md
+- 第 109 條: article/109.md
+# 第十一章 附則
+- 第 110 條: article/110.md
+- 第 111 條: article/111.md
+- 第 112 條: article/112.md
+- 第 113 條: article/113.md
