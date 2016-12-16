@@ -1,5 +1,5 @@
 公職人員選舉罷免法
-中華民國105年12月7日公布（修正）
+中華民國105年12月14日公布（修正）
 
 # 第一章 總則
 - 第 1 條: article/1.md
@@ -16,7 +16,7 @@
 - 第 11 條: article/11.md
 - 第 12 條: article/12.md
 - 第 13 條: article/13.md
-# 第三章 選舉
+# 第三章 選舉及罷免
 ## 第一節 選舉人
 - 第 14 條: article/14.md
 - 第 15 條: article/15.md
@@ -49,7 +49,7 @@
 ## 第五節 選舉公告
 - 第 38 條: article/38.md
 - 第 39 條: article/39.md
-## 第六節 選舉活動
+## 第六節 選舉及罷免活動
 - 第 40 條: article/40.md
 - 第 41 條: article/41.md
 - 第 42 條: article/42.md
@@ -87,13 +87,14 @@
 - 第 72 條: article/72.md
 - 第 73 條: article/73.md
 - 第 74 條: article/74.md
-# 第四章 罷免
-## 第一節 罷免案之提出
+# 第四章 （刪除）
+## 第九節 罷免
+### 第一款 罷免案之提出
 - 第 75 條: article/75.md
 - 第 76 條: article/76.md
 - 第 77 條: article/77.md
 - 第 78 條: article/78.md
-## 第二節 罷免案之成立
+### 第二款 罷免案之成立
 - 第 79 條: article/79.md
 - 第 80 條: article/80.md
 - 第 81 條: article/81.md
@@ -102,7 +103,8 @@
 - 第 84 條: article/84.md
 - 第 85 條: article/85.md
 - 第 86 條: article/86.md
-## 第三節 罷免之投票及開票
+- 第 86-1 條: article/86-1.md
+### 第三款 罷免之投票及開票
 - 第 87 條: article/87.md
 - 第 88 條: article/88.md
 - 第 89 條: article/89.md
