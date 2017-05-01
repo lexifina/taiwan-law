@@ -1,10 +1,11 @@
 加值型及非加值型營業稅法
-中華民國104年12月30日公布（修正）
+中華民國105年12月28日公布（修正）
 
 # 第一章 總則
 - 第 1 條: article/1.md
 - 第 1-1 條: article/1-1.md
 - 第 2 條: article/2.md
+- 第 2-1 條: article/2-1.md
 - 第 3 條: article/3.md
 - 第 3-1 條: article/3-1.md
 - 第 3-2 條: article/3-2.md
@@ -47,6 +48,7 @@
 # 第五章 稽徵
 ## 第一節 稅籍登記
 - 第 28 條: article/28.md
+- 第 28-1 條: article/28-1.md
 - 第 29 條: article/29.md
 - 第 30 條: article/30.md
 - 第 30-1 條: article/30-1.md
@@ -77,6 +79,7 @@
 - 第 48 條: article/48.md
 - 第 48-1 條: article/48-1.md
 - 第 49 條: article/49.md
+- 第 49-1 條: article/49-1.md
 - 第 50 條: article/50.md
 - 第 51 條: article/51.md
 - 第 52 條: article/52.md
