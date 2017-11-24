@@ -1,5 +1,5 @@
 產業創新條例
-中華民國104年12月30日公布（修正）
+中華民國106年11月22日公布（修正）
 
 # 第一章 總則
 - 第 1 條: article/1.md
@@ -13,11 +13,13 @@
 - 第 8 條: article/8.md
 # 第三章 創新活動之補助或輔導
 - 第 9 條: article/9.md
+- 第 9-1 條: article/9-1.md
 - 第 10 條: article/10.md
 - 第 11 條: article/11.md
 # 第四章 無形資產流通及運用
 - 第 12 條: article/12.md
 - 第 12-1 條: article/12-1.md
+- 第 12-2 條: article/12-2.md
 - 第 13 條: article/13.md
 - 第 14 條: article/14.md
 - 第 15 條: article/15.md
@@ -32,6 +34,8 @@
 - 第 21 條: article/21.md
 - 第 22 條: article/22.md
 - 第 23 條: article/23.md
+- 第 23-1 條: article/23-1.md
+- 第 23-2 條: article/23-2.md
 - 第 24 條: article/24.md
 - 第 25 條: article/25.md
 # 第七章 產業永續發展環境
@@ -58,6 +62,7 @@
 - 第 44 條: article/44.md
 - 第 45 條: article/45.md
 - 第 46 條: article/46.md
+- 第 46-1 條: article/46-1.md
 - 第 47 條: article/47.md
 - 第 48 條: article/48.md
 - 第 49 條: article/49.md
@@ -83,6 +88,7 @@
 # 第十二章 罰則
 - 第 67 條: article/67.md
 - 第 67-1 條: article/67-1.md
+- 第 67-2 條: article/67-2.md
 # 第十三章 附則
 - 第 68 條: article/68.md
 - 第 69 條: article/69.md
