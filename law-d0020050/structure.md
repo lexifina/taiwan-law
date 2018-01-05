@@ -1,5 +1,5 @@
 公民投票法
-中華民國98年6月17日公布（修正）
+中華民國107年1月3日公布（全文修正）
 
 # 第一章 總則
 - 第 1 條: article/1.md
@@ -34,19 +34,18 @@
 - 第 26 條: article/26.md
 - 第 27 條: article/27.md
 - 第 28 條: article/28.md
-- 第 29 條: article/29.md
 # 第四章 公民投票結果
+- 第 29 條: article/29.md
 - 第 30 條: article/30.md
 - 第 31 條: article/31.md
 - 第 32 條: article/32.md
+# 第五章 罰則
 - 第 33 條: article/33.md
-# 第五章 公民投票審議委員會
 - 第 34 條: article/34.md
 - 第 35 條: article/35.md
 - 第 36 條: article/36.md
 - 第 37 條: article/37.md
 - 第 38 條: article/38.md
-# 第六章 罰則
 - 第 39 條: article/39.md
 - 第 40 條: article/40.md
 - 第 41 條: article/41.md
@@ -55,6 +54,7 @@
 - 第 44 條: article/44.md
 - 第 45 條: article/45.md
 - 第 46 條: article/46.md
+# 第六章 公民投票爭訟
 - 第 47 條: article/47.md
 - 第 48 條: article/48.md
 - 第 49 條: article/49.md
@@ -62,16 +62,7 @@
 - 第 51 條: article/51.md
 - 第 52 條: article/52.md
 - 第 53 條: article/53.md
-# 第七章 公民投票爭訟
+# 第七章 附則
 - 第 54 條: article/54.md
 - 第 55 條: article/55.md
 - 第 56 條: article/56.md
-- 第 57 條: article/57.md
-- 第 58 條: article/58.md
-- 第 59 條: article/59.md
-- 第 60 條: article/60.md
-- 第 61 條: article/61.md
-# 第八章 附則
-- 第 62 條: article/62.md
-- 第 63 條: article/63.md
-- 第 64 條: article/64.md
