@@ -1,10 +1,11 @@
 電子支付機構管理條例
-中華民國106年6月14日公布（修正）
+中華民國107年1月31日公布（修正）
 
 # 第一章 總則
 - 第 1 條: article/1.md
 - 第 2 條: article/2.md
 - 第 3 條: article/3.md
+- 第 3-1 條: article/3-1.md
 - 第 4 條: article/4.md
 - 第 5 條: article/5.md
 - 第 6 條: article/6.md
