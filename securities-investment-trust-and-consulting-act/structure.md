@@ -1,5 +1,5 @@
 證券投資信託及顧問法
-中華民國104年2月4日公布（修正）
+中華民國107年1月31日公布（修正）
 
 # 第一章 總則
 - 第 1 條: article/1.md
@@ -8,6 +8,7 @@
 - 第 4 條: article/4.md
 - 第 5 條: article/5.md
 - 第 6 條: article/6.md
+- 第 6-1 條: article/6-1.md
 - 第 7 條: article/7.md
 - 第 8 條: article/8.md
 - 第 9 條: article/9.md
@@ -20,6 +21,7 @@
 - 第 14 條: article/14.md
 - 第 15 條: article/15.md
 - 第 16 條: article/16.md
+- 第 16-1 條: article/16-1.md
 ## 第二節 基金之操作
 - 第 17 條: article/17.md
 - 第 18 條: article/18.md
@@ -124,6 +126,7 @@
 - 第 104 條: article/104.md
 # 第七章 罰則
 - 第 105 條: article/105.md
+- 第 105-1 條: article/105-1.md
 - 第 106 條: article/106.md
 - 第 107 條: article/107.md
 - 第 108 條: article/108.md
