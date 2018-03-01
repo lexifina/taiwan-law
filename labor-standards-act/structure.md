@@ -1,5 +1,5 @@
 勞動基準法
-中華民國106年12月27日公布（修正）
+中華民國107年1月31日公布（修正）
 
 # 第一章 總則
 - 第 1 條: article/1.md
@@ -41,6 +41,7 @@
 - 第 30-1 條: article/30-1.md
 - 第 31 條: article/31.md
 - 第 32 條: article/32.md
+- 第 32-1 條: article/32-1.md
 - 第 33 條: article/33.md
 - 第 34 條: article/34.md
 - 第 35 條: article/35.md
