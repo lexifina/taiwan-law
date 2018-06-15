@@ -1,8 +1,8 @@
 非訟事件法
-中華民國107年6月13日公布（修正）
+修正日期：民國 107 年 06 月 13 日
 
-# 第一章 總則
-## 第一節 事件管轄
+## 第 一 章 總則
+### 第 一 節 事件管轄
 - 第 1 條: article/1.md
 - 第 2 條: article/2.md
 - 第 3 條: article/3.md
@@ -12,11 +12,11 @@
 - 第 7 條: article/7.md
 - 第 8 條: article/8.md
 - 第 9 條: article/9.md
-## 第二節 關係人
+### 第 二 節 關係人
 - 第 10 條: article/10.md
 - 第 11 條: article/11.md
 - 第 12 條: article/12.md
-## 第三節 費用之徵收及負擔
+### 第 三 節 費用之徵收及負擔
 - 第 13 條: article/13.md
 - 第 14 條: article/14.md
 - 第 15 條: article/15.md
@@ -33,7 +33,7 @@
 - 第 26 條: article/26.md
 - 第 27 條: article/27.md
 - 第 28 條: article/28.md
-## 第四節 聲請及處理
+### 第 四 節 聲請及處理
 - 第 29 條: article/29.md
 - 第 30 條: article/30.md
 - 第 30-1 條: article/30-1.md
@@ -47,7 +47,7 @@
 - 第 35-1 條: article/35-1.md
 - 第 35-2 條: article/35-2.md
 - 第 35-3 條: article/35-3.md
-## 第五節 裁定及抗告
+### 第 五 節 裁定及抗告
 - 第 36 條: article/36.md
 - 第 37 條: article/37.md
 - 第 38 條: article/38.md
@@ -63,7 +63,7 @@
 - 第 47 條: article/47.md
 - 第 48 條: article/48.md
 - 第 49 條: article/49.md
-## 第六節 司法事務官處理程序
+### 第 六 節 司法事務官處理程序
 - 第 50 條: article/50.md
 - 第 51 條: article/51.md
 - 第 52 條: article/52.md
@@ -73,8 +73,8 @@
 - 第 56 條: article/56.md
 - 第 57 條: article/57.md
 - 第 58 條: article/58.md
-# 第二章 民事非訟事件
-## 第一節 法人之監督及維護事件
+## 第 二 章 民事非訟事件
+### 第 一 節 法人之監督及維護事件
 - 第 59 條: article/59.md
 - 第 60 條: article/60.md
 - 第 61 條: article/61.md
@@ -82,9 +82,9 @@
 - 第 63 條: article/63.md
 - 第 64 條: article/64.md
 - 第 65 條: article/65.md
-## 第二節 意思表示之公示送達事件
+### 第 二 節 意思表示之公示送達事件
 - 第 66 條: article/66.md
-## 第三節 出版、拍賣及證書保存事件
+### 第 三 節 出版、拍賣及證書保存事件
 - 第 67 條: article/67.md
 - 第 68 條: article/68.md
 - 第 69 條: article/69.md
@@ -94,7 +94,7 @@
 - 第 73 條: article/73.md
 - 第 74 條: article/74.md
 - 第 74-1 條: article/74-1.md
-## 第四節 信託事件
+### 第 四 節 信託事件
 - 第 75 條: article/75.md
 - 第 76 條: article/76.md
 - 第 77 條: article/77.md
@@ -102,8 +102,8 @@
 - 第 79 條: article/79.md
 - 第 80 條: article/80.md
 - 第 81 條: article/81.md
-# 第三章 登記事件
-## 第一節 法人登記
+## 第 三 章 登記事件
+### 第 一 節 法人登記
 - 第 82 條: article/82.md
 - 第 83 條: article/83.md
 - 第 84 條: article/84.md
@@ -123,7 +123,7 @@
 - 第 98 條: article/98.md
 - 第 99 條: article/99.md
 - 第 100 條: article/100.md
-## 第二節 夫妻財產制契約登記
+### 第 二 節 夫妻財產制契約登記
 - 第 101 條: article/101.md
 - 第 102 條: article/102.md
 - 第 103 條: article/103.md
@@ -131,8 +131,8 @@
 - 第 105 條: article/105.md
 - 第 106 條: article/106.md
 - 第 107 條: article/107.md
-# 第四章（刪除）
-## 第一節（刪除）
+## 第 四 章 （刪除）
+### 第 一 節 （刪除）
 - 第 108 條: article/108.md
 - 第 109 條: article/109.md
 - 第 110 條: article/110.md
@@ -146,7 +146,7 @@
 - 第 118 條: article/118.md
 - 第 119 條: article/119.md
 - 第 120 條: article/120.md
-## 第二節（刪除）
+### 第 二 節 （刪除）
 - 第 121 條: article/121.md
 - 第 122 條: article/122.md
 - 第 123 條: article/123.md
@@ -161,13 +161,13 @@
 - 第 131-1 條: article/131-1.md
 - 第 131-2 條: article/131-2.md
 - 第 132 條: article/132.md
-## 第三節（刪除）
+### 第 三 節 （刪除）
 - 第 133 條: article/133.md
 - 第 134 條: article/134.md
 - 第 135 條: article/135.md
 - 第 136 條: article/136.md
 - 第 137 條: article/137.md
-## 第四節（刪除）
+### 第 四 節 （刪除）
 - 第 138 條: article/138.md
 - 第 138-1 條: article/138-1.md
 - 第 138-2 條: article/138-2.md
@@ -180,10 +180,10 @@
 - 第 139-2 條: article/139-2.md
 - 第 139-3 條: article/139-3.md
 - 第 140 條: article/140.md
-## 第四節之一（刪除）
+### 第 四 節之一 （刪除）
 - 第 140-1 條: article/140-1.md
 - 第 140-2 條: article/140-2.md
-## 第五節（刪除）
+### 第 五 節 （刪除）
 - 第 141 條: article/141.md
 - 第 141-1 條: article/141-1.md
 - 第 141-2 條: article/141-2.md
@@ -203,7 +203,7 @@
 - 第 155 條: article/155.md
 - 第 156 條: article/156.md
 - 第 157 條: article/157.md
-## 第六節（刪除）
+### 第 六 節 （刪除）
 - 第 158 條: article/158.md
 - 第 159 條: article/159.md
 - 第 160 條: article/160.md
@@ -216,13 +216,13 @@
 - 第 167 條: article/167.md
 - 第 168 條: article/168.md
 - 第 169 條: article/169.md
-## 第六節之一（刪除）
+### 第 六 節之一 （刪除）
 - 第 169-1 條: article/169-1.md
 - 第 169-2 條: article/169-2.md
-## 第七節（刪除）
+### 第 七 節 （刪除）
 - 第 170 條: article/170.md
-# 第五章 商事非訟事件
-## 第一節 公司事件
+## 第 五 章 商事非訟事件
+### 第 一 節 公司事件
 - 第 171 條: article/171.md
 - 第 172 條: article/172.md
 - 第 173 條: article/173.md
@@ -245,12 +245,12 @@
 - 第 190 條: article/190.md
 - 第 191 條: article/191.md
 - 第 192 條: article/192.md
-## 第二節 海商事件
+### 第 二 節 海商事件
 - 第 193 條: article/193.md
-## 第三節 票據事件
+### 第 三 節 票據事件
 - 第 194 條: article/194.md
 - 第 195 條: article/195.md
-# 第六章 附則
+## 第 六 章 附則
 - 第 196 條: article/196.md
 - 第 197 條: article/197.md
 - 第 198 條: article/198.md
