@@ -1,5 +1,5 @@
 公司法
-中華民國104年7月1日公布（修正）
+中華民國107年8月1日公布（修正）
 
 # 第一章 總則
 - 第 1 條: article/1.md
@@ -25,6 +25,7 @@
 - 第 20 條: article/20.md
 - 第 21 條: article/21.md
 - 第 22 條: article/22.md
+- 第 22-1 條: article/22-1.md
 - 第 23 條: article/23.md
 - 第 24 條: article/24.md
 - 第 25 條: article/25.md
@@ -88,6 +89,7 @@
 - 第 74 條: article/74.md
 - 第 75 條: article/75.md
 - 第 76 條: article/76.md
+- 第 76-1 條: article/76-1.md
 - 第 77 條: article/77.md
 - 第 78 條: article/78.md
 ## 第六節 清算
@@ -113,6 +115,7 @@
 # 第三章 有限公司
 - 第 98 條: article/98.md
 - 第 99 條: article/99.md
+- 第 99-1 條: article/99-1.md
 - 第 100 條: article/100.md
 - 第 101 條: article/101.md
 - 第 102 條: article/102.md
@@ -175,12 +178,17 @@
 - 第 155 條: article/155.md
 ## 第二節 股份
 - 第 156 條: article/156.md
+- 第 156-1 條: article/156-1.md
+- 第 156-2 條: article/156-2.md
+- 第 156-3 條: article/156-3.md
+- 第 156-4 條: article/156-4.md
 - 第 157 條: article/157.md
 - 第 158 條: article/158.md
 - 第 159 條: article/159.md
 - 第 160 條: article/160.md
 - 第 161 條: article/161.md
 - 第 161-1 條: article/161-1.md
+- 第 161-2 條: article/161-2.md
 - 第 162 條: article/162.md
 - 第 162-1 條: article/162-1.md
 - 第 162-2 條: article/162-2.md
@@ -200,9 +208,12 @@
 - 第 171 條: article/171.md
 - 第 172 條: article/172.md
 - 第 172-1 條: article/172-1.md
+- 第 172-2 條: article/172-2.md
 - 第 173 條: article/173.md
+- 第 173-1 條: article/173-1.md
 - 第 174 條: article/174.md
 - 第 175 條: article/175.md
+- 第 175-1 條: article/175-1.md
 - 第 176 條: article/176.md
 - 第 177 條: article/177.md
 - 第 177-1 條: article/177-1.md
@@ -228,6 +239,7 @@
 - 第 192 條: article/192.md
 - 第 192-1 條: article/192-1.md
 - 第 193 條: article/193.md
+- 第 193-1 條: article/193-1.md
 - 第 194 條: article/194.md
 - 第 195 條: article/195.md
 - 第 196 條: article/196.md
@@ -240,6 +252,7 @@
 - 第 201 條: article/201.md
 - 第 202 條: article/202.md
 - 第 203 條: article/203.md
+- 第 203-1 條: article/203-1.md
 - 第 204 條: article/204.md
 - 第 205 條: article/205.md
 - 第 206 條: article/206.md
@@ -248,6 +261,7 @@
 - 第 208-1 條: article/208-1.md
 - 第 209 條: article/209.md
 - 第 210 條: article/210.md
+- 第 210-1 條: article/210-1.md
 - 第 211 條: article/211.md
 - 第 212 條: article/212.md
 - 第 213 條: article/213.md
@@ -272,6 +286,7 @@
 - 第 227 條: article/227.md
 ## 第六節 會計
 - 第 228 條: article/228.md
+- 第 228-1 條: article/228-1.md
 - 第 229 條: article/229.md
 - 第 230 條: article/230.md
 - 第 231 條: article/231.md
@@ -295,6 +310,7 @@
 - 第 246-1 條: article/246-1.md
 - 第 247 條: article/247.md
 - 第 248 條: article/248.md
+- 第 248-1 條: article/248-1.md
 - 第 249 條: article/249.md
 - 第 250 條: article/250.md
 - 第 251 條: article/251.md
@@ -481,7 +497,7 @@
 - 第 384 條: article/384.md
 - 第 385 條: article/385.md
 - 第 386 條: article/386.md
-# 第八章 公司之登記及認許
+# 第八章 登記
 ## 第一節 申請
 - 第 387 條: article/387.md
 - 第 388 條: article/388.md
@@ -489,6 +505,7 @@
 - 第 390 條: article/390.md
 - 第 391 條: article/391.md
 - 第 392 條: article/392.md
+- 第 392-1 條: article/392-1.md
 - 第 393 條: article/393.md
 - 第 394 條: article/394.md
 - 第 395 條: article/395.md
@@ -547,5 +564,6 @@
 - 第 446 條: article/446.md
 # 第九章 附則
 - 第 447 條: article/447.md
+- 第 447-1 條: article/447-1.md
 - 第 448 條: article/448.md
 - 第 449 條: article/449.md
