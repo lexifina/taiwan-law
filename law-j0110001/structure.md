@@ -1,5 +1,5 @@
 水利法
-中華民國105年5月25日公布（修正）
+中華民國107年6月20日公布（修正）
 
 # 第一章 總則
 - 第 1 條: article/1.md
@@ -120,6 +120,19 @@
 - 第 82 條: article/82.md
 - 第 83 條: article/83.md
 - 第 83-1 條: article/83-1.md
+# 第七章之一 逕流分擔與出流管制
+- 第 83-2 條: article/83-2.md
+- 第 83-3 條: article/83-3.md
+- 第 83-4 條: article/83-4.md
+- 第 83-5 條: article/83-5.md
+- 第 83-6 條: article/83-6.md
+- 第 83-7 條: article/83-7.md
+- 第 83-8 條: article/83-8.md
+- 第 83-9 條: article/83-9.md
+- 第 83-10 條: article/83-10.md
+- 第 83-11 條: article/83-11.md
+- 第 83-12 條: article/83-12.md
+- 第 83-13 條: article/83-13.md
 # 第八章 水利經費
 - 第 84 條: article/84.md
 - 第 84-1 條: article/84-1.md
@@ -148,6 +161,9 @@
 - 第 93-6 條: article/93-6.md
 - 第 93-7 條: article/93-7.md
 - 第 93-8 條: article/93-8.md
+- 第 93-9 條: article/93-9.md
+- 第 93-10 條: article/93-10.md
+- 第 93-11 條: article/93-11.md
 - 第 94 條: article/94.md
 - 第 94-1 條: article/94-1.md
 - 第 95 條: article/95.md
