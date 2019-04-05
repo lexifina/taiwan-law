@@ -1,7 +1,7 @@
 公證法
-中華民國108年4月3日公布（修正）
+修正日期：民國 108 年 04 月 03 日
 
-# 第一章 總則
+## 第 一 章 總則
 - 第 1 條: article/1.md
 - 第 2 條: article/2.md
 - 第 3 條: article/3.md
@@ -23,11 +23,11 @@
 - 第 19 條: article/19.md
 - 第 20 條: article/20.md
 - 第 21 條: article/21.md
-# 第二章 公證人
-## 第一節 法院之公證人
+## 第 二 章 公證人
+### 第 一 節 法院之公證人
 - 第 22 條: article/22.md
 - 第 23 條: article/23.md
-## 第二節 民間之公證人
+### 第 二 節 民間之公證人
 - 第 24 條: article/24.md
 - 第 25 條: article/25.md
 - 第 26 條: article/26.md
@@ -74,7 +74,7 @@
 - 第 67 條: article/67.md
 - 第 68 條: article/68.md
 - 第 69 條: article/69.md
-# 第三章 公證
+## 第 三 章 公證
 - 第 70 條: article/70.md
 - 第 71 條: article/71.md
 - 第 72 條: article/72.md
@@ -105,7 +105,7 @@
 - 第 97 條: article/97.md
 - 第 98 條: article/98.md
 - 第 99 條: article/99.md
-# 第四章 認證
+## 第 四 章 認證
 - 第 100 條: article/100.md
 - 第 101 條: article/101.md
 - 第 102 條: article/102.md
@@ -114,7 +114,7 @@
 - 第 105 條: article/105.md
 - 第 106 條: article/106.md
 - 第 107 條: article/107.md
-# 第五章 公證費用
+## 第 五 章 公證費用
 - 第 108 條: article/108.md
 - 第 109 條: article/109.md
 - 第 110 條: article/110.md
@@ -137,7 +137,7 @@
 - 第 127 條: article/127.md
 - 第 128 條: article/128.md
 - 第 129 條: article/129.md
-# 第六章 公會
+## 第 六 章 公會
 - 第 130 條: article/130.md
 - 第 131 條: article/131.md
 - 第 132 條: article/132.md
@@ -155,11 +155,11 @@
 - 第 144 條: article/144.md
 - 第 145 條: article/145.md
 - 第 146 條: article/146.md
-# 第七章 罰則
+## 第 七 章 罰則
 - 第 147 條: article/147.md
 - 第 148 條: article/148.md
 - 第 149 條: article/149.md
-# 第八章 附則
+## 第 八 章 附則
 - 第 150 條: article/150.md
 - 第 151 條: article/151.md
 - 第 152 條: article/152.md
