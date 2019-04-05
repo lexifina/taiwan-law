@@ -1,8 +1,8 @@
 軍事審判法
-中華民國108年4月3日公布（修正）
+修正日期：民國 108 年 04 月 03 日
 
-# 第一編 總則
-## 第一章 法例
+# 第 一 編 總則
+## 第 一 章 法例
 - 第 1 條: article/1.md
 - 第 2 條: article/2.md
 - 第 3 條: article/3.md
@@ -12,14 +12,14 @@
 - 第 7 條: article/7.md
 - 第 8 條: article/8.md
 - 第 9 條: article/9.md
-## 第二章 軍法人員
+## 第 二 章 軍法人員
 - 第 10 條: article/10.md
 - 第 11 條: article/11.md
 - 第 12 條: article/12.md
 - 第 13 條: article/13.md
 - 第 14 條: article/14.md
-## 第三章 軍事法院
-### 第一節 軍事法院之組織
+## 第 三 章 軍事法院
+### 第 一 節 軍事法院之組織
 - 第 15 條: article/15.md
 - 第 16 條: article/16.md
 - 第 17 條: article/17.md
@@ -32,7 +32,7 @@
 - 第 24 條: article/24.md
 - 第 25 條: article/25.md
 - 第 26 條: article/26.md
-### 第二節 軍事法院之管轄
+### 第 二 節 軍事法院之管轄
 - 第 27 條: article/27.md
 - 第 28 條: article/28.md
 - 第 29 條: article/29.md
@@ -42,7 +42,7 @@
 - 第 33 條: article/33.md
 - 第 34 條: article/34.md
 - 第 35 條: article/35.md
-### 第三節 軍事法庭之開閉及用語
+### 第 三 節 軍事法庭之開閉及用語
 - 第 36 條: article/36.md
 - 第 37 條: article/37.md
 - 第 38 條: article/38.md
@@ -56,7 +56,7 @@
 - 第 46 條: article/46.md
 - 第 47 條: article/47.md
 - 第 48 條: article/48.md
-## 第四章 軍事檢察署
+## 第 四 章 軍事檢察署
 - 第 49 條: article/49.md
 - 第 50 條: article/50.md
 - 第 51 條: article/51.md
@@ -71,14 +71,14 @@
 - 第 60 條: article/60.md
 - 第 61 條: article/61.md
 - 第 62 條: article/62.md
-## 第五章 軍法人員之迴避
+## 第 五 章 軍法人員之迴避
 - 第 63 條: article/63.md
 - 第 64 條: article/64.md
 - 第 65 條: article/65.md
 - 第 66 條: article/66.md
 - 第 67 條: article/67.md
 - 第 68 條: article/68.md
-## 第六章 辯護人及輔佐人
+## 第 六 章 辯護人及輔佐人
 - 第 69 條: article/69.md
 - 第 70 條: article/70.md
 - 第 71 條: article/71.md
@@ -94,13 +94,13 @@
 - 第 81 條: article/81.md
 - 第 82 條: article/82.md
 - 第 82-1 條: article/82-1.md
-## 第七章 文書、送達、期日及期間
+## 第 七 章 文書、送達、期日及期間
 - 第 83 條: article/83.md
 - 第 84 條: article/84.md
 - 第 85 條: article/85.md
 - 第 86 條: article/86.md
 - 第 87 條: article/87.md
-## 第八章 被告之傳喚及拘提
+## 第 八 章 被告之傳喚及拘提
 - 第 88 條: article/88.md
 - 第 89 條: article/89.md
 - 第 90 條: article/90.md
@@ -114,7 +114,7 @@
 - 第 98 條: article/98.md
 - 第 99 條: article/99.md
 - 第 100 條: article/100.md
-## 第九章 被告之訊問及羈押
+## 第 九 章 被告之訊問及羈押
 - 第 101 條: article/101.md
 - 第 102 條: article/102.md
 - 第 103 條: article/103.md
@@ -125,7 +125,7 @@
 - 第 108 條: article/108.md
 - 第 109 條: article/109.md
 - 第 110 條: article/110.md
-## 第十章 搜索及扣押
+## 第 十 章 搜索及扣押
 - 第 111 條: article/111.md
 - 第 111-1 條: article/111-1.md
 - 第 112 條: article/112.md
@@ -134,7 +134,7 @@
 - 第 113 條: article/113.md
 - 第 114 條: article/114.md
 - 第 115 條: article/115.md
-## 第十一章 證據
+## 第 十一 章 證據
 - 第 116 條: article/116.md
 - 第 117 條: article/117.md
 - 第 118 條: article/118.md
@@ -145,13 +145,13 @@
 - 第 123 條: article/123.md
 - 第 124 條: article/124.md
 - 第 125 條: article/125.md
-## 第十二章 裁判
+## 第 十二 章 裁判
 - 第 126 條: article/126.md
 - 第 127 條: article/127.md
 - 第 128 條: article/128.md
 - 第 129 條: article/129.md
-# 第二編 初審
-## 第一章 偵查
+# 第 二 編 初審
+## 第 一 章 偵查
 - 第 130 條: article/130.md
 - 第 131 條: article/131.md
 - 第 132 條: article/132.md
@@ -169,12 +169,12 @@
 - 第 144 條: article/144.md
 - 第 145 條: article/145.md
 - 第 146 條: article/146.md
-## 第二章 起訴
+## 第 二 章 起訴
 - 第 147 條: article/147.md
 - 第 148 條: article/148.md
 - 第 149 條: article/149.md
 - 第 150 條: article/150.md
-## 第三章 審判
+## 第 三 章 審判
 - 第 151 條: article/151.md
 - 第 152 條: article/152.md
 - 第 153 條: article/153.md
@@ -204,7 +204,7 @@
 - 第 177 條: article/177.md
 - 第 178 條: article/178.md
 - 第 179 條: article/179.md
-# 第三編 上訴
+# 第 三 編 上訴
 - 第 180 條: article/180.md
 - 第 181 條: article/181.md
 - 第 182 條: article/182.md
@@ -232,7 +232,7 @@
 - 第 204 條: article/204.md
 - 第 205 條: article/205.md
 - 第 206 條: article/206.md
-# 第四編 抗告
+# 第 四 編 抗告
 - 第 207 條: article/207.md
 - 第 208 條: article/208.md
 - 第 209 條: article/209.md
@@ -244,7 +244,7 @@
 - 第 215 條: article/215.md
 - 第 216 條: article/216.md
 - 第 217 條: article/217.md
-# 第五編 再審
+# 第 五 編 再審
 - 第 218 條: article/218.md
 - 第 219 條: article/219.md
 - 第 220 條: article/220.md
@@ -253,11 +253,11 @@
 - 第 223 條: article/223.md
 - 第 224 條: article/224.md
 - 第 225 條: article/225.md
-# 第六編 非常上訴
+# 第 六 編 非常上訴
 - 第 226 條: article/226.md
 - 第 227 條: article/227.md
 - 第 228 條: article/228.md
-# 第七編 執行
+# 第 七 編 執行
 - 第 229 條: article/229.md
 - 第 230 條: article/230.md
 - 第 231 條: article/231.md
@@ -267,6 +267,6 @@
 - 第 234-1 條: article/234-1.md
 - 第 235 條: article/235.md
 - 第 236 條: article/236.md
-# 第八編 附則
+# 第 八 編 附則
 - 第 237 條: article/237.md
 - 第 238 條: article/238.md
