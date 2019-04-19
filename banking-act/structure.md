@@ -1,5 +1,5 @@
 銀行法
-中華民國107年1月31日公布（修正）
+中華民國108年4月17日公布（修正）
 
 # 第一章 通則
 - 第 1 條: article/1.md
@@ -78,6 +78,7 @@
 - 第 50 條: article/50.md
 - 第 51 條: article/51.md
 - 第 51-1 條: article/51-1.md
+- 第 51-2 條: article/51-2.md
 # 第二章 銀行之設立、變更、停業、解散
 - 第 52 條: article/52.md
 - 第 53 條: article/53.md
@@ -197,11 +198,13 @@
 - 第 131 條: article/131.md
 - 第 132 條: article/132.md
 - 第 133 條: article/133.md
+- 第 133-1 條: article/133-1.md
 - 第 134 條: article/134.md
 - 第 135 條: article/135.md
 - 第 136 條: article/136.md
 - 第 136-1 條: article/136-1.md
 - 第 136-2 條: article/136-2.md
+- 第 136-3 條: article/136-3.md
 # 第九章 附則
 - 第 137 條: article/137.md
 - 第 138 條: article/138.md
