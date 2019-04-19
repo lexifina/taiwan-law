@@ -1,5 +1,5 @@
 食品安全衛生管理法
-中華民國108年4月3日公布（修正）
+中華民國108年4月17日公布（修正）
 
 # 第一章 總則
 - 第 1 條: article/1.md
@@ -25,6 +25,7 @@
 - 第 16 條: article/16.md
 - 第 17 條: article/17.md
 - 第 18 條: article/18.md
+- 第 18-1 條: article/18-1.md
 - 第 19 條: article/19.md
 - 第 20 條: article/20.md
 - 第 21 條: article/21.md
