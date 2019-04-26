@@ -1,5 +1,5 @@
 特殊教育法
-中華民國103年6月18日公布（修正）
+中華民國108年4月24日公布（修正）
 
 # 第一章 總則
 - 第 1 條: article/1.md
@@ -33,6 +33,7 @@
 - 第 26 條: article/26.md
 - 第 27 條: article/27.md
 - 第 28 條: article/28.md
+- 第 28-1 條: article/28-1.md
 - 第 29 條: article/29.md
 - 第 30 條: article/30.md
 - 第 30-1 條: article/30-1.md
