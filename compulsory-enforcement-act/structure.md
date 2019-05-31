@@ -1,7 +1,7 @@
 強制執行法
-中華民國108年5月29日公布（修正）
+修正日期：民國 108 年 05 月 29 日
 
-# 第一章 總則
+## 第 一 章 總則
 - 第 1 條: article/1.md
 - 第 2 條: article/2.md
 - 第 3 條: article/3.md
@@ -49,8 +49,8 @@
 - 第 29 條: article/29.md
 - 第 30 條: article/30.md
 - 第 30-1 條: article/30-1.md
-# 第二章 關於金錢請求權之執行
-## 第一節 參與分配
+## 第 二 章 關於金錢請求權之執行
+### 第 一 節 參與分配
 - 第 31 條: article/31.md
 - 第 32 條: article/32.md
 - 第 33 條: article/33.md
@@ -69,7 +69,7 @@
 - 第 42 條: article/42.md
 - 第 43 條: article/43.md
 - 第 44 條: article/44.md
-## 第二節 對於動產之執行
+### 第 二 節 對於動產之執行
 - 第 45 條: article/45.md
 - 第 46 條: article/46.md
 - 第 47 條: article/47.md
@@ -106,7 +106,7 @@
 - 第 72 條: article/72.md
 - 第 73 條: article/73.md
 - 第 74 條: article/74.md
-## 第三節 對於不動產之執行
+### 第 三 節 對於不動產之執行
 - 第 75 條: article/75.md
 - 第 76 條: article/76.md
 - 第 77 條: article/77.md
@@ -148,13 +148,13 @@
 - 第 111 條: article/111.md
 - 第 112 條: article/112.md
 - 第 113 條: article/113.md
-## 第四節 對於船舶及航空器之執行
+### 第 四 節 對於船舶及航空器之執行
 - 第 114 條: article/114.md
 - 第 114-1 條: article/114-1.md
 - 第 114-2 條: article/114-2.md
 - 第 114-3 條: article/114-3.md
 - 第 114-4 條: article/114-4.md
-## 第五節 對於其他財產權之執行
+### 第 五 節 對於其他財產權之執行
 - 第 115 條: article/115.md
 - 第 115-1 條: article/115-1.md
 - 第 115-2 條: article/115-2.md
@@ -166,24 +166,24 @@
 - 第 120 條: article/120.md
 - 第 121 條: article/121.md
 - 第 122 條: article/122.md
-## 第六節 對於公法人財產之執行
+### 第 六 節 對於公法人財產之執行
 - 第 122-1 條: article/122-1.md
 - 第 122-2 條: article/122-2.md
 - 第 122-3 條: article/122-3.md
 - 第 122-4 條: article/122-4.md
-# 第三章 關於物之交付請求權之執行
+## 第 三 章 關於物之交付請求權之執行
 - 第 123 條: article/123.md
 - 第 124 條: article/124.md
 - 第 125 條: article/125.md
 - 第 126 條: article/126.md
-# 第四章 關於行為及不行為請求權之執行
+## 第 四 章 關於行為及不行為請求權之執行
 - 第 127 條: article/127.md
 - 第 128 條: article/128.md
 - 第 129 條: article/129.md
 - 第 129-1 條: article/129-1.md
 - 第 130 條: article/130.md
 - 第 131 條: article/131.md
-# 第五章 假扣押假處分之執行
+## 第 五 章 假扣押假處分之執行
 - 第 132 條: article/132.md
 - 第 132-1 條: article/132-1.md
 - 第 132-2 條: article/132-2.md
@@ -195,6 +195,6 @@
 - 第 138 條: article/138.md
 - 第 139 條: article/139.md
 - 第 140 條: article/140.md
-# 第六章 附則
+## 第 六 章 附則
 - 第 141 條: article/141.md
 - 第 142 條: article/142.md
