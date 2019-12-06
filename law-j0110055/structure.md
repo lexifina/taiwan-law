@@ -1,5 +1,5 @@
 自來水法
-中華民國105年5月4日公布（修正）
+中華民國108年12月4日公布（修正）
 
 # 第一章 總則
 - 第 1 條: article/1.md
@@ -73,6 +73,7 @@
 - 第 60-1 條: article/60-1.md
 - 第 61 條: article/61.md
 - 第 61-1 條: article/61-1.md
+- 第 61-2 條: article/61-2.md
 - 第 62 條: article/62.md
 - 第 63 條: article/63.md
 - 第 64 條: article/64.md
