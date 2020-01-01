@@ -1,5 +1,5 @@
 師資培育法
-中華民國106年6月14日公布（全文修正）
+中華民國108年12月11日公布（修正）
 
 - 第 1 條: article/1.md
 - 第 2 條: article/2.md
@@ -9,6 +9,7 @@
 - 第 6 條: article/6.md
 - 第 7 條: article/7.md
 - 第 8 條: article/8.md
+- 第 8-1 條: article/8-1.md
 - 第 9 條: article/9.md
 - 第 10 條: article/10.md
 - 第 11 條: article/11.md
