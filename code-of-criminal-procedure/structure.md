@@ -1,5 +1,5 @@
 刑事訴訟法
-中華民國109年1月8日公布（修正）
+中華民國109年1月15日公布（修正）
 
 # 第一編 總則
 ## 第一章 法例
@@ -48,6 +48,7 @@
 - 第 36 條: article/36.md
 - 第 37 條: article/37.md
 - 第 38 條: article/38.md
+- 第 38-1 條: article/38-1.md
 ## 第五章 文書
 - 第 39 條: article/39.md
 - 第 40 條: article/40.md
@@ -107,6 +108,7 @@
 - 第 88 條: article/88.md
 - 第 88-1 條: article/88-1.md
 - 第 89 條: article/89.md
+- 第 89-1 條: article/89-1.md
 - 第 90 條: article/90.md
 - 第 91 條: article/91.md
 - 第 92 條: article/92.md
