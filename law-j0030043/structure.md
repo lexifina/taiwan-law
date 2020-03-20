@@ -1,5 +1,5 @@
 工廠管理輔導法
-中華民國103年1月22日公布（修正）
+中華民國108年7月24日公布（修正）
 
 # 第一章 總則
 - 第 1 條: article/1.md
@@ -33,7 +33,21 @@
 - 第 26 條: article/26.md
 - 第 27 條: article/27.md
 - 第 28 條: article/28.md
+# 第四章之一 未登記工廠與特定工廠管理及輔導
+- 第 28-1 條: article/28-1.md
+- 第 28-2 條: article/28-2.md
+- 第 28-3 條: article/28-3.md
+- 第 28-4 條: article/28-4.md
+- 第 28-5 條: article/28-5.md
+- 第 28-6 條: article/28-6.md
+- 第 28-7 條: article/28-7.md
+- 第 28-8 條: article/28-8.md
+- 第 28-9 條: article/28-9.md
+- 第 28-10 條: article/28-10.md
+- 第 28-11 條: article/28-11.md
+- 第 28-12 條: article/28-12.md
 # 第五章 罰則
+- 第 28-13 條: article/28-13.md
 - 第 29 條: article/29.md
 - 第 30 條: article/30.md
 - 第 31 條: article/31.md
