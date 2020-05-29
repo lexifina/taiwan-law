@@ -1,5 +1,5 @@
 天然氣事業法
-中華民國105年5月25日公布（修正）
+中華民國109年5月27日公布（修正）
 
 # 第一章 總則
 - 第 1 條: article/1.md
@@ -66,6 +66,7 @@
 - 第 56 條: article/56.md
 - 第 57 條: article/57.md
 - 第 58 條: article/58.md
+- 第 58-1 條: article/58-1.md
 - 第 59 條: article/59.md
 - 第 60 條: article/60.md
 - 第 61 條: article/61.md
