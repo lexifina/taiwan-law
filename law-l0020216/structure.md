@@ -1,7 +1,7 @@
 公共衛生師法
-公布日期：民國 109 年 06 月 03 日
+中華民國109年6月3日公布（制定）
 
-## 第 一 章 總則
+# 第一章 總則
 - 第 1 條: article/1.md
 - 第 2 條: article/2.md
 - 第 3 條: article/3.md
@@ -9,7 +9,7 @@
 - 第 5 條: article/5.md
 - 第 6 條: article/6.md
 - 第 7 條: article/7.md
-## 第 二 章 執業
+# 第二章 執業
 - 第 8 條: article/8.md
 - 第 9 條: article/9.md
 - 第 10 條: article/10.md
@@ -22,7 +22,7 @@
 - 第 17 條: article/17.md
 - 第 18 條: article/18.md
 - 第 19 條: article/19.md
-## 第 三 章 公會
+# 第三章 公會
 - 第 20 條: article/20.md
 - 第 21 條: article/21.md
 - 第 22 條: article/22.md
@@ -32,7 +32,7 @@
 - 第 26 條: article/26.md
 - 第 27 條: article/27.md
 - 第 28 條: article/28.md
-## 第 四 章 罰則
+# 第四章 罰則
 - 第 29 條: article/29.md
 - 第 30 條: article/30.md
 - 第 31 條: article/31.md
@@ -42,7 +42,7 @@
 - 第 35 條: article/35.md
 - 第 36 條: article/36.md
 - 第 37 條: article/37.md
-## 第 五 章 附則
+# 第五章 附則
 - 第 38 條: article/38.md
 - 第 39 條: article/39.md
 - 第 40 條: article/40.md
