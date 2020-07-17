@@ -1,7 +1,7 @@
 公務員懲戒法
-中華民國104年5月20日公布（全文修正）
+中華民國109年6月10日公布（全文修正）
 
-# 第一章 通則
+# 第一章 總則
 - 第 1 條: article/1.md
 - 第 2 條: article/2.md
 - 第 3 條: article/3.md
@@ -26,6 +26,7 @@
 - 第 21 條: article/21.md
 - 第 22 條: article/22.md
 # 第三章 審判程序
+## 第一節 第一審程序
 - 第 23 條: article/23.md
 - 第 24 條: article/24.md
 - 第 25 條: article/25.md
@@ -67,7 +68,7 @@
 - 第 61 條: article/61.md
 - 第 62 條: article/62.md
 - 第 63 條: article/63.md
-# 第四章 再審
+## 第二節 上訴審程序
 - 第 64 條: article/64.md
 - 第 65 條: article/65.md
 - 第 66 條: article/66.md
@@ -78,12 +79,37 @@
 - 第 71 條: article/71.md
 - 第 72 條: article/72.md
 - 第 73 條: article/73.md
-# 第五章 執行
 - 第 74 條: article/74.md
 - 第 75 條: article/75.md
-# 第六章 附則
 - 第 76 條: article/76.md
 - 第 77 條: article/77.md
 - 第 78 條: article/78.md
 - 第 79 條: article/79.md
 - 第 80 條: article/80.md
+- 第 81 條: article/81.md
+- 第 82 條: article/82.md
+## 第三節 抗告程序
+- 第 83 條: article/83.md
+- 第 84 條: article/84.md
+# 第四章 再審
+- 第 85 條: article/85.md
+- 第 86 條: article/86.md
+- 第 87 條: article/87.md
+- 第 88 條: article/88.md
+- 第 89 條: article/89.md
+- 第 90 條: article/90.md
+- 第 91 條: article/91.md
+- 第 92 條: article/92.md
+- 第 93 條: article/93.md
+- 第 94 條: article/94.md
+- 第 95 條: article/95.md
+# 第五章 執行
+- 第 96 條: article/96.md
+- 第 97 條: article/97.md
+- 第 98 條: article/98.md
+# 第六章 附則
+- 第 99 條: article/99.md
+- 第 100 條: article/100.md
+- 第 101 條: article/101.md
+- 第 102 條: article/102.md
+- 第 103 條: article/103.md
