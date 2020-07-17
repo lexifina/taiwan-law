@@ -1,7 +1,7 @@
 公務員懲戒法
-中華民國109年6月10日公布（全文修正）
+修正日期：民國 109 年 06 月 10 日
 
-# 第一章 總則
+## 第 一 章 總則
 - 第 1 條: article/1.md
 - 第 2 條: article/2.md
 - 第 3 條: article/3.md
@@ -10,7 +10,7 @@
 - 第 6 條: article/6.md
 - 第 7 條: article/7.md
 - 第 8 條: article/8.md
-# 第二章 懲戒處分
+## 第 二 章 懲戒處分
 - 第 9 條: article/9.md
 - 第 10 條: article/10.md
 - 第 11 條: article/11.md
@@ -25,8 +25,8 @@
 - 第 20 條: article/20.md
 - 第 21 條: article/21.md
 - 第 22 條: article/22.md
-# 第三章 審判程序
-## 第一節 第一審程序
+## 第 三 章 審判程序
+### 第 一 節 第一審程序
 - 第 23 條: article/23.md
 - 第 24 條: article/24.md
 - 第 25 條: article/25.md
@@ -68,7 +68,7 @@
 - 第 61 條: article/61.md
 - 第 62 條: article/62.md
 - 第 63 條: article/63.md
-## 第二節 上訴審程序
+### 第 二 節 上訴審程序
 - 第 64 條: article/64.md
 - 第 65 條: article/65.md
 - 第 66 條: article/66.md
@@ -88,10 +88,10 @@
 - 第 80 條: article/80.md
 - 第 81 條: article/81.md
 - 第 82 條: article/82.md
-## 第三節 抗告程序
+### 第 三 節 抗告程序
 - 第 83 條: article/83.md
 - 第 84 條: article/84.md
-# 第四章 再審
+## 第 四 章 再審
 - 第 85 條: article/85.md
 - 第 86 條: article/86.md
 - 第 87 條: article/87.md
@@ -103,11 +103,11 @@
 - 第 93 條: article/93.md
 - 第 94 條: article/94.md
 - 第 95 條: article/95.md
-# 第五章 執行
+## 第 五 章 執行
 - 第 96 條: article/96.md
 - 第 97 條: article/97.md
 - 第 98 條: article/98.md
-# 第六章 附則
+## 第 六 章 附則
 - 第 99 條: article/99.md
 - 第 100 條: article/100.md
 - 第 101 條: article/101.md
