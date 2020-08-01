@@ -1,5 +1,5 @@
 證券投資人及期貨交易人保護法
-中華民國104年2月4日公布（修正）
+中華民國109年6月10日公布（修正）
 
 - 第 1 條: article/1.md
 - 第 2 條: article/2.md
@@ -12,6 +12,7 @@
 - 第 9 條: article/9.md
 - 第 10 條: article/10.md
 - 第 10-1 條: article/10-1.md
+- 第 10-2 條: article/10-2.md
 - 第 11 條: article/11.md
 - 第 12 條: article/12.md
 - 第 13 條: article/13.md
@@ -45,4 +46,5 @@
 - 第 38 條: article/38.md
 - 第 39 條: article/39.md
 - 第 40 條: article/40.md
+- 第 40-1 條: article/40-1.md
 - 第 41 條: article/41.md
