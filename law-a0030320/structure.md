@@ -1,28 +1,28 @@
 國民法官法
-公布日期：民國 109 年 08 月 12 日
+中華民國109年8月12日公布（制定）
 
-## 第 一 章 總則
+# 第一章 總則
 - 第 1 條: article/1.md
 - 第 2 條: article/2.md
 - 第 3 條: article/3.md
 - 第 4 條: article/4.md
-## 第 二 章 適用案件及管轄
+# 第二章 適用案件及管轄
 - 第 5 條: article/5.md
 - 第 6 條: article/6.md
 - 第 7 條: article/7.md
-## 第 三 章 國民法官及備位國民法官
-### 第 一 節 通則
+# 第三章 國民法官及備位國民法官
+## 第一節 通則
 - 第 8 條: article/8.md
 - 第 9 條: article/9.md
 - 第 10 條: article/10.md
 - 第 11 條: article/11.md
-### 第 二 節 國民法官及備位國民法官之資格
+## 第二節 國民法官及備位國民法官之資格
 - 第 12 條: article/12.md
 - 第 13 條: article/13.md
 - 第 14 條: article/14.md
 - 第 15 條: article/15.md
 - 第 16 條: article/16.md
-### 第 三 節 國民法官及備位國民法官之選任
+## 第三節 國民法官及備位國民法官之選任
 - 第 17 條: article/17.md
 - 第 18 條: article/18.md
 - 第 19 條: article/19.md
@@ -41,24 +41,24 @@
 - 第 32 條: article/32.md
 - 第 33 條: article/33.md
 - 第 34 條: article/34.md
-### 第 四 節 國民法官及備位國民法官之解任
+## 第四節 國民法官及備位國民法官之解任
 - 第 35 條: article/35.md
 - 第 36 條: article/36.md
 - 第 37 條: article/37.md
 - 第 38 條: article/38.md
-### 第 五 節 國民法官、備位國民法官及候選國民法官之保護
+## 第五節 國民法官、備位國民法官及候選國民法官之保護
 - 第 39 條: article/39.md
 - 第 40 條: article/40.md
 - 第 41 條: article/41.md
 - 第 42 條: article/42.md
-## 第 四 章 審理程序
-### 第 一 節 起訴
+# 第四章 審理程序
+## 第一節 起訴
 - 第 43 條: article/43.md
-### 第 二 節 基本原則
+## 第二節 基本原則
 - 第 44 條: article/44.md
 - 第 45 條: article/45.md
 - 第 46 條: article/46.md
-### 第 三 節 準備程序
+## 第三節 準備程序
 - 第 47 條: article/47.md
 - 第 48 條: article/48.md
 - 第 49 條: article/49.md
@@ -77,7 +77,7 @@
 - 第 62 條: article/62.md
 - 第 63 條: article/63.md
 - 第 64 條: article/64.md
-### 第 四 節 審判期日
+## 第四節 審判期日
 - 第 65 條: article/65.md
 - 第 66 條: article/66.md
 - 第 67 條: article/67.md
@@ -94,7 +94,7 @@
 - 第 78 條: article/78.md
 - 第 79 條: article/79.md
 - 第 80 條: article/80.md
-### 第 五 節 終局評議及判決
+## 第五節 終局評議及判決
 - 第 81 條: article/81.md
 - 第 82 條: article/82.md
 - 第 83 條: article/83.md
@@ -103,14 +103,14 @@
 - 第 86 條: article/86.md
 - 第 87 條: article/87.md
 - 第 88 條: article/88.md
-### 第 六 節 上訴
+## 第六節 上訴
 - 第 89 條: article/89.md
 - 第 90 條: article/90.md
 - 第 91 條: article/91.md
 - 第 92 條: article/92.md
-### 第 七 節 再審
+## 第七節 再審
 - 第 93 條: article/93.md
-## 第 五 章 罰則
+# 第五章 罰則
 - 第 94 條: article/94.md
 - 第 95 條: article/95.md
 - 第 96 條: article/96.md
@@ -121,7 +121,7 @@
 - 第 101 條: article/101.md
 - 第 102 條: article/102.md
 - 第 103 條: article/103.md
-## 第 六 章 國民參與審判制度成效評估
+# 第六章 國民參與審判制度成效評估
 - 第 104 條: article/104.md
 - 第 105 條: article/105.md
 - 第 106 條: article/106.md
@@ -129,7 +129,7 @@
 - 第 108 條: article/108.md
 - 第 109 條: article/109.md
 - 第 110 條: article/110.md
-## 第 七 章 附則
+# 第七章 附則
 - 第 111 條: article/111.md
 - 第 112 條: article/112.md
 - 第 113 條: article/113.md
