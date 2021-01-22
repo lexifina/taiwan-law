@@ -1,5 +1,5 @@
 民法債編施行法
-中華民國98年12月30日公布（修正）
+中華民國110年1月20日公布（修正）
 
 - 第 1 條: article/1.md
 - 第 2 條: article/2.md
@@ -11,6 +11,7 @@
 - 第 8 條: article/8.md
 - 第 9 條: article/9.md
 - 第 10 條: article/10.md
+- 第 10-1 條: article/10-1.md
 - 第 11 條: article/11.md
 - 第 12 條: article/12.md
 - 第 13 條: article/13.md
