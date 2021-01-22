@@ -1,5 +1,5 @@
 民事訴訟法施行法
-中華民國107年11月28日公布（修正）
+中華民國110年1月20日公布（修正）
 
 - 第 1 條: article/1.md
 - 第 2 條: article/2.md
@@ -10,6 +10,7 @@
 - 第 4-3 條: article/4-3.md
 - 第 4-4 條: article/4-4.md
 - 第 4-5 條: article/4-5.md
+- 第 4-6 條: article/4-6.md
 - 第 5 條: article/5.md
 - 第 6 條: article/6.md
 - 第 7 條: article/7.md
