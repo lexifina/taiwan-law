@@ -1,7 +1,7 @@
 原住民族教育法
-中華民國110年1月20日公布（修正）
+修正日期：民國 110 年 01 月 20 日
 
-# 第一章 總則
+## 第 一 章 總則
 - 第 1 條: article/1.md
 - 第 2 條: article/2.md
 - 第 3 條: article/3.md
@@ -14,7 +14,7 @@
 - 第 10 條: article/10.md
 - 第 11 條: article/11.md
 - 第 12 條: article/12.md
-# 第二章 就學
+## 第 二 章 就學
 - 第 13 條: article/13.md
 - 第 14 條: article/14.md
 - 第 15 條: article/15.md
@@ -29,12 +29,12 @@
 - 第 24 條: article/24.md
 - 第 25 條: article/25.md
 - 第 26 條: article/26.md
-# 第三章 課程
+## 第 三 章 課程
 - 第 27 條: article/27.md
 - 第 28 條: article/28.md
 - 第 29 條: article/29.md
 - 第 30 條: article/30.md
-# 第四章 師資
+## 第 四 章 師資
 - 第 31 條: article/31.md
 - 第 32 條: article/32.md
 - 第 33 條: article/33.md
@@ -42,14 +42,14 @@
 - 第 35 條: article/35.md
 - 第 36 條: article/36.md
 - 第 37 條: article/37.md
-# 第五章 終身教育
+## 第 五 章 終身教育
 - 第 38 條: article/38.md
 - 第 39 條: article/39.md
 - 第 40 條: article/40.md
-# 第六章 研究、評鑑、獎勵
+## 第 六 章 研究、評鑑、獎勵
 - 第 41 條: article/41.md
 - 第 42 條: article/42.md
 - 第 43 條: article/43.md
-# 第七章 附則
+## 第 七 章 附則
 - 第 44 條: article/44.md
 - 第 45 條: article/45.md
