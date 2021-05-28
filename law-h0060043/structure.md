@@ -1,5 +1,5 @@
 高級中等教育法
-中華民國105年6月1日公布（修正）
+中華民國110年5月26日公布（修正）
 
 # 第一章 總則
 - 第 1 條: article/1.md
@@ -65,6 +65,7 @@
 - 第 52 條: article/52.md
 - 第 53 條: article/53.md
 - 第 54 條: article/54.md
+- 第 54-1 條: article/54-1.md
 - 第 55 條: article/55.md
 - 第 56 條: article/56.md
 - 第 57 條: article/57.md
