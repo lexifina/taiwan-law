@@ -1,5 +1,5 @@
 長期照顧服務法
-中華民國108年6月19日公布（修正）
+中華民國110年6月9日公布（修正）
 
 # 第一章 總則
 - 第 1 條: article/1.md
@@ -11,6 +11,7 @@
 - 第 7 條: article/7.md
 # 第二章 長照服務及長照體系
 - 第 8 條: article/8.md
+- 第 8-1 條: article/8-1.md
 - 第 9 條: article/9.md
 - 第 10 條: article/10.md
 - 第 11 條: article/11.md
@@ -37,6 +38,8 @@
 - 第 30 條: article/30.md
 - 第 31 條: article/31.md
 - 第 32 條: article/32.md
+- 第 32-1 條: article/32-1.md
+- 第 32-2 條: article/32-2.md
 - 第 33 條: article/33.md
 - 第 34 條: article/34.md
 - 第 35 條: article/35.md
@@ -44,6 +47,7 @@
 - 第 37 條: article/37.md
 - 第 38 條: article/38.md
 - 第 39 條: article/39.md
+- 第 39-1 條: article/39-1.md
 - 第 40 條: article/40.md
 - 第 41 條: article/41.md
 # 第五章 接受長照服務者之權益保障
@@ -54,7 +58,9 @@
 - 第 46 條: article/46.md
 # 第六章 罰則
 - 第 47 條: article/47.md
+- 第 47-1 條: article/47-1.md
 - 第 48 條: article/48.md
+- 第 48-1 條: article/48-1.md
 - 第 49 條: article/49.md
 - 第 50 條: article/50.md
 - 第 51 條: article/51.md
