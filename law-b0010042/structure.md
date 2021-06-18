@@ -1,8 +1,8 @@
 消費者債務清理條例
-中華民國110年6月16日公布（修正）
+修正日期：民國 110 年 06 月 16 日
 
-# 第一章 總則
-## 第一節 通則
+## 第 一 章 總則
+### 第 一 節 通則
 - 第 1 條: article/1.md
 - 第 2 條: article/2.md
 - 第 3 條: article/3.md
@@ -20,11 +20,11 @@
 - 第 13 條: article/13.md
 - 第 14 條: article/14.md
 - 第 15 條: article/15.md
-## 第二節 監督人及管理人
+### 第 二 節 監督人及管理人
 - 第 16 條: article/16.md
 - 第 17 條: article/17.md
 - 第 18 條: article/18.md
-## 第三節 債務人財產之保全
+### 第 三 節 債務人財產之保全
 - 第 19 條: article/19.md
 - 第 20 條: article/20.md
 - 第 21 條: article/21.md
@@ -34,7 +34,7 @@
 - 第 25 條: article/25.md
 - 第 26 條: article/26.md
 - 第 27 條: article/27.md
-## 第四節 債權之行使及確定
+### 第 四 節 債權之行使及確定
 - 第 28 條: article/28.md
 - 第 29 條: article/29.md
 - 第 30 條: article/30.md
@@ -46,13 +46,13 @@
 - 第 35 條: article/35.md
 - 第 36 條: article/36.md
 - 第 37 條: article/37.md
-## 第五節 債權人會議
+### 第 五 節 債權人會議
 - 第 38 條: article/38.md
 - 第 39 條: article/39.md
 - 第 40 條: article/40.md
 - 第 41 條: article/41.md
-# 第二章 更生
-## 第一節 更生之聲請及開始
+## 第 二 章 更生
+### 第 一 節 更生之聲請及開始
 - 第 42 條: article/42.md
 - 第 43 條: article/43.md
 - 第 44 條: article/44.md
@@ -64,7 +64,7 @@
 - 第 50 條: article/50.md
 - 第 51 條: article/51.md
 - 第 52 條: article/52.md
-## 第二節 更生之可決及認可
+### 第 二 節 更生之可決及認可
 - 第 53 條: article/53.md
 - 第 54 條: article/54.md
 - 第 54-1 條: article/54-1.md
@@ -88,7 +88,7 @@
 - 第 70 條: article/70.md
 - 第 71 條: article/71.md
 - 第 72 條: article/72.md
-## 第三節 更生之履行及免責
+### 第 三 節 更生之履行及免責
 - 第 73 條: article/73.md
 - 第 74 條: article/74.md
 - 第 75 條: article/75.md
@@ -96,8 +96,8 @@
 - 第 77 條: article/77.md
 - 第 78 條: article/78.md
 - 第 79 條: article/79.md
-# 第三章 清算
-## 第一節 清算之聲請及開始
+## 第 三 章 清算
+### 第 一 節 清算之聲請及開始
 - 第 80 條: article/80.md
 - 第 81 條: article/81.md
 - 第 82 條: article/82.md
@@ -116,7 +116,7 @@
 - 第 95 條: article/95.md
 - 第 96 條: article/96.md
 - 第 97 條: article/97.md
-## 第二節 清算財團之構成及管理
+### 第 二 節 清算財團之構成及管理
 - 第 98 條: article/98.md
 - 第 99 條: article/99.md
 - 第 100 條: article/100.md
@@ -130,7 +130,7 @@
 - 第 108 條: article/108.md
 - 第 109 條: article/109.md
 - 第 110 條: article/110.md
-## 第三節 清算債權及債權人會議
+### 第 三 節 清算債權及債權人會議
 - 第 111 條: article/111.md
 - 第 112 條: article/112.md
 - 第 113 條: article/113.md
@@ -142,7 +142,7 @@
 - 第 119 條: article/119.md
 - 第 120 條: article/120.md
 - 第 121 條: article/121.md
-## 第四節 清算財團之分配及清算程序之終了
+### 第 四 節 清算財團之分配及清算程序之終了
 - 第 122 條: article/122.md
 - 第 123 條: article/123.md
 - 第 124 條: article/124.md
@@ -153,7 +153,7 @@
 - 第 129 條: article/129.md
 - 第 130 條: article/130.md
 - 第 131 條: article/131.md
-## 第五節 免責及復權
+### 第 五 節 免責及復權
 - 第 132 條: article/132.md
 - 第 133 條: article/133.md
 - 第 134 條: article/134.md
@@ -169,7 +169,7 @@
 - 第 143 條: article/143.md
 - 第 144 條: article/144.md
 - 第 145 條: article/145.md
-# 第四章 附則
+## 第 四 章 附則
 - 第 146 條: article/146.md
 - 第 147 條: article/147.md
 - 第 148 條: article/148.md
