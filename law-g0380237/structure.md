@@ -1,26 +1,25 @@
 電子支付機構管理條例
-中華民國107年1月31日公布（修正）
+中華民國110年1月27日公布（全文修正）
 
 # 第一章 總則
 - 第 1 條: article/1.md
 - 第 2 條: article/2.md
 - 第 3 條: article/3.md
-- 第 3-1 條: article/3-1.md
 - 第 4 條: article/4.md
 - 第 5 條: article/5.md
 - 第 6 條: article/6.md
-# 第二章 申請及許可
 - 第 7 條: article/7.md
 - 第 8 條: article/8.md
+# 第二章 申請及許可
 - 第 9 條: article/9.md
 - 第 10 條: article/10.md
 - 第 11 條: article/11.md
 - 第 12 條: article/12.md
 - 第 13 條: article/13.md
 - 第 14 條: article/14.md
-# 第三章 監督及管理
-## 第一節 專營之電子支付機構
 - 第 15 條: article/15.md
+# 第三章 監督及管理
+## 第一節 專營電子支付機構
 - 第 16 條: article/16.md
 - 第 17 條: article/17.md
 - 第 18 條: article/18.md
@@ -44,16 +43,16 @@
 - 第 36 條: article/36.md
 - 第 37 條: article/37.md
 - 第 38 條: article/38.md
-## 第二節 兼營之電子支付機構
 - 第 39 條: article/39.md
 - 第 40 條: article/40.md
 - 第 41 條: article/41.md
-# 第四章 公會
+## 第二節 兼營電子支付機構
 - 第 42 條: article/42.md
 - 第 43 條: article/43.md
-# 第五章 罰則
+# 第四章 公會
 - 第 44 條: article/44.md
 - 第 45 條: article/45.md
+# 第五章 罰則
 - 第 46 條: article/46.md
 - 第 47 條: article/47.md
 - 第 48 條: article/48.md
@@ -62,9 +61,11 @@
 - 第 51 條: article/51.md
 - 第 52 條: article/52.md
 - 第 53 條: article/53.md
-# 第六章 附則
 - 第 54 條: article/54.md
 - 第 55 條: article/55.md
 - 第 56 條: article/56.md
+# 第六章 附則
 - 第 57 條: article/57.md
 - 第 58 條: article/58.md
+- 第 59 條: article/59.md
+- 第 60 條: article/60.md
