@@ -1,5 +1,5 @@
 勞資爭議處理法
-中華民國106年1月18日公布（修正）
+中華民國110年4月28日公布（修正）
 
 # 第一章 總則
 - 第 1 條: article/1.md
@@ -52,6 +52,7 @@
 - 第 45 條: article/45.md
 - 第 46 條: article/46.md
 - 第 47 條: article/47.md
+- 第 47-1 條: article/47-1.md
 - 第 48 條: article/48.md
 - 第 49 條: article/49.md
 - 第 50 條: article/50.md
