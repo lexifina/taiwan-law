@@ -1,5 +1,5 @@
-生技新藥產業發展條例
-中華民國106年1月18日公布（修正）
+生技醫藥產業發展條例
+中華民國110年12月30日公布（全文修正）
 
 - 第 1 條: article/1.md
 - 第 2 條: article/2.md
@@ -14,3 +14,7 @@
 - 第 11 條: article/11.md
 - 第 12 條: article/12.md
 - 第 13 條: article/13.md
+- 第 14 條: article/14.md
+- 第 15 條: article/15.md
+- 第 16 條: article/16.md
+- 第 17 條: article/17.md
