@@ -1,11 +1,11 @@
 公寓大廈管理條例
-中華民國111年5月11日公布（修正）
+修正日期：民國 111 年 05 月 11 日
 
-# 第一章 總則
+## 第 一 章 總則
 - 第 1 條: article/1.md
 - 第 2 條: article/2.md
 - 第 3 條: article/3.md
-# 第二章 住戶之權利義務
+## 第 二 章 住戶之權利義務
 - 第 4 條: article/4.md
 - 第 5 條: article/5.md
 - 第 6 條: article/6.md
@@ -27,7 +27,7 @@
 - 第 22 條: article/22.md
 - 第 23 條: article/23.md
 - 第 24 條: article/24.md
-# 第三章 管理組織
+## 第 三 章 管理組織
 - 第 25 條: article/25.md
 - 第 26 條: article/26.md
 - 第 27 條: article/27.md
@@ -45,14 +45,14 @@
 - 第 38 條: article/38.md
 - 第 39 條: article/39.md
 - 第 40 條: article/40.md
-# 第四章 管理服務人
+## 第 四 章 管理服務人
 - 第 41 條: article/41.md
 - 第 42 條: article/42.md
 - 第 43 條: article/43.md
 - 第 44 條: article/44.md
 - 第 45 條: article/45.md
 - 第 46 條: article/46.md
-# 第五章 罰則
+## 第 五 章 罰則
 - 第 47 條: article/47.md
 - 第 48 條: article/48.md
 - 第 49 條: article/49.md
@@ -60,7 +60,7 @@
 - 第 50 條: article/50.md
 - 第 51 條: article/51.md
 - 第 52 條: article/52.md
-# 第六章 附則
+## 第 六 章 附則
 - 第 53 條: article/53.md
 - 第 54 條: article/54.md
 - 第 55 條: article/55.md
