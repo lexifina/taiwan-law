@@ -1,5 +1,5 @@
 公寓大廈管理條例
-中華民國105年11月16日公布（修正）
+中華民國111年5月11日公布（修正）
 
 # 第一章 總則
 - 第 1 條: article/1.md
@@ -33,6 +33,7 @@
 - 第 27 條: article/27.md
 - 第 28 條: article/28.md
 - 第 29 條: article/29.md
+- 第 29-1 條: article/29-1.md
 - 第 30 條: article/30.md
 - 第 31 條: article/31.md
 - 第 32 條: article/32.md
@@ -55,6 +56,7 @@
 - 第 47 條: article/47.md
 - 第 48 條: article/48.md
 - 第 49 條: article/49.md
+- 第 49-1 條: article/49-1.md
 - 第 50 條: article/50.md
 - 第 51 條: article/51.md
 - 第 52 條: article/52.md
