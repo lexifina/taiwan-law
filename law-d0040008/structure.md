@@ -1,15 +1,15 @@
 軍人及其家屬優待條例
-中華民國111年5月18日公布（修正）
+修正日期：民國 111 年 05 月 18 日
 
-# 第一章 總則
+## 第 一 章 總則
 - 第 1 條: article/1.md
 - 第 2 條: article/2.md
 - 第 3 條: article/3.md
-# 第二章 管理機關
+## 第 二 章 管理機關
 - 第 4 條: article/4.md
 - 第 5 條: article/5.md
 - 第 6 條: article/6.md
-# 第三章 現役軍人及其家屬之優待
+## 第 三 章 現役軍人及其家屬之優待
 - 第 7 條: article/7.md
 - 第 8 條: article/8.md
 - 第 9 條: article/9.md
@@ -33,7 +33,7 @@
 - 第 27 條: article/27.md
 - 第 28 條: article/28.md
 - 第 29 條: article/29.md
-# 第四章 後備軍人之優待
+## 第 四 章 後備軍人之優待
 - 第 30 條: article/30.md
 - 第 31 條: article/31.md
 - 第 32 條: article/32.md
@@ -43,11 +43,11 @@
 - 第 36 條: article/36.md
 - 第 37 條: article/37.md
 - 第 38 條: article/38.md
-# 第五章 優待之停止
+## 第 五 章 優待之停止
 - 第 39 條: article/39.md
 - 第 40 條: article/40.md
 - 第 41 條: article/41.md
-# 第六章 附則
+## 第 六 章 附則
 - 第 42 條: article/42.md
 - 第 43 條: article/43.md
 - 第 44 條: article/44.md
