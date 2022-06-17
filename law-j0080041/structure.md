@@ -1,5 +1,5 @@
 企業併購法
-中華民國104年7月8日公布（全文修正）
+中華民國111年6月15日公布（修正）
 
 # 第一章 總則
 - 第 1 條: article/1.md
@@ -47,10 +47,12 @@
 # 第三章 租稅措施
 - 第 39 條: article/39.md
 - 第 40 條: article/40.md
+- 第 40-1 條: article/40-1.md
 - 第 41 條: article/41.md
 - 第 42 條: article/42.md
 - 第 43 條: article/43.md
 - 第 44 條: article/44.md
+- 第 44-1 條: article/44-1.md
 - 第 45 條: article/45.md
 - 第 46 條: article/46.md
 - 第 47 條: article/47.md
