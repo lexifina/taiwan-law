@@ -1,5 +1,5 @@
 著作權法
-中華民國111年5月4日公布（修正）
+中華民國111年6月15日公布（修正）
 
 # 第一章 總則
 - 第 1 條: article/1.md
@@ -64,6 +64,7 @@
 - 第 44 條: article/44.md
 - 第 45 條: article/45.md
 - 第 46 條: article/46.md
+- 第 46-1 條: article/46-1.md
 - 第 47 條: article/47.md
 - 第 48 條: article/48.md
 - 第 48-1 條: article/48-1.md
