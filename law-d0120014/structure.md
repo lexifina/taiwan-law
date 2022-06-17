@@ -1,5 +1,5 @@
 災害防救法
-中華民國108年5月22日公布（修正）
+中華民國111年6月15日公布（全文修正）
 
 # 第一章 總則
 - 第 1 條: article/1.md
@@ -41,38 +41,37 @@
 - 第 33 條: article/33.md
 - 第 34 條: article/34.md
 - 第 35 條: article/35.md
-# 第六章 災後復原重建
 - 第 36 條: article/36.md
+# 第六章 災後復原重建
 - 第 37 條: article/37.md
-- 第 37-1 條: article/37-1.md
-- 第 37-2 條: article/37-2.md
-# 第七章 罰則
 - 第 38 條: article/38.md
 - 第 39 條: article/39.md
-- 第 39-1 條: article/39-1.md
 - 第 40 條: article/40.md
 - 第 41 條: article/41.md
 - 第 42 條: article/42.md
-# 第八章 附則
 - 第 43 條: article/43.md
-- 第 43-1 條: article/43-1.md
 - 第 44 條: article/44.md
-- 第 44-1 條: article/44-1.md
-- 第 44-2 條: article/44-2.md
-- 第 44-3 條: article/44-3.md
-- 第 44-4 條: article/44-4.md
-- 第 44-5 條: article/44-5.md
-- 第 44-6 條: article/44-6.md
-- 第 44-7 條: article/44-7.md
-- 第 44-8 條: article/44-8.md
-- 第 44-9 條: article/44-9.md
-- 第 44-10 條: article/44-10.md
 - 第 45 條: article/45.md
 - 第 46 條: article/46.md
 - 第 47 條: article/47.md
-- 第 47-1 條: article/47-1.md
 - 第 48 條: article/48.md
 - 第 49 條: article/49.md
 - 第 50 條: article/50.md
 - 第 51 條: article/51.md
 - 第 52 條: article/52.md
+# 第七章 罰則
+- 第 53 條: article/53.md
+- 第 54 條: article/54.md
+- 第 55 條: article/55.md
+- 第 56 條: article/56.md
+# 第八章 附則
+- 第 57 條: article/57.md
+- 第 58 條: article/58.md
+- 第 59 條: article/59.md
+- 第 60 條: article/60.md
+- 第 61 條: article/61.md
+- 第 62 條: article/62.md
+- 第 63 條: article/63.md
+- 第 64 條: article/64.md
+- 第 65 條: article/65.md
+- 第 66 條: article/66.md
