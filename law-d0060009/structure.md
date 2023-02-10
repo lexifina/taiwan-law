@@ -1,5 +1,5 @@
 平均地權條例
-中華民國110年1月27日公布（修正）
+中華民國112年2月8日公布（修正）
 
 # 第一章 總則
 - 第 1 條: article/1.md
@@ -64,6 +64,8 @@
 - 第 47-1 條: article/47-1.md
 - 第 47-2 條: article/47-2.md
 - 第 47-3 條: article/47-3.md
+- 第 47-4 條: article/47-4.md
+- 第 47-5 條: article/47-5.md
 - 第 48 條: article/48.md
 - 第 49 條: article/49.md
 - 第 50 條: article/50.md
@@ -104,11 +106,14 @@
 - 第 77 條: article/77.md
 - 第 78 條: article/78.md
 - 第 79 條: article/79.md
+- 第 79-1 條: article/79-1.md
 # 第七章 罰則
 - 第 80 條: article/80.md
 - 第 81 條: article/81.md
 - 第 81-1 條: article/81-1.md
 - 第 81-2 條: article/81-2.md
+- 第 81-3 條: article/81-3.md
+- 第 81-4 條: article/81-4.md
 - 第 82 條: article/82.md
 - 第 83 條: article/83.md
 - 第 83-1 條: article/83-1.md
