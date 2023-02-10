@@ -1,7 +1,7 @@
 地籍清理條例
-中華民國112年2月8日公布（修正）
+修正日期：民國 112 年 02 月 08 日
 
-# 第一章 總則
+## 第 一 章 總則
 - 第 1 條: article/1.md
 - 第 2 條: article/2.md
 - 第 3 條: article/3.md
@@ -19,10 +19,10 @@
 - 第 15 條: article/15.md
 - 第 15-1 條: article/15-1.md
 - 第 16 條: article/16.md
-# 第二章 日據時期會社或組合名義登記土地之清理
+## 第 二 章 日據時期會社或組合名義登記土地之清理
 - 第 17 條: article/17.md
 - 第 18 條: article/18.md
-# 第三章 神明會名義登記土地之清理
+## 第 三 章 神明會名義登記土地之清理
 - 第 19 條: article/19.md
 - 第 20 條: article/20.md
 - 第 21 條: article/21.md
@@ -31,24 +31,24 @@
 - 第 24 條: article/24.md
 - 第 25 條: article/25.md
 - 第 26 條: article/26.md
-# 第四章 所有權以外土地權利之清理
+## 第 四 章 所有權以外土地權利之清理
 - 第 27 條: article/27.md
 - 第 28 條: article/28.md
 - 第 29 條: article/29.md
-# 第五章 限制登記及土地權利不詳之清理
+## 第 五 章 限制登記及土地權利不詳之清理
 - 第 30 條: article/30.md
 - 第 31 條: article/31.md
 - 第 31-1 條: article/31-1.md
 - 第 32 條: article/32.md
 - 第 33 條: article/33.md
-# 第六章 寺廟或宗教團體土地之清理
+## 第 六 章 寺廟或宗教團體土地之清理
 - 第 34 條: article/34.md
 - 第 35 條: article/35.md
 - 第 36 條: article/36.md
 - 第 37 條: article/37.md
 - 第 38 條: article/38.md
 - 第 39 條: article/39.md
-# 第七章 附則
+## 第 七 章 附則
 - 第 40 條: article/40.md
 - 第 41 條: article/41.md
 - 第 42 條: article/42.md
