@@ -1,7 +1,7 @@
 犯罪被害人權益保障法
-中華民國112年2月8日公布（全文修正）
+修正日期：民國 112 年 02 月 08 日
 
-# 第一章 總則
+## 第 一 章 總則
 - 第 1 條: article/1.md
 - 第 2 條: article/2.md
 - 第 3 條: article/3.md
@@ -14,7 +14,7 @@
 - 第 10 條: article/10.md
 - 第 11 條: article/11.md
 - 第 12 條: article/12.md
-# 第二章 保護服務
+## 第 二 章 保護服務
 - 第 13 條: article/13.md
 - 第 14 條: article/14.md
 - 第 15 條: article/15.md
@@ -37,7 +37,7 @@
 - 第 32 條: article/32.md
 - 第 33 條: article/33.md
 - 第 34 條: article/34.md
-# 第三章 犯罪被害人保護命令
+## 第 三 章 犯罪被害人保護命令
 - 第 35 條: article/35.md
 - 第 36 條: article/36.md
 - 第 37 條: article/37.md
@@ -47,14 +47,14 @@
 - 第 41 條: article/41.md
 - 第 42 條: article/42.md
 - 第 43 條: article/43.md
-# 第四章 修復式司法
+## 第 四 章 修復式司法
 - 第 44 條: article/44.md
 - 第 45 條: article/45.md
 - 第 46 條: article/46.md
 - 第 47 條: article/47.md
 - 第 48 條: article/48.md
 - 第 49 條: article/49.md
-# 第五章 犯罪被害補償金
+## 第 五 章 犯罪被害補償金
 - 第 50 條: article/50.md
 - 第 51 條: article/51.md
 - 第 52 條: article/52.md
@@ -80,7 +80,7 @@
 - 第 72 條: article/72.md
 - 第 73 條: article/73.md
 - 第 74 條: article/74.md
-# 第六章 保護機構
+## 第 六 章 保護機構
 - 第 75 條: article/75.md
 - 第 76 條: article/76.md
 - 第 77 條: article/77.md
@@ -105,7 +105,7 @@
 - 第 96 條: article/96.md
 - 第 97 條: article/97.md
 - 第 98 條: article/98.md
-# 第七章 附則
+## 第 七 章 附則
 - 第 99 條: article/99.md
 - 第 100 條: article/100.md
 - 第 101 條: article/101.md
