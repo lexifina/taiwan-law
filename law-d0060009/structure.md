@@ -1,7 +1,7 @@
 平均地權條例
-中華民國112年2月8日公布（修正）
+修正日期：民國 112 年 02 月 08 日
 
-# 第一章 總則
+## 第 一 章 總則
 - 第 1 條: article/1.md
 - 第 2 條: article/2.md
 - 第 3 條: article/3.md
@@ -14,12 +14,12 @@
 - 第 10 條: article/10.md
 - 第 11 條: article/11.md
 - 第 12 條: article/12.md
-# 第二章 規定地價
+## 第 二 章 規定地價
 - 第 13 條: article/13.md
 - 第 14 條: article/14.md
 - 第 15 條: article/15.md
 - 第 16 條: article/16.md
-# 第三章 照價徵稅
+## 第 三 章 照價徵稅
 - 第 17 條: article/17.md
 - 第 18 條: article/18.md
 - 第 19 條: article/19.md
@@ -32,7 +32,7 @@
 - 第 25 條: article/25.md
 - 第 26 條: article/26.md
 - 第 26-1 條: article/26-1.md
-# 第四章 照價收買
+## 第 四 章 照價收買
 - 第 27 條: article/27.md
 - 第 28 條: article/28.md
 - 第 29 條: article/29.md
@@ -41,7 +41,7 @@
 - 第 32 條: article/32.md
 - 第 33 條: article/33.md
 - 第 34 條: article/34.md
-# 第五章 漲價歸公
+## 第 五 章 漲價歸公
 - 第 35 條: article/35.md
 - 第 35-1 條: article/35-1.md
 - 第 35-2 條: article/35-2.md
@@ -70,7 +70,7 @@
 - 第 49 條: article/49.md
 - 第 50 條: article/50.md
 - 第 51 條: article/51.md
-# 第六章 土地使用
+## 第 六 章 土地使用
 - 第 52 條: article/52.md
 - 第 53 條: article/53.md
 - 第 54 條: article/54.md
@@ -107,7 +107,7 @@
 - 第 78 條: article/78.md
 - 第 79 條: article/79.md
 - 第 79-1 條: article/79-1.md
-# 第七章 罰則
+## 第 七 章 罰則
 - 第 80 條: article/80.md
 - 第 81 條: article/81.md
 - 第 81-1 條: article/81-1.md
@@ -117,7 +117,7 @@
 - 第 82 條: article/82.md
 - 第 83 條: article/83.md
 - 第 83-1 條: article/83-1.md
-# 第八章 附則
+## 第 八 章 附則
 - 第 84 條: article/84.md
 - 第 85 條: article/85.md
 - 第 86 條: article/86.md
