@@ -1,5 +1,5 @@
 兒童及少年性剝削防制條例
-中華民國107年1月3日公布（修正）
+中華民國112年2月15日公布（修正）
 
 # 第一章 總則
 - 第 1 條: article/1.md
@@ -50,6 +50,7 @@
 - 第 43 條: article/43.md
 - 第 44 條: article/44.md
 - 第 45 條: article/45.md
+- 第 45-1 條: article/45-1.md
 - 第 46 條: article/46.md
 - 第 47 條: article/47.md
 - 第 48 條: article/48.md
@@ -57,7 +58,9 @@
 - 第 50 條: article/50.md
 - 第 51 條: article/51.md
 - 第 52 條: article/52.md
+- 第 52-1 條: article/52-1.md
 # 第五章 附則
 - 第 53 條: article/53.md
+- 第 53-1 條: article/53-1.md
 - 第 54 條: article/54.md
 - 第 55 條: article/55.md
