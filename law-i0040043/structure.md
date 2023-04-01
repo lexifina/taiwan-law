@@ -1,7 +1,7 @@
 少年矯正學校設置及教育實施通則
-中華民國112年1月13日公布（修正）
+修正日期：民國 112 年 01 月 13 日
 
-# 第一章 總則
+## 第 一 章 總則
 - 第 1 條: article/1.md
 - 第 2 條: article/2.md
 - 第 3 條: article/3.md
@@ -11,7 +11,7 @@
 - 第 7 條: article/7.md
 - 第 8 條: article/8.md
 - 第 9 條: article/9.md
-# 第二章 矯正學校之設置
+## 第 二 章 矯正學校之設置
 - 第 10 條: article/10.md
 - 第 11 條: article/11.md
 - 第 12 條: article/12.md
@@ -40,8 +40,8 @@
 - 第 34 條: article/34.md
 - 第 35 條: article/35.md
 - 第 36 條: article/36.md
-# 第三章 矯正教育之實施
-## 第一節 入校出校
+## 第 三 章 矯正學校之實施
+### 第 一 節 入校出校
 - 第 37 條: article/37.md
 - 第 38 條: article/38.md
 - 第 39 條: article/39.md
@@ -56,7 +56,7 @@
 - 第 48 條: article/48.md
 - 第 49 條: article/49.md
 - 第 50 條: article/50.md
-## 第二節 教學實施
+### 第 二 節 教學實施
 - 第 51 條: article/51.md
 - 第 52 條: article/52.md
 - 第 53 條: article/53.md
@@ -75,7 +75,7 @@
 - 第 66 條: article/66.md
 - 第 67 條: article/67.md
 - 第 68 條: article/68.md
-## 第三節 生活管教
+### 第 三 節 生活管教
 - 第 69 條: article/69.md
 - 第 70 條: article/70.md
 - 第 71 條: article/71.md
@@ -84,12 +84,12 @@
 - 第 74 條: article/74.md
 - 第 75 條: article/75.md
 - 第 76 條: article/76.md
-## 第四節 獎懲
+### 第 四 節 獎懲
 - 第 77 條: article/77.md
 - 第 78 條: article/78.md
 - 第 79 條: article/79.md
 - 第 80 條: article/80.md
-# 第四章 附則
+## 第 四 章 附則
 - 第 81 條: article/81.md
 - 第 82 條: article/82.md
 - 第 83 條: article/83.md
