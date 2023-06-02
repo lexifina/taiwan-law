@@ -1,5 +1,5 @@
 文化創意產業發展法
-中華民國108年1月7日公布（修正）
+中華民國112年5月31日公布（修正）
 
 # 第一章 總則
 - 第 1 條: article/1.md
@@ -12,6 +12,7 @@
 - 第 8 條: article/8.md
 - 第 9 條: article/9.md
 - 第 10 條: article/10.md
+- 第 10-1 條: article/10-1.md
 - 第 11 條: article/11.md
 # 第二章 協助及獎補助機制
 - 第 12 條: article/12.md
@@ -31,6 +32,9 @@
 # 第三章 租稅優惠
 - 第 26 條: article/26.md
 - 第 27 條: article/27.md
+- 第 27-1 條: article/27-1.md
+- 第 27-2 條: article/27-2.md
+- 第 27-3 條: article/27-3.md
 - 第 28 條: article/28.md
 # 第四章 附則
 - 第 29 條: article/29.md
