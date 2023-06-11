@@ -1,5 +1,5 @@
 律師法
-中華民國109年1月15日公布（全文修正）
+中華民國112年6月9日公布（修正）
 
 # 第一章 律師之使命
 - 第 1 條: article/1.md
@@ -28,6 +28,7 @@
 - 第 21 條: article/21.md
 - 第 22 條: article/22.md
 - 第 23 條: article/23.md
+- 第 23-1 條: article/23-1.md
 - 第 24 條: article/24.md
 - 第 25 條: article/25.md
 - 第 26 條: article/26.md
