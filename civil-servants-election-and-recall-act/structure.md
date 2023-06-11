@@ -1,5 +1,5 @@
 公職人員選舉罷免法
-中華民國110年12月15日公布（修正）
+中華民國112年6月9日公布（修正）
 
 # 第一章 總則
 - 第 1 條: article/1.md
@@ -7,6 +7,7 @@
 - 第 3 條: article/3.md
 - 第 4 條: article/4.md
 - 第 5 條: article/5.md
+- 第 5-1 條: article/5-1.md
 # 第二章 選舉罷免機關
 - 第 6 條: article/6.md
 - 第 7 條: article/7.md
@@ -59,9 +60,13 @@
 - 第 46 條: article/46.md
 - 第 47 條: article/47.md
 - 第 48 條: article/48.md
+- 第 48-1 條: article/48-1.md
 - 第 49 條: article/49.md
 - 第 50 條: article/50.md
 - 第 51 條: article/51.md
+- 第 51-1 條: article/51-1.md
+- 第 51-2 條: article/51-2.md
+- 第 51-3 條: article/51-3.md
 - 第 52 條: article/52.md
 - 第 53 條: article/53.md
 - 第 54 條: article/54.md
@@ -71,6 +76,7 @@
 - 第 57 條: article/57.md
 - 第 58 條: article/58.md
 - 第 59 條: article/59.md
+- 第 59-1 條: article/59-1.md
 - 第 60 條: article/60.md
 - 第 61 條: article/61.md
 - 第 62 條: article/62.md
@@ -83,9 +89,11 @@
 - 第 68 條: article/68.md
 - 第 69 條: article/69.md
 - 第 70 條: article/70.md
+- 第 70-1 條: article/70-1.md
 - 第 71 條: article/71.md
 - 第 72 條: article/72.md
 - 第 73 條: article/73.md
+- 第 73-1 條: article/73-1.md
 - 第 74 條: article/74.md
 # 第四章 （刪除）
 ## 第九節 罷免
@@ -118,12 +126,15 @@
 - 第 96 條: article/96.md
 - 第 97 條: article/97.md
 - 第 98 條: article/98.md
+- 第 98-1 條: article/98-1.md
 - 第 99 條: article/99.md
 - 第 100 條: article/100.md
 - 第 101 條: article/101.md
 - 第 102 條: article/102.md
 - 第 103 條: article/103.md
+- 第 103-1 條: article/103-1.md
 - 第 104 條: article/104.md
+- 第 104-1 條: article/104-1.md
 - 第 105 條: article/105.md
 - 第 106 條: article/106.md
 - 第 107 條: article/107.md
