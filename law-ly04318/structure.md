@@ -1,5 +1,5 @@
 總統副總統選舉罷免法
-中華民國110年12月15日公布（修正）
+中華民國112年6月9日公布（修正）
 
 # 第一章 總則
 - 第 1 條: article/1.md
@@ -7,13 +7,14 @@
 - 第 3 條: article/3.md
 - 第 4 條: article/4.md
 - 第 5 條: article/5.md
+- 第 5-1 條: article/5-1.md
 # 第二章 選舉罷免機關
 - 第 6 條: article/6.md
 - 第 7 條: article/7.md
 - 第 8 條: article/8.md
 - 第 9 條: article/9.md
 - 第 10 條: article/10.md
-# 第三章 選舉
+# 第三章 選舉及罷免
 ## 第一節 選舉人
 - 第 11 條: article/11.md
 - 第 12 條: article/12.md
@@ -30,6 +31,7 @@
 - 第 21 條: article/21.md
 - 第 22 條: article/22.md
 - 第 23 條: article/23.md
+- 第 23-1 條: article/23-1.md
 - 第 24 條: article/24.md
 - 第 25 條: article/25.md
 - 第 26 條: article/26.md
@@ -43,7 +45,7 @@
 ## 第四節 選舉公告
 - 第 34 條: article/34.md
 - 第 35 條: article/35.md
-## 第五節 選舉活動
+## 第五節 選舉及罷免活動
 - 第 36 條: article/36.md
 - 第 37 條: article/37.md
 - 第 38 條: article/38.md
@@ -55,7 +57,11 @@
 - 第 44 條: article/44.md
 - 第 45 條: article/45.md
 - 第 46 條: article/46.md
+- 第 46-1 條: article/46-1.md
 - 第 47 條: article/47.md
+- 第 47-1 條: article/47-1.md
+- 第 47-2 條: article/47-2.md
+- 第 47-3 條: article/47-3.md
 - 第 48 條: article/48.md
 - 第 49 條: article/49.md
 - 第 50 條: article/50.md
@@ -65,6 +71,7 @@
 - 第 53 條: article/53.md
 - 第 54 條: article/54.md
 - 第 55 條: article/55.md
+- 第 55-1 條: article/55-1.md
 - 第 56 條: article/56.md
 - 第 57 條: article/57.md
 - 第 58 條: article/58.md
@@ -82,7 +89,8 @@
 ## 第八節 副總統之缺位補選
 - 第 68 條: article/68.md
 - 第 69 條: article/69.md
-# 第四章 罷免
+# 第四章 （刪除）
+## 第九節 罷免
 - 第 70 條: article/70.md
 - 第 71 條: article/71.md
 - 第 72 條: article/72.md
@@ -103,8 +111,10 @@
 - 第 86 條: article/86.md
 - 第 87 條: article/87.md
 - 第 88 條: article/88.md
+- 第 88-1 條: article/88-1.md
 - 第 89 條: article/89.md
 - 第 90 條: article/90.md
+- 第 90-1 條: article/90-1.md
 - 第 91 條: article/91.md
 - 第 92 條: article/92.md
 - 第 93 條: article/93.md
