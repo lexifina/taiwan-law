@@ -1,5 +1,5 @@
 社會工作師法
-中華民國109年1月15日公布（修正）
+中華民國112年6月9日公布（修正）
 
 # 第一章 總則
 - 第 1 條: article/1.md
@@ -21,8 +21,12 @@
 - 第 15 條: article/15.md
 - 第 16 條: article/16.md
 - 第 17 條: article/17.md
+- 第 17-1 條: article/17-1.md
+- 第 17-2 條: article/17-2.md
+- 第 17-3 條: article/17-3.md
 - 第 18 條: article/18.md
 - 第 19 條: article/19.md
+- 第 19-1 條: article/19-1.md
 - 第 20 條: article/20.md
 # 第四章 社會工作師事務所
 - 第 21 條: article/21.md
@@ -46,6 +50,7 @@
 - 第 37 條: article/37.md
 - 第 38 條: article/38.md
 - 第 39 條: article/39.md
+- 第 39-1 條: article/39-1.md
 - 第 40 條: article/40.md
 - 第 41 條: article/41.md
 - 第 42 條: article/42.md
