@@ -1,17 +1,17 @@
 社會工作師法
-中華民國112年6月9日公布（修正）
+修正日期：民國 112 年 06 月 09 日
 
-# 第一章 總則
+## 第 一 章 總則
 - 第 1 條: article/1.md
 - 第 2 條: article/2.md
 - 第 3 條: article/3.md
-# 第二章 資格取得
+## 第 二 章 資格取得
 - 第 4 條: article/4.md
 - 第 5 條: article/5.md
 - 第 6 條: article/6.md
 - 第 7 條: article/7.md
 - 第 8 條: article/8.md
-# 第三章 執業
+## 第 三 章 執業
 - 第 9 條: article/9.md
 - 第 10 條: article/10.md
 - 第 11 條: article/11.md
@@ -28,7 +28,7 @@
 - 第 19 條: article/19.md
 - 第 19-1 條: article/19-1.md
 - 第 20 條: article/20.md
-# 第四章 社會工作師事務所
+## 第 四 章 社會工作師事務所
 - 第 21 條: article/21.md
 - 第 22 條: article/22.md
 - 第 23 條: article/23.md
@@ -39,14 +39,14 @@
 - 第 28 條: article/28.md
 - 第 29 條: article/29.md
 - 第 30 條: article/30.md
-# 第五章 公會
+## 第 五 章 公會
 - 第 31 條: article/31.md
 - 第 32 條: article/32.md
 - 第 33 條: article/33.md
 - 第 34 條: article/34.md
 - 第 35 條: article/35.md
 - 第 36 條: article/36.md
-# 第六章 罰則
+## 第 六 章 罰則
 - 第 37 條: article/37.md
 - 第 38 條: article/38.md
 - 第 39 條: article/39.md
@@ -59,7 +59,7 @@
 - 第 45 條: article/45.md
 - 第 46 條: article/46.md
 - 第 47 條: article/47.md
-# 第七章 附則
+## 第 七 章 附則
 - 第 48 條: article/48.md
 - 第 49 條: article/49.md
 - 第 50 條: article/50.md
