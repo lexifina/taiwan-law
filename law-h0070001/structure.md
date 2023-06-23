@@ -1,10 +1,10 @@
 國民教育法
-中華民國112年6月21日公布（全文修正）
+修正日期：民國 112 年 06 月 21 日
 
-# 第一章 總則
+## 第 一 章 總則
 - 第 1 條: article/1.md
 - 第 2 條: article/2.md
-# 第二章 國民教育之辦理
+## 第 二 章 國民教育之辦理
 - 第 3 條: article/3.md
 - 第 4 條: article/4.md
 - 第 5 條: article/5.md
@@ -12,11 +12,11 @@
 - 第 7 條: article/7.md
 - 第 8 條: article/8.md
 - 第 9 條: article/9.md
-# 第三章 學校之設立、變更及停辦
+## 第 三 章 學校之設立、變更及停辦
 - 第 10 條: article/10.md
 - 第 11 條: article/11.md
 - 第 12 條: article/12.md
-# 第四章 組織、人員及編制
+## 第 四 章 組織、人員及編制
 - 第 13 條: article/13.md
 - 第 14 條: article/14.md
 - 第 15 條: article/15.md
@@ -32,15 +32,15 @@
 - 第 25 條: article/25.md
 - 第 26 條: article/26.md
 - 第 27 條: article/27.md
-# 第五章 學生之入學
+## 第 五 章 學生之入學
 - 第 28 條: article/28.md
 - 第 29 條: article/29.md
 - 第 30 條: article/30.md
 - 第 31 條: article/31.md
-# 第六章 就學費用及獎助學金
+## 第 六 章 就學費用及獎助學金
 - 第 32 條: article/32.md
 - 第 33 條: article/33.md
-# 第七章 課程、教學及學習評量
+## 第 七 章 課程、教學及學習評量
 - 第 34 條: article/34.md
 - 第 35 條: article/35.md
 - 第 36 條: article/36.md
@@ -50,14 +50,14 @@
 - 第 40 條: article/40.md
 - 第 41 條: article/41.md
 - 第 42 條: article/42.md
-# 第八章 學生權益及家長參與
+## 第 八 章 學生權益及家長參與
 - 第 43 條: article/43.md
 - 第 44 條: article/44.md
 - 第 45 條: article/45.md
 - 第 46 條: article/46.md
 - 第 47 條: article/47.md
 - 第 48 條: article/48.md
-# 第九章 國民補習教育
+## 第 九 章 國民補習教育
 - 第 49 條: article/49.md
 - 第 50 條: article/50.md
 - 第 51 條: article/51.md
@@ -67,7 +67,7 @@
 - 第 55 條: article/55.md
 - 第 56 條: article/56.md
 - 第 57 條: article/57.md
-# 第十章 附則
+## 第 十 章 附則
 - 第 58 條: article/58.md
 - 第 59 條: article/59.md
 - 第 60 條: article/60.md
