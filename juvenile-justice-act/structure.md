@@ -1,7 +1,7 @@
 少年事件處理法
-中華民國112年6月21日公布（修正）
+修正日期：民國 112 年 06 月 21 日
 
-# 第一章 總則
+## 第 一 章 總則
 - 第 1 條: article/1.md
 - 第 1-1 條: article/1-1.md
 - 第 2 條: article/2.md
@@ -11,7 +11,7 @@
 - 第 3-3 條: article/3-3.md
 - 第 3-4 條: article/3-4.md
 - 第 4 條: article/4.md
-# 第二章 少年法院之組織
+## 第 二 章 少年法院之組織
 - 第 5 條: article/5.md
 - 第 5-1 條: article/5-1.md
 - 第 5-2 條: article/5-2.md
@@ -24,8 +24,8 @@
 - 第 11 條: article/11.md
 - 第 12 條: article/12.md
 - 第 13 條: article/13.md
-# 第三章 少年保護事件
-## 第一節 調查及審理
+## 第 三 章 少年保護事件
+### 第 一 節 調查及審理
 - 第 14 條: article/14.md
 - 第 15 條: article/15.md
 - 第 16 條: article/16.md
@@ -77,7 +77,7 @@
 - 第 47 條: article/47.md
 - 第 48 條: article/48.md
 - 第 49 條: article/49.md
-## 第二節 保護處分之執行
+### 第 二 節 保護處分之執行
 - 第 50 條: article/50.md
 - 第 51 條: article/51.md
 - 第 52 條: article/52.md
@@ -92,14 +92,14 @@
 - 第 58 條: article/58.md
 - 第 59 條: article/59.md
 - 第 60 條: article/60.md
-## 第三節 抗告及重新審理
+### 第 三 節 抗告及重新審理
 - 第 61 條: article/61.md
 - 第 62 條: article/62.md
 - 第 63 條: article/63.md
 - 第 64 條: article/64.md
 - 第 64-1 條: article/64-1.md
 - 第 64-2 條: article/64-2.md
-# 第四章 少年刑事案件
+## 第 四 章 少年刑事案件
 - 第 65 條: article/65.md
 - 第 66 條: article/66.md
 - 第 67 條: article/67.md
@@ -119,7 +119,7 @@
 - 第 80 條: article/80.md
 - 第 81 條: article/81.md
 - 第 82 條: article/82.md
-# 第五章 附則
+## 第 五 章 附則
 - 第 83 條: article/83.md
 - 第 83-1 條: article/83-1.md
 - 第 83-2 條: article/83-2.md
