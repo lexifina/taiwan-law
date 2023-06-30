@@ -1,5 +1,5 @@
 公路法
-中華民國111年6月15日公布（修正）
+中華民國112年6月28日公布（修正）
 
 # 第一章 總則
 - 第 1 條: article/1.md
@@ -92,6 +92,8 @@
 - 第 72 條: article/72.md
 - 第 73 條: article/73.md
 - 第 74 條: article/74.md
+- 第 74-1 條: article/74-1.md
+- 第 74-2 條: article/74-2.md
 - 第 75 條: article/75.md
 - 第 76 條: article/76.md
 - 第 77 條: article/77.md
