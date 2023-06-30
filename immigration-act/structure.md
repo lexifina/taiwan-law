@@ -1,5 +1,5 @@
 入出國及移民法
-中華民國111年1月12日公布（修正）
+中華民國112年6月28日公布（修正）
 
 # 第一章 總則
 - 第 1 條: article/1.md
@@ -10,6 +10,7 @@
 - 第 5 條: article/5.md
 - 第 6 條: article/6.md
 - 第 7 條: article/7.md
+- 第 7-1 條: article/7-1.md
 # 第三章 臺灣地區無戶籍國民停留、居留及定居
 - 第 8 條: article/8.md
 - 第 9 條: article/9.md
@@ -26,9 +27,11 @@
 - 第 19 條: article/19.md
 - 第 20 條: article/20.md
 - 第 21 條: article/21.md
+- 第 21-1 條: article/21-1.md
 # 第五章 外國人停留、居留及永久居留
 - 第 22 條: article/22.md
 - 第 23 條: article/23.md
+- 第 23-1 條: article/23-1.md
 - 第 24 條: article/24.md
 - 第 25 條: article/25.md
 - 第 26 條: article/26.md
@@ -55,7 +58,7 @@
 - 第 38-8 條: article/38-8.md
 - 第 38-9 條: article/38-9.md
 - 第 39 條: article/39.md
-# 第七章 跨國（境）人口販運防制及被害人保護
+# 第七章 （刪除）
 - 第 40 條: article/40.md
 - 第 41 條: article/41.md
 - 第 42 條: article/42.md
@@ -93,8 +96,10 @@
 - 第 71 條: article/71.md
 - 第 72 條: article/72.md
 # 第十一章 罰則
+- 第 72-1 條: article/72-1.md
 - 第 73 條: article/73.md
 - 第 74 條: article/74.md
+- 第 74-1 條: article/74-1.md
 - 第 75 條: article/75.md
 - 第 76 條: article/76.md
 - 第 77 條: article/77.md
