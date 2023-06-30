@@ -1,5 +1,5 @@
 證券投資信託及顧問法
-中華民國107年1月31日公布（修正）
+中華民國112年6月28日公布（修正）
 
 # 第一章 總則
 - 第 1 條: article/1.md
@@ -86,6 +86,7 @@
 - 第 68 條: article/68.md
 - 第 69 條: article/69.md
 - 第 70 條: article/70.md
+- 第 70-1 條: article/70-1.md
 - 第 71 條: article/71.md
 - 第 72 條: article/72.md
 ## 第二節 證券投資信託事業
@@ -135,6 +136,7 @@
 - 第 111 條: article/111.md
 - 第 112 條: article/112.md
 - 第 113 條: article/113.md
+- 第 113-1 條: article/113-1.md
 - 第 114 條: article/114.md
 - 第 115 條: article/115.md
 - 第 116 條: article/116.md
