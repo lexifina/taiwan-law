@@ -1,5 +1,5 @@
-性別工作平等法
-中華民國111年1月12日公布（修正）
+性別平等工作法
+中華民國112年8月16日公布（修正）
 
 # 第一章 總則
 - 第 1 條: article/1.md
@@ -18,6 +18,7 @@
 # 第三章 性騷擾之防治
 - 第 12 條: article/12.md
 - 第 13 條: article/13.md
+- 第 13-1 條: article/13-1.md
 # 第四章 促進工作平等措施
 - 第 14 條: article/14.md
 - 第 15 條: article/15.md
@@ -39,6 +40,9 @@
 - 第 30 條: article/30.md
 - 第 31 條: article/31.md
 - 第 32 條: article/32.md
+- 第 32-1 條: article/32-1.md
+- 第 32-2 條: article/32-2.md
+- 第 32-3 條: article/32-3.md
 - 第 33 條: article/33.md
 - 第 34 條: article/34.md
 - 第 35 條: article/35.md
@@ -47,6 +51,10 @@
 # 第六章 罰則
 - 第 38 條: article/38.md
 - 第 38-1 條: article/38-1.md
+- 第 38-2 條: article/38-2.md
+- 第 38-3 條: article/38-3.md
 # 第七章 附則
+- 第 38-4 條: article/38-4.md
 - 第 39 條: article/39.md
+- 第 39-1 條: article/39-1.md
 - 第 40 條: article/40.md
