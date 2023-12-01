@@ -1,12 +1,12 @@
 水利法
-中華民國112年11月29日公布（修正）
+修正日期：民國 112 年 11 月 29 日
 
-# 第一章 總則
+## 第 一 章 總則
 - 第 1 條: article/1.md
 - 第 2 條: article/2.md
 - 第 3 條: article/3.md
 - 第 4 條: article/4.md
-# 第二章 水利區與水利機構
+## 第 二 章 水利區及水利機構
 - 第 5 條: article/5.md
 - 第 6 條: article/6.md
 - 第 7 條: article/7.md
@@ -18,7 +18,7 @@
 - 第 12 條: article/12.md
 - 第 13 條: article/13.md
 - 第 14 條: article/14.md
-# 第三章 水權
+## 第 三 章 水權
 - 第 15 條: article/15.md
 - 第 16 條: article/16.md
 - 第 17 條: article/17.md
@@ -34,7 +34,7 @@
 - 第 24 條: article/24.md
 - 第 25 條: article/25.md
 - 第 26 條: article/26.md
-# 第四章 水權之登記
+## 第 四 章 水權之登記
 - 第 27 條: article/27.md
 - 第 28 條: article/28.md
 - 第 29 條: article/29.md
@@ -54,7 +54,7 @@
 - 第 43 條: article/43.md
 - 第 44 條: article/44.md
 - 第 45 條: article/45.md
-# 第五章 水利事業之興辦
+## 第 五 章 水利事業之興辦
 - 第 46 條: article/46.md
 - 第 47 條: article/47.md
 - 第 47-1 條: article/47-1.md
@@ -89,7 +89,7 @@
 - 第 63-4 條: article/63-4.md
 - 第 63-5 條: article/63-5.md
 - 第 63-6 條: article/63-6.md
-# 第六章 水之蓄洩
+## 第 六 章 水之蓄洩
 - 第 64 條: article/64.md
 - 第 65 條: article/65.md
 - 第 65-1 條: article/65-1.md
@@ -103,7 +103,7 @@
 - 第 71 條: article/71.md
 - 第 72 條: article/72.md
 - 第 72-1 條: article/72-1.md
-# 第七章 水道防護
+## 第 七 章 水道防護
 - 第 73 條: article/73.md
 - 第 74 條: article/74.md
 - 第 75 條: article/75.md
@@ -120,7 +120,7 @@
 - 第 82 條: article/82.md
 - 第 83 條: article/83.md
 - 第 83-1 條: article/83-1.md
-# 第七章之一 逕流分擔與出流管制
+## 第 七 章之一 逕流分擔與出流管制
 - 第 83-2 條: article/83-2.md
 - 第 83-3 條: article/83-3.md
 - 第 83-4 條: article/83-4.md
@@ -133,7 +133,7 @@
 - 第 83-11 條: article/83-11.md
 - 第 83-12 條: article/83-12.md
 - 第 83-13 條: article/83-13.md
-# 第八章 水利經費
+## 第 八 章 水利經費
 - 第 84 條: article/84.md
 - 第 84-1 條: article/84-1.md
 - 第 85 條: article/85.md
@@ -143,7 +143,7 @@
 - 第 89 條: article/89.md
 - 第 89-1 條: article/89-1.md
 - 第 90 條: article/90.md
-# 第九章 罰則
+## 第 九 章 罰則
 - 第 91 條: article/91.md
 - 第 91-2 條: article/91-2.md
 - 第 91-3 條: article/91-3.md
@@ -172,7 +172,7 @@
 - 第 95-1 條: article/95-1.md
 - 第 95-2 條: article/95-2.md
 - 第 96 條: article/96.md
-# 第十章 附則
+## 第 十 章 附則
 - 第 97 條: article/97.md
 - 第 97-1 條: article/97-1.md
 - 第 98 條: article/98.md
