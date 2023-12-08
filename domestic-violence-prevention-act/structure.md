@@ -1,5 +1,5 @@
 家庭暴力防治法
-中華民國110年1月27日公布（修正）
+中華民國112年12月6日公布（修正）
 
 # 第一章 通則
 - 第 1 條: article/1.md
@@ -63,6 +63,7 @@
 - 第 49 條: article/49.md
 - 第 50 條: article/50.md
 - 第 50-1 條: article/50-1.md
+- 第 50-2 條: article/50-2.md
 - 第 51 條: article/51.md
 - 第 52 條: article/52.md
 - 第 53 條: article/53.md
@@ -72,11 +73,13 @@
 - 第 57 條: article/57.md
 - 第 58 條: article/58.md
 - 第 58-1 條: article/58-1.md
+- 第 58-2 條: article/58-2.md
 - 第 59 條: article/59.md
 - 第 60 條: article/60.md
 # 第六章 罰則
 - 第 61 條: article/61.md
 - 第 61-1 條: article/61-1.md
+- 第 61-2 條: article/61-2.md
 - 第 62 條: article/62.md
 - 第 63 條: article/63.md
 - 第 63-1 條: article/63-1.md
