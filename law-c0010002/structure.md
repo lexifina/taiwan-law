@@ -26,3 +26,4 @@
 - 第 7-16 條: article/7-16.md
 - 第 7-17 條: article/7-17.md
 - 第 7-18 條: article/7-18.md
+- 第 7-19 條: article/7-19.md
