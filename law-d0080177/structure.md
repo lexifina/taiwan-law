@@ -1,5 +1,5 @@
 人口販運防制法
-中華民國105年5月25日公布（修正）
+中華民國112年6月14日公布（全文修正）
 
 # 第一章 總則
 - 第 1 條: article/1.md
@@ -32,9 +32,9 @@
 - 第 26 條: article/26.md
 - 第 27 條: article/27.md
 - 第 28 條: article/28.md
+# 第四章 罰則
 - 第 29 條: article/29.md
 - 第 30 條: article/30.md
-# 第四章 罰則
 - 第 31 條: article/31.md
 - 第 32 條: article/32.md
 - 第 33 條: article/33.md
@@ -47,7 +47,9 @@
 - 第 40 條: article/40.md
 - 第 41 條: article/41.md
 - 第 42 條: article/42.md
-# 第五章 附則
 - 第 43 條: article/43.md
 - 第 44 條: article/44.md
+# 第五章 附則
 - 第 45 條: article/45.md
+- 第 46 條: article/46.md
+- 第 47 條: article/47.md
