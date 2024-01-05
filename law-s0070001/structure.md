@@ -1,7 +1,7 @@
 公教人員保險法
-中華民國113年1月3日公布（修正）
+修正日期：民國 113 年 01 月 03 日
 
-# 第一章 總則
+## 第 一 章 總則
 - 第 1 條: article/1.md
 - 第 2 條: article/2.md
 - 第 3 條: article/3.md
@@ -10,19 +10,19 @@
 - 第 6 條: article/6.md
 - 第 6-1 條: article/6-1.md
 - 第 7 條: article/7.md
-# 第二章 保險費
+## 第 二 章 保險費
 - 第 8 條: article/8.md
 - 第 9 條: article/9.md
 - 第 10 條: article/10.md
 - 第 11 條: article/11.md
-# 第三章 保險給付
-## 第一節 通則
+## 第 三 章 保險給付
+### 第 一 節 通則
 - 第 12 條: article/12.md
-## 第二節 失能給付
+### 第 二 節 失能給付
 - 第 13 條: article/13.md
 - 第 14 條: article/14.md
 - 第 15 條: article/15.md
-## 第三節 養老給付
+### 第 三 節 養老給付
 - 第 16 條: article/16.md
 - 第 17 條: article/17.md
 - 第 18 條: article/18.md
@@ -34,20 +34,20 @@
 - 第 24 條: article/24.md
 - 第 25 條: article/25.md
 - 第 26 條: article/26.md
-## 第四節 死亡給付
+### 第 四 節 死亡給付
 - 第 27 條: article/27.md
 - 第 28 條: article/28.md
 - 第 29 條: article/29.md
-## 第五節 養老年金給付之請領及因公條件認定
+### 第 五 節 養老年金給付之請領及因公條件認定
 - 第 30 條: article/30.md
 - 第 31 條: article/31.md
 - 第 32 條: article/32.md
 - 第 33 條: article/33.md
-## 第六節 眷屬喪葬津貼、生育給付及育嬰留職停薪津貼
+### 第 六 節 眷屬喪葬津貼、生育給付及育嬰留職停薪津貼
 - 第 34 條: article/34.md
 - 第 35 條: article/35.md
 - 第 36 條: article/36.md
-# 第四章 附則
+## 第 四 章 附則
 - 第 37 條: article/37.md
 - 第 38 條: article/38.md
 - 第 39 條: article/39.md
