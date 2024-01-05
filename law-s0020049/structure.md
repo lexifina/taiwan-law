@@ -1,7 +1,7 @@
 司法人員人事條例
-中華民國113年1月3日公布（修正）
+修正日期：民國 113 年 01 月 03 日
 
-# 第一章 總則
+## 第 一 章 總則
 - 第 1 條: article/1.md
 - 第 2 條: article/2.md
 - 第 3 條: article/3.md
@@ -10,8 +10,8 @@
 - 第 6 條: article/6.md
 - 第 7 條: article/7.md
 - 第 8 條: article/8.md
-# 第二章 司法人員之任用
-## 第一節 司法官
+## 第 二 章 司法人員之任用
+### 第 一 節 司法官
 - 第 9 條: article/9.md
 - 第 10 條: article/10.md
 - 第 11 條: article/11.md
@@ -21,7 +21,7 @@
 - 第 15 條: article/15.md
 - 第 16 條: article/16.md
 - 第 17 條: article/17.md
-## 第二節 其他司法人員
+### 第 二 節 其他司法人員
 - 第 18 條: article/18.md
 - 第 19 條: article/19.md
 - 第 20 條: article/20.md
@@ -32,13 +32,13 @@
 - 第 24 條: article/24.md
 - 第 25 條: article/25.md
 - 第 26 條: article/26.md
-# 第三章 訓練及進修
+## 第 三 章 訓練及進修
 - 第 27 條: article/27.md
 - 第 28 條: article/28.md
 - 第 29 條: article/29.md
 - 第 30 條: article/30.md
 - 第 31 條: article/31.md
-# 第四章 保障及給與
+## 第 四 章 保障及給與
 - 第 32 條: article/32.md
 - 第 33 條: article/33.md
 - 第 34 條: article/34.md
@@ -51,5 +51,5 @@
 - 第 41 條: article/41.md
 - 第 42 條: article/42.md
 - 第 43 條: article/43.md
-# 第五章 附則
+## 第 五 章 附則
 - 第 44 條: article/44.md
