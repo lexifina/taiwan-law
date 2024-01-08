@@ -1,7 +1,7 @@
 勞動事件法
-中華民國112年12月15日公布（修正）
+修正日期：民國 112 年 12 月 15 日
 
-# 第一章 總則
+## 第 一 章 總則
 - 第 1 條: article/1.md
 - 第 2 條: article/2.md
 - 第 3 條: article/3.md
@@ -17,7 +17,7 @@
 - 第 13 條: article/13.md
 - 第 14 條: article/14.md
 - 第 15 條: article/15.md
-# 第二章 勞動調解程序
+## 第 二 章 勞動調解程序
 - 第 16 條: article/16.md
 - 第 17 條: article/17.md
 - 第 18 條: article/18.md
@@ -34,7 +34,7 @@
 - 第 29 條: article/29.md
 - 第 30 條: article/30.md
 - 第 31 條: article/31.md
-# 第三章 訴訟程序
+## 第 三 章 訴訟程序
 - 第 32 條: article/32.md
 - 第 33 條: article/33.md
 - 第 34 條: article/34.md
@@ -49,13 +49,13 @@
 - 第 43 條: article/43.md
 - 第 44 條: article/44.md
 - 第 45 條: article/45.md
-# 第四章 保全程序
+## 第 四 章 保全程序
 - 第 46 條: article/46.md
 - 第 47 條: article/47.md
 - 第 48 條: article/48.md
 - 第 49 條: article/49.md
 - 第 50 條: article/50.md
-# 第五章 附則
+## 第 五 章 附則
 - 第 51 條: article/51.md
 - 第 52 條: article/52.md
 - 第 53 條: article/53.md
