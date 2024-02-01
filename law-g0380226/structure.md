@@ -1,14 +1,14 @@
 金融消費者保護法
-中華民國112年12月6日公布（修正）
+修正日期：民國 112 年 12 月 06 日
 
-# 第一章 總則
+## 第 一 章 總則
 - 第 1 條: article/1.md
 - 第 2 條: article/2.md
 - 第 3 條: article/3.md
 - 第 4 條: article/4.md
 - 第 5 條: article/5.md
 - 第 6 條: article/6.md
-# 第二章 金融消費者之保護
+## 第 二 章 金融消費者之保護
 - 第 7 條: article/7.md
 - 第 8 條: article/8.md
 - 第 9 條: article/9.md
@@ -19,7 +19,7 @@
 - 第 11-3 條: article/11-3.md
 - 第 12 條: article/12.md
 - 第 12-1 條: article/12-1.md
-# 第三章 金融消費爭議處理
+## 第 三 章 金融消費爭議處理
 - 第 13 條: article/13.md
 - 第 13-1 條: article/13-1.md
 - 第 14 條: article/14.md
@@ -39,10 +39,10 @@
 - 第 28 條: article/28.md
 - 第 29 條: article/29.md
 - 第 30 條: article/30.md
-# 第三章之一 罰則
+## 第 三 章之一 罰則
 - 第 30-1 條: article/30-1.md
 - 第 30-2 條: article/30-2.md
-# 第四章 附則
+## 第 四 章 附則
 - 第 31 條: article/31.md
 - 第 32 條: article/32.md
 - 第 32-1 條: article/32-1.md
