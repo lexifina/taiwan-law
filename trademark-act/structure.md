@@ -1,5 +1,5 @@
 商標法
-中華民國111年5月4日公布（修正）
+中華民國112年5月24日公布（修正）
 
 # 第一章 總則
 - 第 1 條: article/1.md
@@ -110,6 +110,7 @@
 - 第 96 條: article/96.md
 - 第 97 條: article/97.md
 - 第 98 條: article/98.md
+- 第 98-1 條: article/98-1.md
 - 第 99 條: article/99.md
 # 第五章 附則
 - 第 100 條: article/100.md
@@ -122,5 +123,6 @@
 - 第 107 條: article/107.md
 - 第 108 條: article/108.md
 - 第 109 條: article/109.md
+- 第 109-1 條: article/109-1.md
 - 第 110 條: article/110.md
 - 第 111 條: article/111.md
