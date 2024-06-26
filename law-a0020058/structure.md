@@ -1,14 +1,14 @@
 立法院職權行使法
-中華民國113年6月24日公布（修正）
+修正日期：民國 113 年 06 月 24 日
 
-# 第一章 總則
+## 第 一 章 總則
 - 第 1 條: article/1.md
 - 第 2 條: article/2.md
 - 第 3 條: article/3.md
 - 第 4 條: article/4.md
 - 第 5 條: article/5.md
 - 第 6 條: article/6.md
-# 第二章 議案審議
+## 第 二 章 議案審議
 - 第 7 條: article/7.md
 - 第 8 條: article/8.md
 - 第 9 條: article/9.md
@@ -19,13 +19,13 @@
 - 第 13 條: article/13.md
 - 第 14 條: article/14.md
 - 第 15 條: article/15.md
-# 第二章之一 聽取總統國情報告
+## 第 二 章之一　聽取總統國情報告
 - 第 15-1 條: article/15-1.md
 - 第 15-2 條: article/15-2.md
 - 第 15-3 條: article/15-3.md
 - 第 15-4 條: article/15-4.md
 - 第 15-5 條: article/15-5.md
-# 第三章 聽取報告與質詢
+## 第 三 章 聽取報告與質詢
 - 第 16 條: article/16.md
 - 第 17 條: article/17.md
 - 第 18 條: article/18.md
@@ -41,31 +41,31 @@
 - 第 28 條: article/28.md
 - 第 28-1 條: article/28-1.md
 - 第 28-2 條: article/28-2.md
-# 第四章 同意權之行使
+## 第 四 章 同意權之行使
 - 第 29 條: article/29.md
 - 第 29-1 條: article/29-1.md
 - 第 30 條: article/30.md
 - 第 30-1 條: article/30-1.md
 - 第 31 條: article/31.md
-# 第五章 覆議案之處理
+## 第 五 章 覆議案之處理
 - 第 32 條: article/32.md
 - 第 33 條: article/33.md
 - 第 34 條: article/34.md
 - 第 35 條: article/35.md
-# 第六章 不信任案之處理
+## 第 六 章 不信任案之處理
 - 第 36 條: article/36.md
 - 第 37 條: article/37.md
 - 第 38 條: article/38.md
 - 第 39 條: article/39.md
 - 第 40 條: article/40.md
 - 第 41 條: article/41.md
-# 第七章 彈劾案之提出
+## 第 七 章 彈劾案之提出
 - 第 42 條: article/42.md
 - 第 43 條: article/43.md
 - 第 44 條: article/44.md
-# 第七章之一 罷免案之提出及審議
+## 第 七 章之一 罷免案之提出及審議
 - 第 44-1 條: article/44-1.md
-# 第八章 調查權之行使
+## 第 八 章 調查權之行使
 - 第 45 條: article/45.md
 - 第 46 條: article/46.md
 - 第 46-1 條: article/46-1.md
@@ -82,14 +82,14 @@
 - 第 53-1 條: article/53-1.md
 - 第 53-2 條: article/53-2.md
 - 第 53-3 條: article/53-3.md
-# 第九章 委員會公聽會之舉行
+## 第 九 章 委員會公聽會之舉行
 - 第 54 條: article/54.md
 - 第 55 條: article/55.md
 - 第 56 條: article/56.md
 - 第 57 條: article/57.md
 - 第 58 條: article/58.md
 - 第 59 條: article/59.md
-# 第九章之一 聽證會之舉行
+## 第 九 章之一 聽證會之舉行
 - 第 59-1 條: article/59-1.md
 - 第 59-2 條: article/59-2.md
 - 第 59-3 條: article/59-3.md
@@ -99,17 +99,17 @@
 - 第 59-7 條: article/59-7.md
 - 第 59-8 條: article/59-8.md
 - 第 59-9 條: article/59-9.md
-# 第十章 行政命令之審查
+## 第 十 章 行政命令之審查
 - 第 60 條: article/60.md
 - 第 61 條: article/61.md
 - 第 62 條: article/62.md
 - 第 63 條: article/63.md
-# 第十一章 請願文書之審查
+## 第 十一 章 請願文書之審查
 - 第 64 條: article/64.md
 - 第 65 條: article/65.md
 - 第 66 條: article/66.md
 - 第 67 條: article/67.md
-# 第十二章 黨團協商
+## 第 十二 章 黨團協商
 - 第 68 條: article/68.md
 - 第 69 條: article/69.md
 - 第 70 條: article/70.md
@@ -119,7 +119,7 @@
 - 第 73 條: article/73.md
 - 第 74 條: article/74.md
 - 第 74-1 條: article/74-1.md
-# 第十三章 附則
+## 第 十三 章 附則
 - 第 75 條: article/75.md
 - 第 76 條: article/76.md
 - 第 77 條: article/77.md
