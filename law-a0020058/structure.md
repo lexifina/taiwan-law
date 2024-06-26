@@ -1,5 +1,5 @@
 立法院職權行使法
-中華民國107年11月21日公布（修正）
+中華民國113年6月24日公布（修正）
 
 # 第一章 總則
 - 第 1 條: article/1.md
@@ -43,7 +43,9 @@
 - 第 28-2 條: article/28-2.md
 # 第四章 同意權之行使
 - 第 29 條: article/29.md
+- 第 29-1 條: article/29-1.md
 - 第 30 條: article/30.md
+- 第 30-1 條: article/30-1.md
 - 第 31 條: article/31.md
 # 第五章 覆議案之處理
 - 第 32 條: article/32.md
@@ -63,16 +65,23 @@
 - 第 44 條: article/44.md
 # 第七章之一 罷免案之提出及審議
 - 第 44-1 條: article/44-1.md
-# 第八章 文件調閱之處理
+# 第八章 調查權之行使
 - 第 45 條: article/45.md
 - 第 46 條: article/46.md
+- 第 46-1 條: article/46-1.md
+- 第 46-2 條: article/46-2.md
 - 第 47 條: article/47.md
 - 第 48 條: article/48.md
 - 第 49 條: article/49.md
 - 第 50 條: article/50.md
+- 第 50-1 條: article/50-1.md
+- 第 50-2 條: article/50-2.md
 - 第 51 條: article/51.md
 - 第 52 條: article/52.md
 - 第 53 條: article/53.md
+- 第 53-1 條: article/53-1.md
+- 第 53-2 條: article/53-2.md
+- 第 53-3 條: article/53-3.md
 # 第九章 委員會公聽會之舉行
 - 第 54 條: article/54.md
 - 第 55 條: article/55.md
@@ -80,6 +89,16 @@
 - 第 57 條: article/57.md
 - 第 58 條: article/58.md
 - 第 59 條: article/59.md
+# 第九章之一 聽證會之舉行
+- 第 59-1 條: article/59-1.md
+- 第 59-2 條: article/59-2.md
+- 第 59-3 條: article/59-3.md
+- 第 59-4 條: article/59-4.md
+- 第 59-5 條: article/59-5.md
+- 第 59-6 條: article/59-6.md
+- 第 59-7 條: article/59-7.md
+- 第 59-8 條: article/59-8.md
+- 第 59-9 條: article/59-9.md
 # 第十章 行政命令之審查
 - 第 60 條: article/60.md
 - 第 61 條: article/61.md
@@ -99,6 +118,7 @@
 - 第 72 條: article/72.md
 - 第 73 條: article/73.md
 - 第 74 條: article/74.md
+- 第 74-1 條: article/74-1.md
 # 第十三章 附則
 - 第 75 條: article/75.md
 - 第 76 條: article/76.md
