@@ -1,5 +1,5 @@
 刑事訴訟法
-中華民國112年12月27日公布（修正）
+中華民國113年7月31日公布（修正）
 
 # 第一編 總則
 ## 第一章 法例
@@ -86,6 +86,7 @@
 - 第 68 條: article/68.md
 - 第 69 條: article/69.md
 - 第 70 條: article/70.md
+- 第 70-1 條: article/70-1.md
 ## 第八章 被告之傳喚及拘提
 - 第 71 條: article/71.md
 - 第 71-1 條: article/71-1.md
@@ -207,6 +208,17 @@
 - 第 151 條: article/151.md
 - 第 152 條: article/152.md
 - 第 153 條: article/153.md
+## 第十一章之一 特殊強制處分
+- 第 153-1 條: article/153-1.md
+- 第 153-2 條: article/153-2.md
+- 第 153-3 條: article/153-3.md
+- 第 153-4 條: article/153-4.md
+- 第 153-5 條: article/153-5.md
+- 第 153-6 條: article/153-6.md
+- 第 153-7 條: article/153-7.md
+- 第 153-8 條: article/153-8.md
+- 第 153-9 條: article/153-9.md
+- 第 153-10 條: article/153-10.md
 ## 第十二章 證據
 ### 第一節 通則
 - 第 154 條: article/154.md
@@ -368,6 +380,7 @@
 - 第 243 條: article/243.md
 - 第 244 條: article/244.md
 - 第 245 條: article/245.md
+- 第 245-1 條: article/245-1.md
 - 第 246 條: article/246.md
 - 第 247 條: article/247.md
 - 第 248 條: article/248.md
