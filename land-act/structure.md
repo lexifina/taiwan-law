@@ -1,8 +1,8 @@
 土地法
-中華民國113年8月7日公布（修正）
+修正日期：民國 113 年 08 月 07 日
 
-# 第一編 總則
-## 第一章 法例
+# 第 一 編 總則
+## 第 一 章 法例
 - 第 1 條: article/1.md
 - 第 2 條: article/2.md
 - 第 3 條: article/3.md
@@ -12,12 +12,12 @@
 - 第 7 條: article/7.md
 - 第 8 條: article/8.md
 - 第 9 條: article/9.md
-## 第二章 地權
+## 第 二 章 地權
 - 第 10 條: article/10.md
 - 第 11 條: article/11.md
 - 第 12 條: article/12.md
 - 第 13 條: article/13.md
-## 第三章 地權限制
+## 第 三 章 地權限制
 - 第 14 條: article/14.md
 - 第 15 條: article/15.md
 - 第 16 條: article/16.md
@@ -29,11 +29,11 @@
 - 第 22 條: article/22.md
 - 第 23 條: article/23.md
 - 第 24 條: article/24.md
-## 第四章 公有土地
+## 第 四 章 公有土地
 - 第 25 條: article/25.md
 - 第 26 條: article/26.md
 - 第 27 條: article/27.md
-## 第五章 地權調整
+## 第 五 章 地權調整
 - 第 28 條: article/28.md
 - 第 29 條: article/29.md
 - 第 30 條: article/30.md
@@ -45,8 +45,8 @@
 - 第 34-1 條: article/34-1.md
 - 第 34-2 條: article/34-2.md
 - 第 35 條: article/35.md
-# 第二編 地籍
-## 第一章 通則
+# 第 二 編 地籍
+## 第 一 章 通則
 - 第 36 條: article/36.md
 - 第 37 條: article/37.md
 - 第 37-1 條: article/37-1.md
@@ -56,7 +56,7 @@
 - 第 41 條: article/41.md
 - 第 42 條: article/42.md
 - 第 43 條: article/43.md
-## 第二章 地籍測量
+## 第 二 章 地籍測量
 - 第 44 條: article/44.md
 - 第 44-1 條: article/44-1.md
 - 第 45 條: article/45.md
@@ -67,7 +67,7 @@
 - 第 47 條: article/47.md
 - 第 47-1 條: article/47-1.md
 - 第 47-2 條: article/47-2.md
-## 第三章 土地總登記
+## 第 三 章 土地總登記
 - 第 48 條: article/48.md
 - 第 49 條: article/49.md
 - 第 50 條: article/50.md
@@ -92,7 +92,7 @@
 - 第 69 條: article/69.md
 - 第 70 條: article/70.md
 - 第 71 條: article/71.md
-## 第四章 土地權利變更登記
+## 第 四 章 土地權利變更登記
 - 第 72 條: article/72.md
 - 第 73 條: article/73.md
 - 第 73-1 條: article/73-1.md
@@ -105,8 +105,8 @@
 - 第 79 條: article/79.md
 - 第 79-1 條: article/79-1.md
 - 第 79-2 條: article/79-2.md
-# 第三編 土地使用
-## 第一章 通則
+# 第 三 編 土地使用
+## 第 一 章 通則
 - 第 80 條: article/80.md
 - 第 81 條: article/81.md
 - 第 82 條: article/82.md
@@ -117,12 +117,12 @@
 - 第 87 條: article/87.md
 - 第 88 條: article/88.md
 - 第 89 條: article/89.md
-## 第二章 使用限制
+## 第 二 章 使用限制
 - 第 90 條: article/90.md
 - 第 91 條: article/91.md
 - 第 92 條: article/92.md
 - 第 93 條: article/93.md
-## 第三章 房屋及基地租用
+## 第 三 章 房屋及基地租用
 - 第 94 條: article/94.md
 - 第 95 條: article/95.md
 - 第 96 條: article/96.md
@@ -135,7 +135,7 @@
 - 第 103 條: article/103.md
 - 第 104 條: article/104.md
 - 第 105 條: article/105.md
-## 第四章 耕地租用
+## 第 四 章 耕地租用
 - 第 106 條: article/106.md
 - 第 107 條: article/107.md
 - 第 108 條: article/108.md
@@ -155,7 +155,7 @@
 - 第 122 條: article/122.md
 - 第 123 條: article/123.md
 - 第 124 條: article/124.md
-## 第五章 荒地使用
+## 第 五 章 荒地使用
 - 第 125 條: article/125.md
 - 第 126 條: article/126.md
 - 第 127 條: article/127.md
@@ -166,7 +166,7 @@
 - 第 132 條: article/132.md
 - 第 133 條: article/133.md
 - 第 134 條: article/134.md
-## 第六章 土地重劃
+## 第 六 章 土地重劃
 - 第 135 條: article/135.md
 - 第 136 條: article/136.md
 - 第 137 條: article/137.md
@@ -175,14 +175,14 @@
 - 第 140 條: article/140.md
 - 第 141 條: article/141.md
 - 第 142 條: article/142.md
-# 第四編 土地稅
-## 第一章 通則
+# 第 四 編 土地稅
+## 第 一 章 通則
 - 第 143 條: article/143.md
 - 第 144 條: article/144.md
 - 第 145 條: article/145.md
 - 第 146 條: article/146.md
 - 第 147 條: article/147.md
-## 第二章 地價及改良物價
+## 第 二 章 地價及改良物價
 - 第 148 條: article/148.md
 - 第 149 條: article/149.md
 - 第 150 條: article/150.md
@@ -202,7 +202,7 @@
 - 第 164 條: article/164.md
 - 第 165 條: article/165.md
 - 第 166 條: article/166.md
-## 第三章 地價稅
+## 第 三 章 地價稅
 - 第 167 條: article/167.md
 - 第 168 條: article/168.md
 - 第 169 條: article/169.md
@@ -212,7 +212,7 @@
 - 第 173 條: article/173.md
 - 第 174 條: article/174.md
 - 第 175 條: article/175.md
-## 第四章 土地增值稅
+## 第 四 章 土地增值稅
 - 第 176 條: article/176.md
 - 第 177 條: article/177.md
 - 第 178 條: article/178.md
@@ -222,14 +222,14 @@
 - 第 182 條: article/182.md
 - 第 183 條: article/183.md
 - 第 184 條: article/184.md
-## 第五章 土地改良物稅
+## 第 五 章 土地改良物稅
 - 第 185 條: article/185.md
 - 第 186 條: article/186.md
 - 第 187 條: article/187.md
 - 第 188 條: article/188.md
 - 第 189 條: article/189.md
 - 第 190 條: article/190.md
-## 第六章 土地稅之減免
+## 第 六 章 土地稅之減免
 - 第 191 條: article/191.md
 - 第 192 條: article/192.md
 - 第 193 條: article/193.md
@@ -239,7 +239,7 @@
 - 第 197 條: article/197.md
 - 第 198 條: article/198.md
 - 第 199 條: article/199.md
-## 第七章 欠稅
+## 第 七 章 欠稅
 - 第 200 條: article/200.md
 - 第 201 條: article/201.md
 - 第 202 條: article/202.md
@@ -248,8 +248,8 @@
 - 第 205 條: article/205.md
 - 第 206 條: article/206.md
 - 第 207 條: article/207.md
-# 第五編 土地征收
-## 第一章 通則
+# 第 五 編 土地征收
+## 第 一 章 通則
 - 第 208 條: article/208.md
 - 第 209 條: article/209.md
 - 第 210 條: article/210.md
@@ -265,7 +265,7 @@
 - 第 219-1 條: article/219-1.md
 - 第 220 條: article/220.md
 - 第 221 條: article/221.md
-## 第二章 征收程序
+## 第 二 章 征收程序
 - 第 222 條: article/222.md
 - 第 223 條: article/223.md
 - 第 224 條: article/224.md
@@ -280,7 +280,7 @@
 - 第 233 條: article/233.md
 - 第 234 條: article/234.md
 - 第 235 條: article/235.md
-## 第三章 征收補償
+## 第 三 章 征收補償
 - 第 236 條: article/236.md
 - 第 237 條: article/237.md
 - 第 238 條: article/238.md
