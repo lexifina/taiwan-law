@@ -1,11 +1,11 @@
 核子反應器設施管制法
-中華民國114年5月23日公布（修正）
+修正日期：民國 114 年 05 月 23 日
 
-# 第一章 總則
+## 第 一 章 總則
 - 第 1 條: article/1.md
 - 第 2 條: article/2.md
 - 第 3 條: article/3.md
-# 第二章 興建及運轉管制
+## 第 二 章 興建及運轉管制
 - 第 4 條: article/4.md
 - 第 5 條: article/5.md
 - 第 6 條: article/6.md
@@ -23,7 +23,7 @@
 - 第 18 條: article/18.md
 - 第 19 條: article/19.md
 - 第 20 條: article/20.md
-# 第三章 停役及除役管制
+## 第 三 章 停役及除役管制
 - 第 21 條: article/21.md
 - 第 22 條: article/22.md
 - 第 23 條: article/23.md
@@ -32,7 +32,7 @@
 - 第 26 條: article/26.md
 - 第 27 條: article/27.md
 - 第 28 條: article/28.md
-# 第四章 罰則
+## 第 四 章 罰則
 - 第 29 條: article/29.md
 - 第 30 條: article/30.md
 - 第 31 條: article/31.md
@@ -45,7 +45,7 @@
 - 第 38 條: article/38.md
 - 第 39 條: article/39.md
 - 第 40 條: article/40.md
-# 第五章 附則
+## 第 五 章 附則
 - 第 41 條: article/41.md
 - 第 42 條: article/42.md
 - 第 43 條: article/43.md
