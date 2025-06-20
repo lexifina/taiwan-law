@@ -1,5 +1,5 @@
 保險法
-中華民國111年11月30日公布（修正）
+中華民國114年6月18日公布（修正）
 
 # 第一章 總則
 ## 第一節 定義及分類
@@ -152,6 +152,8 @@
 - 第 121 條: article/121.md
 - 第 122 條: article/122.md
 - 第 123 條: article/123.md
+- 第 123-1 條: article/123-1.md
+- 第 123-2 條: article/123-2.md
 - 第 124 條: article/124.md
 ## 第二節 健康保險
 - 第 125 條: article/125.md
@@ -159,10 +161,12 @@
 - 第 127 條: article/127.md
 - 第 128 條: article/128.md
 - 第 129 條: article/129.md
+- 第 129-1 條: article/129-1.md
 - 第 130 條: article/130.md
 ## 第三節 傷害保險
 - 第 131 條: article/131.md
 - 第 132 條: article/132.md
+- 第 132-1 條: article/132-1.md
 - 第 133 條: article/133.md
 - 第 134 條: article/134.md
 - 第 135 條: article/135.md
