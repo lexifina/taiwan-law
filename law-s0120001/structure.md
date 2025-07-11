@@ -1,7 +1,7 @@
 公務人員保障法
-中華民國114年7月9日公布（修正）
+修正日期：民國 114 年 07 月 09 日
 
-# 第一章 總則
+## 第 一 章  總則
 - 第 1 條: article/1.md
 - 第 2 條: article/2.md
 - 第 3 條: article/3.md
@@ -10,7 +10,7 @@
 - 第 6 條: article/6.md
 - 第 7 條: article/7.md
 - 第 8 條: article/8.md
-# 第二章 實體保障
+## 第 二 章  實體保障
 - 第 9 條: article/9.md
 - 第 9-1 條: article/9-1.md
 - 第 10 條: article/10.md
@@ -34,7 +34,7 @@
 - 第 23 條: article/23.md
 - 第 24 條: article/24.md
 - 第 24-1 條: article/24-1.md
-# 第三章 復審程序
+## 第 三 章  復審程序
 - 第 25 條: article/25.md
 - 第 26 條: article/26.md
 - 第 27 條: article/27.md
@@ -87,7 +87,7 @@
 - 第 74 條: article/74.md
 - 第 75 條: article/75.md
 - 第 76 條: article/76.md
-# 第四章 申訴及再申訴程序
+## 第 四 章  申訴及再申訴程序
 - 第 77 條: article/77.md
 - 第 78 條: article/78.md
 - 第 79 條: article/79.md
@@ -96,18 +96,18 @@
 - 第 82 條: article/82.md
 - 第 83 條: article/83.md
 - 第 84 條: article/84.md
-# 第五章 調處程序
+## 第 五 章  調處程序
 - 第 85 條: article/85.md
 - 第 86 條: article/86.md
 - 第 87 條: article/87.md
 - 第 88 條: article/88.md
-# 第六章 執行
+## 第 六 章  執行
 - 第 89 條: article/89.md
 - 第 90 條: article/90.md
 - 第 91 條: article/91.md
 - 第 92 條: article/92.md
 - 第 93 條: article/93.md
-# 第七章 再審議
+## 第 七 章  再審議
 - 第 94 條: article/94.md
 - 第 95 條: article/95.md
 - 第 96 條: article/96.md
@@ -116,7 +116,7 @@
 - 第 99 條: article/99.md
 - 第 100 條: article/100.md
 - 第 101 條: article/101.md
-# 第八章 附則
+## 第 八 章  附則
 - 第 102 條: article/102.md
 - 第 103 條: article/103.md
 - 第 104 條: article/104.md
