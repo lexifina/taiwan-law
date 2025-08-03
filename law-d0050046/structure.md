@@ -1,7 +1,7 @@
 身心障礙者權益保障法
-中華民國114年8月1日公布（修正）
+修正日期：民國 114 年 08 月 01 日
 
-# 第一章 總則
+## 第 一 章 總則
 - 第 1 條: article/1.md
 - 第 2 條: article/2.md
 - 第 3 條: article/3.md
@@ -22,14 +22,14 @@
 - 第 18 條: article/18.md
 - 第 19 條: article/19.md
 - 第 20 條: article/20.md
-# 第二章 保健醫療權益
+## 第 二 章 保健醫療權益
 - 第 21 條: article/21.md
 - 第 22 條: article/22.md
 - 第 23 條: article/23.md
 - 第 24 條: article/24.md
 - 第 25 條: article/25.md
 - 第 26 條: article/26.md
-# 第三章 教育權益
+## 第 三 章 教育權益
 - 第 27 條: article/27.md
 - 第 28 條: article/28.md
 - 第 29 條: article/29.md
@@ -38,7 +38,7 @@
 - 第 30-2 條: article/30-2.md
 - 第 31 條: article/31.md
 - 第 32 條: article/32.md
-# 第四章 就業權益
+## 第 四 章 就業權益
 - 第 33 條: article/33.md
 - 第 34 條: article/34.md
 - 第 35 條: article/35.md
@@ -56,7 +56,7 @@
 - 第 46 條: article/46.md
 - 第 46-1 條: article/46-1.md
 - 第 47 條: article/47.md
-# 第五章 支持服務
+## 第 五 章 支持服務
 - 第 48 條: article/48.md
 - 第 49 條: article/49.md
 - 第 50 條: article/50.md
@@ -85,13 +85,13 @@
 - 第 68 條: article/68.md
 - 第 69 條: article/69.md
 - 第 69-1 條: article/69-1.md
-# 第六章 經濟安全
+## 第 六 章 經濟安全
 - 第 70 條: article/70.md
 - 第 71 條: article/71.md
 - 第 71-1 條: article/71-1.md
 - 第 72 條: article/72.md
 - 第 73 條: article/73.md
-# 第七章 保護服務
+## 第 七 章 保護服務
 - 第 74 條: article/74.md
 - 第 75 條: article/75.md
 - 第 76 條: article/76.md
@@ -104,7 +104,7 @@
 - 第 83 條: article/83.md
 - 第 84 條: article/84.md
 - 第 85 條: article/85.md
-# 第八章 罰則
+## 第 八 章 罰則
 - 第 86 條: article/86.md
 - 第 87 條: article/87.md
 - 第 88 條: article/88.md
@@ -125,7 +125,7 @@
 - 第 103 條: article/103.md
 - 第 104 條: article/104.md
 - 第 104-1 條: article/104-1.md
-# 第九章 附則
+## 第 九 章 附則
 - 第 105 條: article/105.md
 - 第 106 條: article/106.md
 - 第 107 條: article/107.md
