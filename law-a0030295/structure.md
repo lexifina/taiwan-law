@@ -1,5 +1,5 @@
 外國專業人才延攬及僱用法
-中華民國110年7月7日公布（全文修正）
+中華民國114年9月24日公布（全文修正）
 
 - 第 1 條: article/1.md
 - 第 2 條: article/2.md
@@ -28,3 +28,9 @@
 - 第 25 條: article/25.md
 - 第 26 條: article/26.md
 - 第 27 條: article/27.md
+- 第 28 條: article/28.md
+- 第 29 條: article/29.md
+- 第 30 條: article/30.md
+- 第 31 條: article/31.md
+- 第 32 條: article/32.md
+- 第 33 條: article/33.md
