@@ -1,9 +1,10 @@
 個人資料保護法
-中華民國112年5月31日公布（修正）
+中華民國114年11月11日公布（修正）
 
 # 第一章 總則
 - 第 1 條: article/1.md
 - 第 1-1 條: article/1-1.md
+- 第 1-2 條: article/1-2.md
 - 第 2 條: article/2.md
 - 第 3 條: article/3.md
 - 第 4 條: article/4.md
@@ -25,7 +26,16 @@
 # 第三章 非公務機關對個人資料之蒐集、處理及利用
 - 第 19 條: article/19.md
 - 第 20 條: article/20.md
+- 第 20-1 條: article/20-1.md
 - 第 21 條: article/21.md
+# 第三章之一 行政監督
+## 第一節 對公務機關之監督
+- 第 21-1 條: article/21-1.md
+- 第 21-2 條: article/21-2.md
+- 第 21-3 條: article/21-3.md
+- 第 21-4 條: article/21-4.md
+- 第 21-5 條: article/21-5.md
+## 第二節 對非公務機關之監督
 - 第 22 條: article/22.md
 - 第 23 條: article/23.md
 - 第 24 條: article/24.md
@@ -59,8 +69,10 @@
 - 第 50 條: article/50.md
 # 第六章 附則
 - 第 51 條: article/51.md
+- 第 51-1 條: article/51-1.md
 - 第 52 條: article/52.md
 - 第 53 條: article/53.md
+- 第 53-1 條: article/53-1.md
 - 第 54 條: article/54.md
 - 第 55 條: article/55.md
 - 第 56 條: article/56.md
