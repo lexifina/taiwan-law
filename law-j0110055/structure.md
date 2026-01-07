@@ -1,7 +1,7 @@
 自來水法
-中華民國115年1月5日公布（修正）
+修正日期：民國 115 年 01 月 05 日
 
-# 第一章 總則
+## 第 一 章 總則
 - 第 1 條: article/1.md
 - 第 2 條: article/2.md
 - 第 3 條: article/3.md
@@ -30,7 +30,7 @@
 - 第 21 條: article/21.md
 - 第 22 條: article/22.md
 - 第 23 條: article/23.md
-# 第二章 自來水事業專營權
+## 第 二 章 自來水事業專營權
 - 第 24 條: article/24.md
 - 第 25 條: article/25.md
 - 第 26 條: article/26.md
@@ -49,7 +49,7 @@
 - 第 39 條: article/39.md
 - 第 40 條: article/40.md
 - 第 41 條: article/41.md
-# 第三章 工程及設備
+## 第 三 章 工程及設備
 - 第 42 條: article/42.md
 - 第 43 條: article/43.md
 - 第 44 條: article/44.md
@@ -66,7 +66,7 @@
 - 第 55 條: article/55.md
 - 第 56 條: article/56.md
 - 第 57 條: article/57.md
-# 第四章 營業
+## 第 四 章 營業
 - 第 58 條: article/58.md
 - 第 59 條: article/59.md
 - 第 60 條: article/60.md
@@ -85,7 +85,7 @@
 - 第 70 條: article/70.md
 - 第 71 條: article/71.md
 - 第 72 條: article/72.md
-# 第五章 自用自來水設備
+## 第 五 章 自用自來水設備
 - 第 73 條: article/73.md
 - 第 74 條: article/74.md
 - 第 75 條: article/75.md
@@ -93,7 +93,7 @@
 - 第 77 條: article/77.md
 - 第 78 條: article/78.md
 - 第 79 條: article/79.md
-# 第六章 監督與輔導
+## 第 六 章 監督與輔導
 - 第 80 條: article/80.md
 - 第 81 條: article/81.md
 - 第 82 條: article/82.md
@@ -116,10 +116,10 @@
 - 第 93-6 條: article/93-6.md
 - 第 94 條: article/94.md
 - 第 95 條: article/95.md
-# 第六章之一 節約用水
+## 第 六 章之一 節約用水
 - 第 95-1 條: article/95-1.md
 - 第 95-2 條: article/95-2.md
-# 第七章 罰則
+## 第 七 章 罰則
 - 第 96 條: article/96.md
 - 第 97 條: article/97.md
 - 第 97-1 條: article/97-1.md
@@ -137,7 +137,7 @@
 - 第 107 條: article/107.md
 - 第 108 條: article/108.md
 - 第 109 條: article/109.md
-# 第八章 附則
+## 第 八 章 附則
 - 第 110 條: article/110.md
 - 第 110-1 條: article/110-1.md
 - 第 111 條: article/111.md
