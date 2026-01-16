@@ -1,5 +1,5 @@
 大眾捷運法
-中華民國112年6月28日公布（修正）
+中華民國115年1月14日公布（修正）
 
 # 第一章 總則
 - 第 1 條: article/1.md
@@ -57,6 +57,7 @@
 - 第 41 條: article/41.md
 - 第 42 條: article/42.md
 - 第 43 條: article/43.md
+- 第 43-1 條: article/43-1.md
 - 第 44 條: article/44.md
 - 第 45 條: article/45.md
 - 第 45-1 條: article/45-1.md
