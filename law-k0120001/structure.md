@@ -1,7 +1,7 @@
 大眾捷運法
-中華民國115年1月14日公布（修正）
+修正日期：民國 115 年 01 月 14 日
 
-# 第一章 總則
+## 第 一 章 總則
 - 第 1 條: article/1.md
 - 第 2 條: article/2.md
 - 第 3 條: article/3.md
@@ -12,11 +12,11 @@
 - 第 7-1 條: article/7-1.md
 - 第 8 條: article/8.md
 - 第 9 條: article/9.md
-# 第二章 規劃
+## 第 二 章 規劃
 - 第 10 條: article/10.md
 - 第 11 條: article/11.md
 - 第 12 條: article/12.md
-# 第三章 建設
+## 第 三 章 建設
 - 第 13 條: article/13.md
 - 第 13-1 條: article/13-1.md
 - 第 14 條: article/14.md
@@ -32,7 +32,7 @@
 - 第 24 條: article/24.md
 - 第 24-1 條: article/24-1.md
 - 第 24-2 條: article/24-2.md
-# 第四章 營運
+## 第 四 章 營運
 - 第 25 條: article/25.md
 - 第 26 條: article/26.md
 - 第 27 條: article/27.md
@@ -44,7 +44,7 @@
 - 第 32-1 條: article/32-1.md
 - 第 32-2 條: article/32-2.md
 - 第 33 條: article/33.md
-# 第五章 監督
+## 第 五 章 監督
 - 第 34 條: article/34.md
 - 第 35 條: article/35.md
 - 第 36 條: article/36.md
@@ -52,7 +52,7 @@
 - 第 38 條: article/38.md
 - 第 38-1 條: article/38-1.md
 - 第 39 條: article/39.md
-# 第六章 安全
+## 第 六 章 安全
 - 第 40 條: article/40.md
 - 第 41 條: article/41.md
 - 第 42 條: article/42.md
@@ -65,7 +65,7 @@
 - 第 45-3 條: article/45-3.md
 - 第 46 條: article/46.md
 - 第 47 條: article/47.md
-# 第七章 罰則
+## 第 七 章 罰則
 - 第 48 條: article/48.md
 - 第 48-1 條: article/48-1.md
 - 第 48-2 條: article/48-2.md
@@ -75,6 +75,6 @@
 - 第 51 條: article/51.md
 - 第 51-1 條: article/51-1.md
 - 第 52 條: article/52.md
-# 第八章 附則
+## 第 八 章 附則
 - 第 53 條: article/53.md
 - 第 54 條: article/54.md
