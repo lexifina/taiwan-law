@@ -1,5 +1,5 @@
 中華民國刑法施行法
-中華民國112年2月8日公布（修正）
+中華民國115年3月13日公布（修正）
 
 - 第 1 條: article/1.md
 - 第 1-1 條: article/1-1.md
@@ -15,6 +15,7 @@
 - 第 7 條: article/7.md
 - 第 7-1 條: article/7-1.md
 - 第 7-2 條: article/7-2.md
+- 第 7-3 條: article/7-3.md
 - 第 8 條: article/8.md
 - 第 8-1 條: article/8-1.md
 - 第 8-2 條: article/8-2.md
