@@ -1,13 +1,13 @@
 刑事訴訟法
-中華民國115年5月13日公布（修正）
+修正日期：民國 115 年 05 月 13 日
 
-# 第一編 總則
-## 第一章 法例
+# 第 一 編 總則
+## 第 一 章 法例
 - 第 1 條: article/1.md
 - 第 2 條: article/2.md
 - 第 3 條: article/3.md
 - 第 3-1 條: article/3-1.md
-## 第二章 法院之管轄
+## 第 二 章 法院之管轄
 - 第 4 條: article/4.md
 - 第 5 條: article/5.md
 - 第 6 條: article/6.md
@@ -21,7 +21,7 @@
 - 第 14 條: article/14.md
 - 第 15 條: article/15.md
 - 第 16 條: article/16.md
-## 第三章 法院職員之迴避
+## 第 三 章 法院職員之迴避
 - 第 17 條: article/17.md
 - 第 18 條: article/18.md
 - 第 19 條: article/19.md
@@ -32,7 +32,7 @@
 - 第 24 條: article/24.md
 - 第 25 條: article/25.md
 - 第 26 條: article/26.md
-## 第四章 辯護人、輔佐人及代理人
+## 第 四 章 辯護人、輔佐人及代理人
 - 第 27 條: article/27.md
 - 第 28 條: article/28.md
 - 第 29 條: article/29.md
@@ -49,7 +49,7 @@
 - 第 37 條: article/37.md
 - 第 38 條: article/38.md
 - 第 38-1 條: article/38-1.md
-## 第五章 文書
+## 第 五 章 文書
 - 第 39 條: article/39.md
 - 第 40 條: article/40.md
 - 第 41 條: article/41.md
@@ -68,7 +68,7 @@
 - 第 52 條: article/52.md
 - 第 53 條: article/53.md
 - 第 54 條: article/54.md
-## 第六章 送達
+## 第 六 章 送達
 - 第 55 條: article/55.md
 - 第 56 條: article/56.md
 - 第 57 條: article/57.md
@@ -77,7 +77,7 @@
 - 第 60 條: article/60.md
 - 第 61 條: article/61.md
 - 第 62 條: article/62.md
-## 第七章 期日及期間
+## 第 七 章 期日及期間
 - 第 63 條: article/63.md
 - 第 64 條: article/64.md
 - 第 65 條: article/65.md
@@ -87,7 +87,7 @@
 - 第 69 條: article/69.md
 - 第 70 條: article/70.md
 - 第 70-1 條: article/70-1.md
-## 第八章 被告之傳喚及拘提
+## 第 八 章 被告之傳喚及拘提
 - 第 71 條: article/71.md
 - 第 71-1 條: article/71-1.md
 - 第 72 條: article/72.md
@@ -115,13 +115,13 @@
 - 第 92 條: article/92.md
 - 第 93 條: article/93.md
 - 第 93-1 條: article/93-1.md
-## 第八章之一 限制出境、出海
+## 第 八 章之一 限制出境、出海
 - 第 93-2 條: article/93-2.md
 - 第 93-3 條: article/93-3.md
 - 第 93-4 條: article/93-4.md
 - 第 93-5 條: article/93-5.md
 - 第 93-6 條: article/93-6.md
-## 第九章 被告之訊問
+## 第 九 章 被告之訊問
 - 第 94 條: article/94.md
 - 第 95 條: article/95.md
 - 第 96 條: article/96.md
@@ -132,7 +132,7 @@
 - 第 100-1 條: article/100-1.md
 - 第 100-2 條: article/100-2.md
 - 第 100-3 條: article/100-3.md
-## 第十章 被告之羈押
+## 第 十 章 被告之羈押
 - 第 101 條: article/101.md
 - 第 101-1 條: article/101-1.md
 - 第 101-2 條: article/101-2.md
@@ -161,14 +161,14 @@
 - 第 119-1 條: article/119-1.md
 - 第 120 條: article/120.md
 - 第 121 條: article/121.md
-## 第十章之一 暫行安置
+## 第 十 章之一 暫行安置
 - 第 121-1 條: article/121-1.md
 - 第 121-2 條: article/121-2.md
 - 第 121-3 條: article/121-3.md
 - 第 121-4 條: article/121-4.md
 - 第 121-5 條: article/121-5.md
 - 第 121-6 條: article/121-6.md
-## 第十一章 搜索及扣押
+## 第 十一 章 搜索及扣押
 - 第 122 條: article/122.md
 - 第 123 條: article/123.md
 - 第 124 條: article/124.md
@@ -208,7 +208,7 @@
 - 第 151 條: article/151.md
 - 第 152 條: article/152.md
 - 第 153 條: article/153.md
-## 第十一章之一 特殊強制處分
+## 第 十一 章之一 特殊強制處分
 - 第 153-1 條: article/153-1.md
 - 第 153-2 條: article/153-2.md
 - 第 153-3 條: article/153-3.md
@@ -219,8 +219,8 @@
 - 第 153-8 條: article/153-8.md
 - 第 153-9 條: article/153-9.md
 - 第 153-10 條: article/153-10.md
-## 第十二章 證據
-### 第一節 通則
+## 第 十二 章 證據
+### 第 一 節 通則
 - 第 154 條: article/154.md
 - 第 155 條: article/155.md
 - 第 156 條: article/156.md
@@ -272,7 +272,7 @@
 - 第 172 條: article/172.md
 - 第 173 條: article/173.md
 - 第 174 條: article/174.md
-### 第二節 人證
+### 第 二 節 人證
 - 第 175 條: article/175.md
 - 第 176 條: article/176.md
 - 第 176-1 條: article/176-1.md
@@ -299,7 +299,7 @@
 - 第 195 條: article/195.md
 - 第 196 條: article/196.md
 - 第 196-1 條: article/196-1.md
-### 第三節 鑑定及通譯
+### 第 三 節 鑑定及通譯
 - 第 197 條: article/197.md
 - 第 198 條: article/198.md
 - 第 198-1 條: article/198-1.md
@@ -330,7 +330,7 @@
 - 第 210 條: article/210.md
 - 第 211 條: article/211.md
 - 第 211-1 條: article/211-1.md
-### 第四節 勘驗
+### 第 四 節 勘驗
 - 第 212 條: article/212.md
 - 第 213 條: article/213.md
 - 第 214 條: article/214.md
@@ -339,7 +339,7 @@
 - 第 217 條: article/217.md
 - 第 218 條: article/218.md
 - 第 219 條: article/219.md
-### 第五節 證據保全
+### 第 五 節 證據保全
 - 第 219-1 條: article/219-1.md
 - 第 219-2 條: article/219-2.md
 - 第 219-3 條: article/219-3.md
@@ -348,7 +348,7 @@
 - 第 219-6 條: article/219-6.md
 - 第 219-7 條: article/219-7.md
 - 第 219-8 條: article/219-8.md
-## 第十三章 裁判
+## 第 十三 章 裁判
 - 第 220 條: article/220.md
 - 第 221 條: article/221.md
 - 第 222 條: article/222.md
@@ -358,9 +358,9 @@
 - 第 226 條: article/226.md
 - 第 227 條: article/227.md
 - 第 227-1 條: article/227-1.md
-# 第二編 第一審
-## 第一章 公訴
-### 第一節 偵查
+# 第 二 編 第一審
+## 第 一 章 公訴
+### 第 一 節 偵查
 - 第 228 條: article/228.md
 - 第 229 條: article/229.md
 - 第 230 條: article/230.md
@@ -413,7 +413,7 @@
 - 第 261 條: article/261.md
 - 第 262 條: article/262.md
 - 第 263 條: article/263.md
-### 第二節 起訴
+### 第 二 節 起訴
 - 第 264 條: article/264.md
 - 第 265 條: article/265.md
 - 第 266 條: article/266.md
@@ -421,7 +421,7 @@
 - 第 268 條: article/268.md
 - 第 269 條: article/269.md
 - 第 270 條: article/270.md
-### 第三節 審判
+### 第 三 節 審判
 - 第 271 條: article/271.md
 - 第 271-1 條: article/271-1.md
 - 第 271-2 條: article/271-2.md
@@ -487,7 +487,7 @@
 - 第 316 條: article/316.md
 - 第 317 條: article/317.md
 - 第 318 條: article/318.md
-## 第二章 自訴
+## 第 二 章 自訴
 - 第 319 條: article/319.md
 - 第 320 條: article/320.md
 - 第 321 條: article/321.md
@@ -513,8 +513,8 @@
 - 第 341 條: article/341.md
 - 第 342 條: article/342.md
 - 第 343 條: article/343.md
-# 第三編 上訴
-## 第一章 通則
+# 第 三 編 上訴
+## 第 一 章 通則
 - 第 344 條: article/344.md
 - 第 345 條: article/345.md
 - 第 346 條: article/346.md
@@ -532,7 +532,7 @@
 - 第 358 條: article/358.md
 - 第 359 條: article/359.md
 - 第 360 條: article/360.md
-## 第二章 第二審
+## 第 二 章 第二審
 - 第 361 條: article/361.md
 - 第 362 條: article/362.md
 - 第 363 條: article/363.md
@@ -547,7 +547,7 @@
 - 第 372 條: article/372.md
 - 第 373 條: article/373.md
 - 第 374 條: article/374.md
-## 第三章 第三審
+## 第 三 章 第三審
 - 第 375 條: article/375.md
 - 第 376 條: article/376.md
 - 第 377 條: article/377.md
@@ -576,7 +576,7 @@
 - 第 400 條: article/400.md
 - 第 401 條: article/401.md
 - 第 402 條: article/402.md
-# 第四編 抗告
+# 第 四 編 抗告
 - 第 403 條: article/403.md
 - 第 404 條: article/404.md
 - 第 405 條: article/405.md
@@ -594,7 +594,7 @@
 - 第 417 條: article/417.md
 - 第 418 條: article/418.md
 - 第 419 條: article/419.md
-# 第五編 再審
+# 第 五 編 再審
 - 第 420 條: article/420.md
 - 第 421 條: article/421.md
 - 第 422 條: article/422.md
@@ -619,7 +619,7 @@
 - 第 438 條: article/438.md
 - 第 439 條: article/439.md
 - 第 440 條: article/440.md
-# 第六編 非常上訴
+# 第 六 編 非常上訴
 - 第 441 條: article/441.md
 - 第 442 條: article/442.md
 - 第 443 條: article/443.md
@@ -628,7 +628,7 @@
 - 第 446 條: article/446.md
 - 第 447 條: article/447.md
 - 第 448 條: article/448.md
-# 第七編 簡易程序
+# 第 七 編 簡易程序
 - 第 449 條: article/449.md
 - 第 449-1 條: article/449-1.md
 - 第 450 條: article/450.md
@@ -639,7 +639,7 @@
 - 第 454 條: article/454.md
 - 第 455 條: article/455.md
 - 第 455-1 條: article/455-1.md
-# 第七編之一 協商程序
+# 第 七 編之一 協商程序
 - 第 455-2 條: article/455-2.md
 - 第 455-3 條: article/455-3.md
 - 第 455-4 條: article/455-4.md
@@ -650,7 +650,7 @@
 - 第 455-9 條: article/455-9.md
 - 第 455-10 條: article/455-10.md
 - 第 455-11 條: article/455-11.md
-# 第七編之二 沒收特別程序
+# 第 七 編之二 沒收特別程序
 - 第 455-12 條: article/455-12.md
 - 第 455-13 條: article/455-13.md
 - 第 455-14 條: article/455-14.md
@@ -677,7 +677,7 @@
 - 第 455-35 條: article/455-35.md
 - 第 455-36 條: article/455-36.md
 - 第 455-37 條: article/455-37.md
-# 第七編之三 被害人訴訟參與
+# 第 七 編之三 被害人訴訟參與
 - 第 455-38 條: article/455-38.md
 - 第 455-39 條: article/455-39.md
 - 第 455-40 條: article/455-40.md
@@ -688,7 +688,7 @@
 - 第 455-45 條: article/455-45.md
 - 第 455-46 條: article/455-46.md
 - 第 455-47 條: article/455-47.md
-# 第八編 執行
+# 第 八 編 執行
 - 第 456 條: article/456.md
 - 第 457 條: article/457.md
 - 第 458 條: article/458.md
@@ -727,7 +727,7 @@
 - 第 484 條: article/484.md
 - 第 485 條: article/485.md
 - 第 486 條: article/486.md
-# 第九編 附帶民事訴訟
+# 第 九 編 附帶民事訴訟
 - 第 487 條: article/487.md
 - 第 488 條: article/488.md
 - 第 489 條: article/489.md
