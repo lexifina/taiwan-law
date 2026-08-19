@@ -1,5 +1,5 @@
 公路法
-中華民國114年12月19日公布（修正）
+中華民國115年8月17日公布（修正）
 
 # 第一章 總則
 - 第 1 條: article/1.md
@@ -38,7 +38,7 @@
 - 第 32 條: article/32.md
 - 第 33 條: article/33.md
 - 第 33-1 條: article/33-1.md
-# 第三章 公路運輸
+# 第三章 公路運輸及服務
 - 第 34 條: article/34.md
 - 第 34-1 條: article/34-1.md
 - 第 35 條: article/35.md
@@ -69,6 +69,7 @@
 - 第 56-1 條: article/56-1.md
 - 第 57 條: article/57.md
 - 第 57-1 條: article/57-1.md
+- 第 57-2 條: article/57-2.md
 # 第四章 安全管理
 - 第 58 條: article/58.md
 - 第 59 條: article/59.md
