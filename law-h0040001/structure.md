@@ -1,11 +1,11 @@
 專科學校法
-中華民國115年9月23日公布（修正）
+修正日期：民國 115 年 09 月 23 日
 
-# 第一章 總則
+## 第 一 章 總則
 - 第 1 條: article/1.md
 - 第 2 條: article/2.md
 - 第 3 條: article/3.md
-# 第二章 設立及類別
+## 第 二 章 設立及類別
 - 第 4 條: article/4.md
 - 第 5 條: article/5.md
 - 第 6 條: article/6.md
@@ -15,7 +15,7 @@
 - 第 10 條: article/10.md
 - 第 11 條: article/11.md
 - 第 12 條: article/12.md
-# 第三章 組織及會議
+## 第 三 章 組織及會議
 - 第 13 條: article/13.md
 - 第 14 條: article/14.md
 - 第 15 條: article/15.md
@@ -27,14 +27,14 @@
 - 第 21 條: article/21.md
 - 第 22 條: article/22.md
 - 第 23 條: article/23.md
-# 第四章 教師分級及聘用
+## 第 四 章 教師分級及聘用
 - 第 24 條: article/24.md
 - 第 25 條: article/25.md
 - 第 26 條: article/26.md
 - 第 27 條: article/27.md
 - 第 28 條: article/28.md
 - 第 29 條: article/29.md
-# 第五章 學生事務
+## 第 五 章 學生事務
 - 第 30 條: article/30.md
 - 第 31 條: article/31.md
 - 第 32 條: article/32.md
@@ -51,7 +51,7 @@
 - 第 42 條: article/42.md
 - 第 43 條: article/43.md
 - 第 44 條: article/44.md
-# 第六章 附則
+## 第 六 章 附則
 - 第 45 條: article/45.md
 - 第 46 條: article/46.md
 - 第 47 條: article/47.md
