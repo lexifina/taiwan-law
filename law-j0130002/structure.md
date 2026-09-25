@@ -1,18 +1,18 @@
 能源管理法
-中華民國115年9月23日公布（修正）
+修正日期：民國 115 年 09 月 23 日
 
-# 第一章 總則
+## 第 一 章 總則
 - 第 1 條: article/1.md
 - 第 2 條: article/2.md
 - 第 3 條: article/3.md
 - 第 4 條: article/4.md
 - 第 5 條: article/5.md
 - 第 5-1 條: article/5-1.md
-# 第二章 能源供應
+## 第 二 章 能源供應
 - 第 6 條: article/6.md
 - 第 6-1 條: article/6-1.md
 - 第 7 條: article/7.md
-# 第三章 能源使用與查核
+## 第 三 章 能源使用與查核
 - 第 8 條: article/8.md
 - 第 9 條: article/9.md
 - 第 10 條: article/10.md
@@ -27,7 +27,7 @@
 - 第 18 條: article/18.md
 - 第 19 條: article/19.md
 - 第 19-1 條: article/19-1.md
-# 第四章 罰則
+## 第 四 章 罰則
 - 第 20 條: article/20.md
 - 第 20-1 條: article/20-1.md
 - 第 21 條: article/21.md
@@ -38,6 +38,6 @@
 - 第 26 條: article/26.md
 - 第 27 條: article/27.md
 - 第 28 條: article/28.md
+## 第 五 章 附則
 - 第 29 條: article/29.md
-# 第五章 附則
 - 第 30 條: article/30.md
