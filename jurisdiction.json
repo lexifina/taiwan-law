@@ -1,0 +1,11 @@
+{
+  "path": "tw",
+  "code": "TW",
+  "name": "Taiwan",
+  "level": "country",
+  "note": "not a UN member",
+  "repo": "https://github.com/lexifina/taiwan-law",
+  "build": "ready",
+  "register": "https://claude.ai/artifact/DdS9F6yqpPZtV2i7FGQhYZ",
+  "register_date": "2026-10-28"
+}
