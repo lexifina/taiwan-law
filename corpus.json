@@ -1,0 +1,42 @@
+{
+  "corpus": "tw/national/acts",
+  "name": "Laws of the Republic of China (Taiwan): Constitution, Additional Articles and three codes (current text)",
+  "label": "Taiwan",
+  "language": "zh",
+  "acts": 5,
+  "history": "current-only",
+  "history_from": "1947-01-01",
+  "record_to": "2026-07-22",
+  "record_note": "law.moj.gov.tw is used for current text only (its past-version pages and API are disallowed by robots.txt), so each law has one version, dated by the amendment or promulgation date its page states; that date is not a commencement day.",
+  "built": "2026-10-28",
+  "checked_on": "2026-10-28",
+  "in_force_trailer": "In-force",
+  "has_future_branch": false,
+  "dates": {
+    "commit": "page date (修正日期 or 公布日期) of the current text",
+    "other_trailers": [
+      "Retrieved"
+    ],
+    "time": "12:00 UTC+8 (Asia/Taipei)",
+    "before_1970": "clamped to 1970-01-01"
+  },
+  "author": {
+    "law": "the law itself, <pcode>@law-moj-gov-tw.invalid",
+    "documentation": "Lexifina"
+  },
+  "scope": {
+    "trailer": "Applies",
+    "when_absent": "no scope note found; not a statement that the change reaches every case",
+    "default_reach": {
+      "rule": "non-retroactivity of laws (法律不溯及既往原則)",
+      "meaning": "a law governs facts arising after it takes effect unless it says otherwise; in criminal law the law at the time of the act applies unless a later law is more favourable to the offender",
+      "authority": "中央法規標準法 §13, §18; 中華民國刑法 §1, §2; 司法院釋字第525號、第574號 (protection of reliance)",
+      "decided_here": false
+    }
+  },
+  "citation": {
+    "file": "([a-z-]+/article)/([0-9]+(?:-[0-9]+)?)\\.md",
+    "cites": "第 ?{n} ?條"
+  },
+  "tool": "tools/on_date.py"
+}
