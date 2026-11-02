@@ -23,6 +23,7 @@ For the laws below, every version that 立法院法律系統 (https://lis.ly.gov
 | `criminal-code/` | 中華民國刑法 (Criminal Code of the Republic of China) | 60 | 1935-07-01 | 2026-07-24 |
 | `company-act/` | 公司法 (Company Act) | 29 | 1931-07-01 | 2025-12-28 |
 | `labor-standards-act/` | 勞動基準法 (Labor Standards Act) | 24 | 1984-08-01 | 2024-08-02 |
+| `code-of-civil-procedure/` | 民事訴訟法 (Code of Civil Procedure) | 28 | 1930-12-28 | 2023-12-01 |
 
 - **One commit per version.** Each commit holds the whole text of the law as the LY record shows it for that version (one file per article, `structure.md` for the order and headings). The author is the amending law (`<law><action> (<promulgation day>)`, e.g. `公司法修正 (2018-08-01)`) at an address that cannot exist, so `git blame` names the amendment that last changed a line.
 - **Dates.** `In-force:` (and the author date) is the commencement day (施行) the LY record states; where it states none, the third day counted from promulgation (中央法規標準法 §13: a law that takes effect on promulgation takes effect from the third day counted from that day). Where a later version would take effect before an earlier amendment it already contains, it is dated by that amendment's day (the trailer `In-force-basis:` says so). Days before 1970 are clamped to 1970-01-01 in the git date only. The commit (committer) date is the day the block was appended, so `git log --before` does not work here: use the `In-force:` trailer or `tools/on_date.py`, which read it.
