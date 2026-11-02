@@ -1,8 +1,9 @@
-# Taiwan law in git (current text only)
+# Taiwan law in git
 
-The current text of five central laws of the Republic of China (Taiwan), one file per article, as the Ministry of
-Justice's 全國法規資料庫 (law.moj.gov.tw) shows them. Each law is one commit, authored by the law and dated by the date
-its page states.
+Laws of the Republic of China (Taiwan), one file per article. The current text of the five laws in the first
+table is as the Ministry of Justice's 全國法規資料庫 (law.moj.gov.tw) shows it; the laws in the "Past versions"
+table have every version the Legislative Yuan's 立法院法律系統 shows, one commit per version, authored by the
+amending law and dated by the day it took effect.
 
 | Folder | Law | Code | Page date | Articles |
 |---|---|---|---|---|
@@ -11,6 +12,25 @@ its page states.
 | `code-of-civil-procedure/` | 民事訴訟法 (Code of Civil Procedure) | B0010001 | 修正日期 2023-11-29 | 800 |
 | `code-of-criminal-procedure/` | 刑事訴訟法 (Code of Criminal Procedure) | C0010001 | 修正日期 2026-05-13 | 712 |
 | `criminal-code/` | 中華民國刑法 (Criminal Code of the Republic of China) | C0000001 | 修正日期 2026-07-22 | 422 |
+
+<!-- ly-history -->
+## Past versions (立法院法律系統)
+
+For the laws below, every version that 立法院法律系統 (https://lis.ly.gov.tw/, the Legislative Yuan's law system) shows was added on 2026-11-02, as one block of commits per law appended after the earlier history (ruling: older versions found late are appended at the end, never rewritten in place).
+
+| Folder | Law | Versions | First in force | Last in force |
+|---|---|---|---|---|
+| `criminal-code/` | 中華民國刑法 (Criminal Code of the Republic of China) | 60 | 1935-07-01 | 2026-07-24 |
+| `company-act/` | 公司法 (Company Act) | 29 | 1931-07-01 | 2025-12-28 |
+| `labor-standards-act/` | 勞動基準法 (Labor Standards Act) | 24 | 1984-08-01 | 2024-08-02 |
+
+- **One commit per version.** Each commit holds the whole text of the law as the LY record shows it for that version (one file per article, `structure.md` for the order and headings). The author is the amending law (`<law><action> (<promulgation day>)`, e.g. `公司法修正 (2018-08-01)`) at an address that cannot exist, so `git blame` names the amendment that last changed a line.
+- **Dates.** `In-force:` (and the author date) is the commencement day (施行) the LY record states; where it states none, the third day counted from promulgation (中央法規標準法 §13: a law that takes effect on promulgation takes effect from the third day counted from that day). Where a later version would take effect before an earlier amendment it already contains, it is dated by that amendment's day (the trailer `In-force-basis:` says so). Days before 1970 are clamped to 1970-01-01 in the git date only. The commit (committer) date is the day the block was appended, so `git log --before` does not work here: use the `In-force:` trailer or `tools/on_date.py`, which read it.
+- **Laws already published from law.moj.gov.tw.** Their block ends with a commit (kind `publisher-text`, same `In-force:` as the last version) that puts back, unchanged, the files published on 2026-10-28, so the current text is still the 全國法規資料庫 text. The two official publishers print some articles differently (mostly punctuation); that commit lists how many.
+- **Articles with a later commencement.** Where an amendment leaves single articles to commence on a day set later (施行日期由行政院定之), the LY version (and so the commit) carries them from the version's day; the commit message quotes the record's dates.
+- **Future text.** A version whose day is after the retrieval day is not on `main`.
+
+<!-- /ly-history -->
 
 ## Questions as git commands
 
@@ -37,23 +57,12 @@ is clamped to 1970 because git cannot store earlier dates.
 
 ## What this record does not show
 
-- **Past versions.** law.moj.gov.tw keeps every past version (沿革, LawHistory.aspx, LawOldVer.aspx) and offers an
-  open-data API (/api/), but its robots.txt disallows them:
-
-  ```
-  User-agent: *
-  Disallow: /
-  Allow: /News/NewsDetail.aspx
-  Allow: /LawClass/LawAll.aspx
-  Allow: /SearchEngineSitemap.aspx
-  Sitemap: https://law.moj.gov.tw/SearchEngineSitemap.aspx
-  ```
-
-  Only `/LawClass/LawAll.aspx`, the current full text, was fetched. So each law has ONE commit and blame credits the
-  whole text to the law's latest page date, not to the act that wrote each line.
+- **Past versions of the other laws.** The laws not in the "Past versions" table have one commit each: the
+  current text, dated by its page date, so blame credits the whole text to that date.
 - **民法 (Civil Code, B0000001)** is left out: its page says some articles are not yet in force (art. 1223 as
   amended 2026-08-17 takes effect six months after promulgation; art. 166-1 has no commencement day), so its text is
-  not the text in force today, and the text in force is only on a disallowed page.
+  not the text in force today; past versions from 立法院法律系統 carry the same articles (art. 166-1 since 2000), so
+  they are left out too.
 - **Attachments.** Criminal Code art. 185-3 has a PDF attachment (a table of drug concentration values); it is marked
   `(本條文有附件)` in `structure.md` and not copied.
 - **Indentation.** The site indents list items (一、二、) by CSS class; the files keep the words, one paragraph or item
@@ -88,5 +97,9 @@ version 1.0), which requires attribution:
 資料來源：法務部「全國法規資料庫」(https://law.moj.gov.tw/)，依「政府資料開放授權條款－第1版」提供。
 Source: Laws & Regulations Database of the Republic of China (Taiwan), Ministry of Justice (https://law.moj.gov.tw/), used under the Open Government Data License, version 1.0.
 
-This repository is a private Lexifina build. It is not an official publication; where it differs from the text the
+This repository is a Lexifina build. It is not an official publication; where it differs from the text the
 responsible authority published, the official text prevails.
+
+Past versions: 立法院網站資料開放宣告 (https://www.ly.gov.tw/Pages/List.aspx?nodeid=10772): the material on the Legislative Yuan's sites, to the extent it is protected by copyright, is offered free of charge, non-exclusively and sub-licensably, for reproduction, adaptation, editing, public transmission and other uses without time or territorial limit and without further permission; use must state the source.
+
+資料來源：立法院法律系統 (https://lis.ly.gov.tw/)。

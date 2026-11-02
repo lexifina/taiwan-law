@@ -4,8 +4,8 @@
     python tools/on_date.py 2026-10-01 criminal-code 185-3        # one article (第 185-3 條)
     python tools/on_date.py 2026-10-01 criminal-code/article/1.md # one file
 
-Reads the `In-force:` trailer (commit dates before 1970 are clamped). law.moj.gov.tw is used for current text
-only, so each law has one version here, dated by the date its page states; a date before that has no version.
+Reads the `In-force:` trailer (commit dates before 1970 are clamped). Some laws have every version from
+立法院法律系統 (lis.ly.gov.tw); the others have one version, dated by the date the law.moj.gov.tw page states.
 Standard library only.
 """
 import re
