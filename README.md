@@ -169,6 +169,28 @@ For the laws below, every version that 立法院法律系統 (https://lis.ly.gov
 | `law-d0050037/` | 老人福利法 | 11 | 1980-01-28 | 2025-08-03 |
 | `law-d0050131/` | 志願服務法 | 4 | 2001-01-22 | 2020-01-17 |
 | `law-d0050125/` | 社會工作師法 | 9 | 1997-04-04 | 2023-06-11 |
+| `law-d0050078/` | 社會救助法 | 11 | 1980-06-16 | 2016-02-01 |
+| `law-d0050213/` | 社會福利基本法 | 1 | 2023-05-26 | 2023-05-26 |
+| `law-d0050046/` | 身心障礙者權益保障法 | 21 | 1980-06-04 | 2025-08-03 |
+| `law-d0050205/` | 兒童及少年未來教育與發展帳戶條例 | 1 | 2018-06-08 | 2018-06-08 |
+| `law-d0050193/` | 兒童權利公約施行法 | 2 | 2014-11-20 | 2019-06-21 |
+| `law-d0050078/` | 社會救助法 | 11 | 1980-06-16 | 2016-02-01 |
+| `law-d0050213/` | 社會福利基本法 | 1 | 2023-05-26 | 2023-05-26 |
+| `law-d0050046/` | 身心障礙者權益保障法 | 21 | 1980-06-04 | 2025-08-03 |
+| `law-d0050205/` | 兒童及少年未來教育與發展帳戶條例 | 1 | 2018-06-08 | 2018-06-08 |
+| `law-d0050193/` | 兒童權利公約施行法 | 2 | 2014-11-20 | 2019-06-21 |
+| `law-d0050074/` | 性騷擾防治法 | 4 | 2005-02-07 | 2023-08-18 |
+| `law-d0050075/` | 特殊境遇家庭扶助條例 | 8 | 2000-05-26 | 2021-01-22 |
+| `law-d0020050/` | 公民投票法 | 7 | 2004-01-02 | 2025-12-05 |
+| `law-d0040008/` | 軍人及其家屬優待條例 | 4 | 1960-12-30 | 2022-05-20 |
+| `law-a0000004/` | 訓政結束程序法 | 1 | 1947-12-27 | 1947-12-27 |
+| `law-a0020002/` | 國民大會同意權行使法 | 1 | 1992-11-06 | 1992-11-06 |
+| `law-a0010001/` | 國民大會組織法 | 8 | 1947-04-02 | 2005-05-29 |
+| `law-d0020056/` | 國民大會職權行使法 | 1 | 2005-05-29 | 2005-05-29 |
+| `law-a0010016/` | 中央研究院組織法 | 11 | 1928-11-11 | 2014-01-17 |
+| `law-a0010012/` | 中華民國總統府組織法 | 4 | 1948-05-20 | 2010-09-03 |
+| `law-a0030246/` | 特種勤務條例 | 3 | 2012-01-06 | 2019-11-22 |
+| `law-a0010018/` | 國父陵園管理委員會組織條例 | 1 | 1946-07-04 | 1946-07-04 |
 
 - **One commit per version.** Each commit holds the whole text of the law as the LY record shows it for that version (one file per article, `structure.md` for the order and headings). The author is the amending law (`<law><action> (<promulgation day>)`, e.g. `公司法修正 (2018-08-01)`) at an address that cannot exist, so `git blame` names the amendment that last changed a line.
 - **Dates.** `In-force:` (and the author date) is the commencement day (施行) the LY record states; where it states none, the third day counted from promulgation (中央法規標準法 §13: a law that takes effect on promulgation takes effect from the third day counted from that day). Where a later version would take effect before an earlier amendment it already contains, it is dated by that amendment's day (the trailer `In-force-basis:` says so). Days before 1970 are clamped to 1970-01-01 in the git date only. The commit (committer) date is the day the block was appended, so `git log --before` does not work here: use the `In-force:` trailer or `tools/on_date.py`, which read it.
