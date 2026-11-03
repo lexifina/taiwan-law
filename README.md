@@ -272,6 +272,27 @@ For the laws below, every version that 立法院法律系統 (https://lis.ly.gov
 | `law-g0360022/` | 中央政府建設公債及借款條例 | 7 | 1975-06-02 | 2002-05-31 |
 | `law-g0360028/` | 中央政府興建臺灣北部區域第二高速公路建設公債發行條例 | 1 | 1987-01-28 | 1987-01-28 |
 | `law-g0360017/` | 中央政府興建臺灣區高速公路第一期工程建設公債發行條例 | 3 | 1971-01-27 | 1974-01-27 |
+| `law-g0360002/` | 民國三十六年美金公債條例 | 1 | 1947-03-31 | 1947-03-31 |
+| `law-g0340108/` | 地方稅法通則 | 2 | 2002-12-13 | 2025-01-05 |
+| `law-g0360002/` | 民國三十六年美金公債條例 | 1 | 1947-03-31 | 1947-03-31 |
+| `law-g0340108/` | 地方稅法通則 | 2 | 2002-12-13 | 2025-01-05 |
+| `law-g0340115/` | 所得基本稅額條例 | 4 | 2005-12-30 | 2023-01-01 |
+| `law-g0340105/` | 契稅條例 | 13 | 1943-05-17 | 2010-05-07 |
+| `law-g0360023/` | 政府發展經濟社會向國外借款及保證條例 | 7 | 1967-05-17 | 1982-06-18 |
+| `law-g0340106/` | 娛樂稅法 | 6 | 1980-07-01 | 2026-05-22 |
+| `law-g0350029/` | 海關緝私條例 | 11 | 1934-06-21 | 2018-05-11 |
+| `law-g0340128/` | 特種貨物及勞務稅條例 | 3 | 2011-06-01 | 2015-06-26 |
+| `law-g0340142/` | 納稅者權利保護法 | 2 | 2016-12-30 | 2025-05-30 |
+| `law-g0340110/` | 記帳士法 | 7 | 2004-06-04 | 2022-05-06 |
+| `law-g0320034/` | 財政紀律法 | 1 | 2019-04-12 | 2019-04-12 |
+| `law-g0340023/` | 財務罰鍰處理暫行條例 | 4 | 1954-04-25 | 2004-04-23 |
+| `law-g0370001/` | 國有財產法 | 10 | 1969-01-29 | 2018-11-23 |
+| `law-g0320008/` | 國庫券及短期借款條例 | 6 | 1973-04-13 | 2002-02-08 |
+| `law-g0360002/` | 民國三十六年美金公債條例 | 1 | 1947-03-31 | 1947-03-31 |
+| `law-g0340108/` | 地方稅法通則 | 2 | 2002-12-13 | 2025-01-05 |
+| `law-g0340115/` | 所得基本稅額條例 | 4 | 2005-12-30 | 2023-01-01 |
+| `law-g0340105/` | 契稅條例 | 13 | 1943-05-17 | 2010-05-07 |
+| `law-g0360023/` | 政府發展經濟社會向國外借款及保證條例 | 7 | 1967-05-17 | 1982-06-18 |
 
 - **One commit per version.** Each commit holds the whole text of the law as the LY record shows it for that version (one file per article, `structure.md` for the order and headings). The author is the amending law (`<law><action> (<promulgation day>)`, e.g. `公司法修正 (2018-08-01)`) at an address that cannot exist, so `git blame` names the amendment that last changed a line.
 - **Dates.** `In-force:` (and the author date) is the commencement day (施行) the LY record states; where it states none, the third day counted from promulgation (中央法規標準法 §13: a law that takes effect on promulgation takes effect from the third day counted from that day). Where a later version would take effect before an earlier amendment it already contains, it is dated by that amendment's day (the trailer `In-force-basis:` says so). Days before 1970 are clamped to 1970-01-01 in the git date only. The commit (committer) date is the day the block was appended, so `git log --before` does not work here: use the `In-force:` trailer or `tools/on_date.py`, which read it.
