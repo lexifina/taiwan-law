@@ -417,6 +417,24 @@ For the laws below, every version that 立法院法律系統 (https://lis.ly.gov
 | `law-l0020099/` | 呼吸治療師法 | 5 | 2002-01-18 | 2020-01-17 |
 | `law-l0070039/` | 油症患者健康照護服務條例 | 2 | 2015-02-06 | 2016-11-18 |
 | `law-l0020044/` | 物理治療師法 | 8 | 1995-02-05 | 2023-02-10 |
+| `law-l0070040/` | 長期照顧服務法 | 4 | 2015-06-05 | 2021-06-11 |
+| `law-l0070051/` | 長期照顧服務機構法人條例 | 1 | 2018-02-02 | 2018-02-02 |
+| `law-l0020228/` | 原住民族健康法 | 1 | 2023-06-23 | 2023-06-23 |
+| `law-l0020189/` | 病人自主權利法 | 3 | 2016-01-08 | 2021-01-22 |
+| `law-l0000030/` | 財團法人國家衛生研究院設置條例 | 2 | 1995-02-05 | 1999-02-05 |
+| `law-l0070040/` | 長期照顧服務法 | 4 | 2015-06-05 | 2021-06-11 |
+| `law-l0070051/` | 長期照顧服務機構法人條例 | 1 | 2018-02-02 | 2018-02-02 |
+| `law-l0020228/` | 原住民族健康法 | 1 | 2023-06-23 | 2023-06-23 |
+| `law-l0020189/` | 病人自主權利法 | 3 | 2016-01-08 | 2021-01-22 |
+| `law-l0000030/` | 財團法人國家衛生研究院設置條例 | 2 | 1995-02-05 | 1999-02-05 |
+| `law-l0040012/` | 健康食品管理法 | 7 | 1999-02-05 | 2020-01-17 |
+| `law-n0020012/` | 大量解僱勞工保護法 | 4 | 2003-02-09 | 2015-07-03 |
+| `law-n0090055/` | 中高齡者及高齡者就業促進法 | 2 | 2020-12-04 | 2024-12-04 |
+| `law-n0020024/` | 外送員權益保障及外送平臺管理法 | 1 | 2026-01-23 | 2026-01-23 |
+| `law-n0070001/` | 勞動檢查法 | 7 | 1931-10-01 | 2020-06-12 |
+| `law-n0050021/` | 就業保險法 | 10 | 2003-01-01 | 2022-01-18 |
+| `law-n0020006/` | 團體協約法 | 4 | 1932-11-01 | 2015-07-03 |
+| `law-n0040001/` | 職工福利金條例 | 4 | 1943-01-28 | 2015-07-03 |
 
 - **One commit per version.** Each commit holds the whole text of the law as the LY record shows it for that version (one file per article, `structure.md` for the order and headings). The author is the amending law (`<law><action> (<promulgation day>)`, e.g. `公司法修正 (2018-08-01)`) at an address that cannot exist, so `git blame` names the amendment that last changed a line.
 - **Dates.** `In-force:` (and the author date) is the commencement day (施行) the LY record states; where it states none, the third day counted from promulgation (中央法規標準法 §13: a law that takes effect on promulgation takes effect from the third day counted from that day). Where a later version would take effect before an earlier amendment it already contains, it is dated by that amendment's day (the trailer `In-force-basis:` says so). Days before 1970 are clamped to 1970-01-01 in the git date only. The commit (committer) date is the day the block was appended, so `git log --before` does not work here: use the `In-force:` trailer or `tools/on_date.py`, which read it.
