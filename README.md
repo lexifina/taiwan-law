@@ -603,6 +603,27 @@ For the laws below, every version that 立法院法律系統 (https://lis.ly.gov
 | `law-e0000012/` | 國際合作發展基金會設置條例 | 3 | 1996-01-17 | 2013-05-24 |
 | `law-e0020021/` | 條約締結法 | 1 | 2015-07-03 | 2015-07-03 |
 | `law-e0000017/` | 駐外機構組織通則 | 2 | 2012-09-01 | 2018-06-15 |
+| `law-e0020005/` | 駐華外國機構及其人員特權暨豁免條例 | 2 | 1982-07-11 | 1997-05-09 |
+| `law-e0030001/` | 護照條例 | 8 | 1944-07-24 | 2023-01-01 |
+| `law-e0020005/` | 駐華外國機構及其人員特權暨豁免條例 | 2 | 1982-07-11 | 1997-05-09 |
+| `law-e0030001/` | 護照條例 | 8 | 1944-07-24 | 2023-01-01 |
+| `law-h0070062/` | 公立高級中等以下學校委託私人辦理實驗教育條例 | 3 | 2015-01-01 | 2021-12-24 |
+| `law-h0070031/` | 幼兒教育及照顧法 | 6 | 2012-01-01 | 2023-03-01 |
+| `law-h0070054/` | 各級學校扶助學生就學勸募條例 | 1 | 2013-12-27 | 2013-12-27 |
+| `law-h0040028/` | 技術及職業教育法 | 2 | 2015-01-16 | 2020-01-02 |
+| `law-h0080098/` | 社區大學發展條例 | 1 | 2018-06-15 | 2018-06-15 |
+| `law-h0030067/` | 私立高級中等以上學校退場條例 | 1 | 2022-05-13 | 2022-05-13 |
+| `law-h0020001/` | 私立學校法 | 16 | 1974-11-18 | 2014-06-20 |
+| `law-h0080067/` | 性別平等教育法 | 7 | 2004-06-25 | 2023-08-18 |
+| `law-h0030020/` | 空中大學設置條例 | 4 | 1985-06-30 | 2014-01-24 |
+| `law-h0180009/` | 青年基本法 | 1 | 2026-01-23 | 2026-01-23 |
+| `law-h0020016/` | 軍公教遺族就學費用優待條例 | 3 | 1948-11-15 | 2000-01-21 |
+| `law-h0020037/` | 原住民族教育法 | 7 | 1998-06-19 | 2021-01-22 |
+| `law-h0080050/` | 家庭教育法 | 6 | 2003-02-08 | 2019-05-10 |
+| `law-h0050001/` | 師資培育法 | 15 | 1979-11-23 | 2020-01-01 |
+| `law-h0080027/` | 特殊教育法 | 10 | 1984-12-19 | 2023-06-23 |
+| `law-e0020005/` | 駐華外國機構及其人員特權暨豁免條例 | 2 | 1982-07-11 | 1997-05-09 |
+| `law-e0030001/` | 護照條例 | 8 | 1944-07-24 | 2023-01-01 |
 
 - **One commit per version.** Each commit holds the whole text of the law as the LY record shows it for that version (one file per article, `structure.md` for the order and headings). The author is the amending law (`<law><action> (<promulgation day>)`, e.g. `公司法修正 (2018-08-01)`) at an address that cannot exist, so `git blame` names the amendment that last changed a line.
 - **Dates.** `In-force:` (and the author date) is the commencement day (施行) the LY record states; where it states none, the third day counted from promulgation (中央法規標準法 §13: a law that takes effect on promulgation takes effect from the third day counted from that day). Where a later version would take effect before an earlier amendment it already contains, it is dated by that amendment's day (the trailer `In-force-basis:` says so). Days before 1970 are clamped to 1970-01-01 in the git date only. The commit (committer) date is the day the block was appended, so `git log --before` does not work here: use the `In-force:` trailer or `tools/on_date.py`, which read it.
