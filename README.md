@@ -234,6 +234,23 @@ For the laws below, every version that 立法院法律系統 (https://lis.ly.gov
 | `law-a0010032/` | 行政院組織法 | 11 | 1947-04-02 | 2025-09-09 |
 | `law-a0030296/` | 促進轉型正義條例 | 2 | 2017-12-29 | 2022-05-29 |
 | `law-a0030286/` | 政黨及其附隨組織不當取得財產處理條例 | 1 | 2016-08-12 | 2016-08-12 |
+| `law-a0030134/` | 檔案法 | 2 | 2002-01-01 | 2008-09-01 |
+| `law-f0120002/` | 妨害兵役治罪條例 | 13 | 1940-07-01 | 2022-05-20 |
+| `law-i0070012/` | 公益揭弊者保護法 | 1 | 2025-01-24 | 2025-01-24 |
+| `law-i0040043/` | 少年矯正學校設置及教育實施通則 | 4 | 1998-04-10 | 2023-04-01 |
+| `law-i0040013/` | 外役監條例 | 10 | 1962-06-07 | 2025-01-26 |
+| `law-i0050005/` | 犯罪被害人權益保障法 | 7 | 1998-10-01 | 2023-02-10 |
+| `law-i0050001/` | 更生保護法 | 4 | 1976-04-10 | 2010-05-28 |
+| `law-i0000039/` | 法務部司法官學院組織法 | 2 | 2013-07-01 | 2023-01-15 |
+| `law-i0000033/` | 法務部法醫研究所組織法 | 2 | 2012-01-01 | 2023-01-15 |
+| `law-i0000001/` | 法務部組織法 | 13 | 1928-11-21 | 2018-05-25 |
+| `law-i0000003/` | 法務部調查局組織法 | 5 | 1956-04-22 | 2024-01-01 |
+| `law-i0000004/` | 法務部調查局幹部訓練所組織條例 | 2 | 1968-01-10 | 1980-08-03 |
+| `law-i0010052/` | 法醫師法 | 7 | 2005-12-30 | 2019-04-26 |
+| `law-i0030002/` | 保安處分執行法 | 11 | 1964-08-01 | 2022-03-31 |
+| `law-i0020024/` | 信託法 | 2 | 1996-01-28 | 2009-11-23 |
+| `law-i0020026/` | 政府資訊公開法 | 1 | 2005-12-30 | 2005-12-30 |
+| `law-f0120002/` | 妨害兵役治罪條例 | 13 | 1940-07-01 | 2022-05-20 |
 
 - **One commit per version.** Each commit holds the whole text of the law as the LY record shows it for that version (one file per article, `structure.md` for the order and headings). The author is the amending law (`<law><action> (<promulgation day>)`, e.g. `公司法修正 (2018-08-01)`) at an address that cannot exist, so `git blame` names the amendment that last changed a line.
 - **Dates.** `In-force:` (and the author date) is the commencement day (施行) the LY record states; where it states none, the third day counted from promulgation (中央法規標準法 §13: a law that takes effect on promulgation takes effect from the third day counted from that day). Where a later version would take effect before an earlier amendment it already contains, it is dated by that amendment's day (the trailer `In-force-basis:` says so). Days before 1970 are clamped to 1970-01-01 in the git date only. The commit (committer) date is the day the block was appended, so `git log --before` does not work here: use the `In-force:` trailer or `tools/on_date.py`, which read it.
