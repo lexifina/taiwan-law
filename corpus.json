@@ -3,11 +3,11 @@
   "name": "Laws of the Republic of China (Taiwan)",
   "label": "Taiwan",
   "language": "zh",
-  "acts": 240,
+  "acts": 244,
   "history": "versions for some laws, current text for others",
   "history_from": "1928-05-16",
   "record_to": "2026-08-19",
-  "record_note": "Current text from law.moj.gov.tw. Past versions of the laws in the README’s \"Past versions\" table (25) from 立法院法律系統 (lis.ly.gov.tw), appended as one block per law and dated by the commencement day the record states or the third day after promulgation (中央法規標準法 §13). Other laws have one version, dated by the page date (not a commencement day).",
+  "record_note": "Current text from law.moj.gov.tw. Past versions of the laws in the README’s \"Past versions\" table (34) from 立法院法律系統 (lis.ly.gov.tw), appended as one block per law and dated by the commencement day the record states or the third day after promulgation (中央法規標準法 §13). Other laws have one version, dated by the page date (not a commencement day).",
   "built": "2026-10-28",
   "checked_on": "2026-11-03",
   "in_force_trailer": "In-force",
@@ -70,7 +70,16 @@
         "certified-public-accountant-act",
         "patent-act",
         "protection-of-children-and-youths-welfare-and-rights-act",
-        "labor-union-act"
+        "labor-union-act",
+        "national-health-insurance-act",
+        "criminal-code-of-the-armed-forces",
+        "land-act",
+        "household-registration-act",
+        "compulsory-enforcement-act",
+        "immigration-act",
+        "juvenile-justice-act",
+        "non-contentious-matters-act",
+        "money-laundering-control-act"
       ],
       "licence": "立法院網站資料開放宣告 (https://www.ly.gov.tw/Pages/List.aspx?nodeid=10772): the material on the Legislative Yuan's sites, to the extent it is protected by copyright, is offered free of charge, non-exclusively and sub-licensably, for reproduction, adaptation, editing, public transmission and other uses without time or territorial limit and without further permission; use must state the source."
     }

@@ -45,6 +45,15 @@ For the laws below, every version that 立法院法律系統 (https://lis.ly.gov
 | `patent-act/` | 專利法 (Patent Act) | 16 | 1949-01-01 | 2022-07-01 |
 | `protection-of-children-and-youths-welfare-and-rights-act/` | 兒童及少年福利與權益保障法 (Protection of Children and Youths Welfare and Rights Act) | 15 | 2003-05-30 | 2021-01-22 |
 | `labor-union-act/` | 工會法 (Labor Union Act) | 15 | 1929-11-01 | 2023-01-16 |
+| `national-health-insurance-act/` | 全民健康保險法 (National Health Insurance Act) | 14 | 1995-03-01 | 2023-06-30 |
+| `criminal-code-of-the-armed-forces/` | 陸海空軍刑法 (Criminal Code of the Armed Forces) | 14 | 1929-09-27 | 2023-12-29 |
+| `land-act/` | 土地法 (Land Act) | 14 | 1936-03-01 | 2024-08-09 |
+| `household-registration-act/` | 戶籍法 (Household Registration Act) | 14 | 1931-12-14 | 2015-01-23 |
+| `compulsory-enforcement-act/` | 強制執行法 (Compulsory Enforcement Act) | 12 | 1940-01-21 | 2019-05-31 |
+| `immigration-act/` | 入出國及移民法 (Immigration Act) | 12 | 1999-05-21 | 2023-06-30 |
+| `juvenile-justice-act/` | 少年事件處理法 (Juvenile Justice Act) | 12 | 1962-02-02 | 2023-06-23 |
+| `non-contentious-matters-act/` | 非訟事件法 (Non-Contentious Matters Act) | 12 | 1964-05-30 | 2018-06-15 |
+| `money-laundering-control-act/` | 洗錢防制法 (Money Laundering Control Act) | 11 | 1996-10-25 | 2024-08-02 |
 
 - **One commit per version.** Each commit holds the whole text of the law as the LY record shows it for that version (one file per article, `structure.md` for the order and headings). The author is the amending law (`<law><action> (<promulgation day>)`, e.g. `公司法修正 (2018-08-01)`) at an address that cannot exist, so `git blame` names the amendment that last changed a line.
 - **Dates.** `In-force:` (and the author date) is the commencement day (施行) the LY record states; where it states none, the third day counted from promulgation (中央法規標準法 §13: a law that takes effect on promulgation takes effect from the third day counted from that day). Where a later version would take effect before an earlier amendment it already contains, it is dated by that amendment's day (the trailer `In-force-basis:` says so). Days before 1970 are clamped to 1970-01-01 in the git date only. The commit (committer) date is the day the block was appended, so `git log --before` does not work here: use the `In-force:` trailer or `tools/on_date.py`, which read it.
