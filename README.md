@@ -141,6 +141,20 @@ For the laws below, every version that 立法院法律系統 (https://lis.ly.gov
 | `law-d0070060/` | 工程受益費徵收條例 | 7 | 1944-08-21 | 2000-11-10 |
 | `law-a0030320/` | 國民法官法 | 1 | 2020-08-14 | 2020-08-14 |
 | `law-b0010064/` | 勞動事件法 | 2 | 2020-01-01 | 2024-01-08 |
+| `law-d0050103/` | 工業團體法 | 5 | 1974-12-30 | 2021-01-29 |
+| `law-d0060076/` | 不動產估價師法 | 8 | 2000-10-06 | 2024-08-09 |
+| `law-d0060066/` | 不動產經紀業管理條例 | 4 | 1999-02-05 | 2021-01-29 |
+| `law-d0000022/` | 中央警察大學組織條例 | 6 | 1938-11-18 | 1995-12-22 |
+| `law-a0000010/` | 中華民國專屬經濟海域及大陸礁層法 | 3 | 1998-01-23 | 2023-12-29 |
+| `law-a0000009/` | 中華民國領海及鄰接區法 | 1 | 1998-01-23 | 1998-01-23 |
+| `law-d0000112/` | 內政部空中勤務總隊組織法 | 2 | 2005-11-09 | 2014-01-01 |
+| `law-d0000069/` | 內政部消防署組織條例 | 6 | 1995-01-30 | 2005-11-09 |
+| `law-d0000135/` | 內政部移民署組織法 | 2 | 2007-01-02 | 2015-01-02 |
+| `law-d0000001/` | 內政部組織法 | 31 | 1928-12-10 | 2025-12-12 |
+| `law-d0000284/` | 內政部新住民發展署組織法 | 1 | 2025-12-12 | 2025-12-12 |
+| `law-d0000008/` | 內政部營建署組織條例 | 1 | 1981-01-23 | 1981-01-23 |
+| `law-d0050103/` | 工業團體法 | 5 | 1974-12-30 | 2021-01-29 |
+| `law-d0060076/` | 不動產估價師法 | 8 | 2000-10-06 | 2024-08-09 |
 
 - **One commit per version.** Each commit holds the whole text of the law as the LY record shows it for that version (one file per article, `structure.md` for the order and headings). The author is the amending law (`<law><action> (<promulgation day>)`, e.g. `公司法修正 (2018-08-01)`) at an address that cannot exist, so `git blame` names the amendment that last changed a line.
 - **Dates.** `In-force:` (and the author date) is the commencement day (施行) the LY record states; where it states none, the third day counted from promulgation (中央法規標準法 §13: a law that takes effect on promulgation takes effect from the third day counted from that day). Where a later version would take effect before an earlier amendment it already contains, it is dated by that amendment's day (the trailer `In-force-basis:` says so). Days before 1970 are clamped to 1970-01-01 in the git date only. The commit (committer) date is the day the block was appended, so `git log --before` does not work here: use the `In-force:` trailer or `tools/on_date.py`, which read it.
