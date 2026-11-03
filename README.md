@@ -454,6 +454,15 @@ For the laws below, every version that 立法院法律系統 (https://lis.ly.gov
 | `law-f0110001/` | 國防工業發展基金設置條例 | 2 | 1979-01-28 | 2006-12-29 |
 | `law-f0010030/` | 國防法 | 5 | 2002-03-01 | 2012-06-08 |
 | `law-f0110024/` | 國防產業發展條例 | 2 | 2019-06-21 | 2023-01-05 |
+| `law-f0030005/` | 陸海空軍軍官士官考績條例 | 3 | 1979-12-30 | 2020-01-01 |
+| `law-f0030005/` | 陸海空軍軍官士官考績條例 | 3 | 1979-12-30 | 2020-01-01 |
+| `law-f0030010/` | 陸海空軍獎勵條例 | 7 | 1935-06-17 | 2007-07-06 |
+| `law-f0030008/` | 陸海空軍勳賞條例 | 7 | 1935-06-17 | 2022-05-20 |
+| `law-f0030013/` | 陸海空軍懲罰法 | 7 | 1930-10-09 | 2025-08-06 |
+| `law-f0090027/` | 新式戰機採購特別條例 | 1 | 2019-10-31 | 2019-10-31 |
+| `law-j0020025/` | 土石採取法 | 5 | 2003-02-08 | 2026-08-07 |
+| `law-j0000028/` | 工業技術研究院設置條例 | 2 | 1973-02-02 | 1981-05-22 |
+| `law-j0030043/` | 工廠管理輔導法 | 5 | 2001-03-16 | 2024-05-26 |
 
 - **One commit per version.** Each commit holds the whole text of the law as the LY record shows it for that version (one file per article, `structure.md` for the order and headings). The author is the amending law (`<law><action> (<promulgation day>)`, e.g. `公司法修正 (2018-08-01)`) at an address that cannot exist, so `git blame` names the amendment that last changed a line.
 - **Dates.** `In-force:` (and the author date) is the commencement day (施行) the LY record states; where it states none, the third day counted from promulgation (中央法規標準法 §13: a law that takes effect on promulgation takes effect from the third day counted from that day). Where a later version would take effect before an earlier amendment it already contains, it is dated by that amendment's day (the trailer `In-force-basis:` says so). Days before 1970 are clamped to 1970-01-01 in the git date only. The commit (committer) date is the day the block was appended, so `git log --before` does not work here: use the `In-force:` trailer or `tools/on_date.py`, which read it.
