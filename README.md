@@ -351,6 +351,24 @@ For the laws below, every version that 立法院法律系統 (https://lis.ly.gov
 | `law-k0000065/` | 交通部基隆港務局港埠工程處組織條例 | 1 | 2002-01-31 | 2002-01-31 |
 | `law-k0000069/` | 交通部基隆港務局臺北港分局組織條例 | 1 | 2002-01-31 | 2002-01-31 |
 | `law-k0000068/` | 交通部基隆港務局蘇澳港分局組織條例 | 1 | 2002-01-31 | 2002-01-31 |
+| `law-k0000001/` | 交通部組織法 | 20 | 1928-12-10 | 2023-09-15 |
+| `law-k0000001/` | 交通部組織法 | 20 | 1928-12-10 | 2023-09-15 |
+| `law-k0000033/` | 交通部運輸研究所組織條例 | 3 | 1984-01-06 | 2001-08-01 |
+| `law-k0020032/` | 交通部郵電事業人員退休撫卹條例 | 2 | 2003-01-01 | 2021-01-22 |
+| `law-k0000073/` | 交通部臺中港務局船舶機械修造工廠組織條例 | 1 | 2002-01-31 | 2002-01-31 |
+| `law-k0000071/` | 交通部臺中港務局棧埠管理處組織條例 | 1 | 2002-01-31 | 2002-01-31 |
+| `law-k0000072/` | 交通部臺中港務局港埠工程處組織條例 | 1 | 2002-01-31 | 2002-01-31 |
+| `law-k0000004/` | 交通部臺灣區國道高速公路局組織條例 | 1 | 1978-07-23 | 1978-07-23 |
+| `law-k0000107/` | 交通部臺灣鐵路管理局所屬分支機構組織通則 | 2 | 2004-07-01 | 2014-07-19 |
+| `law-i0020013/` | 二二八事件處理及賠償條例 | 11 | 1995-04-09 | 2018-01-19 |
+| `law-d0080177/` | 人口販運防制法 | 3 | 2009-06-01 | 2024-01-01 |
+| `law-d0070118/` | 公寓大廈管理條例 | 7 | 1995-06-30 | 2022-05-13 |
+| `law-d0080186/` | 去氧核醣核酸採樣條例 | 2 | 1999-02-05 | 2012-01-06 |
+| `law-d0080118/` | 民防法 | 5 | 2003-01-01 | 2021-01-22 |
+| `law-d0080037/` | 自衛槍枝管理條例 | 9 | 1946-09-01 | 2002-06-28 |
+| `law-d0070195/` | 住宅法 | 5 | 2012-01-01 | 2026-03-06 |
+| `law-k0000001/` | 交通部組織法 | 20 | 1928-12-10 | 2023-09-15 |
+| `law-k0000033/` | 交通部運輸研究所組織條例 | 3 | 1984-01-06 | 2001-08-01 |
 
 - **One commit per version.** Each commit holds the whole text of the law as the LY record shows it for that version (one file per article, `structure.md` for the order and headings). The author is the amending law (`<law><action> (<promulgation day>)`, e.g. `公司法修正 (2018-08-01)`) at an address that cannot exist, so `git blame` names the amendment that last changed a line.
 - **Dates.** `In-force:` (and the author date) is the commencement day (施行) the LY record states; where it states none, the third day counted from promulgation (中央法規標準法 §13: a law that takes effect on promulgation takes effect from the third day counted from that day). Where a later version would take effect before an earlier amendment it already contains, it is dated by that amendment's day (the trailer `In-force-basis:` says so). Days before 1970 are clamped to 1970-01-01 in the git date only. The commit (committer) date is the day the block was appended, so `git log --before` does not work here: use the `In-force:` trailer or `tools/on_date.py`, which read it.
