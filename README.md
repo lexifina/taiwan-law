@@ -533,6 +533,24 @@ For the laws below, every version that 立法院法律系統 (https://lis.ly.gov
 | `law-j0000036/` | 經濟部中小企業處組織條例 | 1 | 1984-11-30 | 1984-11-30 |
 | `law-j0000031/` | 經濟部中央地質調查所組織條例 | 1 | 1977-11-17 | 1977-11-17 |
 | `law-ly04402/` | 立法院各委員會組織法 | 14 | 1947-12-27 | 2009-02-01 |
+| `law-s0110001/` | 人事管理條例 | 2 | 1942-11-01 | 1983-07-24 |
+| `law-s0110038/` | 中央政府機關總員額法 | 2 | 2010-04-01 | 2020-01-02 |
+| `law-r0030035/` | 公務人員升官等考試法 | 4 | 1988-01-24 | 2015-01-09 |
+| `law-s0020001/` | 公務人員任用法 | 17 | 1987-01-16 | 2025-08-03 |
+| `law-r0030001/` | 公務人員考試法 | 12 | 1986-01-26 | 2023-12-01 |
+| `law-s0040001/` | 公務人員考績法 | 6 | 1987-01-16 | 2025-11-21 |
+| `law-s0110001/` | 人事管理條例 | 2 | 1942-11-01 | 1983-07-24 |
+| `law-s0110038/` | 中央政府機關總員額法 | 2 | 2010-04-01 | 2020-01-02 |
+| `law-r0030035/` | 公務人員升官等考試法 | 4 | 1988-01-24 | 2015-01-09 |
+| `law-s0020001/` | 公務人員任用法 | 17 | 1987-01-16 | 2025-08-03 |
+| `law-r0030001/` | 公務人員考試法 | 12 | 1986-01-26 | 2023-12-01 |
+| `law-s0040001/` | 公務人員考績法 | 6 | 1987-01-16 | 2025-11-21 |
+| `law-s0110036/` | 公務人員行政中立法 | 2 | 2009-06-12 | 2014-11-28 |
+| `law-s0010008/` | 公務人員協會法 | 3 | 2003-01-01 | 2006-05-19 |
+| `law-s0120001/` | 公務人員保障法 | 6 | 1996-10-18 | 2025-07-11 |
+| `law-s0000013/` | 公務人員保障暨培訓委員會組織法 | 3 | 1996-01-28 | 2010-02-10 |
+| `law-s0080006/` | 公務人員退休撫卹基金管理條例 | 3 | 1995-07-01 | 2023-05-12 |
+| `law-s0050004/` | 公務人員訓練進修法 | 2 | 2002-02-01 | 2013-12-13 |
 
 - **One commit per version.** Each commit holds the whole text of the law as the LY record shows it for that version (one file per article, `structure.md` for the order and headings). The author is the amending law (`<law><action> (<promulgation day>)`, e.g. `公司法修正 (2018-08-01)`) at an address that cannot exist, so `git blame` names the amendment that last changed a line.
 - **Dates.** `In-force:` (and the author date) is the commencement day (施行) the LY record states; where it states none, the third day counted from promulgation (中央法規標準法 §13: a law that takes effect on promulgation takes effect from the third day counted from that day). Where a later version would take effect before an earlier amendment it already contains, it is dated by that amendment's day (the trailer `In-force-basis:` says so). Days before 1970 are clamped to 1970-01-01 in the git date only. The commit (committer) date is the day the block was appended, so `git log --before` does not work here: use the `In-force:` trailer or `tools/on_date.py`, which read it.
