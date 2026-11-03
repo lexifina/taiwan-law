@@ -435,6 +435,25 @@ For the laws below, every version that 立法院法律系統 (https://lis.ly.gov
 | `law-n0050021/` | 就業保險法 | 10 | 2003-01-01 | 2022-01-18 |
 | `law-n0020006/` | 團體協約法 | 4 | 1932-11-01 | 2015-07-03 |
 | `law-n0040001/` | 職工福利金條例 | 4 | 1943-01-28 | 2015-07-03 |
+| `law-n0060041/` | 職業災害勞工保護法 | 2 | 2002-04-28 | 2018-11-23 |
+| `law-n0080001/` | 職業訓練法 | 5 | 1983-12-07 | 2015-07-03 |
+| `law-f0090035/` | 海空戰力提升計畫採購特別條例 | 1 | 2021-11-25 | 2021-11-25 |
+| `law-f0110001/` | 國防工業發展基金設置條例 | 2 | 1979-01-28 | 2006-12-29 |
+| `law-f0010030/` | 國防法 | 5 | 2002-03-01 | 2012-06-08 |
+| `law-f0110024/` | 國防產業發展條例 | 2 | 2019-06-21 | 2023-01-05 |
+| `law-f0000074/` | 國防部參謀本部組織法 | 2 | 2013-01-01 | 2022-01-01 |
+| `law-f0000001/` | 國防部組織法 | 6 | 1970-11-15 | 2022-01-01 |
+| `law-f0140013/` | 國軍老舊眷村改建條例 | 11 | 1996-02-07 | 2020-05-15 |
+| `law-f0000036/` | 國軍軍事勤務致人民傷亡損害補償條例 | 3 | 1999-12-01 | 2019-06-21 |
+| `law-f0000083/` | 國家中山科學研究院設置條例 | 2 | 2014-04-16 | 2022-01-01 |
+| `law-f0090021/` | 殺傷性地雷管制條例 | 2 | 2006-06-16 | 2019-06-21 |
+| `law-f0030004/` | 陸海空軍軍官士官任職條例 | 7 | 1981-01-23 | 2022-06-17 |
+| `law-n0060041/` | 職業災害勞工保護法 | 2 | 2002-04-28 | 2018-11-23 |
+| `law-n0080001/` | 職業訓練法 | 5 | 1983-12-07 | 2015-07-03 |
+| `law-f0090035/` | 海空戰力提升計畫採購特別條例 | 1 | 2021-11-25 | 2021-11-25 |
+| `law-f0110001/` | 國防工業發展基金設置條例 | 2 | 1979-01-28 | 2006-12-29 |
+| `law-f0010030/` | 國防法 | 5 | 2002-03-01 | 2012-06-08 |
+| `law-f0110024/` | 國防產業發展條例 | 2 | 2019-06-21 | 2023-01-05 |
 
 - **One commit per version.** Each commit holds the whole text of the law as the LY record shows it for that version (one file per article, `structure.md` for the order and headings). The author is the amending law (`<law><action> (<promulgation day>)`, e.g. `公司法修正 (2018-08-01)`) at an address that cannot exist, so `git blame` names the amendment that last changed a line.
 - **Dates.** `In-force:` (and the author date) is the commencement day (施行) the LY record states; where it states none, the third day counted from promulgation (中央法規標準法 §13: a law that takes effect on promulgation takes effect from the third day counted from that day). Where a later version would take effect before an earlier amendment it already contains, it is dated by that amendment's day (the trailer `In-force-basis:` says so). Days before 1970 are clamped to 1970-01-01 in the git date only. The commit (committer) date is the day the block was appended, so `git log --before` does not work here: use the `In-force:` trailer or `tools/on_date.py`, which read it.
