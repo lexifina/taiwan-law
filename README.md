@@ -213,6 +213,27 @@ For the laws below, every version that 立法院法律系統 (https://lis.ly.gov
 | `law-a0010022/` | 國家安全局組織法 | 5 | 1994-01-01 | 2020-01-17 |
 | `law-a0010021/` | 國家安全會議組織法 | 2 | 1994-01-01 | 2003-06-27 |
 | `law-a0020041/` | 國家情報工作法 | 5 | 2005-02-07 | 2020-01-17 |
+| `law-a0030317/` | 反滲透法 | 1 | 2020-01-17 | 2020-01-17 |
+| `law-a0030317/` | 反滲透法 | 1 | 2020-01-17 | 2020-01-17 |
+| `law-a0010091/` | 行政院功能業務與組織調整條例 | 6 | 2010-02-05 | 2021-12-31 |
+| `law-a0010032/` | 行政院組織法 | 11 | 1947-04-02 | 2025-09-09 |
+| `law-a0030296/` | 促進轉型正義條例 | 2 | 2017-12-29 | 2022-05-29 |
+| `law-a0030286/` | 政黨及其附隨組織不當取得財產處理條例 | 1 | 2016-08-12 | 2016-08-12 |
+| `law-a0030028/` | 國家安全法 | 7 | 1987-07-15 | 2022-06-10 |
+| `law-c0010005/` | 赦免法 | 2 | 1953-03-09 | 1991-09-26 |
+| `law-a0030020/` | 訴願法 | 8 | 1930-03-26 | 2012-09-06 |
+| `law-a0030019/` | 請願法 | 2 | 1954-12-20 | 1969-12-20 |
+| `law-a0030297/` | 資通安全管理法 | 2 | 2019-01-01 | 2025-12-01 |
+| `law-a0030295/` | 外國專業人才延攬及僱用法 | 4 | 2018-02-08 | 2025-09-26 |
+| `law-a0030242/` | 花東地區發展條例 | 1 | 2011-07-01 | 2011-07-01 |
+| `law-a0030293/` | 前瞻基礎建設特別條例 | 1 | 2017-07-09 | 2017-07-09 |
+| `law-a0030312/` | 政治檔案條例 | 2 | 2019-07-26 | 2024-02-28 |
+| `law-a0010106/` | 國家發展委員會組織法 | 2 | 2014-01-22 | 2022-08-27 |
+| `law-a0030317/` | 反滲透法 | 1 | 2020-01-17 | 2020-01-17 |
+| `law-a0010091/` | 行政院功能業務與組織調整條例 | 6 | 2010-02-05 | 2021-12-31 |
+| `law-a0010032/` | 行政院組織法 | 11 | 1947-04-02 | 2025-09-09 |
+| `law-a0030296/` | 促進轉型正義條例 | 2 | 2017-12-29 | 2022-05-29 |
+| `law-a0030286/` | 政黨及其附隨組織不當取得財產處理條例 | 1 | 2016-08-12 | 2016-08-12 |
 
 - **One commit per version.** Each commit holds the whole text of the law as the LY record shows it for that version (one file per article, `structure.md` for the order and headings). The author is the amending law (`<law><action> (<promulgation day>)`, e.g. `公司法修正 (2018-08-01)`) at an address that cannot exist, so `git blame` names the amendment that last changed a line.
 - **Dates.** `In-force:` (and the author date) is the commencement day (施行) the LY record states; where it states none, the third day counted from promulgation (中央法規標準法 §13: a law that takes effect on promulgation takes effect from the third day counted from that day). Where a later version would take effect before an earlier amendment it already contains, it is dated by that amendment's day (the trailer `In-force-basis:` says so). Days before 1970 are clamped to 1970-01-01 in the git date only. The commit (committer) date is the day the block was appended, so `git log --before` does not work here: use the `In-force:` trailer or `tools/on_date.py`, which read it.
