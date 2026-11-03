@@ -43,6 +43,8 @@ For the laws below, every version that 立法院法律系統 (https://lis.ly.gov
 | `trademark-act/` | 商標法 (Trademark Act) | 17 | 1931-01-01 | 2024-05-01 |
 | `certified-public-accountant-act/` | 會計師法 (Certified Public Accountant Act) | 17 | 1945-07-02 | 2026-08-07 |
 | `patent-act/` | 專利法 (Patent Act) | 16 | 1949-01-01 | 2022-07-01 |
+| `protection-of-children-and-youths-welfare-and-rights-act/` | 兒童及少年福利與權益保障法 (Protection of Children and Youths Welfare and Rights Act) | 15 | 2003-05-30 | 2021-01-22 |
+| `labor-union-act/` | 工會法 (Labor Union Act) | 15 | 1929-11-01 | 2023-01-16 |
 
 - **One commit per version.** Each commit holds the whole text of the law as the LY record shows it for that version (one file per article, `structure.md` for the order and headings). The author is the amending law (`<law><action> (<promulgation day>)`, e.g. `公司法修正 (2018-08-01)`) at an address that cannot exist, so `git blame` names the amendment that last changed a line.
 - **Dates.** `In-force:` (and the author date) is the commencement day (施行) the LY record states; where it states none, the third day counted from promulgation (中央法規標準法 §13: a law that takes effect on promulgation takes effect from the third day counted from that day). Where a later version would take effect before an earlier amendment it already contains, it is dated by that amendment's day (the trailer `In-force-basis:` says so). Days before 1970 are clamped to 1970-01-01 in the git date only. The commit (committer) date is the day the block was appended, so `git log --before` does not work here: use the `In-force:` trailer or `tools/on_date.py`, which read it.
