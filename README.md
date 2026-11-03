@@ -54,6 +54,30 @@ For the laws below, every version that 立法院法律系統 (https://lis.ly.gov
 | `juvenile-justice-act/` | 少年事件處理法 (Juvenile Justice Act) | 12 | 1962-02-02 | 2023-06-23 |
 | `non-contentious-matters-act/` | 非訟事件法 (Non-Contentious Matters Act) | 12 | 1964-05-30 | 2018-06-15 |
 | `money-laundering-control-act/` | 洗錢防制法 (Money Laundering Control Act) | 11 | 1996-10-25 | 2024-08-02 |
+| `act-for-settlement-of-labor-disputes/` | 勞資爭議處理法 (Act for Settlement of Labor-Management Disputes) | 11 | 1928-06-11 | 2021-10-01 |
+| `gender-equality-in-employment-act/` | 性別平等工作法 (Gender Equality in Employment Act) | 10 | 2002-03-08 | 2023-08-18 |
+| `social-order-maintenance-act/` | 社會秩序維護法 (Social Order Maintenance Act) | 9 | 1991-07-01 | 2025-06-13 |
+| `futures-trading-act/` | 期貨交易法 (Futures Trading Act) | 9 | 1997-06-01 | 2023-06-30 |
+| `business-entity-accounting-act/` | 商業會計法 (Business Entity Accounting Act) | 9 | 1948-01-09 | 2016-01-01 |
+| `domestic-violence-prevention-act/` | 家庭暴力防治法 (Domestic Violence Prevention Act) | 8 | 1998-06-26 | 2023-12-08 |
+| `administrative-procedure-act/` | 行政程序法 (Administrative Procedure Act) | 8 | 2001-01-01 | 2021-01-22 |
+| `notary-act/` | 公證法 (Notary Act) | 7 | 1944-01-01 | 2019-04-05 |
+| `occupational-safety-and-health-act/` | 職業安全衛生法 (Occupational Safety and Health Act) | 7 | 1974-04-18 | 2026-07-01 |
+| `securities-investment-trust-and-consulting-act/` | 證券投資信託及顧問法 (Securities Investment Trust and Consulting Act) | 6 | 2004-11-01 | 2023-06-30 |
+| `act-for-settlement-of-labor-disputes/` | 勞資爭議處理法 (Act for Settlement of Labor-Management Disputes) | 11 | 1928-06-11 | 2021-10-01 |
+| `gender-equality-in-employment-act/` | 性別平等工作法 (Gender Equality in Employment Act) | 10 | 2002-03-08 | 2023-08-18 |
+| `social-order-maintenance-act/` | 社會秩序維護法 (Social Order Maintenance Act) | 9 | 1991-07-01 | 2025-06-13 |
+| `futures-trading-act/` | 期貨交易法 (Futures Trading Act) | 9 | 1997-06-01 | 2023-06-30 |
+| `business-entity-accounting-act/` | 商業會計法 (Business Entity Accounting Act) | 9 | 1948-01-09 | 2016-01-01 |
+| `domestic-violence-prevention-act/` | 家庭暴力防治法 (Domestic Violence Prevention Act) | 8 | 1998-06-26 | 2023-12-08 |
+| `administrative-procedure-act/` | 行政程序法 (Administrative Procedure Act) | 8 | 2001-01-01 | 2021-01-22 |
+| `notary-act/` | 公證法 (Notary Act) | 7 | 1944-01-01 | 2019-04-05 |
+| `occupational-safety-and-health-act/` | 職業安全衛生法 (Occupational Safety and Health Act) | 7 | 1974-04-18 | 2026-07-01 |
+| `securities-investment-trust-and-consulting-act/` | 證券投資信託及顧問法 (Securities Investment Trust and Consulting Act) | 6 | 2004-11-01 | 2023-06-30 |
+| `labor-pension-act/` | 勞工退休金條例 (Labor Pension Act) | 6 | 2004-07-02 | 2019-05-17 |
+| `bankruptcy-act/` | 破產法 (Bankruptcy Act) | 5 | 1935-10-01 | 2018-06-15 |
+| `family-act/` | 家事事件法 (Family Act) | 5 | 2012-06-01 | 2023-06-23 |
+| `fair-trade-act/` | 公平交易法 (Fair Trade Act) | 9 | 1991-02-06 | 2017-06-16 |
 
 - **One commit per version.** Each commit holds the whole text of the law as the LY record shows it for that version (one file per article, `structure.md` for the order and headings). The author is the amending law (`<law><action> (<promulgation day>)`, e.g. `公司法修正 (2018-08-01)`) at an address that cannot exist, so `git blame` names the amendment that last changed a line.
 - **Dates.** `In-force:` (and the author date) is the commencement day (施行) the LY record states; where it states none, the third day counted from promulgation (中央法規標準法 §13: a law that takes effect on promulgation takes effect from the third day counted from that day). Where a later version would take effect before an earlier amendment it already contains, it is dated by that amendment's day (the trailer `In-force-basis:` says so). Days before 1970 are clamped to 1970-01-01 in the git date only. The commit (committer) date is the day the block was appended, so `git log --before` does not work here: use the `In-force:` trailer or `tools/on_date.py`, which read it.
