@@ -503,6 +503,20 @@ For the laws below, every version that 立法院法律系統 (https://lis.ly.gov
 | `law-j0070034/` | 專利師法 | 4 | 2007-07-13 | 2018-11-23 |
 | `law-j0070009/` | 專利審查官資格條例 | 1 | 2000-02-04 | 2000-02-04 |
 | `law-j0040001/` | 華僑回國投資條例 | 9 | 1955-11-21 | 1997-11-21 |
+| `law-j0070019/` | 著作權集體管理團體條例 | 3 | 1997-11-07 | 2022-05-20 |
+| `law-j0090004/` | 貿易法 | 11 | 1993-02-07 | 2019-12-27 |
+| `law-j0110040/` | 溫泉法 | 2 | 2005-07-01 | 2010-07-01 |
+| `law-ly04507/` | 民法第一編總則 | 6 | 1929-10-10 | 2023-01-01 |
+| `law-ly04509/` | 民法第二編債 | 6 | 1930-05-05 | 2021-01-22 |
+| `law-ly04511/` | 民法第三編物權 | 6 | 1930-05-05 | 2012-06-15 |
+| `law-ly04515/` | 民法第五編繼承 | 8 | 1931-05-05 | 2026-08-19 |
+| `law-ly04513/` | 民法第四編親屬 | 23 | 1931-05-05 | 2023-01-01 |
+| `law-ly01810/` | 行刑累進處遇條例 | 8 | 1947-06-10 | 2006-06-16 |
+| `law-ly01672/` | 財政部財政資訊中心組織法 | 1 | 2012-02-05 | 2012-02-05 |
+| `law-ly01015/` | 財政部組織法 | 10 | 1928-12-10 | 2012-02-05 |
+| `law-ly07293/` | 虛擬資產服務法 | 1 | 2026-07-24 | 2026-07-24 |
+| `law-ly04813/` | 行政區劃程序法 | 1 | 2025-11-13 | 2025-11-13 |
+| `law-ly01234/` | 兒童及少年性剝削防制條例 | 13 | 1995-08-13 | 2024-08-09 |
 
 - **One commit per version.** Each commit holds the whole text of the law as the LY record shows it for that version (one file per article, `structure.md` for the order and headings). The author is the amending law (`<law><action> (<promulgation day>)`, e.g. `公司法修正 (2018-08-01)`) at an address that cannot exist, so `git blame` names the amendment that last changed a line.
 - **Dates.** `In-force:` (and the author date) is the commencement day (施行) the LY record states; where it states none, the third day counted from promulgation (中央法規標準法 §13: a law that takes effect on promulgation takes effect from the third day counted from that day). Where a later version would take effect before an earlier amendment it already contains, it is dated by that amendment's day (the trailer `In-force-basis:` says so). Days before 1970 are clamped to 1970-01-01 in the git date only. The commit (committer) date is the day the block was appended, so `git log --before` does not work here: use the `In-force:` trailer or `tools/on_date.py`, which read it.
