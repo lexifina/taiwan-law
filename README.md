@@ -191,6 +191,28 @@ For the laws below, every version that 立法院法律系統 (https://lis.ly.gov
 | `law-a0010012/` | 中華民國總統府組織法 | 4 | 1948-05-20 | 2010-09-03 |
 | `law-a0030246/` | 特種勤務條例 | 3 | 2012-01-06 | 2019-11-22 |
 | `law-a0010018/` | 國父陵園管理委員會組織條例 | 1 | 1946-07-04 | 1946-07-04 |
+| `law-a0010017/` | 國史館組織條例 | 3 | 1946-11-25 | 2002-01-01 |
+| `law-a0010017/` | 國史館組織條例 | 3 | 1946-11-25 | 2002-01-01 |
+| `law-a0010022/` | 國家安全局組織法 | 5 | 1994-01-01 | 2020-01-17 |
+| `law-a0010021/` | 國家安全會議組織法 | 2 | 1994-01-01 | 2003-06-27 |
+| `law-a0020041/` | 國家情報工作法 | 5 | 2005-02-07 | 2020-01-17 |
+| `law-a0030015/` | 總統副總統文物管理條例 | 2 | 2004-01-22 | 2017-12-29 |
+| `law-a0010030/` | 三一九槍擊事件真相調查特別委員會條例 | 2 | 2004-09-26 | 2006-05-03 |
+| `law-a0020064/` | 立法委員行為法 | 2 | 1999-01-27 | 2002-01-27 |
+| `law-a0020058/` | 立法院職權行使法 | 13 | 1999-01-27 | 2024-06-26 |
+| `law-a0010063/` | 考試院組織法 | 7 | 1947-04-02 | 2023-06-01 |
+| `law-a0010102/` | 行政法人法 | 1 | 2011-04-29 | 2011-04-29 |
+| `law-a0030199/` | 監察法 | 9 | 1948-07-19 | 2021-01-22 |
+| `law-a0010072/` | 監察院各委員會組織法 | 11 | 1948-07-30 | 2021-08-01 |
+| `law-a0010071/` | 監察院組織法 | 12 | 1947-04-02 | 2020-01-10 |
+| `law-a0030116/` | 千禧年資訊年序爭議處理法 | 1 | 2000-01-02 | 2000-01-02 |
+| `law-a0030133/` | 中央法規標準法 | 2 | 1970-09-02 | 2004-05-21 |
+| `law-a0030018/` | 公文程式條例 | 7 | 1928-11-17 | 2007-03-23 |
+| `law-a0030025/` | 公務人員交代條例 | 5 | 1931-12-21 | 1953-12-31 |
+| `law-a0010017/` | 國史館組織條例 | 3 | 1946-11-25 | 2002-01-01 |
+| `law-a0010022/` | 國家安全局組織法 | 5 | 1994-01-01 | 2020-01-17 |
+| `law-a0010021/` | 國家安全會議組織法 | 2 | 1994-01-01 | 2003-06-27 |
+| `law-a0020041/` | 國家情報工作法 | 5 | 2005-02-07 | 2020-01-17 |
 
 - **One commit per version.** Each commit holds the whole text of the law as the LY record shows it for that version (one file per article, `structure.md` for the order and headings). The author is the amending law (`<law><action> (<promulgation day>)`, e.g. `公司法修正 (2018-08-01)`) at an address that cannot exist, so `git blame` names the amendment that last changed a line.
 - **Dates.** `In-force:` (and the author date) is the commencement day (施行) the LY record states; where it states none, the third day counted from promulgation (中央法規標準法 §13: a law that takes effect on promulgation takes effect from the third day counted from that day). Where a later version would take effect before an earlier amendment it already contains, it is dated by that amendment's day (the trailer `In-force-basis:` says so). Days before 1970 are clamped to 1970-01-01 in the git date only. The commit (committer) date is the day the block was appended, so `git log --before` does not work here: use the `In-force:` trailer or `tools/on_date.py`, which read it.
