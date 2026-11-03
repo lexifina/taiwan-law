@@ -98,6 +98,29 @@ For the laws below, every version that 立法院法律系統 (https://lis.ly.gov
 | `law-a0010051/` | 司法院組織法 | 12 | 1947-04-02 | 2022-01-21 |
 | `law-b0010015/` | 民刑事訴訟卷宗滅失案件處理法 | 1 | 1973-05-04 | 1973-05-04 |
 | `law-b0010002/` | 民事訴訟法施行法 | 17 | 1932-05-16 | 2023-12-01 |
+| `law-b0000004/` | 民法物權編施行法 | 4 | 1930-05-05 | 2010-02-05 |
+| `law-b0000003/` | 民法債編施行法 | 5 | 1930-05-05 | 2021-01-22 |
+| `law-b0000005/` | 民法親屬編施行法 | 10 | 1931-05-05 | 2023-01-01 |
+| `law-b0000002/` | 民法總則施行法 | 5 | 1929-10-10 | 2023-01-01 |
+| `law-b0000006/` | 民法繼承編施行法 | 9 | 1931-05-05 | 2026-08-19 |
+| `law-b0000004/` | 民法物權編施行法 | 4 | 1930-05-05 | 2010-02-05 |
+| `law-b0000003/` | 民法債編施行法 | 5 | 1930-05-05 | 2021-01-22 |
+| `law-b0000005/` | 民法親屬編施行法 | 10 | 1931-05-05 | 2023-01-01 |
+| `law-b0000002/` | 民法總則施行法 | 5 | 1929-10-10 | 2023-01-01 |
+| `law-b0000006/` | 民法繼承編施行法 | 9 | 1931-05-05 | 2026-08-19 |
+| `law-c0010027/` | 刑事妥速審判法 | 3 | 2010-05-21 | 2019-06-21 |
+| `law-c0010031/` | 刑事案件確定後去氧核醣核酸鑑定條例 | 1 | 2016-11-18 | 2016-11-18 |
+| `law-c0010009/` | 刑事補償法 | 8 | 1959-09-01 | 2023-12-17 |
+| `law-c0010002/` | 刑事訴訟法施行法 | 23 | 1935-04-03 | 2023-12-17 |
+| `law-a0030156/` | 行政訴訟法施行法 | 5 | 2000-06-09 | 2023-08-15 |
+| `law-c0000003/` | 妨害國幣懲治條例 | 6 | 1935-07-17 | 2011-07-01 |
+| `law-a0010058/` | 法官學院組織法 | 2 | 1992-11-22 | 2013-07-01 |
+| `law-a0030157/` | 法律扶助法 | 3 | 2004-06-20 | 2015-07-03 |
+| `law-c0010004/` | 海上捕獲法庭審判條例 | 3 | 1932-12-17 | 1980-07-06 |
+| `law-b0010042/` | 消費者債務清理條例 | 7 | 2007-07-13 | 2021-06-18 |
+| `law-b0000007/` | 涉外民事法律適用法 | 3 | 1953-06-08 | 2010-05-28 |
+| `law-b0010007/` | 破產法施行法 | 3 | 1935-07-20 | 2018-06-15 |
+| `law-b0000004/` | 民法物權編施行法 | 4 | 1930-05-05 | 2010-02-05 |
 
 - **One commit per version.** Each commit holds the whole text of the law as the LY record shows it for that version (one file per article, `structure.md` for the order and headings). The author is the amending law (`<law><action> (<promulgation day>)`, e.g. `公司法修正 (2018-08-01)`) at an address that cannot exist, so `git blame` names the amendment that last changed a line.
 - **Dates.** `In-force:` (and the author date) is the commencement day (施行) the LY record states; where it states none, the third day counted from promulgation (中央法規標準法 §13: a law that takes effect on promulgation takes effect from the third day counted from that day). Where a later version would take effect before an earlier amendment it already contains, it is dated by that amendment's day (the trailer `In-force-basis:` says so). Days before 1970 are clamped to 1970-01-01 in the git date only. The commit (committer) date is the day the block was appended, so `git log --before` does not work here: use the `In-force:` trailer or `tools/on_date.py`, which read it.
