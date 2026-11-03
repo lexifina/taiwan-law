@@ -488,6 +488,21 @@ For the laws below, every version that 立法院法律系統 (https://lis.ly.gov
 | `law-j0080065/` | 因應國際情勢強化經濟社會及民生國安韌性特別條例 | 2 | 2025-08-03 | 2025-09-07 |
 | `law-j0090030/` | 因應貿易自由化調整支援條例 | 1 | 2016-01-01 | 2016-01-01 |
 | `law-j0080017/` | 在臺公司大陸地區股東股權行使條例 | 3 | 1964-04-26 | 1992-07-29 |
+| `law-j0020052/` | 地質法 | 2 | 2011-12-01 | 2026-02-01 |
+| `law-j0110055/` | 自來水法 | 18 | 1966-11-19 | 2026-01-07 |
+| `law-j0030079/` | 冷凍空調業管理條例 | 1 | 2004-04-16 | 2004-04-16 |
+| `law-j0020042/` | 事業用爆炸物管理條例 | 3 | 2005-12-02 | 2019-12-13 |
+| `law-j0100052/` | 度量衡法 | 7 | 1930-01-01 | 2009-04-13 |
+| `law-j0050001/` | 科技產業園區設置管理條例 | 12 | 1965-02-01 | 2023-09-26 |
+| `law-j0130002/` | 能源管理法 | 7 | 1980-08-10 | 2026-09-25 |
+| `law-j0080011/` | 商品標示法 | 6 | 1982-01-24 | 2022-05-20 |
+| `law-j0100001/` | 商品檢驗法 | 7 | 1932-12-16 | 2007-07-13 |
+| `law-j0080004/` | 商業登記法 | 11 | 1937-06-30 | 2025-12-28 |
+| `law-j0070004/` | 商標審查官資格條例 | 1 | 2000-02-04 | 2000-02-04 |
+| `law-j0120001/` | 國營事業管理法 | 7 | 1949-01-22 | 2023-02-20 |
+| `law-j0070034/` | 專利師法 | 4 | 2007-07-13 | 2018-11-23 |
+| `law-j0070009/` | 專利審查官資格條例 | 1 | 2000-02-04 | 2000-02-04 |
+| `law-j0040001/` | 華僑回國投資條例 | 9 | 1955-11-21 | 1997-11-21 |
 
 - **One commit per version.** Each commit holds the whole text of the law as the LY record shows it for that version (one file per article, `structure.md` for the order and headings). The author is the amending law (`<law><action> (<promulgation day>)`, e.g. `公司法修正 (2018-08-01)`) at an address that cannot exist, so `git blame` names the amendment that last changed a line.
 - **Dates.** `In-force:` (and the author date) is the commencement day (施行) the LY record states; where it states none, the third day counted from promulgation (中央法規標準法 §13: a law that takes effect on promulgation takes effect from the third day counted from that day). Where a later version would take effect before an earlier amendment it already contains, it is dated by that amendment's day (the trailer `In-force-basis:` says so). Days before 1970 are clamped to 1970-01-01 in the git date only. The commit (committer) date is the day the block was appended, so `git log --before` does not work here: use the `In-force:` trailer or `tools/on_date.py`, which read it.
