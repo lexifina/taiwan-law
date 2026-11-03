@@ -517,6 +517,22 @@ For the laws below, every version that 立法院法律系統 (https://lis.ly.gov
 | `law-ly07293/` | 虛擬資產服務法 | 1 | 2026-07-24 | 2026-07-24 |
 | `law-ly04813/` | 行政區劃程序法 | 1 | 2025-11-13 | 2025-11-13 |
 | `law-ly01234/` | 兒童及少年性剝削防制條例 | 13 | 1995-08-13 | 2024-08-09 |
+| `law-ly07313/` | 兒童托育服務法 | 1 | 2026-05-10 | 2026-05-10 |
+| `law-ly01146/` | 勞動契約法 | 1 | 1936-12-27 | 1936-12-27 |
+| `law-ly01182/` | 最低工資法 | 1 | 2024-01-01 | 2024-01-01 |
+| `law-ly04318/` | 總統副總統選舉罷免法 | 13 | 1995-08-11 | 2026-08-21 |
+| `law-ly07362/` | 強化國防自主暨無人載具產業發展條例 | 1 | 2026-09-13 | 2026-09-13 |
+| `law-ly08128/` | 產業創新條例 | 12 | 2010-05-14 | 2026-10-02 |
+| `law-ly07313/` | 兒童托育服務法 | 1 | 2026-05-10 | 2026-05-10 |
+| `law-ly01146/` | 勞動契約法 | 1 | 1936-12-27 | 1936-12-27 |
+| `law-ly01182/` | 最低工資法 | 1 | 2024-01-01 | 2024-01-01 |
+| `law-ly04318/` | 總統副總統選舉罷免法 | 13 | 1995-08-11 | 2026-08-21 |
+| `law-ly07362/` | 強化國防自主暨無人載具產業發展條例 | 1 | 2026-09-13 | 2026-09-13 |
+| `law-ly08128/` | 產業創新條例 | 12 | 2010-05-14 | 2026-10-02 |
+| `law-j0000011/` | 經濟部工業局組織條例 | 2 | 1970-12-25 | 1984-04-20 |
+| `law-j0000036/` | 經濟部中小企業處組織條例 | 1 | 1984-11-30 | 1984-11-30 |
+| `law-j0000031/` | 經濟部中央地質調查所組織條例 | 1 | 1977-11-17 | 1977-11-17 |
+| `law-ly04402/` | 立法院各委員會組織法 | 14 | 1947-12-27 | 2009-02-01 |
 
 - **One commit per version.** Each commit holds the whole text of the law as the LY record shows it for that version (one file per article, `structure.md` for the order and headings). The author is the amending law (`<law><action> (<promulgation day>)`, e.g. `公司法修正 (2018-08-01)`) at an address that cannot exist, so `git blame` names the amendment that last changed a line.
 - **Dates.** `In-force:` (and the author date) is the commencement day (施行) the LY record states; where it states none, the third day counted from promulgation (中央法規標準法 §13: a law that takes effect on promulgation takes effect from the third day counted from that day). Where a later version would take effect before an earlier amendment it already contains, it is dated by that amendment's day (the trailer `In-force-basis:` says so). Days before 1970 are clamped to 1970-01-01 in the git date only. The commit (committer) date is the day the block was appended, so `git log --before` does not work here: use the `In-force:` trailer or `tools/on_date.py`, which read it.
