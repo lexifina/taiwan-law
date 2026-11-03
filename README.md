@@ -121,6 +121,26 @@ For the laws below, every version that 立法院法律系統 (https://lis.ly.gov
 | `law-b0000007/` | 涉外民事法律適用法 | 3 | 1953-06-08 | 2010-05-28 |
 | `law-b0010007/` | 破產法施行法 | 3 | 1935-07-20 | 2018-06-15 |
 | `law-b0000004/` | 民法物權編施行法 | 4 | 1930-05-05 | 2010-02-05 |
+| `law-a0030320/` | 國民法官法 | 1 | 2020-08-14 | 2020-08-14 |
+| `law-b0010064/` | 勞動事件法 | 2 | 2020-01-01 | 2024-01-08 |
+| `law-a0030320/` | 國民法官法 | 1 | 2020-08-14 | 2020-08-14 |
+| `law-b0010064/` | 勞動事件法 | 2 | 2020-01-01 | 2024-01-08 |
+| `law-c0010008/` | 提審法 | 4 | 1946-03-15 | 2014-01-10 |
+| `law-c0010017/` | 中華民國七十七年罪犯減刑條例 | 1 | 1988-04-22 | 1988-04-22 |
+| `law-b0000008/` | 司法院釋字第七四八號解釋施行法 | 3 | 2019-05-24 | 2023-06-11 |
+| `law-b0010014/` | 外國法院委託事件協助法 | 1 | 1963-04-27 | 1963-04-27 |
+| `law-a0030023/` | 行政執行法 | 10 | 1932-12-30 | 2010-02-05 |
+| `law-a0030210/` | 行政罰法 | 3 | 2005-02-07 | 2022-06-17 |
+| `law-c0010023/` | 戒治處分執行條例 | 5 | 1998-05-22 | 2023-01-15 |
+| `law-a0000007/` | 戒嚴時期人民受損權利回復條例 | 2 | 1995-01-30 | 2000-02-04 |
+| `law-d0070062/` | 促進民間參與公共建設法 | 5 | 2000-02-11 | 2022-12-23 |
+| `law-d0050091/` | 人民團體法 | 11 | 1942-02-12 | 2023-02-10 |
+| `law-d0070058/` | 下水道法 | 4 | 1984-12-23 | 2018-05-25 |
+| `law-d0060002/` | 土地法施行法 | 6 | 1936-03-01 | 2011-06-17 |
+| `law-d0060058/` | 土地徵收條例 | 3 | 2000-02-04 | 2012-01-06 |
+| `law-d0070060/` | 工程受益費徵收條例 | 7 | 1944-08-21 | 2000-11-10 |
+| `law-a0030320/` | 國民法官法 | 1 | 2020-08-14 | 2020-08-14 |
+| `law-b0010064/` | 勞動事件法 | 2 | 2020-01-01 | 2024-01-08 |
 
 - **One commit per version.** Each commit holds the whole text of the law as the LY record shows it for that version (one file per article, `structure.md` for the order and headings). The author is the amending law (`<law><action> (<promulgation day>)`, e.g. `公司法修正 (2018-08-01)`) at an address that cannot exist, so `git blame` names the amendment that last changed a line.
 - **Dates.** `In-force:` (and the author date) is the commencement day (施行) the LY record states; where it states none, the third day counted from promulgation (中央法規標準法 §13: a law that takes effect on promulgation takes effect from the third day counted from that day). Where a later version would take effect before an earlier amendment it already contains, it is dated by that amendment's day (the trailer `In-force-basis:` says so). Days before 1970 are clamped to 1970-01-01 in the git date only. The commit (committer) date is the day the block was appended, so `git log --before` does not work here: use the `In-force:` trailer or `tools/on_date.py`, which read it.
