@@ -251,6 +251,27 @@ For the laws below, every version that 立法院法律系統 (https://lis.ly.gov
 | `law-i0020024/` | 信託法 | 2 | 1996-01-28 | 2009-11-23 |
 | `law-i0020026/` | 政府資訊公開法 | 1 | 2005-12-30 | 2005-12-30 |
 | `law-f0120002/` | 妨害兵役治罪條例 | 13 | 1940-07-01 | 2022-05-20 |
+| `law-i0070001/` | 政風機構人員設置管理條例 | 2 | 1992-07-03 | 2013-04-01 |
+| `law-i0070001/` | 政風機構人員設置管理條例 | 2 | 1992-07-03 | 2013-04-01 |
+| `law-g0360022/` | 中央政府建設公債及借款條例 | 7 | 1975-06-02 | 2002-05-31 |
+| `law-g0360028/` | 中央政府興建臺灣北部區域第二高速公路建設公債發行條例 | 1 | 1987-01-28 | 1987-01-28 |
+| `law-g0360017/` | 中央政府興建臺灣區高速公路第一期工程建設公債發行條例 | 3 | 1971-01-27 | 1974-01-27 |
+| `law-g0360009/` | 中國農民銀行土地債券法 | 3 | 1942-03-28 | 1949-01-14 |
+| `law-g0380010/` | 中國輸出入銀行條例 | 3 | 1978-07-23 | 2015-07-03 |
+| `law-g0360012/` | 中華民國五十七年度愛國公債發行條例 | 1 | 1967-06-11 | 1967-06-11 |
+| `law-g0360010/` | 中華民國五十五年度愛國公債發行條例 | 1 | 1965-05-16 | 1965-05-16 |
+| `law-g0360011/` | 中華民國五十六年度愛國公債發行條例 | 1 | 1966-06-11 | 1966-06-11 |
+| `law-g0360013/` | 中華民國六十一年度公債發行條例 | 2 | 1971-06-11 | 1974-01-27 |
+| `law-g0360014/` | 中華民國六十二年度公債發行條例 | 2 | 1972-06-05 | 1974-01-27 |
+| `law-g0360033/` | 公共債務法 | 5 | 1996-01-19 | 2021-07-02 |
+| `law-g0320001/` | 公庫法 | 4 | 1939-10-01 | 2009-05-08 |
+| `law-g0380187/` | 公益彩券發行條例 | 5 | 1995-07-07 | 2016-11-11 |
+| `law-g0380185/` | 日據時代株式會社台灣銀行海外分支機構存款及匯款處理條例 | 3 | 2000-07-21 | 2001-06-15 |
+| `law-g0360004/` | 民國三十八年整理美金公債條例 | 1 | 1949-06-25 | 1949-06-25 |
+| `law-i0070001/` | 政風機構人員設置管理條例 | 2 | 1992-07-03 | 2013-04-01 |
+| `law-g0360022/` | 中央政府建設公債及借款條例 | 7 | 1975-06-02 | 2002-05-31 |
+| `law-g0360028/` | 中央政府興建臺灣北部區域第二高速公路建設公債發行條例 | 1 | 1987-01-28 | 1987-01-28 |
+| `law-g0360017/` | 中央政府興建臺灣區高速公路第一期工程建設公債發行條例 | 3 | 1971-01-27 | 1974-01-27 |
 
 - **One commit per version.** Each commit holds the whole text of the law as the LY record shows it for that version (one file per article, `structure.md` for the order and headings). The author is the amending law (`<law><action> (<promulgation day>)`, e.g. `公司法修正 (2018-08-01)`) at an address that cannot exist, so `git blame` names the amendment that last changed a line.
 - **Dates.** `In-force:` (and the author date) is the commencement day (施行) the LY record states; where it states none, the third day counted from promulgation (中央法規標準法 §13: a law that takes effect on promulgation takes effect from the third day counted from that day). Where a later version would take effect before an earlier amendment it already contains, it is dated by that amendment's day (the trailer `In-force-basis:` says so). Days before 1970 are clamped to 1970-01-01 in the git date only. The commit (committer) date is the day the block was appended, so `git log --before` does not work here: use the `In-force:` trailer or `tools/on_date.py`, which read it.
