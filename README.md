@@ -551,6 +551,21 @@ For the laws below, every version that 立法院法律系統 (https://lis.ly.gov
 | `law-s0000013/` | 公務人員保障暨培訓委員會組織法 | 3 | 1996-01-28 | 2010-02-10 |
 | `law-s0080006/` | 公務人員退休撫卹基金管理條例 | 3 | 1995-07-01 | 2023-05-12 |
 | `law-s0050004/` | 公務人員訓練進修法 | 2 | 2002-02-01 | 2013-12-13 |
+| `law-s0110033/` | 公務人員陞遷法 | 3 | 2000-07-16 | 2023-05-19 |
+| `law-s0020038/` | 公務員服務法 | 6 | 1939-10-25 | 2022-06-24 |
+| `law-s0070001/` | 公教人員保險法 | 16 | 1958-01-31 | 2024-01-05 |
+| `law-s0080033/` | 公職人員年資併社團專職人員年資計發退離給與處理條例 | 1 | 2017-05-12 | 2017-05-12 |
+| `law-s0110033/` | 公務人員陞遷法 | 3 | 2000-07-16 | 2023-05-19 |
+| `law-s0020038/` | 公務員服務法 | 6 | 1939-10-25 | 2022-06-24 |
+| `law-s0070001/` | 公教人員保險法 | 16 | 1958-01-31 | 2024-01-05 |
+| `law-s0080033/` | 公職人員年資併社團專職人員年資計發退離給與處理條例 | 1 | 2017-05-12 | 2017-05-12 |
+| `law-r0000001/` | 考選部組織法 | 4 | 1948-07-23 | 2023-09-01 |
+| `law-r0020001/` | 典試法 | 5 | 1988-11-13 | 2023-12-01 |
+| `law-r0030060/` | 後備軍人轉任公職考試比敘條例 | 2 | 1967-06-24 | 2002-02-01 |
+| `law-s0000009/` | 國家文官學院組織法 | 2 | 1998-11-13 | 2010-03-26 |
+| `law-r0040001/` | 專門職業及技術人員考試法 | 13 | 1986-01-26 | 2023-12-01 |
+| `law-s0020033/` | 專門職業及技術人員轉任公務人員條例 | 5 | 1993-08-06 | 2022-12-30 |
+| `law-h0150017/` | 教育人員任用條例 | 13 | 1985-05-03 | 2014-01-24 |
 
 - **One commit per version.** Each commit holds the whole text of the law as the LY record shows it for that version (one file per article, `structure.md` for the order and headings). The author is the amending law (`<law><action> (<promulgation day>)`, e.g. `公司法修正 (2018-08-01)`) at an address that cannot exist, so `git blame` names the amendment that last changed a line.
 - **Dates.** `In-force:` (and the author date) is the commencement day (施行) the LY record states; where it states none, the third day counted from promulgation (中央法規標準法 §13: a law that takes effect on promulgation takes effect from the third day counted from that day). Where a later version would take effect before an earlier amendment it already contains, it is dated by that amendment's day (the trailer `In-force-basis:` says so). Days before 1970 are clamped to 1970-01-01 in the git date only. The commit (committer) date is the day the block was appended, so `git log --before` does not work here: use the `In-force:` trailer or `tools/on_date.py`, which read it.
