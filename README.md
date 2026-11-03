@@ -463,6 +463,31 @@ For the laws below, every version that 立法院法律系統 (https://lis.ly.gov
 | `law-j0020025/` | 土石採取法 | 5 | 2003-02-08 | 2026-08-07 |
 | `law-j0000028/` | 工業技術研究院設置條例 | 2 | 1973-02-02 | 1981-05-22 |
 | `law-j0030043/` | 工廠管理輔導法 | 5 | 2001-03-16 | 2024-05-26 |
+| `law-j0140001/` | 中小企業發展條例 | 10 | 1991-02-06 | 2024-08-09 |
+| `law-j0000034/` | 中華經濟研究院設置條例 | 1 | 1981-02-04 | 1981-02-04 |
+| `law-j0130045/` | 天然氣事業法 | 5 | 2011-02-03 | 2026-01-07 |
+| `law-j0110001/` | 水利法 | 18 | 1943-04-01 | 2023-12-01 |
+| `law-j0040002/` | 外國人投資條例 | 11 | 1954-07-16 | 1997-11-21 |
+| `law-j0040046/` | 生技醫藥產業發展條例 | 3 | 2007-07-06 | 2022-01-01 |
+| `law-j0020019/` | 石油管理法 | 6 | 2001-10-13 | 2023-06-30 |
+| `law-j0080041/` | 企業併購法 | 4 | 2002-02-08 | 2022-06-17 |
+| `law-j0070030/` | 光碟管理條例 | 4 | 2001-11-16 | 2016-12-02 |
+| `law-j0110094/` | 再生水資源發展條例 | 2 | 2016-01-01 | 2022-05-20 |
+| `law-j0130032/` | 再生能源發展條例 | 4 | 2009-07-10 | 2025-06-13 |
+| `law-j0140001/` | 中小企業發展條例 | 10 | 1991-02-06 | 2024-08-09 |
+| `law-j0000034/` | 中華經濟研究院設置條例 | 1 | 1981-02-04 | 1981-02-04 |
+| `law-j0130045/` | 天然氣事業法 | 5 | 2011-02-03 | 2026-01-07 |
+| `law-j0110001/` | 水利法 | 18 | 1943-04-01 | 2023-12-01 |
+| `law-j0040002/` | 外國人投資條例 | 11 | 1954-07-16 | 1997-11-21 |
+| `law-j0040046/` | 生技醫藥產業發展條例 | 3 | 2007-07-06 | 2022-01-01 |
+| `law-j0020019/` | 石油管理法 | 6 | 2001-10-13 | 2023-06-30 |
+| `law-j0080041/` | 企業併購法 | 4 | 2002-02-08 | 2022-06-17 |
+| `law-j0070030/` | 光碟管理條例 | 4 | 2001-11-16 | 2016-12-02 |
+| `law-j0110094/` | 再生水資源發展條例 | 2 | 2016-01-01 | 2022-05-20 |
+| `law-j0130032/` | 再生能源發展條例 | 4 | 2009-07-10 | 2025-06-13 |
+| `law-j0080065/` | 因應國際情勢強化經濟社會及民生國安韌性特別條例 | 2 | 2025-08-03 | 2025-09-07 |
+| `law-j0090030/` | 因應貿易自由化調整支援條例 | 1 | 2016-01-01 | 2016-01-01 |
+| `law-j0080017/` | 在臺公司大陸地區股東股權行使條例 | 3 | 1964-04-26 | 1992-07-29 |
 
 - **One commit per version.** Each commit holds the whole text of the law as the LY record shows it for that version (one file per article, `structure.md` for the order and headings). The author is the amending law (`<law><action> (<promulgation day>)`, e.g. `公司法修正 (2018-08-01)`) at an address that cannot exist, so `git blame` names the amendment that last changed a line.
 - **Dates.** `In-force:` (and the author date) is the commencement day (施行) the LY record states; where it states none, the third day counted from promulgation (中央法規標準法 §13: a law that takes effect on promulgation takes effect from the third day counted from that day). Where a later version would take effect before an earlier amendment it already contains, it is dated by that amendment's day (the trailer `In-force-basis:` says so). Days before 1970 are clamped to 1970-01-01 in the git date only. The commit (committer) date is the day the block was appended, so `git log --before` does not work here: use the `In-force:` trailer or `tools/on_date.py`, which read it.
