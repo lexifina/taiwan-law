@@ -381,6 +381,27 @@ For the laws below, every version that 立法院法律系統 (https://lis.ly.gov
 | `law-f0040033/` | 後備軍人召集優待條例 | 1 | 2022-01-01 | 2022-01-01 |
 | `law-f0070001/` | 要塞堡壘地帶法 | 5 | 1931-09-20 | 2002-04-19 |
 | `law-f0050001/` | 軍人保險條例 | 8 | 1953-11-21 | 2022-02-10 |
+| `law-f0080007/` | 軍事教育條例 | 6 | 1999-07-16 | 2016-11-11 |
+| `law-f0120008/` | 軍事審判法 | 10 | 1956-10-01 | 2019-04-05 |
+| `law-f0120009/` | 軍事審判法施行法 | 2 | 1956-10-01 | 1999-10-03 |
+| `law-f0120006/` | 海上捕獲條例 | 2 | 1932-12-17 | 1955-06-05 |
+| `law-s0020049/` | 司法人員人事條例 | 6 | 1989-12-24 | 2024-01-05 |
+| `law-s0020019/` | 軍法人員轉任司法官條例 | 1 | 1944-10-20 | 1944-10-20 |
+| `law-k0050015/` | 郵政儲金匯兌法 | 2 | 2003-01-01 | 2014-03-20 |
+| `law-k0050011/` | 簡易人壽保險法 | 15 | 1935-12-01 | 2023-12-01 |
+| `law-k0120001/` | 大眾捷運法 | 9 | 1988-07-03 | 2026-01-16 |
+| `law-k0120010/` | 公營大眾捷運股份有限公司設置管理條例 | 2 | 1997-05-30 | 2002-04-26 |
+| `law-k0070028/` | 引水法 | 7 | 1946-04-01 | 2026-08-19 |
+| `law-s0020009/` | 交通事業人員任用條例 | 4 | 1947-12-24 | 2003-05-30 |
+| `law-l0070024/` | 人工生殖法 | 2 | 2007-03-23 | 2018-01-05 |
+| `law-l0050004/` | 人類免疫缺乏病毒傳染防治及感染者權益保障條例 | 10 | 1990-12-19 | 2021-01-22 |
+| `law-l0020164/` | 人體生物資料庫管理條例 | 5 | 2010-02-05 | 2021-01-22 |
+| `law-l0020176/` | 人體研究法 | 2 | 2011-12-30 | 2019-01-04 |
+| `law-l0020024/` | 人體器官移植條例 | 7 | 1987-06-21 | 2023-01-01 |
+| `law-l0070009/` | 口腔健康法 | 2 | 2003-05-23 | 2017-01-13 |
+| `law-l0000097/` | 中醫藥發展法 | 1 | 2020-01-02 | 2020-01-02 |
+| `law-l0070036/` | 公共場所母乳哺育條例 | 3 | 2010-11-26 | 2019-04-26 |
+| `law-l0020216/` | 公共衛生師法 | 1 | 2020-06-05 | 2020-06-05 |
 
 - **One commit per version.** Each commit holds the whole text of the law as the LY record shows it for that version (one file per article, `structure.md` for the order and headings). The author is the amending law (`<law><action> (<promulgation day>)`, e.g. `公司法修正 (2018-08-01)`) at an address that cannot exist, so `git blame` names the amendment that last changed a line.
 - **Dates.** `In-force:` (and the author date) is the commencement day (施行) the LY record states; where it states none, the third day counted from promulgation (中央法規標準法 §13: a law that takes effect on promulgation takes effect from the third day counted from that day). Where a later version would take effect before an earlier amendment it already contains, it is dated by that amendment's day (the trailer `In-force-basis:` says so). Days before 1970 are clamped to 1970-01-01 in the git date only. The commit (committer) date is the day the block was appended, so `git log --before` does not work here: use the `In-force:` trailer or `tools/on_date.py`, which read it.
