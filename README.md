@@ -591,6 +591,18 @@ For the laws below, every version that 立法院法律系統 (https://lis.ly.gov
 | `law-j0160001/` | 原子能法 | 2 | 1968-05-11 | 1971-12-26 |
 | `law-j0160019/` | 核子反應器設施管制法 | 2 | 2003-01-17 | 2025-05-25 |
 | `law-j0160056/` | 核子事故緊急應變法 | 2 | 2005-07-01 | 2023-06-30 |
+| `law-j0160003/` | 核子損害賠償法 | 3 | 1971-07-28 | 1997-05-16 |
+| `law-j0160003/` | 核子損害賠償法 | 3 | 1971-07-28 | 1997-05-16 |
+| `law-g0300040/` | 國家金融安定基金設置及管理條例 | 2 | 2000-02-11 | 2016-11-11 |
+| `law-k0000146/` | 國家運輸安全調查委員會組織法 | 2 | 2012-05-20 | 2019-08-01 |
+| `law-k0090057/` | 運輸事故調查法 | 3 | 2004-06-04 | 2019-04-26 |
+| `law-i0030001/` | 引渡法 | 2 | 1954-04-19 | 1980-07-06 |
+| `law-e0030012/` | 外交部及駐外館處文件證明條例 | 2 | 2011-11-16 | 2017-11-24 |
+| `law-e0030002/` | 外國護照簽證條例 | 2 | 1999-06-04 | 2003-01-24 |
+| `law-e0020013/` | 國際合作發展法 | 1 | 2010-06-17 | 2010-06-17 |
+| `law-e0000012/` | 國際合作發展基金會設置條例 | 3 | 1996-01-17 | 2013-05-24 |
+| `law-e0020021/` | 條約締結法 | 1 | 2015-07-03 | 2015-07-03 |
+| `law-e0000017/` | 駐外機構組織通則 | 2 | 2012-09-01 | 2018-06-15 |
 
 - **One commit per version.** Each commit holds the whole text of the law as the LY record shows it for that version (one file per article, `structure.md` for the order and headings). The author is the amending law (`<law><action> (<promulgation day>)`, e.g. `公司法修正 (2018-08-01)`) at an address that cannot exist, so `git blame` names the amendment that last changed a line.
 - **Dates.** `In-force:` (and the author date) is the commencement day (施行) the LY record states; where it states none, the third day counted from promulgation (中央法規標準法 §13: a law that takes effect on promulgation takes effect from the third day counted from that day). Where a later version would take effect before an earlier amendment it already contains, it is dated by that amendment's day (the trailer `In-force-basis:` says so). Days before 1970 are clamped to 1970-01-01 in the git date only. The commit (committer) date is the day the block was appended, so `git log --before` does not work here: use the `In-force:` trailer or `tools/on_date.py`, which read it.
