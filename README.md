@@ -402,6 +402,21 @@ For the laws below, every version that 立法院法律系統 (https://lis.ly.gov
 | `law-l0000097/` | 中醫藥發展法 | 1 | 2020-01-02 | 2020-01-02 |
 | `law-l0070036/` | 公共場所母乳哺育條例 | 3 | 2010-11-26 | 2019-04-26 |
 | `law-l0020216/` | 公共衛生師法 | 1 | 2020-06-05 | 2020-06-05 |
+| `law-l0030013/` | 化粧品衛生安全管理法 | 8 | 1972-12-30 | 2018-05-04 |
+| `law-l0020098/` | 心理師法 | 4 | 2001-11-23 | 2020-01-17 |
+| `law-l0020150/` | 牙體技術師法 | 2 | 2009-01-25 | 2020-01-17 |
+| `law-l0030013/` | 化粧品衛生安全管理法 | 8 | 1972-12-30 | 2018-05-04 |
+| `law-l0020098/` | 心理師法 | 4 | 2001-11-23 | 2020-01-17 |
+| `law-l0020150/` | 牙體技術師法 | 2 | 2009-01-25 | 2020-01-17 |
+| `law-l0020188/` | 生產事故救濟條例 | 1 | 2016-01-01 | 2016-01-01 |
+| `law-l0020066/` | 安寧緩和醫療條例 | 5 | 2000-06-09 | 2021-01-22 |
+| `law-l0020213/` | 自殺防治法 | 1 | 2019-06-21 | 2019-06-21 |
+| `law-l0020118/` | 血液製劑條例 | 2 | 2005-01-21 | 2019-01-04 |
+| `law-l0070003/` | 助產人員法 | 11 | 1943-10-02 | 2020-01-17 |
+| `law-l0030003/` | 罕見疾病防治及藥物法 | 4 | 2000-02-11 | 2015-01-16 |
+| `law-l0020099/` | 呼吸治療師法 | 5 | 2002-01-18 | 2020-01-17 |
+| `law-l0070039/` | 油症患者健康照護服務條例 | 2 | 2015-02-06 | 2016-11-18 |
+| `law-l0020044/` | 物理治療師法 | 8 | 1995-02-05 | 2023-02-10 |
 
 - **One commit per version.** Each commit holds the whole text of the law as the LY record shows it for that version (one file per article, `structure.md` for the order and headings). The author is the amending law (`<law><action> (<promulgation day>)`, e.g. `公司法修正 (2018-08-01)`) at an address that cannot exist, so `git blame` names the amendment that last changed a line.
 - **Dates.** `In-force:` (and the author date) is the commencement day (施行) the LY record states; where it states none, the third day counted from promulgation (中央法規標準法 §13: a law that takes effect on promulgation takes effect from the third day counted from that day). Where a later version would take effect before an earlier amendment it already contains, it is dated by that amendment's day (the trailer `In-force-basis:` says so). Days before 1970 are clamped to 1970-01-01 in the git date only. The commit (committer) date is the day the block was appended, so `git log --before` does not work here: use the `In-force:` trailer or `tools/on_date.py`, which read it.
