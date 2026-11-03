@@ -369,6 +369,18 @@ For the laws below, every version that 立法院法律系統 (https://lis.ly.gov
 | `law-d0070195/` | 住宅法 | 5 | 2012-01-01 | 2026-03-06 |
 | `law-k0000001/` | 交通部組織法 | 20 | 1928-12-10 | 2023-09-15 |
 | `law-k0000033/` | 交通部運輸研究所組織條例 | 3 | 1984-01-06 | 2001-08-01 |
+| `law-d0120014/` | 災害防救法 | 12 | 2000-07-21 | 2025-05-30 |
+| `law-d0080079/` | 性侵害犯罪防治法 | 8 | 1997-01-24 | 2023-02-17 |
+| `law-f0070013/` | 全民防衛動員準備法 | 3 | 2001-11-16 | 2019-06-21 |
+| `law-f0080014/` | 全民國防教育法 | 1 | 2005-02-04 | 2005-02-04 |
+| `law-f0040002/` | 兵役法施行法 | 17 | 1947-02-21 | 2020-06-15 |
+| `law-f0070002/` | 戒嚴法 | 3 | 1934-12-01 | 1949-01-16 |
+| `law-f0120018/` | 戒嚴時期不當叛亂暨匪諜審判案件補償條例 | 4 | 1998-06-19 | 2006-12-20 |
+| `law-f0030012/` | 空軍勛獎條例 | 2 | 1945-06-16 | 1949-01-12 |
+| `law-f0020007/` | 保衛國家安全及強化不對稱戰力計畫採購特別條例 | 1 | 2026-05-13 | 2026-05-13 |
+| `law-f0040033/` | 後備軍人召集優待條例 | 1 | 2022-01-01 | 2022-01-01 |
+| `law-f0070001/` | 要塞堡壘地帶法 | 5 | 1931-09-20 | 2002-04-19 |
+| `law-f0050001/` | 軍人保險條例 | 8 | 1953-11-21 | 2022-02-10 |
 
 - **One commit per version.** Each commit holds the whole text of the law as the LY record shows it for that version (one file per article, `structure.md` for the order and headings). The author is the amending law (`<law><action> (<promulgation day>)`, e.g. `公司法修正 (2018-08-01)`) at an address that cannot exist, so `git blame` names the amendment that last changed a line.
 - **Dates.** `In-force:` (and the author date) is the commencement day (施行) the LY record states; where it states none, the third day counted from promulgation (中央法規標準法 §13: a law that takes effect on promulgation takes effect from the third day counted from that day). Where a later version would take effect before an earlier amendment it already contains, it is dated by that amendment's day (the trailer `In-force-basis:` says so). Days before 1970 are clamped to 1970-01-01 in the git date only. The commit (committer) date is the day the block was appended, so `git log --before` does not work here: use the `In-force:` trailer or `tools/on_date.py`, which read it.
