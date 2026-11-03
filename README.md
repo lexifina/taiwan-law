@@ -155,6 +155,20 @@ For the laws below, every version that 立法院法律系統 (https://lis.ly.gov
 | `law-d0000008/` | 內政部營建署組織條例 | 1 | 1981-01-23 | 1981-01-23 |
 | `law-d0050103/` | 工業團體法 | 5 | 1974-12-30 | 2021-01-29 |
 | `law-d0060076/` | 不動產估價師法 | 8 | 2000-10-06 | 2024-08-09 |
+| `law-d0070007/` | 市區道路條例 | 4 | 1965-01-30 | 2026-09-01 |
+| `law-d0070007/` | 市區道路條例 | 4 | 1965-01-30 | 2026-09-01 |
+| `law-d0060009/` | 平均地權條例 | 25 | 1954-08-28 | 2023-02-10 |
+| `law-d0070046/` | 共同管道法 | 1 | 2000-06-16 | 2000-06-16 |
+| `law-d0050112/` | 合作社法 | 9 | 1935-09-01 | 2015-06-05 |
+| `law-a0040003/` | 地方制度法 | 17 | 1999-01-27 | 2025-12-05 |
+| `law-d0060081/` | 地政士法 | 7 | 2001-10-26 | 2021-01-29 |
+| `law-d0060089/` | 地籍清理條例 | 4 | 2008-07-01 | 2023-02-10 |
+| `law-a0030002/` | 卸任總統副總統禮遇條例 | 5 | 1978-05-05 | 2010-09-03 |
+| `law-d0030011/` | 姓名條例 | 10 | 1953-03-09 | 2024-05-31 |
+| `law-d0050138/` | 公益勸募條例 | 2 | 2006-05-19 | 2020-01-17 |
+| `law-d0050037/` | 老人福利法 | 11 | 1980-01-28 | 2025-08-03 |
+| `law-d0050131/` | 志願服務法 | 4 | 2001-01-22 | 2020-01-17 |
+| `law-d0050125/` | 社會工作師法 | 9 | 1997-04-04 | 2023-06-11 |
 
 - **One commit per version.** Each commit holds the whole text of the law as the LY record shows it for that version (one file per article, `structure.md` for the order and headings). The author is the amending law (`<law><action> (<promulgation day>)`, e.g. `公司法修正 (2018-08-01)`) at an address that cannot exist, so `git blame` names the amendment that last changed a line.
 - **Dates.** `In-force:` (and the author date) is the commencement day (施行) the LY record states; where it states none, the third day counted from promulgation (中央法規標準法 §13: a law that takes effect on promulgation takes effect from the third day counted from that day). Where a later version would take effect before an earlier amendment it already contains, it is dated by that amendment's day (the trailer `In-force-basis:` says so). Days before 1970 are clamped to 1970-01-01 in the git date only. The commit (committer) date is the day the block was appended, so `git log --before` does not work here: use the `In-force:` trailer or `tools/on_date.py`, which read it.
