@@ -54,6 +54,12 @@ For the laws below, every version that 立法院法律系統 (https://lis.ly.gov
 
 <!-- /ly-history -->
 
+<!-- moj-breadth -->
+## Current-text acts (全國法規資料庫)
+
+213 further laws and regulations have their current text, one commit each, listed in [ACTS.md](ACTS.md). Pages that say some of their text is not yet in force, and repealed acts, are not included.
+<!-- /moj-breadth -->
+
 ## Questions as git commands
 
 | Question | Command |
