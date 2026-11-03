@@ -3,7 +3,7 @@
   "name": "Laws of the Republic of China (Taiwan)",
   "label": "Taiwan",
   "language": "zh",
-  "acts": 6987,
+  "acts": 7380,
   "history": "versions for some laws, current text for others",
   "history_from": "1928-05-16",
   "record_to": "2026-09-25",
@@ -520,7 +520,7 @@
   ],
   "current_text_acts": {
     "source": "https://law.moj.gov.tw/",
-    "count": 6961,
+    "count": 7354,
     "list": "ACTS.md",
     "in_force": "page date + 2 days (中央法規標準法 §13)"
   }
