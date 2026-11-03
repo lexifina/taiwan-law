@@ -293,6 +293,26 @@ For the laws below, every version that 立法院法律系統 (https://lis.ly.gov
 | `law-g0340115/` | 所得基本稅額條例 | 4 | 2005-12-30 | 2023-01-01 |
 | `law-g0340105/` | 契稅條例 | 13 | 1943-05-17 | 2010-05-07 |
 | `law-g0360023/` | 政府發展經濟社會向國外借款及保證條例 | 7 | 1967-05-17 | 1982-06-18 |
+| `law-g0320003/` | 國庫法 | 4 | 1948-11-17 | 2002-05-17 |
+| `law-g0380169/` | 不動產證券化條例 | 4 | 2003-07-25 | 2017-12-08 |
+| `law-g0320003/` | 國庫法 | 4 | 1948-11-17 | 2002-05-17 |
+| `law-g0380169/` | 不動產證券化條例 | 4 | 2003-07-25 | 2017-12-08 |
+| `law-g0380039/` | 存款保險條例 | 8 | 1985-01-11 | 2015-02-06 |
+| `law-g0380117/` | 行政院金融重建基金設置及管理條例 | 4 | 2001-07-11 | 2015-07-03 |
+| `law-g0380226/` | 金融消費者保護法 | 5 | 2011-12-30 | 2024-02-01 |
+| `law-g0380112/` | 金融控股公司法 | 11 | 2001-11-01 | 2019-01-18 |
+| `law-g0380122/` | 金融資產證券化條例 | 2 | 2002-07-26 | 2014-06-06 |
+| `law-g0300045/` | 金融監督管理委員會保險局組織法 | 2 | 2008-01-11 | 2012-07-01 |
+| `law-g0300035/` | 金融監督管理委員會組織法 | 2 | 2004-07-01 | 2012-07-01 |
+| `law-g0300043/` | 金融監督管理委員會銀行局組織法 | 2 | 2008-01-11 | 2012-07-01 |
+| `law-g0300046/` | 金融監督管理委員會檢查局組織法 | 2 | 2008-01-11 | 2012-07-01 |
+| `law-g0300044/` | 金融監督管理委員會證券期貨局組織法 | 2 | 2008-01-11 | 2012-07-01 |
+| `law-g0380098/` | 金融機構合併法 | 2 | 2000-12-15 | 2015-12-11 |
+| `law-g0380058/` | 信用合作社法 | 9 | 1993-12-05 | 2018-02-02 |
+| `law-g0310027/` | 信託業法 | 8 | 2000-07-21 | 2018-02-02 |
+| `law-g0380024/` | 動產擔保交易法 | 4 | 1965-06-10 | 2007-07-13 |
+| `law-g0380037/` | 國際金融業務條例 | 9 | 1983-12-14 | 2025-07-18 |
+| `law-g0390060/` | 強制汽車責任保險法 | 6 | 1998-01-01 | 2022-11-30 |
 
 - **One commit per version.** Each commit holds the whole text of the law as the LY record shows it for that version (one file per article, `structure.md` for the order and headings). The author is the amending law (`<law><action> (<promulgation day>)`, e.g. `公司法修正 (2018-08-01)`) at an address that cannot exist, so `git blame` names the amendment that last changed a line.
 - **Dates.** `In-force:` (and the author date) is the commencement day (施行) the LY record states; where it states none, the third day counted from promulgation (中央法規標準法 §13: a law that takes effect on promulgation takes effect from the third day counted from that day). Where a later version would take effect before an earlier amendment it already contains, it is dated by that amendment's day (the trailer `In-force-basis:` says so). Days before 1970 are clamped to 1970-01-01 in the git date only. The commit (committer) date is the day the block was appended, so `git log --before` does not work here: use the `In-force:` trailer or `tools/on_date.py`, which read it.
