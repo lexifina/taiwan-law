@@ -566,6 +566,31 @@ For the laws below, every version that 立法院法律系統 (https://lis.ly.gov
 | `law-r0040001/` | 專門職業及技術人員考試法 | 13 | 1986-01-26 | 2023-12-01 |
 | `law-s0020033/` | 專門職業及技術人員轉任公務人員條例 | 5 | 1993-08-06 | 2022-12-30 |
 | `law-h0150017/` | 教育人員任用條例 | 13 | 1985-05-03 | 2014-01-24 |
+| `law-s0020014/` | 聘用人員聘用條例 | 2 | 1969-04-30 | 1972-02-05 |
+| `law-s0000001/` | 銓敘部組織法 | 11 | 1928-12-19 | 2023-04-28 |
+| `law-s0020004/` | 審計人員任用條例 | 3 | 1961-05-21 | 2023-12-01 |
+| `law-s0020007/` | 駐外外交領事人員任用條例 | 8 | 1959-06-20 | 2018-01-19 |
+| `law-l0020009/` | 醫事人員人事條例 | 2 | 2000-01-16 | 2006-08-01 |
+| `law-i0070008/` | 公職人員利益衝突迴避法 | 3 | 2000-07-14 | 2018-06-15 |
+| `law-s0020014/` | 聘用人員聘用條例 | 2 | 1969-04-30 | 1972-02-05 |
+| `law-s0000001/` | 銓敘部組織法 | 11 | 1928-12-19 | 2023-04-28 |
+| `law-s0020004/` | 審計人員任用條例 | 3 | 1961-05-21 | 2023-12-01 |
+| `law-s0020007/` | 駐外外交領事人員任用條例 | 8 | 1959-06-20 | 2018-01-19 |
+| `law-l0020009/` | 醫事人員人事條例 | 2 | 2000-01-16 | 2006-08-01 |
+| `law-i0070008/` | 公職人員利益衝突迴避法 | 3 | 2000-07-14 | 2018-06-15 |
+| `law-i0070005/` | 公職人員財產申報法 | 9 | 1993-09-01 | 2023-01-01 |
+| `law-u0010001/` | 審計法 | 7 | 1938-05-05 | 2015-12-11 |
+| `law-u0000002/` | 審計處室組織通則 | 3 | 1949-05-29 | 1981-04-12 |
+| `law-u0000001/` | 審計部組織法 | 12 | 1929-10-31 | 2026-01-23 |
+| `law-j0000048/` | 行政院原子能委員會放射性物料管理局組織條例 | 2 | 1980-11-30 | 1996-01-28 |
+| `law-j0000045/` | 行政院原子能委員會核能研究所組織條例 | 1 | 1990-01-07 | 1990-01-07 |
+| `law-j0000040/` | 行政院原子能委員會組織條例 | 3 | 1970-12-05 | 1992-11-25 |
+| `law-j0000047/` | 行政院原子能委員會輻射偵測中心組織條例 | 2 | 1980-11-26 | 1996-07-19 |
+| `law-j0160079/` | 低放射性廢棄物最終處置設施場址設置條例 | 1 | 2006-05-26 | 2006-05-26 |
+| `law-j0160015/` | 放射性物料管理法 | 1 | 2002-12-27 | 2002-12-27 |
+| `law-j0160001/` | 原子能法 | 2 | 1968-05-11 | 1971-12-26 |
+| `law-j0160019/` | 核子反應器設施管制法 | 2 | 2003-01-17 | 2025-05-25 |
+| `law-j0160056/` | 核子事故緊急應變法 | 2 | 2005-07-01 | 2023-06-30 |
 
 - **One commit per version.** Each commit holds the whole text of the law as the LY record shows it for that version (one file per article, `structure.md` for the order and headings). The author is the amending law (`<law><action> (<promulgation day>)`, e.g. `公司法修正 (2018-08-01)`) at an address that cannot exist, so `git blame` names the amendment that last changed a line.
 - **Dates.** `In-force:` (and the author date) is the commencement day (施行) the LY record states; where it states none, the third day counted from promulgation (中央法規標準法 §13: a law that takes effect on promulgation takes effect from the third day counted from that day). Where a later version would take effect before an earlier amendment it already contains, it is dated by that amendment's day (the trailer `In-force-basis:` says so). Days before 1970 are clamped to 1970-01-01 in the git date only. The commit (committer) date is the day the block was appended, so `git log --before` does not work here: use the `In-force:` trailer or `tools/on_date.py`, which read it.
