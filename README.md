@@ -646,6 +646,19 @@ For the laws below, every version that 立法院法律系統 (https://lis.ly.gov
 | `law-p0000006/` | 中央通訊社設置條例 | 2 | 1996-01-19 | 1999-01-22 |
 | `law-p0050025/` | 公共電視法 | 7 | 1997-06-20 | 2026-02-06 |
 | `law-h0170151/` | 文化基本法 | 1 | 2019-06-07 | 2019-06-07 |
+| `law-h0170075/` | 文化創意產業發展法 | 3 | 2010-08-30 | 2023-06-02 |
+| `law-h0170001/` | 文化資產保存法 | 10 | 1982-05-28 | 2026-07-03 |
+| `law-h0170075/` | 文化創意產業發展法 | 3 | 2010-08-30 | 2023-06-02 |
+| `law-h0170001/` | 文化資產保存法 | 10 | 1982-05-28 | 2026-07-03 |
+| `law-h0170006/` | 文化藝術獎助及促進條例 | 3 | 1992-07-03 | 2021-05-21 |
+| `law-h0170102/` | 水下文化資產保存法 | 2 | 2015-12-11 | 2022-12-02 |
+| `law-h0000056/` | 國家文化藝術基金會設置條例 | 2 | 1994-10-19 | 2017-12-15 |
+| `law-h0000144/` | 國家表演藝術中心設置條例 | 1 | 2014-01-31 | 2014-01-31 |
+| `law-h0170143/` | 國家語言發展法 | 1 | 2019-01-11 | 2019-01-11 |
+| `law-h0170101/` | 博物館法 | 1 | 2015-07-03 | 2015-07-03 |
+| `law-h0170075/` | 文化創意產業發展法 | 3 | 2010-08-30 | 2023-06-02 |
+| `law-h0170001/` | 文化資產保存法 | 10 | 1982-05-28 | 2026-07-03 |
+| `law-h0170006/` | 文化藝術獎助及促進條例 | 3 | 1992-07-03 | 2021-05-21 |
 
 - **One commit per version.** Each commit holds the whole text of the law as the LY record shows it for that version (one file per article, `structure.md` for the order and headings). The author is the amending law (`<law><action> (<promulgation day>)`, e.g. `公司法修正 (2018-08-01)`) at an address that cannot exist, so `git blame` names the amendment that last changed a line.
 - **Dates.** `In-force:` (and the author date) is the commencement day (施行) the LY record states; where it states none, the third day counted from promulgation (中央法規標準法 §13: a law that takes effect on promulgation takes effect from the third day counted from that day). Where a later version would take effect before an earlier amendment it already contains, it is dated by that amendment's day (the trailer `In-force-basis:` says so). Days before 1970 are clamped to 1970-01-01 in the git date only. The commit (committer) date is the day the block was appended, so `git log --before` does not work here: use the `In-force:` trailer or `tools/on_date.py`, which read it.
