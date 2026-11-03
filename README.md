@@ -313,6 +313,26 @@ For the laws below, every version that 立法院法律系統 (https://lis.ly.gov
 | `law-g0380024/` | 動產擔保交易法 | 4 | 1965-06-10 | 2007-07-13 |
 | `law-g0380037/` | 國際金融業務條例 | 9 | 1983-12-14 | 2025-07-18 |
 | `law-g0390060/` | 強制汽車責任保險法 | 6 | 1998-01-01 | 2022-11-30 |
+| `law-g0380048/` | 現行法規所定貨幣單位折算新臺幣條例 | 1 | 1992-07-19 | 1992-07-19 |
+| `law-g0380048/` | 現行法規所定貨幣單位折算新臺幣條例 | 1 | 1992-07-19 | 1992-07-19 |
+| `law-g0380146/` | 票券金融管理法 | 9 | 2001-07-11 | 2018-12-07 |
+| `law-g0380028/` | 票據法 | 7 | 1929-11-01 | 1987-07-01 |
+| `law-g0380237/` | 電子支付機構管理條例 | 5 | 2015-05-03 | 2023-03-01 |
+| `law-g0380026/` | 管理外匯條例 | 7 | 1949-01-13 | 2009-05-01 |
+| `law-g0400038/` | 證券投資人及期貨交易人保護法 | 5 | 2003-01-01 | 2025-07-18 |
+| `law-k0020040/` | 大眾運輸工具播音語言平等保障法 | 1 | 2000-04-21 | 2000-04-21 |
+| `law-k0020018/` | 交通事業人員考成條例 | 1 | 2002-06-28 | 2002-06-28 |
+| `law-k0000026/` | 交通部中央氣象局附屬氣象測報機構組織通則 | 2 | 1976-11-12 | 1987-12-02 |
+| `law-k0000025/` | 交通部中央氣象局組織條例 | 6 | 1944-04-17 | 1995-01-25 |
+| `law-k0000207/` | 交通部公路局組織法 | 2 | 2023-09-15 | 2026-03-11 |
+| `law-k0000058/` | 交通部公路總局組織法 | 2 | 2002-01-30 | 2018-01-15 |
+| `law-k0000057/` | 交通部民用航空局民航人員訓練所組織條例 | 1 | 2000-02-04 | 2000-02-04 |
+| `law-k0000083/` | 交通部民用航空局所屬航空站組織通則 | 1 | 2003-05-30 | 2003-05-30 |
+| `law-g0380048/` | 現行法規所定貨幣單位折算新臺幣條例 | 1 | 1992-07-19 | 1992-07-19 |
+| `law-g0380146/` | 票券金融管理法 | 9 | 2001-07-11 | 2018-12-07 |
+| `law-g0380028/` | 票據法 | 7 | 1929-11-01 | 1987-07-01 |
+| `law-g0380237/` | 電子支付機構管理條例 | 5 | 2015-05-03 | 2023-03-01 |
+| `law-g0380026/` | 管理外匯條例 | 7 | 1949-01-13 | 2009-05-01 |
 
 - **One commit per version.** Each commit holds the whole text of the law as the LY record shows it for that version (one file per article, `structure.md` for the order and headings). The author is the amending law (`<law><action> (<promulgation day>)`, e.g. `公司法修正 (2018-08-01)`) at an address that cannot exist, so `git blame` names the amendment that last changed a line.
 - **Dates.** `In-force:` (and the author date) is the commencement day (施行) the LY record states; where it states none, the third day counted from promulgation (中央法規標準法 §13: a law that takes effect on promulgation takes effect from the third day counted from that day). Where a later version would take effect before an earlier amendment it already contains, it is dated by that amendment's day (the trailer `In-force-basis:` says so). Days before 1970 are clamped to 1970-01-01 in the git date only. The commit (committer) date is the day the block was appended, so `git log --before` does not work here: use the `In-force:` trailer or `tools/on_date.py`, which read it.
