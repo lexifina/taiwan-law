@@ -78,6 +78,26 @@ For the laws below, every version that 立法院法律系統 (https://lis.ly.gov
 | `bankruptcy-act/` | 破產法 (Bankruptcy Act) | 5 | 1935-10-01 | 2018-06-15 |
 | `family-act/` | 家事事件法 (Family Act) | 5 | 2012-06-01 | 2023-06-23 |
 | `fair-trade-act/` | 公平交易法 (Fair Trade Act) | 9 | 1991-02-06 | 2017-06-16 |
+| `consumer-protection-act/` | 消費者保護法 (Consumer Protection Act) | 4 | 1994-01-13 | 2015-06-19 |
+| `personal-data-protection-act/` | 個人資料保護法 (Personal Data Protection Act) | 5 | 1995-08-13 | 2025-11-13 |
+| `radio-and-television-act/` | 廣播電視法 (Radio and Television Act) | 10 | 1976-01-10 | 2018-06-15 |
+| `university-act/` | 大學法 (University Act) | 16 | 1948-01-14 | 2026-09-25 |
+| `fundamental-law-of-education/` | 教育基本法 (Fundamental Law of Education) | 6 | 1999-06-25 | 2013-12-13 |
+| `arbitration-act/` | 仲裁法 (Arbitration Act) | 7 | 1961-01-22 | 2015-12-04 |
+| `consumer-protection-act/` | 消費者保護法 (Consumer Protection Act) | 4 | 1994-01-13 | 2015-06-19 |
+| `personal-data-protection-act/` | 個人資料保護法 (Personal Data Protection Act) | 5 | 1995-08-13 | 2025-11-13 |
+| `radio-and-television-act/` | 廣播電視法 (Radio and Television Act) | 10 | 1976-01-10 | 2018-06-15 |
+| `university-act/` | 大學法 (University Act) | 16 | 1948-01-14 | 2026-09-25 |
+| `fundamental-law-of-education/` | 教育基本法 (Fundamental Law of Education) | 6 | 1999-06-25 | 2013-12-13 |
+| `arbitration-act/` | 仲裁法 (Arbitration Act) | 7 | 1961-01-22 | 2015-12-04 |
+| `deposit-act/` | 提存法 (Deposit Act) | 4 | 1937-01-09 | 2007-12-14 |
+| `national-pension-act/` | 國民年金法 (National Pension Act) | 12 | 2008-10-01 | 2020-06-05 |
+| `law-c0000002/` | 中華民國刑法施行法 | 17 | 1935-04-03 | 2026-07-24 |
+| `law-a0030155/` | 公務員懲戒法 | 7 | 1931-06-10 | 2020-07-17 |
+| `law-c0010013/` | 公設辯護人條例 | 7 | 1940-07-07 | 2023-07-13 |
+| `law-a0010051/` | 司法院組織法 | 12 | 1947-04-02 | 2022-01-21 |
+| `law-b0010015/` | 民刑事訴訟卷宗滅失案件處理法 | 1 | 1973-05-04 | 1973-05-04 |
+| `law-b0010002/` | 民事訴訟法施行法 | 17 | 1932-05-16 | 2023-12-01 |
 
 - **One commit per version.** Each commit holds the whole text of the law as the LY record shows it for that version (one file per article, `structure.md` for the order and headings). The author is the amending law (`<law><action> (<promulgation day>)`, e.g. `公司法修正 (2018-08-01)`) at an address that cannot exist, so `git blame` names the amendment that last changed a line.
 - **Dates.** `In-force:` (and the author date) is the commencement day (施行) the LY record states; where it states none, the third day counted from promulgation (中央法規標準法 §13: a law that takes effect on promulgation takes effect from the third day counted from that day). Where a later version would take effect before an earlier amendment it already contains, it is dated by that amendment's day (the trailer `In-force-basis:` says so). Days before 1970 are clamped to 1970-01-01 in the git date only. The commit (committer) date is the day the block was appended, so `git log --before` does not work here: use the `In-force:` trailer or `tools/on_date.py`, which read it.
