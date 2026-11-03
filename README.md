@@ -16,7 +16,7 @@ amending law and dated by the day it took effect.
 <!-- ly-history -->
 ## Past versions (立法院法律系統)
 
-For the laws below, every version that 立法院法律系統 (https://lis.ly.gov.tw/, the Legislative Yuan's law system) shows was added on 2026-11-02, as one block of commits per law appended after the earlier history (ruling: older versions found late are appended at the end, never rewritten in place).
+For the laws below, every version that 立法院法律系統 (https://lis.ly.gov.tw/, the Legislative Yuan's law system) shows was added on 2026-11-03, as one block of commits per law appended after the earlier history (ruling: older versions found late are appended at the end, never rewritten in place).
 
 | Folder | Law | Versions | First in force | Last in force |
 |---|---|---|---|---|
@@ -26,6 +26,10 @@ For the laws below, every version that 立法院法律系統 (https://lis.ly.gov
 | `code-of-civil-procedure/` | 民事訴訟法 (Code of Civil Procedure) | 28 | 1930-12-28 | 2023-12-01 |
 | `code-of-criminal-procedure/` | 刑事訴訟法 (Code of Criminal Procedure) | 57 | 1928-09-01 | 2026-05-15 |
 | `income-tax-act/` | 所得稅法 (Income Tax Act) | 73 | 1943-02-19 | 2026-01-01 |
+| `value-added-and-non-value-added-business-tax-act/` | 加值型及非加值型營業稅法 (Value-added and Non-value-added Business Tax Act) | 45 | 1931-06-15 | 2025-05-30 |
+| `civil-servants-election-and-recall-act/` | 公職人員選舉罷免法 (Civil Servants Election and Recall Act) | 38 | 1980-05-16 | 2026-07-03 |
+| `insurance-act/` | 保險法 (Insurance Act) | 36 | 1930-01-01 | 2025-06-20 |
+| `securities-and-exchange-act/` | 證券交易法 (Securities and Exchange Act) | 34 | 1968-05-02 | 2024-08-09 |
 
 - **One commit per version.** Each commit holds the whole text of the law as the LY record shows it for that version (one file per article, `structure.md` for the order and headings). The author is the amending law (`<law><action> (<promulgation day>)`, e.g. `公司法修正 (2018-08-01)`) at an address that cannot exist, so `git blame` names the amendment that last changed a line.
 - **Dates.** `In-force:` (and the author date) is the commencement day (施行) the LY record states; where it states none, the third day counted from promulgation (中央法規標準法 §13: a law that takes effect on promulgation takes effect from the third day counted from that day). Where a later version would take effect before an earlier amendment it already contains, it is dated by that amendment's day (the trailer `In-force-basis:` says so). Days before 1970 are clamped to 1970-01-01 in the git date only. The commit (committer) date is the day the block was appended, so `git log --before` does not work here: use the `In-force:` trailer or `tools/on_date.py`, which read it.
