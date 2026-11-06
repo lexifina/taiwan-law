@@ -1,5 +1,7 @@
 # Taiwan law in git
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Taiwan's national law, which global-law reads at `taiwan/national/acts/`.
+
 Laws of the Republic of China (Taiwan), one file per article. The current text of the five laws in the first
 table is as the Ministry of Justice's 全國法規資料庫 (law.moj.gov.tw) shows it; the laws in the "Past versions"
 table have every version the Legislative Yuan's 立法院法律系統 shows, one commit per version, authored by the
