@@ -1,0 +1,485 @@
+航空器飛航作業管理規則
+修正日期：民國 113 年 12 月 27 日
+
+## 第 一 章 通則
+- 第 1 條: article/1.md
+- 第 2 條: article/2.md
+- 第 3 條: article/3.md
+- 第 4 條: article/4.md
+- 第 5 條: article/5.md
+- 第 6 條: article/6.md
+- 第 7 條: article/7.md
+- 第 8 條: article/8.md
+- 第 8-1 條: article/8-1.md
+- 第 8-2 條: article/8-2.md
+- 第 8-3 條: article/8-3.md
+- 第 8-4 條: article/8-4.md
+## 第 二 章 民用航空運輸業
+### 第 一 節 飛航作業
+- 第 9 條: article/9.md (本條文有附件)
+- 第 10 條: article/10.md
+- 第 11 條: article/11.md
+- 第 11-1 條: article/11-1.md
+- 第 12 條: article/12.md (本條文有附件)
+- 第 13 條: article/13.md
+- 第 14 條: article/14.md
+- 第 15 條: article/15.md
+- 第 16 條: article/16.md
+- 第 17 條: article/17.md
+- 第 18 條: article/18.md
+- 第 19 條: article/19.md
+- 第 20 條: article/20.md
+- 第 21 條: article/21.md
+- 第 22 條: article/22.md
+- 第 23 條: article/23.md
+- 第 24 條: article/24.md
+- 第 25 條: article/25.md
+- 第 26 條: article/26.md
+- 第 27 條: article/27.md
+- 第 28 條: article/28.md
+- 第 29 條: article/29.md
+- 第 30 條: article/30.md
+- 第 31 條: article/31.md
+- 第 32 條: article/32.md (本條文有附件)
+- 第 33 條: article/33.md
+- 第 34 條: article/34.md
+- 第 35 條: article/35.md
+- 第 36 條: article/36.md
+- 第 36-1 條: article/36-1.md
+- 第 36-2 條: article/36-2.md
+- 第 37 條: article/37.md
+- 第 37-1 條: article/37-1.md
+- 第 37-2 條: article/37-2.md
+- 第 38 條: article/38.md
+- 第 38-1 條: article/38-1.md
+- 第 38-2 條: article/38-2.md
+- 第 38-3 條: article/38-3.md
+- 第 38-4 條: article/38-4.md
+- 第 39 條: article/39.md
+- 第 39-1 條: article/39-1.md
+- 第 40 條: article/40.md
+- 第 41 條: article/41.md
+- 第 42 條: article/42.md
+- 第 43 條: article/43.md
+- 第 43-1 條: article/43-1.md
+- 第 44 條: article/44.md
+- 第 45 條: article/45.md
+- 第 46 條: article/46.md
+- 第 47 條: article/47.md
+- 第 48 條: article/48.md
+- 第 49 條: article/49.md
+- 第 50 條: article/50.md
+- 第 51 條: article/51.md
+- 第 52 條: article/52.md
+- 第 53 條: article/53.md
+### 第 二 節 飛航準備
+- 第 54 條: article/54.md
+- 第 55 條: article/55.md
+- 第 55-1 條: article/55-1.md
+- 第 56 條: article/56.md
+- 第 57 條: article/57.md
+- 第 57-1 條: article/57-1.md (本條文有附件)
+- 第 58 條: article/58.md
+- 第 59 條: article/59.md
+- 第 60 條: article/60.md
+- 第 61 條: article/61.md
+- 第 62 條: article/62.md
+- 第 63 條: article/63.md
+- 第 64 條: article/64.md
+- 第 65 條: article/65.md
+- 第 66 條: article/66.md
+- 第 67 條: article/67.md
+- 第 68 條: article/68.md
+- 第 69 條: article/69.md
+- 第 70 條: article/70.md
+- 第 71 條: article/71.md
+- 第 72 條: article/72.md
+- 第 73 條: article/73.md
+- 第 74 條: article/74.md
+- 第 75 條: article/75.md
+- 第 76 條: article/76.md
+- 第 76-1 條: article/76-1.md
+- 第 77 條: article/77.md
+- 第 77-1 條: article/77-1.md
+### 第 三 節 飛航中程序
+- 第 78 條: article/78.md
+- 第 79 條: article/79.md
+- 第 79-1 條: article/79-1.md
+- 第 80 條: article/80.md
+- 第 80-1 條: article/80-1.md
+- 第 80-2 條: article/80-2.md
+- 第 81 條: article/81.md
+- 第 82 條: article/82.md
+- 第 83 條: article/83.md
+### 第 四 節 航空器性能及其操作限制
+- 第 84 條: article/84.md (本條文有附件)
+- 第 85 條: article/85.md
+- 第 86 條: article/86.md
+- 第 87 條: article/87.md
+- 第 88 條: article/88.md
+- 第 89 條: article/89.md
+- 第 90 條: article/90.md
+- 第 91 條: article/91.md
+- 第 92 條: article/92.md
+- 第 93 條: article/93.md
+- 第 94 條: article/94.md
+### 第 五 節 航空器儀表、裝備及飛航文件
+- 第 95 條: article/95.md
+- 第 96 條: article/96.md (本條文有附件)
+- 第 97 條: article/97.md
+- 第 98 條: article/98.md (本條文有附件)
+- 第 99 條: article/99.md (本條文有附件)
+- 第 100 條: article/100.md
+- 第 101 條: article/101.md
+- 第 102 條: article/102.md
+- 第 103 條: article/103.md
+- 第 104 條: article/104.md
+- 第 105 條: article/105.md
+- 第 106 條: article/106.md
+- 第 107 條: article/107.md
+- 第 108 條: article/108.md
+- 第 109 條: article/109.md
+- 第 110 條: article/110.md (本條文有附件)
+- 第 111 條: article/111.md
+- 第 112 條: article/112.md
+- 第 113 條: article/113.md
+- 第 113-1 條: article/113-1.md
+- 第 113-2 條: article/113-2.md
+- 第 113-3 條: article/113-3.md
+- 第 114 條: article/114.md
+- 第 115 條: article/115.md
+- 第 116 條: article/116.md
+- 第 117 條: article/117.md
+- 第 118 條: article/118.md
+- 第 118-1 條: article/118-1.md (本條文有附件)
+- 第 119 條: article/119.md
+- 第 120 條: article/120.md
+- 第 121 條: article/121.md
+- 第 122 條: article/122.md
+- 第 123 條: article/123.md
+- 第 124 條: article/124.md
+- 第 125 條: article/125.md (本條文有附件)
+- 第 126 條: article/126.md
+- 第 127 條: article/127.md
+- 第 128 條: article/128.md
+- 第 129 條: article/129.md
+- 第 129-1 條: article/129-1.md
+- 第 130 條: article/130.md
+### 第 六 節 航空器通信及導航裝備
+- 第 131 條: article/131.md
+- 第 131-1 條: article/131-1.md
+- 第 132 條: article/132.md
+- 第 133 條: article/133.md
+- 第 134 條: article/134.md (本條文有附件)
+- 第 135 條: article/135.md (本條文有附件)
+- 第 136 條: article/136.md
+- 第 137 條: article/137.md
+- 第 138 條: article/138.md
+- 第 138-1 條: article/138-1.md
+- 第 138-2 條: article/138-2.md
+### 第 七 節 航空器維護
+- 第 139 條: article/139.md
+- 第 140 條: article/140.md
+- 第 141 條: article/141.md
+- 第 142 條: article/142.md
+- 第 143 條: article/143.md (本條文有附件)
+- 第 144 條: article/144.md
+- 第 144-1 條: article/144-1.md (本條文有附件)
+- 第 145 條: article/145.md
+- 第 145-1 條: article/145-1.md
+- 第 146 條: article/146.md
+- 第 147 條: article/147.md
+- 第 148 條: article/148.md
+- 第 149 條: article/149.md
+- 第 150 條: article/150.md
+- 第 151 條: article/151.md
+- 第 152 條: article/152.md
+### 第 八 節 飛航組員
+- 第 153 條: article/153.md
+- 第 154 條: article/154.md
+- 第 155 條: article/155.md
+- 第 156 條: article/156.md
+- 第 157 條: article/157.md
+- 第 158 條: article/158.md
+- 第 159 條: article/159.md
+- 第 160 條: article/160.md
+- 第 161 條: article/161.md
+- 第 162 條: article/162.md
+- 第 163 條: article/163.md (本條文有附件)
+- 第 164 條: article/164.md
+- 第 165 條: article/165.md
+- 第 166 條: article/166.md
+- 第 167 條: article/167.md
+- 第 168 條: article/168.md
+- 第 169 條: article/169.md
+- 第 170 條: article/170.md
+- 第 171 條: article/171.md
+- 第 172 條: article/172.md
+- 第 173 條: article/173.md
+- 第 174 條: article/174.md
+- 第 175 條: article/175.md
+- 第 176 條: article/176.md
+### 第 九 節 簽派員
+- 第 177 條: article/177.md
+- 第 178 條: article/178.md
+- 第 179 條: article/179.md
+- 第 180 條: article/180.md
+- 第 181 條: article/181.md
+### 第 十 節 手冊、表格、紀錄及報告
+- 第 182 條: article/182.md (本條文有附件)
+- 第 183 條: article/183.md
+- 第 184 條: article/184.md
+- 第 185 條: article/185.md
+- 第 186 條: article/186.md
+- 第 187 條: article/187.md
+### 第 十一 節 客艙組員
+- 第 188 條: article/188.md
+- 第 189 條: article/189.md
+- 第 190 條: article/190.md
+- 第 191 條: article/191.md
+- 第 192 條: article/192.md
+### 第 十二 節 保安
+- 第 193 條: article/193.md
+- 第 194 條: article/194.md
+- 第 195 條: article/195.md
+- 第 196 條: article/196.md
+- 第 197 條: article/197.md
+- 第 198 條: article/198.md
+- 第 199 條: article/199.md
+- 第 200 條: article/200.md
+## 第 三 章 普通航空業
+### 第 一 節 飛航作業
+- 第 201 條: article/201.md
+- 第 201-1 條: article/201-1.md
+- 第 201-2 條: article/201-2.md
+- 第 201-3 條: article/201-3.md
+- 第 201-4 條: article/201-4.md
+- 第 201-5 條: article/201-5.md
+- 第 202 條: article/202.md (本條文有附件)
+- 第 202-1 條: article/202-1.md (本條文有附件)
+- 第 203 條: article/203.md
+- 第 203-1 條: article/203-1.md
+- 第 204 條: article/204.md
+- 第 205 條: article/205.md
+- 第 206 條: article/206.md
+- 第 207 條: article/207.md (本條文有附件)
+- 第 207-1 條: article/207-1.md
+- 第 208 條: article/208.md
+- 第 209 條: article/209.md
+- 第 210 條: article/210.md
+- 第 211 條: article/211.md
+- 第 212 條: article/212.md
+- 第 213 條: article/213.md
+- 第 214 條: article/214.md
+- 第 215 條: article/215.md
+- 第 216 條: article/216.md
+- 第 217 條: article/217.md
+- 第 218 條: article/218.md
+- 第 219 條: article/219.md
+- 第 220 條: article/220.md
+- 第 220-1 條: article/220-1.md
+- 第 221 條: article/221.md
+- 第 221-1 條: article/221-1.md
+- 第 222 條: article/222.md
+- 第 223 條: article/223.md
+- 第 224 條: article/224.md
+- 第 225 條: article/225.md
+- 第 226 條: article/226.md
+- 第 227 條: article/227.md
+- 第 227-1 條: article/227-1.md
+### 第 二 節 飛航中規定
+- 第 228 條: article/228.md
+- 第 229 條: article/229.md
+- 第 229-1 條: article/229-1.md
+- 第 229-2 條: article/229-2.md
+- 第 230 條: article/230.md
+- 第 231 條: article/231.md
+- 第 232 條: article/232.md
+### 第 三 節 航空器性能及其操作限制
+- 第 233 條: article/233.md (本條文有附件)
+- 第 234 條: article/234.md
+- 第 235 條: article/235.md
+- 第 236 條: article/236.md
+### 第 四 節 航空器儀表、裝備及飛航文件
+- 第 237 條: article/237.md
+- 第 238 條: article/238.md
+- 第 239 條: article/239.md (本條文有附件)
+- 第 240 條: article/240.md (本條文有附件)
+- 第 241 條: article/241.md
+- 第 242 條: article/242.md
+- 第 243 條: article/243.md
+- 第 244 條: article/244.md
+- 第 245 條: article/245.md (本條文有附件)
+- 第 246 條: article/246.md
+- 第 247 條: article/247.md
+- 第 248 條: article/248.md
+- 第 248-1 條: article/248-1.md
+- 第 248-2 條: article/248-2.md
+- 第 248-3 條: article/248-3.md
+- 第 249 條: article/249.md
+- 第 250 條: article/250.md
+- 第 251 條: article/251.md
+- 第 252 條: article/252.md
+- 第 253 條: article/253.md
+- 第 254 條: article/254.md
+- 第 255 條: article/255.md
+- 第 256 條: article/256.md (本條文有附件)
+- 第 257 條: article/257.md
+- 第 258 條: article/258.md
+- 第 259 條: article/259.md
+- 第 260 條: article/260.md
+### 第 五 節 航空器通信及導航裝備
+- 第 261 條: article/261.md
+- 第 261-1 條: article/261-1.md
+- 第 262 條: article/262.md
+- 第 263 條: article/263.md
+- 第 263-1 條: article/263-1.md (本條文有附件)
+- 第 264 條: article/264.md (本條文有附件)
+- 第 265 條: article/265.md
+- 第 266 條: article/266.md
+- 第 267 條: article/267.md
+- 第 267-1 條: article/267-1.md
+- 第 267-2 條: article/267-2.md
+### 第 六 節 航空器維護
+- 第 268 條: article/268.md
+- 第 269 條: article/269.md
+- 第 270 條: article/270.md
+- 第 271 條: article/271.md
+- 第 272 條: article/272.md
+- 第 273 條: article/273.md
+- 第 274 條: article/274.md
+- 第 275 條: article/275.md
+- 第 276 條: article/276.md
+- 第 277 條: article/277.md
+### 第 七 節 飛航組員
+- 第 278 條: article/278.md
+- 第 279 條: article/279.md (本條文有附件)
+- 第 280 條: article/280.md
+- 第 281 條: article/281.md
+- 第 282 條: article/282.md
+### 第 八 節 保安
+- 第 283 條: article/283.md
+- 第 284 條: article/284.md
+- 第 285 條: article/285.md
+### 第 八 節之一 大型及運輸類飛機額外裝備與操作需求
+- 第 285-1 條: article/285-1.md
+- 第 285-2 條: article/285-2.md (本條文有附件)
+- 第 285-3 條: article/285-3.md
+- 第 285-4 條: article/285-4.md
+- 第 285-5 條: article/285-5.md
+- 第 285-6 條: article/285-6.md
+- 第 285-7 條: article/285-7.md
+- 第 285-8 條: article/285-8.md
+- 第 285-9 條: article/285-9.md
+- 第 285-10 條: article/285-10.md
+- 第 285-11 條: article/285-11.md (本條文有附件)
+- 第 285-12 條: article/285-12.md
+- 第 285-13 條: article/285-13.md
+- 第 285-14 條: article/285-14.md
+- 第 285-15 條: article/285-15.md
+- 第 285-16 條: article/285-16.md
+- 第 285-17 條: article/285-17.md
+- 第 285-18 條: article/285-18.md
+- 第 285-19 條: article/285-19.md
+- 第 285-20 條: article/285-20.md
+- 第 285-21 條: article/285-21.md
+- 第 285-22 條: article/285-22.md
+- 第 285-23 條: article/285-23.md
+- 第 285-24 條: article/285-24.md
+- 第 285-25 條: article/285-25.md
+- 第 285-26 條: article/285-26.md
+- 第 285-27 條: article/285-27.md (本條文有附件)
+- 第 285-28 條: article/285-28.md
+- 第 285-29 條: article/285-29.md
+- 第 285-30 條: article/285-30.md
+- 第 285-31 條: article/285-31.md
+- 第 285-32 條: article/285-32.md
+## 第 四 章 一般飛航作業
+### 第 一 節 飛航作業
+- 第 286 條: article/286.md
+- 第 286-1 條: article/286-1.md
+- 第 287 條: article/287.md (本條文有附件)
+- 第 288 條: article/288.md
+- 第 289 條: article/289.md
+### 第 二 節 飛航準備
+- 第 290 條: article/290.md
+- 第 290-1 條: article/290-1.md
+- 第 290-2 條: article/290-2.md
+- 第 291 條: article/291.md
+- 第 292 條: article/292.md
+- 第 293 條: article/293.md
+- 第 294 條: article/294.md
+- 第 295 條: article/295.md
+- 第 295-1 條: article/295-1.md
+- 第 296 條: article/296.md
+- 第 297 條: article/297.md
+- 第 298 條: article/298.md
+### 第 三 節 航空器儀表、裝備及飛航文件
+- 第 299 條: article/299.md (本條文有附件)
+- 第 300 條: article/300.md
+- 第 301 條: article/301.md
+- 第 302 條: article/302.md
+- 第 303 條: article/303.md (本條文有附件)
+- 第 304 條: article/304.md
+- 第 305 條: article/305.md
+- 第 306 條: article/306.md (本條文有附件)
+- 第 307 條: article/307.md
+- 第 308 條: article/308.md
+- 第 308-1 條: article/308-1.md
+### 第 四 節 特種飛航作業
+- 第 309 條: article/309.md
+- 第 310 條: article/310.md
+- 第 311 條: article/311.md (本條文有附件)
+- 第 312 條: article/312.md (本條文有附件)
+- 第 313 條: article/313.md
+- 第 313-1 條: article/313-1.md
+### 第 五 節 航空器維護
+- 第 314 條: article/314.md
+- 第 315 條: article/315.md (本條文有附件)
+- 第 316 條: article/316.md
+- 第 317 條: article/317.md (本條文有附件)
+- 第 318 條: article/318.md
+- 第 319 條: article/319.md (本條文有附件)
+- 第 320 條: article/320.md (本條文有附件)
+- 第 321 條: article/321.md
+- 第 322 條: article/322.md (本條文有附件)
+- 第 323 條: article/323.md (本條文有附件)
+- 第 324 條: article/324.md
+### 第 六 節 大型多渦輪發動機之航空器
+- 第 325 條: article/325.md
+- 第 326 條: article/326.md
+- 第 327 條: article/327.md
+- 第 328 條: article/328.md (本條文有附件)
+- 第 329 條: article/329.md
+- 第 330 條: article/330.md
+- 第 331 條: article/331.md
+- 第 332 條: article/332.md
+- 第 333 條: article/333.md
+- 第 334 條: article/334.md
+- 第 335 條: article/335.md
+- 第 336 條: article/336.md
+- 第 337 條: article/337.md
+- 第 338 條: article/338.md
+- 第 339 條: article/339.md
+- 第 340 條: article/340.md
+### 第 七 節 大型航空器及運輸類飛機額外裝備與操作需求
+- 第 341 條: article/341.md
+- 第 342 條: article/342.md
+- 第 343 條: article/343.md
+- 第 344 條: article/344.md (本條文有附件)
+- 第 345 條: article/345.md
+- 第 345-1 條: article/345-1.md
+- 第 345-2 條: article/345-2.md
+- 第 346 條: article/346.md
+- 第 346-1 條: article/346-1.md (本條文有附件)
+- 第 346-2 條: article/346-2.md
+- 第 346-3 條: article/346-3.md
+- 第 347 條: article/347.md (本條文有附件)
+### 第 八 節 保安
+- 第 348 條: article/348.md
+- 第 349 條: article/349.md
+## 第 五 章 附則
+- 第 350 條: article/350.md
+- 第 351 條: article/351.md (本條文有附件)
+- 第 351-1 條: article/351-1.md
+- 第 352 條: article/352.md

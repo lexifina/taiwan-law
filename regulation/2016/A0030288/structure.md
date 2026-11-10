@@ -1,0 +1,11 @@
+政黨及其附隨組織不當取得財產處理條例第九條第一項正當理由及許可要件辦法
+修正日期：民國 105 年 11 月 02 日
+
+- 第 1 條: article/1.md
+- 第 2 條: article/2.md
+- 第 3 條: article/3.md
+- 第 4 條: article/4.md
+- 第 5 條: article/5.md
+- 第 6 條: article/6.md
+- 第 7 條: article/7.md
+- 第 8 條: article/8.md

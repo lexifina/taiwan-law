@@ -1,0 +1,300 @@
+保險法
+中華民國114年6月18日公布（修正）
+
+# 第一章 總則
+## 第一節 定義及分類
+- 第 1 條: article/1.md
+- 第 2 條: article/2.md
+- 第 3 條: article/3.md
+- 第 4 條: article/4.md
+- 第 5 條: article/5.md
+- 第 6 條: article/6.md
+- 第 7 條: article/7.md
+- 第 8 條: article/8.md
+- 第 8-1 條: article/8-1.md
+- 第 9 條: article/9.md
+- 第 10 條: article/10.md
+- 第 11 條: article/11.md
+- 第 12 條: article/12.md
+- 第 13 條: article/13.md
+## 第二節 保險利益
+- 第 14 條: article/14.md
+- 第 15 條: article/15.md
+- 第 16 條: article/16.md
+- 第 16-1 條: article/16-1.md
+- 第 17 條: article/17.md
+- 第 18 條: article/18.md
+- 第 19 條: article/19.md
+- 第 20 條: article/20.md
+## 第三節 保險費
+- 第 21 條: article/21.md
+- 第 22 條: article/22.md
+- 第 23 條: article/23.md
+- 第 24 條: article/24.md
+- 第 25 條: article/25.md
+- 第 26 條: article/26.md
+- 第 27 條: article/27.md
+- 第 28 條: article/28.md
+## 第四節 保險人之責任
+- 第 29 條: article/29.md
+- 第 30 條: article/30.md
+- 第 31 條: article/31.md
+- 第 32 條: article/32.md
+- 第 33 條: article/33.md
+- 第 34 條: article/34.md
+## 第五節 複保險
+- 第 35 條: article/35.md
+- 第 36 條: article/36.md
+- 第 37 條: article/37.md
+- 第 38 條: article/38.md
+## 第六節 再保險
+- 第 39 條: article/39.md
+- 第 40 條: article/40.md
+- 第 41 條: article/41.md
+- 第 42 條: article/42.md
+# 第二章 保險契約
+## 第一節 通則
+- 第 43 條: article/43.md
+- 第 44 條: article/44.md
+- 第 45 條: article/45.md
+- 第 46 條: article/46.md
+- 第 47 條: article/47.md
+- 第 48 條: article/48.md
+- 第 49 條: article/49.md
+- 第 50 條: article/50.md
+- 第 51 條: article/51.md
+- 第 52 條: article/52.md
+- 第 53 條: article/53.md
+- 第 54 條: article/54.md
+- 第 54-1 條: article/54-1.md
+## 第二節 基本條款
+- 第 55 條: article/55.md
+- 第 56 條: article/56.md
+- 第 57 條: article/57.md
+- 第 58 條: article/58.md
+- 第 59 條: article/59.md
+- 第 60 條: article/60.md
+- 第 61 條: article/61.md
+- 第 62 條: article/62.md
+- 第 63 條: article/63.md
+- 第 64 條: article/64.md
+- 第 65 條: article/65.md
+## 第三節 特約條款
+- 第 66 條: article/66.md
+- 第 67 條: article/67.md
+- 第 68 條: article/68.md
+- 第 69 條: article/69.md
+# 第三章 財產保險
+## 第一節 火災保險
+- 第 70 條: article/70.md
+- 第 71 條: article/71.md
+- 第 72 條: article/72.md
+- 第 73 條: article/73.md
+- 第 74 條: article/74.md
+- 第 75 條: article/75.md
+- 第 76 條: article/76.md
+- 第 77 條: article/77.md
+- 第 78 條: article/78.md
+- 第 79 條: article/79.md
+- 第 80 條: article/80.md
+- 第 81 條: article/81.md
+- 第 82 條: article/82.md
+- 第 82-1 條: article/82-1.md
+## 第二節 海上保險
+- 第 83 條: article/83.md
+- 第 84 條: article/84.md
+## 第三節 陸空保險
+- 第 85 條: article/85.md
+- 第 86 條: article/86.md
+- 第 87 條: article/87.md
+- 第 88 條: article/88.md
+- 第 89 條: article/89.md
+## 第四節 責任保險
+- 第 90 條: article/90.md
+- 第 91 條: article/91.md
+- 第 92 條: article/92.md
+- 第 93 條: article/93.md
+- 第 94 條: article/94.md
+- 第 95 條: article/95.md
+## 第四節之一 保證保險
+- 第 95-1 條: article/95-1.md
+- 第 95-2 條: article/95-2.md
+- 第 95-3 條: article/95-3.md
+## 第五節 其他財產保險
+- 第 96 條: article/96.md
+- 第 97 條: article/97.md
+- 第 98 條: article/98.md
+- 第 99 條: article/99.md
+- 第 100 條: article/100.md
+# 第四章 人身保險
+## 第一節 人壽保險
+- 第 101 條: article/101.md
+- 第 102 條: article/102.md
+- 第 103 條: article/103.md
+- 第 104 條: article/104.md
+- 第 105 條: article/105.md
+- 第 106 條: article/106.md
+- 第 107 條: article/107.md
+- 第 107-1 條: article/107-1.md
+- 第 108 條: article/108.md
+- 第 109 條: article/109.md
+- 第 110 條: article/110.md
+- 第 111 條: article/111.md
+- 第 112 條: article/112.md
+- 第 113 條: article/113.md
+- 第 114 條: article/114.md
+- 第 115 條: article/115.md
+- 第 116 條: article/116.md
+- 第 117 條: article/117.md
+- 第 118 條: article/118.md
+- 第 119 條: article/119.md
+- 第 120 條: article/120.md
+- 第 121 條: article/121.md
+- 第 122 條: article/122.md
+- 第 123 條: article/123.md
+- 第 123-1 條: article/123-1.md
+- 第 123-2 條: article/123-2.md
+- 第 124 條: article/124.md
+## 第二節 健康保險
+- 第 125 條: article/125.md
+- 第 126 條: article/126.md
+- 第 127 條: article/127.md
+- 第 128 條: article/128.md
+- 第 129 條: article/129.md
+- 第 129-1 條: article/129-1.md
+- 第 130 條: article/130.md
+## 第三節 傷害保險
+- 第 131 條: article/131.md
+- 第 132 條: article/132.md
+- 第 132-1 條: article/132-1.md
+- 第 133 條: article/133.md
+- 第 134 條: article/134.md
+- 第 135 條: article/135.md
+## 第四節 年金保險
+- 第 135-1 條: article/135-1.md
+- 第 135-2 條: article/135-2.md
+- 第 135-3 條: article/135-3.md
+- 第 135-4 條: article/135-4.md
+# 第五章 保險業
+## 第一節 通則
+- 第 136 條: article/136.md
+- 第 136-1 條: article/136-1.md
+- 第 137 條: article/137.md
+- 第 137-1 條: article/137-1.md
+- 第 138 條: article/138.md
+- 第 138-1 條: article/138-1.md
+- 第 138-2 條: article/138-2.md
+- 第 138-3 條: article/138-3.md
+- 第 138-4 條: article/138-4.md
+- 第 139 條: article/139.md
+- 第 139-1 條: article/139-1.md
+- 第 139-2 條: article/139-2.md
+- 第 140 條: article/140.md
+- 第 141 條: article/141.md
+- 第 142 條: article/142.md
+- 第 143 條: article/143.md
+- 第 143-1 條: article/143-1.md
+- 第 143-2 條: article/143-2.md
+- 第 143-3 條: article/143-3.md
+- 第 143-4 條: article/143-4.md
+- 第 143-5 條: article/143-5.md
+- 第 143-6 條: article/143-6.md
+- 第 144 條: article/144.md
+- 第 144-1 條: article/144-1.md
+- 第 145 條: article/145.md
+- 第 145-1 條: article/145-1.md
+- 第 146 條: article/146.md
+- 第 146-1 條: article/146-1.md
+- 第 146-2 條: article/146-2.md
+- 第 146-3 條: article/146-3.md
+- 第 146-4 條: article/146-4.md
+- 第 146-5 條: article/146-5.md
+- 第 146-6 條: article/146-6.md
+- 第 146-7 條: article/146-7.md
+- 第 146-8 條: article/146-8.md
+- 第 146-9 條: article/146-9.md
+- 第 147 條: article/147.md
+- 第 147-1 條: article/147-1.md
+- 第 148 條: article/148.md
+- 第 148-1 條: article/148-1.md
+- 第 148-2 條: article/148-2.md
+- 第 148-3 條: article/148-3.md
+- 第 149 條: article/149.md
+- 第 149-1 條: article/149-1.md
+- 第 149-2 條: article/149-2.md
+- 第 149-3 條: article/149-3.md
+- 第 149-4 條: article/149-4.md
+- 第 149-5 條: article/149-5.md
+- 第 149-6 條: article/149-6.md
+- 第 149-7 條: article/149-7.md
+- 第 149-8 條: article/149-8.md
+- 第 149-9 條: article/149-9.md
+- 第 149-10 條: article/149-10.md
+- 第 149-11 條: article/149-11.md
+- 第 150 條: article/150.md
+## 第二節 保險公司
+- 第 151 條: article/151.md
+- 第 152 條: article/152.md
+- 第 153 條: article/153.md
+- 第 154 條: article/154.md
+- 第 155 條: article/155.md
+## 第三節 保險合作社
+- 第 156 條: article/156.md
+- 第 157 條: article/157.md
+- 第 158 條: article/158.md
+- 第 159 條: article/159.md
+- 第 160 條: article/160.md
+- 第 161 條: article/161.md
+- 第 162 條: article/162.md
+## 第四節 保險代理人、經紀人、公證人
+- 第 163 條: article/163.md
+- 第 163-1 條: article/163-1.md
+- 第 164 條: article/164.md
+- 第 164-1 條: article/164-1.md
+- 第 165 條: article/165.md
+## 第四節之一 同業公會
+- 第 165-1 條: article/165-1.md
+- 第 165-2 條: article/165-2.md
+- 第 165-3 條: article/165-3.md
+- 第 165-4 條: article/165-4.md
+- 第 165-5 條: article/165-5.md
+- 第 165-6 條: article/165-6.md
+- 第 165-7 條: article/165-7.md
+## 第五節 罰則
+- 第 166 條: article/166.md
+- 第 166-1 條: article/166-1.md
+- 第 167 條: article/167.md
+- 第 167-1 條: article/167-1.md
+- 第 167-2 條: article/167-2.md
+- 第 167-3 條: article/167-3.md
+- 第 167-4 條: article/167-4.md
+- 第 167-5 條: article/167-5.md
+- 第 168 條: article/168.md
+- 第 168-1 條: article/168-1.md
+- 第 168-2 條: article/168-2.md
+- 第 168-3 條: article/168-3.md
+- 第 168-4 條: article/168-4.md
+- 第 168-5 條: article/168-5.md
+- 第 168-6 條: article/168-6.md
+- 第 168-7 條: article/168-7.md
+- 第 169 條: article/169.md
+- 第 169-1 條: article/169-1.md
+- 第 169-2 條: article/169-2.md
+- 第 170 條: article/170.md
+- 第 170-1 條: article/170-1.md
+- 第 171 條: article/171.md
+- 第 171-1 條: article/171-1.md
+- 第 171-2 條: article/171-2.md
+- 第 172 條: article/172.md
+- 第 172-1 條: article/172-1.md
+- 第 172-2 條: article/172-2.md
+- 第 173 條: article/173.md
+# 第六章 附則
+- 第 174 條: article/174.md
+- 第 174-1 條: article/174-1.md
+- 第 175 條: article/175.md
+- 第 175-1 條: article/175-1.md
+- 第 176 條: article/176.md
+- 第 177 條: article/177.md
+- 第 177-1 條: article/177-1.md
+- 第 178 條: article/178.md
