@@ -25,7 +25,8 @@ Folders had other names before the layout move of 10 November 2026; `--follow`, 
 
 - **[Ask Claude about Taiwanese law](https://global-law.lexifina.com/v1/try_claude?country=taiwan)**: opens Claude with a first question ready.
 - **[Ask ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=taiwan)**: the same question in ChatGPT.
-- **[Call the API in your browser](https://global-law.lexifina.com/v1/search_law?query=%E7%89%B9%E5%88%A5%E4%BC%91%E5%81%87&jurisdictions=taiwan)**: a search of Taiwanese law for "特別休假" (annual leave), returned as JSON. See the [documentation here](https://lexifina.com/api/global-law).
+- **[Search Taiwanese law on our site](https://lexifina.com/law?country=taiwan&q=%E7%89%B9%E5%88%A5%E4%BC%91%E5%81%87)**: a search for "特別休假" (annual leave), with each provision's text and its versions, no account needed.
+- **[Developer REST API](https://global-law.lexifina.com/v1/search_law?query=%E7%89%B9%E5%88%A5%E4%BC%91%E5%81%87&jurisdiction=taiwan)**: the same search as JSON, with no key. See the [documentation here](https://lexifina.com/api/global-law).
 
 Both assistants read the record through the free Global law connector (MCP, `https://global-law.lexifina.com/mcp`); the first time, the chat gives you the link that adds it. Ask in Chinese or in English.
 
