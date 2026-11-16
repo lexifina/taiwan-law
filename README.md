@@ -63,6 +63,7 @@ python3 tools/law.py show 2026-01-01 taiwan/national/acts/law/1984/N0030001/arti
 - 每一批過去的版本在推送前，都依各版本施行之日自 git 讀回，並與自立法院法律系統讀取的條文比對，同時解析每個提交的尾註。
 - 同時有兩個來源的法律，其過去版本的批次以一個 `publisher-text` 提交結束；該提交放回全國法規資料庫所刊載的檔案，並計算兩個發布機關刊載不同的條文數（多為標點符號）。
 - 歷史僅予附加：事後發現的較舊版本附加於最後，已發布的提交不會被改寫。
+- [vulnerabilities/](vulnerabilities/): 本法律中可能的起草錯誤，由 global-law 的偵測器發現並經人工核對。尚未執行。
 
 ## 未呈現的內容
 
@@ -88,6 +89,10 @@ python3 tools/law.py show 2026-01-01 taiwan/national/acts/law/1984/N0030001/arti
 沒有任何 AI 模型撰寫或變更法律條文，建置歷史時也不執行任何 AI 模型；建置程式、查核程式及說明文件係由 AI 模型撰寫（參閱 [`REPRODUCE.md`](REPRODUCE.md)）。
 
 本文為英文版（[README.en.md](README.en.md)）的譯文；如有不一致，以英文版為準。
+
+## 視覺化
+
+- [visualisations/](visualisations/): 根據本儲存庫繪製的圖表。尚未繪製。
 
 ## 更多資訊
 

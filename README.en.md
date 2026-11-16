@@ -63,6 +63,7 @@ A version from 立法院法律系統 is credited to the act that made it, as the
 - Before each block of past versions was pushed, every version was read back from git on the day it took effect and compared with the text read from 立法院法律系統, with every commit's trailers parsed.
 - Where a law has both sources, its block of past versions ends with a `publisher-text` commit that puts back the published 全國法規資料庫 files and counts the articles the two publishers print differently (mostly punctuation).
 - History is append-only: older versions found later are appended at the end, and no published commit is rewritten.
+- [vulnerabilities/](vulnerabilities/README.en.md): possible drafting mistakes in this law, found by global-law's detectors and checked by hand. Not run yet.
 
 ## What it does not show
 
@@ -86,6 +87,10 @@ See [`LICENSE`](LICENSE). Constitutions, laws and orders are not the subject of 
 資料來源：法務部「全國法規資料庫」(https://law.moj.gov.tw/)，依「政府資料開放授權條款－第1版」提供。資料來源：立法院法律系統 (https://lis.ly.gov.tw/)。
 
 No AI model wrote or changed legal text, and none runs when the history is built; an AI model wrote the builder, the checks and the documentation (see [`REPRODUCE.md`](REPRODUCE.md)).
+
+## Visualisations
+
+- [visualisations/](visualisations/README.en.md): charts drawn from this repository. Not drawn yet.
 
 ## More
 
