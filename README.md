@@ -1,36 +1,43 @@
-# Taiwan: law history in git
+# 臺灣：git 中的法律沿革
 
-The law of Taiwan (the Republic of China) as a git history: one file per article, one commit per version on the day it took effect, and the act that made each change as the commit's author. `git blame` names the act behind every paragraph; `git log` lists every change to an article; picking a date gives the text in force that day.
+**繁體中文** · [English](README.en.md)
 
-Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Taiwan's national law, which global-law reads at `taiwan/national/acts/`.
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="data/zh-Hant/effort-dark.svg">
+<img alt="本儲存庫中的臺灣法律：收錄內容、依施行年份統計的修正、對照官方來源的完整性，以及所收錄內容的正確性" src="data/zh-Hant/effort-light.svg" width="880">
+</picture>
 
-**What is in it now:** 7,398 acts: the Constitution, its Additional Articles and 5 other texts filed with them, 1,005 laws (法律) and 6,386 regulations (命令). 505 of the laws have every version the Legislative Yuan's 立法院法律系統 shows, 3,892 versions back to 1928; every other act has one text, its current text from the Ministry of Justice's 全國法規資料庫. [`ACTS.md`](ACTS.md) lists the acts taken from 全國法規資料庫, under their folder names before the layout move; [`data/paths.json`](data/paths.json) maps each of those names to its folder.
+以 git 歷史呈現的臺灣（中華民國）法律：每一條為一個檔案，每一個版本為一次提交（commit），日期為該版本施行之日，並以作成各項修正的法規為提交的作者（author）。`git blame` 顯示每一項背後的法規；`git log` 列出一條的所有修正；選定一個日期，即可取得當日施行的條文。
 
-Each act is in `<kind>/<year>/<code>/` (`constitution`, `law` or `regulation`; the year of its first promulgation or issue; the database's code, or `ly<number>` for a law only the Legislative Yuan lists), with one file per article in `article/` and `structure.md` for the order and headings (`law/1984/N0030001/` is the 勞動基準法, the Labor Standards Act; the Constitution is [`constitution/1947/A0000001/`](constitution/1947/A0000001/)).
+本儲存庫是 [lexifina/global-law](https://github.com/lexifina/global-law)（將各國法律彙整為單一 git 歷史）的一部分：這裡是臺灣的中央法規，global-law 於 `taiwan/national/acts/` 讀取。
 
-The text is in Chinese (traditional characters), as the two official publishers print it. An English translation is not part of this record.
+**目前收錄內容：** 7,398 部法規：憲法、憲法增修條文及另外 5 件與其一併收錄的文本、1,005 部法律及 6,386 部命令。其中 505 部法律收有立法院法律系統所顯示的每一個版本，共 3,892 個版本，最早可溯至 1928 年；其餘每部法規只有一個文本，即法務部全國法規資料庫的現行條文。[`ACTS.md`](ACTS.md) 以版面調整前的資料夾名稱列出取自全國法規資料庫的法規；[`data/paths.json`](data/paths.json) 列出各該名稱所對應的資料夾。
 
-## Questions as git commands
+每部法規位於 `<kind>/<year>/<code>/`（`constitution`、`law` 或 `regulation`；首次公布或發布的年份；資料庫的代碼，或僅列於立法院之法律則為 `ly<number>`），每一條為 `article/` 中的一個檔案，`structure.md` 記載條文順序及編章節標題（`law/1984/N0030001/` 為勞動基準法；憲法為 [`constitution/1947/A0000001/`](constitution/1947/A0000001/)）。
 
-| Question | Command |
+條文為中文（正體字），與兩個官方發布機關所刊載者相同。本紀錄不包含英文譯本。
+
+## 以 git 指令回答的問題
+
+| 問題 | 指令 |
 | --- | --- |
-| Every change to Article 38 of the Labor Standards Act | `git log --follow -p --word-diff -- law/1984/N0030001/article/38.md` |
-| Which act wrote each line of Article 38? | `git blame law/1984/N0030001/article/38.md` |
-| Every version of the Labor Standards Act, with the day each took effect | `git log --grep="^Kind: version" --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- law/1984/N0030001 labor-standards-act` |
-| Article 38 as in force on 1 January 2010 | `python tools/on_date.py 2010-01-01 law/1984/N0030001 38` |
+| 勞動基準法第38條的所有修正 | `git log --follow -p --word-diff -- law/1984/N0030001/article/38.md` |
+| 第38條的每一行是由哪一部法規寫入？ | `git blame law/1984/N0030001/article/38.md` |
+| 勞動基準法的每一個版本及各版本的施行日 | `git log --grep="^Kind: version" --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- law/1984/N0030001 labor-standards-act` |
+| 2010年1月1日施行的第38條 | `python tools/on_date.py 2010-01-01 law/1984/N0030001 38` |
 
-Folders had other names before the layout move of 10 November 2026; `--follow`, `git blame` and `tools/on_date.py` follow them, and a whole act's log names both (`labor-standards-act` is the earlier name).
+2026年11月10日版面調整前，資料夾另有其他名稱；`--follow`、`git blame` 及 `tools/on_date.py` 均會追溯舊名稱，整部法規的紀錄也會同時列出新舊名稱（`labor-standards-act` 為舊名稱）。
 
-**Outside git**, we also host this record publicly, for free:
+**在 git 之外**，我們也免費公開提供這份紀錄：
 
-- **[Ask Claude about Taiwanese law](https://global-law.lexifina.com/v1/try_claude?country=taiwan)**: opens Claude with a first question ready.
-- **[Ask ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=taiwan)**: the same question in ChatGPT.
-- **[Search Taiwanese law on our site](https://lexifina.com/law?country=taiwan&q=%E7%89%B9%E5%88%A5%E4%BC%91%E5%81%87)**: a search for "特別休假" (annual leave), with each provision's text and its versions, no account needed.
-- **[Developer REST API](https://global-law.lexifina.com/v1/search_law?query=%E7%89%B9%E5%88%A5%E4%BC%91%E5%81%87&jurisdiction=taiwan)**: the same search as JSON, with no key. See the [documentation here](https://lexifina.com/api/global-law).
+- **[向 Claude 詢問臺灣法律](https://global-law.lexifina.com/v1/try_claude?country=taiwan)**：開啟 Claude，並已備妥第一個問題。
+- **[詢問 ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=taiwan)**：在 ChatGPT 中提出同一問題。
+- **[在本網站檢索臺灣法律](https://lexifina.com/law?country=taiwan&q=%E7%89%B9%E5%88%A5%E4%BC%91%E5%81%87)**：檢索「特別休假」，顯示每一條文的內容及其各個版本，無須帳號。
+- **[開發者 REST API](https://global-law.lexifina.com/v1/search_law?query=%E7%89%B9%E5%88%A5%E4%BC%91%E5%81%87&jurisdiction=taiwan)**：以 JSON 傳回同一檢索結果，無須金鑰。請參閱[此處的說明文件](https://lexifina.com/api/global-law)。
 
-Both assistants read the record through the free Global law connector (MCP, `https://global-law.lexifina.com/mcp`); the first time, the chat gives you the link that adds it. Ask in Chinese or in English.
+兩個助理都透過免費的 Global law 連接器（MCP，`https://global-law.lexifina.com/mcp`）讀取這份紀錄；第一次使用時，對話中會提供新增該連接器的連結。可以用中文或英文提問。
 
-**Host it yourself easily.** All it takes is git and Python, and the tools run on your machine:
+**輕鬆自行架設。** 只需要 git 和 Python，工具在您自己的電腦上執行：
 
 ```sh
 git clone --depth 1 https://github.com/lexifina/global-law && cd global-law
@@ -38,55 +45,57 @@ python3 tools/countries.py add taiwan/national/acts
 python3 tools/law.py show 2026-01-01 taiwan/national/acts/law/1984/N0030001/article/38.md
 ```
 
-Opened in Claude Code, Cursor, VS Code or Codex, the clone also starts a local MCP server with the same tools ([MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md)).
+在 Claude Code、Cursor、VS Code 或 Codex 中開啟時，這份複製（clone）也會啟動一個提供相同工具的本機 MCP 伺服器（[MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md)）。
 
-## Dates
+## 日期
 
-Each law commit's author date is noon, Asia/Taipei, on the day the version took effect, and the commit carries that day in its `In-force:` trailer, with `In-force-basis:` saying where it comes from:
+每個法律提交的作者日期（author date）為該版本施行之日的中午（Asia/Taipei），提交並將該日記載於 `In-force:` 尾註（trailer），另以 `In-force-basis:` 說明其依據：
 
-- for a version from 立法院法律系統, the commencement day (施行) the record states; where it states none, the third day counted from promulgation (中央法規標準法 §13). Articles an amendment leaves to commence later are carried from the version's own day, and the commit message quotes the record's dates;
-- for a current text from 全國法規資料庫, which gives no commencement day, the third day counted from the page's 修正日期 or 公布日期; the first five laws (the Constitution, its Additional Articles, the Criminal Code and the codes of civil and criminal procedure) are dated by that page date itself, so the Constitution's day is its promulgation, 1 January 1947, not 25 December 1947, when it took effect;
-- past versions were appended after the earlier history, so commit dates are the day of appending, and git cannot store dates before 1970 (611 commits carry 1970-01-01 as author date, with the real day in `In-force:`). Ask for a date with `tools/on_date.py`, not `git log --before`.
+- 取自立法院法律系統的版本，採該紀錄所載的施行日；未記載者，採自公布之日起算至第三日（中央法規標準法第13條）。修正條文中另定較晚施行的條文，自該版本本身的日期起即予納入，提交訊息並引述該紀錄所載的日期；
+- 取自全國法規資料庫的現行條文，因資料庫未提供施行日，採自該頁面的修正日期或公布日期起算至第三日；最初五部法律（憲法、憲法增修條文、中華民國刑法、民事訴訟法及刑事訴訟法）則以該頁面日期本身為準，因此憲法的日期為其公布日 1947年1月1日，而非其施行日 1947年12月25日；
+- 過去的版本是附加在較早的歷史之後，因此提交日期為附加之日；且 git 無法儲存 1970 年以前的日期（611 個提交的作者日期為 1970-01-01，實際日期記載於 `In-force:`）。查詢特定日期請使用 `tools/on_date.py`，而非 `git log --before`。
 
-A version from 立法院法律系統 is credited to the act that made it, as the record names it (`勞動基準法修正 (2016-12-21)`: the law, the action and its promulgation day), at an address that cannot exist. A current text from 全國法規資料庫 is credited to the publisher, `全國法規資料庫 (law.moj.gov.tw)`, as the page does not name the amending act; the first five laws are credited to the law itself (`中華民國刑法 (C0000001)`).
+取自立法院法律系統的版本，以作成該版本的法案為作者，名稱依該紀錄所載（`勞動基準法修正 (2016-12-21)`：法律、異動類別及其公布日），並使用一個不可能存在的位址。取自全國法規資料庫的現行條文，因頁面未載明修正的法案，以發布者 `全國法規資料庫 (law.moj.gov.tw)` 為作者；最初五部法律則以該法律本身為作者（`中華民國刑法 (C0000001)`）。
 
-## How it is checked
+## 查核方式
 
-- Every act from 全國法規資料庫 was parsed from its page, and its letters and digits had to equal those an independent extractor reads from the page; for the first five laws `builder/check_repo.py` also compares every file byte for byte, with the results in [`REPRODUCE.md`](REPRODUCE.md).
-- Before each block of past versions was pushed, every version was read back from git on the day it took effect and compared with the text read from 立法院法律系統, with every commit's trailers parsed.
-- Where a law has both sources, its block of past versions ends with a `publisher-text` commit that puts back the published 全國法規資料庫 files and counts the articles the two publishers print differently (mostly punctuation).
-- History is append-only: older versions found later are appended at the end, and no published commit is rewritten.
+- 取自全國法規資料庫的每部法規均由其頁面解析而得，其文字及數字須與另一獨立擷取程式自該頁面讀取者相同；最初五部法律並由 `builder/check_repo.py` 逐位元組比對每一個檔案，結果載於 [`REPRODUCE.md`](REPRODUCE.md)。
+- 每一批過去的版本在推送前，都依各版本施行之日自 git 讀回，並與自立法院法律系統讀取的條文比對，同時解析每個提交的尾註。
+- 同時有兩個來源的法律，其過去版本的批次以一個 `publisher-text` 提交結束；該提交放回全國法規資料庫所刊載的檔案，並計算兩個發布機關刊載不同的條文數（多為標點符號）。
+- 歷史僅予附加：事後發現的較舊版本附加於最後，已發布的提交不會被改寫。
 
-## What it does not show
+## 未呈現的內容
 
-- **Past versions of most acts.** 6,893 acts have one text: the constitutional texts, every regulation (立法院法律系統 holds laws only) and the other laws, whose past versions have not been added yet.
-- **Repealed acts.** Acts either source lists as repealed (廢止) were left out.
-- **The Civil Code from 全國法規資料庫.** Its page holds articles not yet in force, so it was left out; the Code is here as the five books 立法院法律系統 lists (`law/1929/ly04507/` 總則 to `law/1930/ly04515/` 繼承), dated by the rules above, so the amendment of art. 1223 promulgated on 17 August 2026, which takes effect six months later, shows from 19 August 2026.
-- **Attachments**, such as the table of Criminal Code art. 185-3, are not copied; `structure.md` marks them `(本條文有附件)`.
-- **Local regulations, constitutional interpretations and judgments, and other case law** are not part of this record.
+- **大多數法規的過去版本。** 6,893 部法規只有一個文本：憲法性文本、所有命令（立法院法律系統僅收錄法律），以及其他尚未加入過去版本的法律。
+- **已廢止的法規。** 任一來源列為廢止的法規均未收錄。
+- **取自全國法規資料庫的民法。** 其頁面含有尚未施行的條文，因此未予採用；民法係依立法院法律系統所列的五編收錄（`law/1929/ly04507/` 總則至 `law/1930/ly04515/` 繼承），並依上述規則定其日期，因此 2026年8月17日公布、於六個月後施行的第1223條修正，自 2026年8月19日起即予呈現。
+- **附件**，例如中華民國刑法第185條之3的附表，並未複製；`structure.md` 以 `(本條文有附件)` 標示。
+- **地方法規、大法官解釋及憲法法庭判決，以及其他裁判**，均不在本紀錄範圍內。
 
-## Sources
+## 來源
 
-| Source | Kind | Past versions | Notes |
+| 來源 | 類型 | 過去版本 | 備註 |
 | --- | --- | --- | --- |
-| [全國法規資料庫](https://law.moj.gov.tw) (Ministry of Justice) | Official database of laws and regulations | no: the current text only (its history pages are closed to automated access by robots.txt) | The current text of every act here; Open Government Data License, version 1.0 |
-| [立法院法律系統](https://lis.ly.gov.tw) (Legislative Yuan) | The Legislative Yuan's record of laws and their amendments | yes, every version it shows | The text, passing, promulgation and commencement of each version, named in each commit's `Source:` trailer |
+| [全國法規資料庫](https://law.moj.gov.tw)（法務部） | 官方法規資料庫 | 無：僅有現行條文（其沿革頁面依 robots.txt 不開放自動存取） | 本儲存庫每部法規的現行條文；政府資料開放授權條款第1版 |
+| [立法院法律系統](https://lis.ly.gov.tw)（立法院） | 立法院的法律及其修正紀錄 | 有，收錄其顯示的每一個版本 | 每一版本的條文、通過、公布及施行，於每個提交的 `Source:` 尾註中載明 |
 
-## Licence
+## 授權
 
-See [`LICENSE`](LICENSE). Constitutions, laws and orders are not the subject of copyright in Taiwan (著作權法第9條); the database's pages are used under the Open Government Data License, version 1.0, and the Legislative Yuan's material under its open data declaration, both with attribution:
+請參閱 [`LICENSE`](LICENSE)。在臺灣，憲法、法律及命令不得為著作權之標的（著作權法第9條）；資料庫的頁面依政府資料開放授權條款第1版使用，立法院的資料則依其開放資料宣告使用，兩者均須標示出處：
 
 資料來源：法務部「全國法規資料庫」(https://law.moj.gov.tw/)，依「政府資料開放授權條款－第1版」提供。資料來源：立法院法律系統 (https://lis.ly.gov.tw/)。
 
-No AI model wrote or changed legal text, and none runs when the history is built; an AI model wrote the builder, the checks and the documentation (see [`REPRODUCE.md`](REPRODUCE.md)).
+沒有任何 AI 模型撰寫或變更法律條文，建置歷史時也不執行任何 AI 模型；建置程式、查核程式及說明文件係由 AI 模型撰寫（參閱 [`REPRODUCE.md`](REPRODUCE.md)）。
 
-## More
+本文為英文版（[README.en.md](README.en.md)）的譯文；如有不一致，以英文版為準。
 
-From [lexifina/global-law](https://github.com/lexifina/global-law):
+## 更多資訊
 
-- [FEATURES.md](https://github.com/lexifina/global-law/blob/main/FEATURES.md): every feature, and what every corpus must support (`git blame`, `law.py`, the MCP tools)
-- [FAQ.md](https://github.com/lexifina/global-law/blob/main/FAQ.md): questions and answers · [CONTRIBUTING.md](https://github.com/lexifina/global-law/blob/main/CONTRIBUTING.md): proposing changes · [MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md): the MCP server · [REPRODUCE.md](https://github.com/lexifina/global-law/blob/main/REPRODUCE.md): how it was built · [CHANGELOG.md](https://github.com/lexifina/global-law/blob/main/CHANGELOG.md)
-- [FRESHNESS.md](https://github.com/lexifina/global-law/blob/main/FRESHNESS.md): how current each corpus is · [Monitoring](https://github.com/lexifina/global-law/tree/main/monitoring): whether updates are running · [WATCHING.md](https://github.com/lexifina/global-law/blob/main/WATCHING.md): how each official source is watched for changes
-- [performance/](https://github.com/lexifina/global-law/tree/main/performance): how fast the tools are, measured
-- [visualisations/](https://github.com/lexifina/global-law/tree/main/visualisations): charts and bridges across the world's law
-- [Vulnerabilities](https://github.com/lexifina/global-law/tree/main/vulnerabilities): mistakes in legislation as published
+來自 [lexifina/global-law](https://github.com/lexifina/global-law) 儲存庫（英文頁面）：
+
+- [FEATURES.md](https://github.com/lexifina/global-law/blob/main/FEATURES.md): 全部功能，以及每個語料庫須支援的內容（`git blame`、`law.py`、MCP 工具）
+- [FAQ.md](https://github.com/lexifina/global-law/blob/main/FAQ.md): 常見問題 · [CONTRIBUTING.md](https://github.com/lexifina/global-law/blob/main/CONTRIBUTING.md): 提出修改建議 · [MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md): MCP 伺服器 · [REPRODUCE.md](https://github.com/lexifina/global-law/blob/main/REPRODUCE.md): 建置方法 · [CHANGELOG.md](https://github.com/lexifina/global-law/blob/main/CHANGELOG.md)
+- [FRESHNESS.md](https://github.com/lexifina/global-law/blob/main/FRESHNESS.md): 各語料庫的更新程度 · [監測](https://github.com/lexifina/global-law/tree/main/monitoring): 更新是否正常運作 · [WATCHING.md](https://github.com/lexifina/global-law/blob/main/WATCHING.md): 如何監看每個官方來源的變動
+- [performance/](https://github.com/lexifina/global-law/tree/main/performance): 工具速度的實測結果
+- [visualisations/](https://github.com/lexifina/global-law/tree/main/visualisations): 貫穿全球法律的圖表與關聯
+- [漏洞](https://github.com/lexifina/global-law/tree/main/vulnerabilities): 已公布法律文本中的錯誤
